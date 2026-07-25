@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "qa-fe005-person-20260726",
+  "title": "FE-005远端发布验收（QA）",
+  "version": 1,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "9282d691bb017092c0b6296e028701827ec34e6cb99872ae403f920e901c4ea8",
+  "sealed_at": "2026-07-25T18:19:32.027818Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "FE-005远端发布验收(QA)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 1260,
+      "blob_sha256": "87cf1121aaa464e6afdaf7a16743e49a227f799b78cb47afa0a65e04c2ee110e",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "9282d691bb017092c0b6296e028701827ec34e6cb99872ae403f920e901c4ea8"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1260,
+  "archive_id": "arc-684e0c815da27650a643a1788158a59f",
+  "archive_checksum": "684e0c815da27650a643a1788158a59fe7e9f1d19dbf4fc1331860dfe23917f2",
+  "archive_path": "people/qa-fe005-person-20260726/versions/v001/arc-684e0c815da27650a643a1788158a59f",
+  "manifest_checksum": "325fe95eaf2f4c9bfa863b0bc66a85e6d900790f50425b1d9dc21b32caedc578"
+}
