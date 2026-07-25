@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "qa-fe005-keyword-20260726",
+  "title": "FE-005关键词发布验收（QA）",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "80114d78cf9994074479416ca9e46a43b40492b5d67ddf0015adfbaea3c17656",
+  "sealed_at": "2026-07-25T18:21:51.351558Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "FE-005关键词发布验收(QA)-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1085,
+      "blob_sha256": "8a8bf62002f416c4b5e56c5f60f7f7c61e2ddbc3f1d9cda3e8e0e089b83784c3",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "80114d78cf9994074479416ca9e46a43b40492b5d67ddf0015adfbaea3c17656"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1085,
+  "archive_id": "arc-4e25ca3b1202c00b2fac98bd3c4f83e3",
+  "archive_checksum": "4e25ca3b1202c00b2fac98bd3c4f83e37636a46ce8d66711ac5a30a81e198414",
+  "archive_path": "keywords/qa-fe005-keyword-20260726/versions/v001/arc-4e25ca3b1202c00b2fac98bd3c4f83e3",
+  "manifest_checksum": "7e7299a49ffc2cbe5a39280a8dca1a630c12a48acfab117fd9dd47ec4ed76426"
+}
