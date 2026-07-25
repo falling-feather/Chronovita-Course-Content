@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "2f0676eec2058c093b97d1632b1aa53dee266e52e9d043f26784e7cacc88c921",
+  "archive_id": "arc-2f0676eec2058c093b97d1632b1aa53d",
+  "archive_path": "C-content-studio/releases/rel-8a31277906-0002/arc-2f0676eec2058c093b97d1632b1aa53d",
+  "course_id": "C-content-studio",
+  "course_title": "我不是李依柔",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5168e3b100a5dabc2881a5553300d22eceef2ddf353c4d2f1286a7b8fe868c45",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "lesson-97921574",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/lesson-97921574/我不是李依柔-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 275
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "95c6fb147a2f495402fd4cc8e4d3f774b6fab8e9901c5c54d9adca6246845e28",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "lesson-97921574",
+      "media_type": "application/json",
+      "path": "lessons/lesson-97921574/我不是李依柔-格式层.json",
+      "schema_version": null,
+      "size_bytes": 735
+    },
+    {
+      "artifact_id": "pkg-lesson-97921574",
+      "artifact_version": 1,
+      "blob_sha256": "cbf86dca078d242723ae7bece0be6e60493d1365d7a6a119539663a7e69c3cc0",
+      "contract_checksum": "77a135de2207363f822b0afe0194a9c4822a1d86ea632bc58725f3cb538f83b6",
+      "kind": "course-package",
+      "lesson_id": "lesson-97921574",
+      "media_type": "application/json",
+      "path": "lessons/lesson-97921574/我不是李依柔-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 2960
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "3572502d4ca4f78d2a4da8b58bcbb1f1e07d3b8ed1ccfffef28688401f741af0",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "lesson-97921574",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/lesson-97921574/我不是李依柔-预览.html",
+      "schema_version": null,
+      "size_bytes": 1885
+    },
+    {
+      "artifact_id": "lesson-97921574",
+      "artifact_version": 1,
+      "blob_sha256": "585d7d3d9249ee9e9f6b6f512db41491e2b1d86efa84c0fb51be8b970627add5",
+      "contract_checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929",
+      "kind": "sealed-lesson",
+      "lesson_id": "lesson-97921574",
+      "media_type": "application/json",
+      "path": "lessons/lesson-97921574/我不是李依柔.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 1827
+    },
+    {
+      "artifact_id": "rel-8a31277906-0002",
+      "artifact_version": 2,
+      "blob_sha256": "a8d0dd40f975c0bbb35193dbae0f8a97bcbca7af11a10166ce943f3e8a320748",
+      "contract_checksum": "43f163b7a6d96a5b3cf8c1b8909921b8805b632b710eb68791e68cadc7fd3a25",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1325
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "77a135de2207363f822b0afe0194a9c4822a1d86ea632bc58725f3cb538f83b6",
+      "course_package_id": "pkg-lesson-97921574",
+      "files": [
+        "lessons/lesson-97921574/我不是李依柔-教师稿.md",
+        "lessons/lesson-97921574/我不是李依柔-格式层.json",
+        "lessons/lesson-97921574/我不是李依柔-运行包.json",
+        "lessons/lesson-97921574/我不是李依柔-预览.html",
+        "lessons/lesson-97921574/我不是李依柔.json"
+      ],
+      "lesson_id": "lesson-97921574",
+      "scenarios": [],
+      "source_checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929",
+      "title": "我不是李依柔"
+    }
+  ],
+  "manifest_checksum": "56c9716596345cf28f32b8d398b5e058fa1fdaf29f4f9b47d0f516a094eb8dc6",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "43f163b7a6d96a5b3cf8c1b8909921b8805b632b710eb68791e68cadc7fd3a25",
+  "release_created_at": "2026-07-25T16:46:18.408380Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-8a31277906-0002",
+  "release_no": 2,
+  "release_note": "Publish lesson-97921574 v1.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 9007
+}

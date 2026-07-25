@@ -1,0 +1,23 @@
+{
+  "lesson_id": "lesson-97921574",
+  "paragraphs": [
+    {
+      "block": "paragraph",
+      "index": 0,
+      "raw": "我不是李依柔\n重点：李依柔？",
+      "segments": [],
+      "text": "我不是李依柔\n重点：李依柔？"
+    }
+  ],
+  "renderer_version": 2,
+  "schema_version": "teacher-format-layer/v1",
+  "source_checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929",
+  "syntax": {
+    "bold": "**文字**",
+    "colors": "{{红色:文字}} / {{蓝色:文字}} / {{金色:文字}}",
+    "font_size": "{{大字:文字}} / {{小字:文字}}",
+    "heading": "# 一级标题 / ## 二级标题 / ### 三级标题",
+    "highlight": "==标红文字==",
+    "keyword": "【关键词】"
+  }
+}

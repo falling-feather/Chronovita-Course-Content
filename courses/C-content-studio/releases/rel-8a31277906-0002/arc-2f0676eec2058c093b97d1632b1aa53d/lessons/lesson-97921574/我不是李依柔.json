@@ -1,0 +1,87 @@
+{
+  "lesson_id": "lesson-97921574",
+  "title": "我不是李依柔",
+  "unit": "我不是李依柔",
+  "era": "我不是李依柔",
+  "body": [
+    "我不是李依柔\n重点：李依柔？"
+  ],
+  "course_id": "C-content-studio",
+  "course_title": "我不是李依柔",
+  "era_id": "content",
+  "section": "内容包",
+  "lesson_no": "A1",
+  "duration": "08:00",
+  "abstract": "我不是李依柔\n重点：李依柔？",
+  "keywords": [
+    {
+      "word": "姓名",
+      "pinyin": "身份",
+      "gloss": "摘要 | persona"
+    }
+  ],
+  "people": [
+    {
+      "name": "姓名",
+      "role": "身份",
+      "summary": "摘要",
+      "persona": "persona",
+      "boundaries": []
+    }
+  ],
+  "map_points": [
+    {
+      "label": "姓名",
+      "region": "身份",
+      "lat": null,
+      "lng": null,
+      "note": "摘要",
+      "kind": "persona"
+    }
+  ],
+  "source_refs": [
+    {
+      "title": "姓名",
+      "source": "身份",
+      "url_or_path": "摘要",
+      "citation_note": "persona",
+      "reliability": "pending"
+    }
+  ],
+  "facts": [
+    "李依柔？"
+  ],
+  "qa_points": [
+    "姓名 | 身份 | 摘要 | persona"
+  ],
+  "level_goals": [
+    "姓名 | 身份 | 摘要 | persona"
+  ],
+  "saga_material": {
+    "title": "",
+    "objective": "",
+    "notes": "",
+    "assets": []
+  },
+  "sandbox_material": {
+    "title": "",
+    "objective": "",
+    "notes": "",
+    "assets": []
+  },
+  "seed_canvas": [
+    {
+      "id": "k1",
+      "label": "姓名",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-07-25T16:45:43.069996Z",
+  "updated_at": "2026-07-25T16:46:16.941629Z",
+  "sealed_at": "2026-07-25T16:46:16.941629Z",
+  "sealed_by": "local-admin",
+  "checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-lesson-97921574",
+  "course_id": "C-content-studio",
+  "lesson_id": "lesson-97921574",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "我不是李依柔",
+  "unit": "我不是李依柔",
+  "era": "我不是李依柔",
+  "body": [
+    "我不是李依柔\n重点：李依柔？"
+  ],
+  "abstract": "我不是李依柔\n重点：李依柔？",
+  "course_title": "我不是李依柔",
+  "era_id": "content",
+  "section": "内容包",
+  "lesson_no": "A1",
+  "duration": "08:00",
+  "teaching_objectives": [
+    "姓名 | 身份 | 摘要 | persona"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-3f13e22f",
+      "word": "姓名",
+      "pinyin": "身份",
+      "gloss": "摘要 | persona",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-406f5b0f",
+      "name": "姓名",
+      "role": "身份",
+      "summary": "摘要",
+      "persona": "persona",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-5bb512e7",
+      "label": "姓名",
+      "region": "身份",
+      "lat": null,
+      "lng": null,
+      "note": "摘要",
+      "kind": "persona"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-ac7b015c",
+      "statement": "李依柔？",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-935b1f6b",
+      "title": "姓名",
+      "kind": "other",
+      "publisher": "身份",
+      "url_or_path": "摘要",
+      "citation_note": "persona",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "姓名 | 身份 | 摘要 | persona"
+  ],
+  "level_goals": [
+    "姓名 | 身份 | 摘要 | persona"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "姓名",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "",
+  "created_at": "2026-07-25T16:45:43.069996Z",
+  "updated_at": "2026-07-25T16:46:16.941629Z",
+  "sealed_at": "2026-07-25T16:46:16.941629Z",
+  "sealed_by": "local-admin",
+  "checksum": "77a135de2207363f822b0afe0194a9c4822a1d86ea632bc58725f3cb538f83b6",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "lesson-97921574",
+    "source_version": "1",
+    "source_checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

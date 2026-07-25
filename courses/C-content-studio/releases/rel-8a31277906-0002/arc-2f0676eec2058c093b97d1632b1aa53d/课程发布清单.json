@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-8a31277906-0002",
+  "release_no": 2,
+  "course_id": "C-content-studio",
+  "operation": "publish",
+  "parent_release_id": "rel-8a31277906-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-07-25T16:46:18.408380Z",
+  "created_by": "local-admin",
+  "note": "Publish lesson-97921574 v1.",
+  "items": [
+    {
+      "lesson_id": "lesson-97921574",
+      "course_id": "C-content-studio",
+      "content_version": 1,
+      "source_path": "sealed/lesson-97921574-v001.json",
+      "source_checksum": "9c1d38337dddc0fa63dc73dd5ee68197cf88093d9f60f977fb3e7159a0296929",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-lesson-97921574",
+        "course_id": "C-content-studio",
+        "lesson_id": "lesson-97921574",
+        "version": 1,
+        "checksum": "77a135de2207363f822b0afe0194a9c4822a1d86ea632bc58725f3cb538f83b6",
+        "path": "runtime/v1/course-packages/C-content-studio/lesson-97921574/v001-77a135de2207363f822b0afe0194a9c4822a1d86ea632bc58725f3cb538f83b6.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "43f163b7a6d96a5b3cf8c1b8909921b8805b632b710eb68791e68cadc7fd3a25"
+}
