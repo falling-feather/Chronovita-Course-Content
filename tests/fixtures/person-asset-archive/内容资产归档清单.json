@@ -5,8 +5,8 @@
   "title": "李大钊（技术样板）",
   "version": 1,
   "source_schema_version": "person-profile/v1",
-  "source_checksum": "3f0faf055c78a4e9752937666ce664c2adfad23bb8fa1e89762cd9e3649fd6ec",
-  "sealed_at": "2026-07-25T17:55:12.691872Z",
+  "source_checksum": "66116a88da3c89ab49095de6690f80cd23b9301a4f4fbab82f2923547cf19569",
+  "sealed_at": "2026-07-25T18:06:58.939473Z",
   "sealed_by": "contract-test",
   "files": [
     {
@@ -14,15 +14,15 @@
       "kind": "sealed-person",
       "media_type": "application/json",
       "size_bytes": 1025,
-      "blob_sha256": "a00f418aa915f3f83a40038c47154ef89810bbb5b4cd253522f5721f75e8fe52",
+      "blob_sha256": "7c4fbd701cb11c46b4a17903680601d87ca7f6cb4ead2bb26fbf77d648cc2c27",
       "schema_version": "person-profile/v1",
-      "contract_checksum": "3f0faf055c78a4e9752937666ce664c2adfad23bb8fa1e89762cd9e3649fd6ec"
+      "contract_checksum": "66116a88da3c89ab49095de6690f80cd23b9301a4f4fbab82f2923547cf19569"
     }
   ],
   "file_count": 1,
   "total_size_bytes": 1025,
-  "archive_id": "arc-05b1ae9b4d9ba9a21302ddf522b1df5c",
-  "archive_checksum": "05b1ae9b4d9ba9a21302ddf522b1df5ccad6ee9e2b39068beb4631db271caaaf",
-  "archive_path": "people/tech-person-sample/versions/v001/arc-05b1ae9b4d9ba9a21302ddf522b1df5c",
-  "manifest_checksum": "077968b3efb4d5d98779c0bda5cb2b6c15c3b4b7d35cfdae4da908bfaa7e1fc5"
+  "archive_id": "arc-cb189cdc5475e111890e63cca45f61e7",
+  "archive_checksum": "cb189cdc5475e111890e63cca45f61e767c1b3038e7ce61d975bee195b843249",
+  "archive_path": "people/tech-person-sample/versions/v001/arc-cb189cdc5475e111890e63cca45f61e7",
+  "manifest_checksum": "2a8d9e728626a87f1e4d6d5c0261a889fc9dacc5d521ce2f981d7267b56770ff"
 }

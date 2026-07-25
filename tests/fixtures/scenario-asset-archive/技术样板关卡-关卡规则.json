@@ -1,0 +1,116 @@
+{
+  "schema_version": "scenario-template/v1",
+  "scenario_id": "tech-scenario-sample",
+  "scenario_version": 1,
+  "status": "sealed",
+  "engine_family": "rules_v1",
+  "course_id": "C-technical-fixture",
+  "lesson_id": "technical-fixture-lesson",
+  "title": "技术样板关卡",
+  "scenario_type": "crisis_governance",
+  "student_role": "本课历史情境中的决策者",
+  "objective": "通过取舍推动局势，并说明每次选择的依据与代价。",
+  "opening": "教师在这里交代学生进入关卡时面对的局势。",
+  "max_turns": 6,
+  "variables": [
+    {
+      "variable_id": "progress",
+      "label": "推进度",
+      "description": "方案完成或局势推进的程度。",
+      "initial": 20.0,
+      "minimum": 0.0,
+      "maximum": 100.0
+    }
+  ],
+  "npcs": [],
+  "action_rules": [
+    {
+      "action_id": "advance-carefully",
+      "label": "稳步推进",
+      "description": "选择一项可以逐步推动局势的行动。",
+      "aliases": [],
+      "available_when": [],
+      "effects": [
+        {
+          "kind": "state",
+          "variable_id": "progress",
+          "operation": "add",
+          "value": 20.0
+        }
+      ],
+      "feedback": "局势发生变化，学生需要继续观察代价。",
+      "fact_refs": [],
+      "next_node_id": null
+    }
+  ],
+  "event_rules": [],
+  "ending_rules": [
+    {
+      "ending_id": "ending-progress",
+      "title": "阶段目标达成",
+      "match": "all",
+      "conditions": [
+        {
+          "kind": "state",
+          "variable_id": "progress",
+          "operator": "gte",
+          "value": 60.0
+        }
+      ],
+      "summary": "学生完成了阶段目标；正式历史解释由教师填写。",
+      "historical_explanation": "",
+      "major_costs": [],
+      "source_ref_ids": [],
+      "fact_refs": [],
+      "priority": 10
+    },
+    {
+      "ending_id": "ending-turn-limit",
+      "title": "进入复盘",
+      "match": "all",
+      "conditions": [
+        {
+          "kind": "turn",
+          "operator": "gte",
+          "value": 6
+        }
+      ],
+      "summary": "达到回合上限，进入课堂复盘。",
+      "historical_explanation": "",
+      "major_costs": [],
+      "source_ref_ids": [],
+      "fact_refs": [],
+      "priority": 1000
+    }
+  ],
+  "start_node_id": null,
+  "nodes": [],
+  "fact_refs": [],
+  "source_ref_ids": [],
+  "dossier_template": {
+    "title_template": "《{scenario_title}卷宗》",
+    "reflection_questions": [
+      "哪一次选择最关键？依据和代价分别是什么？"
+    ],
+    "knowledge_node_kinds": [
+      "cause",
+      "consequence",
+      "concept"
+    ]
+  },
+  "created_at": "2026-07-25T18:06:59.030393Z",
+  "updated_at": "2026-07-25T18:06:59.038422Z",
+  "sealed_at": "2026-07-25T18:06:59.038422Z",
+  "sealed_by": "contract-test",
+  "checksum": "59ab68ebad84a36e313c11b8b915a6dd770c3ac71fbca5332a104c7246c54593",
+  "compatibility": {
+    "kind": "native-v1",
+    "source_id": "",
+    "source_version": "",
+    "source_checksum": null,
+    "notes": "",
+    "unresolved_refs": [],
+    "legacy_materials": [],
+    "legacy_id_map": {}
+  }
+}

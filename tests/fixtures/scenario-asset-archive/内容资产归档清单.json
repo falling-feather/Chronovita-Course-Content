@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "scenario",
+  "asset_id": "tech-scenario-sample",
+  "title": "技术样板关卡",
+  "version": 1,
+  "source_schema_version": "scenario-template/v1",
+  "source_checksum": "59ab68ebad84a36e313c11b8b915a6dd770c3ac71fbca5332a104c7246c54593",
+  "sealed_at": "2026-07-25T18:06:59.038422Z",
+  "sealed_by": "contract-test",
+  "files": [
+    {
+      "path": "技术样板关卡-关卡规则.json",
+      "kind": "sealed-scenario",
+      "media_type": "application/json",
+      "size_bytes": 3132,
+      "blob_sha256": "f6320c9518e90ef92f18c87f51f4cef59abc35320b758263cd1a82a19b889ccf",
+      "schema_version": "scenario-template/v1",
+      "contract_checksum": "59ab68ebad84a36e313c11b8b915a6dd770c3ac71fbca5332a104c7246c54593"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 3132,
+  "archive_id": "arc-16eff6f84edb4fe4831615e98950e15f",
+  "archive_checksum": "16eff6f84edb4fe4831615e98950e15f32676d7d47d9aae277d38be71bfbb152",
+  "archive_path": "scenarios/tech-scenario-sample/versions/v001/arc-16eff6f84edb4fe4831615e98950e15f",
+  "manifest_checksum": "e6d6b44e91cb0a64a9e57987bca9ac4c101f910ba4dcd006f79b8fa4b3323fd3"
+}

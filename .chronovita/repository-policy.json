@@ -24,9 +24,26 @@
   "asset_contract": {
     "schema_version": "content-asset-archive/v1",
     "schema_file": ".chronovita/schemas/archive/v1/content-asset-archive-manifest.schema.json",
-    "schema_sha256": "69794a10f19f5c4d342e5bd2acff707ee0c71089fa6c69056598fe0c9251d0c4",
+    "schema_sha256": "ec4f99dcf91534a7331e77b7afa8624c91c49d348761c58c7c616d68e1fe7c26",
     "source_repository": "falling-feather/Chronovita",
     "source_branch": "class",
-    "source_commit": "909a868cfe1a1b447ddb0d967c548a9993e62c79"
+    "source_commit": "909a868cfe1a1b447ddb0d967c548a9993e62c79",
+    "source_schemas": {
+      "person": {
+        "schema_version": "person-profile/v1",
+        "schema_file": ".chronovita/schemas/source/v1/person-profile.schema.json",
+        "schema_sha256": "39bb93fa2a88c11b6fd60688e41624425b8938b486c88fbe4aa4aff3449d0b1c"
+      },
+      "keyword": {
+        "schema_version": "keyword-profile/v1",
+        "schema_file": ".chronovita/schemas/source/v1/keyword-profile.schema.json",
+        "schema_sha256": "e12ecc7f981792a09f87358bc5516ec171b0492513c5906a9e815ca825a2948d"
+      },
+      "scenario": {
+        "schema_version": "scenario-template/v1",
+        "schema_file": ".chronovita/schemas/source/v1/scenario-template.schema.json",
+        "schema_sha256": "e9eb6531f6bccda128e5d9b2c5fdf92dd80f7e6da9971ab653e01d4dbd4ec3a2"
+      }
+    }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "tech-keyword-sample",
+  "title": "洋务运动",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "d54dac09733ce4f0bfcdaf521e8ddc4ad587d99c7d4c8538c26ec5be37398663",
+  "sealed_at": "2026-07-25T18:06:58.994921Z",
+  "sealed_by": "contract-test",
+  "files": [
+    {
+      "path": "洋务运动-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 896,
+      "blob_sha256": "f1b2d665daef603a72f143830312e32685940d99583438e5fffb198461bc9a99",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "d54dac09733ce4f0bfcdaf521e8ddc4ad587d99c7d4c8538c26ec5be37398663"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 896,
+  "archive_id": "arc-3ad51ba5c666fe638df6dcc51b83363d",
+  "archive_checksum": "3ad51ba5c666fe638df6dcc51b83363d47b499809e2ae40227ccb10e14255359",
+  "archive_path": "keywords/tech-keyword-sample/versions/v001/arc-3ad51ba5c666fe638df6dcc51b83363d",
+  "manifest_checksum": "09bdf502d3f219826e17a392d7d91243d1cbc690ad0efd7de3be38fa83730f1b"
+}

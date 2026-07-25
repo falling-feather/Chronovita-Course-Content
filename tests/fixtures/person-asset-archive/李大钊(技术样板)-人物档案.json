@@ -27,9 +27,9 @@
   "teacher_notes": "",
   "status": "sealed",
   "version": 1,
-  "created_at": "2026-07-25T17:55:12.676242Z",
-  "updated_at": "2026-07-25T17:55:12.691872Z",
-  "sealed_at": "2026-07-25T17:55:12.691872Z",
+  "created_at": "2026-07-25T18:06:58.919924Z",
+  "updated_at": "2026-07-25T18:06:58.939473Z",
+  "sealed_at": "2026-07-25T18:06:58.939473Z",
   "sealed_by": "contract-test",
-  "checksum": "3f0faf055c78a4e9752937666ce664c2adfad23bb8fa1e89762cd9e3649fd6ec"
+  "checksum": "66116a88da3c89ab49095de6690f80cd23b9301a4f4fbab82f2923547cf19569"
 }

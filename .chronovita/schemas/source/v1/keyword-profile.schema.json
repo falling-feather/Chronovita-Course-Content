@@ -1,0 +1,205 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chronovita.local/schemas/v1/keyword-profile.schema.json",
+  "$comment": "Lifecycle conditions are represented here when JSON Schema can express them. Cross-object references, checksums and replay invariants require the services.contracts RuntimeBundleV1 semantic validator.",
+  "$defs": {
+    "SourceRef": {
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "source": {
+          "default": "",
+          "title": "Source",
+          "type": "string"
+        },
+        "url_or_path": {
+          "default": "",
+          "title": "Url Or Path",
+          "type": "string"
+        },
+        "citation_note": {
+          "default": "",
+          "title": "Citation Note",
+          "type": "string"
+        },
+        "reliability": {
+          "default": "pending",
+          "enum": [
+            "pending",
+            "reviewed",
+            "disputed"
+          ],
+          "title": "Reliability",
+          "type": "string"
+        }
+      },
+      "required": [
+        "title"
+      ],
+      "title": "SourceRef",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "keyword-profile/v1",
+      "default": "keyword-profile/v1",
+      "enum": [
+        "keyword-profile/v1"
+      ],
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "asset_id": {
+      "title": "Asset Id",
+      "type": "string"
+    },
+    "word": {
+      "maxLength": 160,
+      "title": "Word",
+      "type": "string"
+    },
+    "pinyin": {
+      "default": "",
+      "title": "Pinyin",
+      "type": "string"
+    },
+    "gloss": {
+      "default": "",
+      "title": "Gloss",
+      "type": "string"
+    },
+    "era": {
+      "default": "",
+      "title": "Era",
+      "type": "string"
+    },
+    "category": {
+      "default": "",
+      "title": "Category",
+      "type": "string"
+    },
+    "examples": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Examples",
+      "type": "array"
+    },
+    "related_people": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Related People",
+      "type": "array"
+    },
+    "related_lessons": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Related Lessons",
+      "type": "array"
+    },
+    "source_refs": {
+      "items": {
+        "$ref": "#/$defs/SourceRef"
+      },
+      "title": "Source Refs",
+      "type": "array"
+    },
+    "teacher_notes": {
+      "default": "",
+      "title": "Teacher Notes",
+      "type": "string"
+    },
+    "status": {
+      "default": "draft",
+      "enum": [
+        "draft",
+        "sealed"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "version": {
+      "default": 0,
+      "minimum": 0,
+      "title": "Version",
+      "type": "integer"
+    },
+    "created_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Created At"
+    },
+    "updated_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Updated At"
+    },
+    "sealed_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Sealed At"
+    },
+    "sealed_by": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Sealed By"
+    },
+    "checksum": {
+      "anyOf": [
+        {
+          "pattern": "^[0-9a-f]{64}$",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Checksum"
+    }
+  },
+  "required": [
+    "asset_id",
+    "word"
+  ],
+  "title": "KeywordProfilePackage",
+  "type": "object"
+}

@@ -164,6 +164,57 @@ def safe_archive_path(value: object, *, field: str) -> str:
     return value
 
 
+def _truncate_portable_component(
+    value: str,
+    *,
+    max_characters: int,
+    max_utf8_bytes: int = 180,
+    max_utf16_units: int = 80,
+) -> str:
+    result: list[str] = []
+    utf8_bytes = 0
+    utf16_units = 0
+    for char in value:
+        char_utf8_bytes = len(char.encode("utf-8"))
+        char_utf16_units = len(char.encode("utf-16-le")) // 2
+        if (
+            len(result) >= max_characters
+            or utf8_bytes + char_utf8_bytes > max_utf8_bytes
+            or utf16_units + char_utf16_units > max_utf16_units
+        ):
+            break
+        result.append(char)
+        utf8_bytes += char_utf8_bytes
+        utf16_units += char_utf16_units
+    return "".join(result)
+
+
+def expected_asset_source_filename(
+    asset_kind: str,
+    asset_id: str,
+    title: str,
+) -> str:
+    normalized = unicodedata.normalize("NFKC", title)
+    normalized = re.sub(r'[<>:"/\\|?*\x00-\x1f\x7f]', "", normalized)
+    normalized = re.sub(r"\s+", " ", normalized).strip(" .")
+    candidate = _truncate_portable_component(
+        normalized,
+        max_characters=80,
+    ).rstrip(" .") or asset_id
+    if (
+        candidate.split(".", 1)[0].casefold() in WINDOWS_RESERVED_NAMES
+        or candidate.casefold() == ".git"
+    ):
+        candidate = f"_{candidate}"
+    suffix = {
+        "person": "人物档案",
+        "keyword": "关键词档案",
+        "scenario": "关卡规则",
+    }[asset_kind]
+    filename = f"{candidate}-{suffix}.json"
+    return safe_archive_path(filename, field="derived asset source filename")
+
+
 def ensure_inside(root: Path, candidate: Path, *, field: str) -> Path:
     try:
         resolved = candidate.resolve(strict=True)
@@ -258,9 +309,47 @@ def _load_contract_schema(
     return schema
 
 
+def _load_source_schema(
+    repository: Path,
+    policy_file: Path,
+    reference: object,
+    *,
+    field: str,
+    expected_schema_version: str,
+) -> dict[str, Any]:
+    if not isinstance(reference, dict):
+        raise ValidationFailure(f"{policy_file}: {field} must be an object")
+    if reference.get("schema_version") != expected_schema_version:
+        raise ValidationFailure(
+            f"{policy_file}: {field}.schema_version must be "
+            f"{expected_schema_version!r}"
+        )
+    schema_relative = safe_archive_path(
+        reference.get("schema_file"),
+        field=f"{policy_file}: {field}.schema_file",
+    )
+    schema_path = repository / Path(*PurePosixPath(schema_relative).parts)
+    ensure_inside(repository, schema_path, field=f"{field}.schema_file")
+    expected_hash = reference.get("schema_sha256")
+    if (
+        not isinstance(expected_hash, str)
+        or not CHECKSUM_PATTERN.fullmatch(expected_hash)
+        or file_checksum(schema_path) != expected_hash
+    ):
+        raise ValidationFailure(f"{policy_file}: {field} schema SHA-256 mismatch")
+    schema = read_json(schema_path)
+    Draft202012Validator.check_schema(schema)
+    return schema
+
+
 def validate_policy(
     repository: Path,
-) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+) -> tuple[
+    dict[str, Any],
+    dict[str, Any],
+    dict[str, Any],
+    dict[str, dict[str, Any]],
+]:
     policy_file = repository / POLICY_PATH
     policy = read_json(policy_file)
     expected_values = {
@@ -302,7 +391,27 @@ def validate_policy(
         contract_field="asset_contract",
         expected_schema_version="content-asset-archive/v1",
     )
-    return policy, course_schema, asset_schema
+    asset_contract = policy["asset_contract"]
+    source_references = asset_contract.get("source_schemas")
+    if (
+        not isinstance(source_references, dict)
+        or set(source_references) != set(ASSET_KIND_RULES)
+    ):
+        raise ValidationFailure(
+            f"{policy_file}: asset_contract.source_schemas must define "
+            "person, keyword and scenario"
+        )
+    source_schemas = {
+        kind: _load_source_schema(
+            repository,
+            policy_file,
+            source_references[kind],
+            field=f"asset_contract.source_schemas.{kind}",
+            expected_schema_version=rules["schema_version"],
+        )
+        for kind, rules in ASSET_KIND_RULES.items()
+    }
+    return policy, course_schema, asset_schema, source_schemas
 
 
 def validate_manifest_schema(
@@ -555,6 +664,7 @@ def validate_asset_source(
     manifest_path: Path,
     rules: dict[str, str],
     resolved_files: dict[str, Path],
+    source_schema: dict[str, Any],
 ) -> None:
     file_items = manifest["files"]
     if manifest.get("file_count") != 1 or len(file_items) != 1:
@@ -566,6 +676,15 @@ def validate_asset_source(
     if "/" in relative:
         raise ValidationFailure(
             f"{manifest_path}: asset source must be a top-level JSON file"
+        )
+    expected_filename = expected_asset_source_filename(
+        str(manifest["asset_kind"]),
+        str(manifest["asset_id"]),
+        str(manifest["title"]),
+    )
+    if relative != expected_filename:
+        raise ValidationFailure(
+            f"{manifest_path}: asset source filename must be {expected_filename!r}"
         )
     if descriptor.get("kind") != rules["file_kind"]:
         raise ValidationFailure(f"{manifest_path}: asset file kind mismatch")
@@ -588,6 +707,7 @@ def validate_asset_source(
 
     source_path = resolved_files[relative]
     source = read_json(source_path, max_bytes=MAX_ARCHIVE_FILE_BYTES)
+    validate_manifest_schema(source, source_path, source_schema)
     if source.get("schema_version") != source_schema_version:
         raise ValidationFailure(f"{manifest_path}: source schema_version mismatch")
     if source.get(rules["identity_field"]) != manifest.get("asset_id"):
@@ -599,7 +719,11 @@ def validate_asset_source(
         or source_version != manifest.get("version")
     ):
         raise ValidationFailure(f"{manifest_path}: source version mismatch")
-    if source.get(rules["title_field"]) != manifest.get("title"):
+    source_title = source.get(rules["title_field"])
+    if (
+        not isinstance(source_title, str)
+        or source_title.strip() != manifest.get("title")
+    ):
         raise ValidationFailure(f"{manifest_path}: source title mismatch")
     if source.get("status") != "sealed":
         raise ValidationFailure(f"{manifest_path}: source status must be sealed")
@@ -643,7 +767,9 @@ def _validate_archive_root_files(
 
 def validate_repository(repository: Path) -> tuple[int, int]:
     repository = repository.resolve(strict=True)
-    policy, course_schema, asset_schema = validate_policy(repository)
+    policy, course_schema, asset_schema, source_schemas = validate_policy(
+        repository
+    )
     course_root = repository / policy["archive_root"]
     asset_root = repository / policy["asset_archive_root"]
     for root in (course_root, asset_root):
@@ -688,7 +814,13 @@ def validate_repository(repository: Path) -> tuple[int, int]:
             manifest_filename=ASSET_MANIFEST_FILENAME,
             allowed_media_types={"application/json"},
         )
-        validate_asset_source(manifest, manifest_path, rules, resolved_files)
+        validate_asset_source(
+            manifest,
+            manifest_path,
+            rules,
+            resolved_files,
+            source_schemas[str(manifest["asset_kind"])],
+        )
         asset_owned_files.add(manifest_path.resolve())
         asset_owned_files.update(resolved_files.values())
         asset_count += 1
