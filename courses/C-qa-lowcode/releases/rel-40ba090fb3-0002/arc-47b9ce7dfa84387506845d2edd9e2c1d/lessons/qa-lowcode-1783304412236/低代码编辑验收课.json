@@ -1,0 +1,97 @@
+{
+  "lesson_id": "qa-lowcode-1783304412236",
+  "title": "低代码编辑验收课",
+  "unit": "内容生产链路",
+  "era": "早期国家",
+  "body": [
+    "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。"
+  ],
+  "course_id": "C-qa-lowcode",
+  "course_title": "低代码内容生产课",
+  "era_id": "content",
+  "section": "内容包",
+  "lesson_no": "LC-1",
+  "duration": "09:00",
+  "abstract": "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。",
+  "keywords": [
+    {
+      "word": "内容生产",
+      "pinyin": "",
+      "gloss": "从教师写作到课程展示的完整流程"
+    },
+    {
+      "word": "封存",
+      "pinyin": "",
+      "gloss": "生成不可变课程内容制品"
+    }
+  ],
+  "people": [
+    {
+      "name": "内容教师",
+      "role": "编写者",
+      "summary": "把史料转化为课堂课文",
+      "persona": "谨慎说明史实边界",
+      "boundaries": []
+    }
+  ],
+  "map_points": [
+    {
+      "label": "内容库",
+      "region": "Chronovita",
+      "lat": null,
+      "lng": null,
+      "note": "封存文件进入课程服务的位置",
+      "kind": "archive"
+    }
+  ],
+  "source_refs": [
+    {
+      "title": "低代码 QA 资料",
+      "source": "本地验收",
+      "url_or_path": "qa://lowcode",
+      "citation_note": "验证保存和导出",
+      "reliability": "pending"
+    }
+  ],
+  "facts": [
+    "封存文件需要记录 lesson_id、version、sealed_at、sealed_by 和 source_refs。"
+  ],
+  "qa_points": [
+    "为什么课程内容要先保存为草稿再封存？"
+  ],
+  "level_goals": [
+    "完成内容生产到课程读取的闭环。"
+  ],
+  "saga_material": {
+    "title": "",
+    "objective": "",
+    "notes": "",
+    "assets": []
+  },
+  "sandbox_material": {
+    "title": "",
+    "objective": "",
+    "notes": "",
+    "assets": []
+  },
+  "seed_canvas": [
+    {
+      "id": "k1",
+      "label": "内容生产",
+      "note": ""
+    },
+    {
+      "id": "k2",
+      "label": "封存",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-07-25T06:50:00.834909Z",
+  "updated_at": "2026-07-25T06:50:40.348423Z",
+  "sealed_at": "2026-07-25T06:50:40.348423Z",
+  "sealed_by": "qa-admin",
+  "checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166"
+}

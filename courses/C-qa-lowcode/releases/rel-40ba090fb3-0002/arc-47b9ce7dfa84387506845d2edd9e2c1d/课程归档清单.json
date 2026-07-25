@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "47b9ce7dfa84387506845d2edd9e2c1d10b3f67897f2a09ef0be455d8eaae5ae",
+  "archive_id": "arc-47b9ce7dfa84387506845d2edd9e2c1d",
+  "archive_path": "C-qa-lowcode/releases/rel-40ba090fb3-0002/arc-47b9ce7dfa84387506845d2edd9e2c1d",
+  "course_id": "C-qa-lowcode",
+  "course_title": "低代码内容生产课",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ea1c68a174125ed1d8e9461c952f9722190a837c52dbe48742162a303c49aba0",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "qa-lowcode-1783304412236",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/qa-lowcode-1783304412236/低代码编辑验收课-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 557
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "3ba1e6c2b8a63414ba4d3e4b213c166a34925219c64b673c8a6fa82b92817dc7",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "qa-lowcode-1783304412236",
+      "media_type": "application/json",
+      "path": "lessons/qa-lowcode-1783304412236/低代码编辑验收课-格式层.json",
+      "schema_version": null,
+      "size_bytes": 986
+    },
+    {
+      "artifact_id": "pkg-qa-lowcode-1783304412236",
+      "artifact_version": 1,
+      "blob_sha256": "e411c46a34eb2f2368634ba946ddd1502d0f7276a631fe16fb796b3129a32967",
+      "contract_checksum": "cee350e31b6f369da39c6c8b65090e3130ad1885e25056fed20a8e7201d27435",
+      "kind": "course-package",
+      "lesson_id": "qa-lowcode-1783304412236",
+      "media_type": "application/json",
+      "path": "lessons/qa-lowcode-1783304412236/低代码编辑验收课-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 3765
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "b35ab23c27f81526267b0821d409cd603e33881f38735a99d9b4f51d0401f67b",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "qa-lowcode-1783304412236",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/qa-lowcode-1783304412236/低代码编辑验收课-预览.html",
+      "schema_version": null,
+      "size_bytes": 2151
+    },
+    {
+      "artifact_id": "qa-lowcode-1783304412236",
+      "artifact_version": 1,
+      "blob_sha256": "99a23ecd3687fe020c72f5adfc1c4fefb03b0190ce361f46e9b4efee90598f06",
+      "contract_checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166",
+      "kind": "sealed-lesson",
+      "lesson_id": "qa-lowcode-1783304412236",
+      "media_type": "application/json",
+      "path": "lessons/qa-lowcode-1783304412236/低代码编辑验收课.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 2530
+    },
+    {
+      "artifact_id": "rel-40ba090fb3-0002",
+      "artifact_version": 2,
+      "blob_sha256": "a717494f02a0ed6a03767a05194215654181350ec260ffff195a88a7be54ef82",
+      "contract_checksum": "2a96f1a6dc1e80c097a4313b752cb0fcae9acc12ab1afae3bd81a50f00bee6d1",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1360
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "cee350e31b6f369da39c6c8b65090e3130ad1885e25056fed20a8e7201d27435",
+      "course_package_id": "pkg-qa-lowcode-1783304412236",
+      "files": [
+        "lessons/qa-lowcode-1783304412236/低代码编辑验收课-教师稿.md",
+        "lessons/qa-lowcode-1783304412236/低代码编辑验收课-格式层.json",
+        "lessons/qa-lowcode-1783304412236/低代码编辑验收课-运行包.json",
+        "lessons/qa-lowcode-1783304412236/低代码编辑验收课-预览.html",
+        "lessons/qa-lowcode-1783304412236/低代码编辑验收课.json"
+      ],
+      "lesson_id": "qa-lowcode-1783304412236",
+      "scenarios": [],
+      "source_checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166",
+      "title": "低代码编辑验收课"
+    }
+  ],
+  "manifest_checksum": "32464101a99ec56316249b79dec1ea48200dac06d22f701264de979ecb98518f",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "2a96f1a6dc1e80c097a4313b752cb0fcae9acc12ab1afae3bd81a50f00bee6d1",
+  "release_created_at": "2026-07-25T06:50:52.110225Z",
+  "release_created_by": "qa-admin",
+  "release_id": "rel-40ba090fb3-0002",
+  "release_no": 2,
+  "release_note": "Publish qa-lowcode-1783304412236 v1.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 11349
+}

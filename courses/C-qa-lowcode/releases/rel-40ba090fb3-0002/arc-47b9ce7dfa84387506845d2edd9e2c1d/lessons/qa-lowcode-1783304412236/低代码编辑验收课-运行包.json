@@ -1,0 +1,132 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-qa-lowcode-1783304412236",
+  "course_id": "C-qa-lowcode",
+  "lesson_id": "qa-lowcode-1783304412236",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "低代码编辑验收课",
+  "unit": "内容生产链路",
+  "era": "早期国家",
+  "body": [
+    "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。"
+  ],
+  "abstract": "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。",
+  "course_title": "低代码内容生产课",
+  "era_id": "content",
+  "section": "内容包",
+  "lesson_no": "LC-1",
+  "duration": "09:00",
+  "teaching_objectives": [
+    "完成内容生产到课程读取的闭环。"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-26217064",
+      "word": "内容生产",
+      "pinyin": "",
+      "gloss": "从教师写作到课程展示的完整流程",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-1df08e99",
+      "word": "封存",
+      "pinyin": "",
+      "gloss": "生成不可变课程内容制品",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-371b88c3",
+      "name": "内容教师",
+      "role": "编写者",
+      "summary": "把史料转化为课堂课文",
+      "persona": "谨慎说明史实边界",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-a709edc5",
+      "label": "内容库",
+      "region": "Chronovita",
+      "lat": null,
+      "lng": null,
+      "note": "封存文件进入课程服务的位置",
+      "kind": "archive"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-030fed24",
+      "statement": "封存文件需要记录 lesson_id、version、sealed_at、sealed_by 和 source_refs。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-880ee2d4",
+      "title": "低代码 QA 资料",
+      "kind": "other",
+      "publisher": "本地验收",
+      "url_or_path": "qa://lowcode",
+      "citation_note": "验证保存和导出",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "为什么课程内容要先保存为草稿再封存？"
+  ],
+  "level_goals": [
+    "完成内容生产到课程读取的闭环。"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "内容生产",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "封存",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "",
+  "created_at": "2026-07-25T06:50:00.834909Z",
+  "updated_at": "2026-07-25T06:50:40.348423Z",
+  "sealed_at": "2026-07-25T06:50:40.348423Z",
+  "sealed_by": "qa-admin",
+  "checksum": "cee350e31b6f369da39c6c8b65090e3130ad1885e25056fed20a8e7201d27435",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "qa-lowcode-1783304412236",
+    "source_version": "1",
+    "source_checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

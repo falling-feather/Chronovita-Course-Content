@@ -1,0 +1,23 @@
+{
+  "lesson_id": "qa-lowcode-1783304412236",
+  "paragraphs": [
+    {
+      "block": "paragraph",
+      "index": 0,
+      "raw": "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。",
+      "segments": [],
+      "text": "低代码编辑验收课：教师可以用工具条加粗、标红、设置标题级别、字号和颜色，也可以在正文里右键打开格式快捷菜单。"
+    }
+  ],
+  "renderer_version": 2,
+  "schema_version": "teacher-format-layer/v1",
+  "source_checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166",
+  "syntax": {
+    "bold": "**文字**",
+    "colors": "{{红色:文字}} / {{蓝色:文字}} / {{金色:文字}}",
+    "font_size": "{{大字:文字}} / {{小字:文字}}",
+    "heading": "# 一级标题 / ## 二级标题 / ### 三级标题",
+    "highlight": "==标红文字==",
+    "keyword": "【关键词】"
+  }
+}

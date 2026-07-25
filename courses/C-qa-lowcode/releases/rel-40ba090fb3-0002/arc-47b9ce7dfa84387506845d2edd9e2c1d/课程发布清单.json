@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-40ba090fb3-0002",
+  "release_no": 2,
+  "course_id": "C-qa-lowcode",
+  "operation": "publish",
+  "parent_release_id": "rel-40ba090fb3-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-07-25T06:50:52.110225Z",
+  "created_by": "qa-admin",
+  "note": "Publish qa-lowcode-1783304412236 v1.",
+  "items": [
+    {
+      "lesson_id": "qa-lowcode-1783304412236",
+      "course_id": "C-qa-lowcode",
+      "content_version": 1,
+      "source_path": "sealed/qa-lowcode-1783304412236-v001.json",
+      "source_checksum": "16906703136cb0a6487945df355598fe96810b31c619e4df5f5ca79c90f84166",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-qa-lowcode-1783304412236",
+        "course_id": "C-qa-lowcode",
+        "lesson_id": "qa-lowcode-1783304412236",
+        "version": 1,
+        "checksum": "cee350e31b6f369da39c6c8b65090e3130ad1885e25056fed20a8e7201d27435",
+        "path": "runtime/v1/course-packages/C-qa-lowcode/qa-lowcode-1783304412236/v001-cee350e31b6f369da39c6c8b65090e3130ad1885e25056fed20a8e7201d27435.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "2a96f1a6dc1e80c097a4313b752cb0fcae9acc12ab1afae3bd81a50f00bee6d1"
+}
