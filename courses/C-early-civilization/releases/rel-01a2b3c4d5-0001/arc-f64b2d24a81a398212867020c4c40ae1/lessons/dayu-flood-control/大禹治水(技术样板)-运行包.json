@@ -1,0 +1,193 @@
+{
+  "abstract": "大禹治水端到端技术样板，内容结论均等待教师审校。",
+  "body": [
+    "【教师待审】本段仅用于验证课程发布与关卡运行链路，正式课文由教师团队替换。",
+    "【教师待审】样板围绕治水方法、公共动员和部族协作组织可计算的历史局势。"
+  ],
+  "checksum": "e128e00b4ad604763bd522be2eca639b3fa00aae878c6dc8a570865350eb6789",
+  "compatibility": {
+    "kind": "native-v1",
+    "legacy_id_map": {},
+    "legacy_materials": [],
+    "notes": "",
+    "source_checksum": null,
+    "source_id": "",
+    "source_version": "",
+    "unresolved_refs": []
+  },
+  "content_version": 1,
+  "course_id": "C-early-civilization",
+  "course_title": "",
+  "created_at": "2026-07-13T02:00:00Z",
+  "duration": "",
+  "era": "传说时代",
+  "era_id": "content",
+  "facts": [
+    {
+      "certainty": "interpretation",
+      "fact_id": "fact-flood-method",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "statement": "【教师待审】关卡需要区分短期堵水与勘察疏导的工程后果。",
+      "teacher_note": ""
+    },
+    {
+      "certainty": "interpretation",
+      "fact_id": "fact-public-mobilization",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "statement": "【教师待审】持续治水会消耗粮食、劳力并影响民众承受度。",
+      "teacher_note": ""
+    },
+    {
+      "certainty": "interpretation",
+      "fact_id": "fact-cooperation",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "statement": "【教师待审】跨群体协作是样板局势中的关键约束变量。",
+      "teacher_note": ""
+    }
+  ],
+  "keywords": [
+    {
+      "gloss": "【教师待审】组织应对水患的工程与社会行动。",
+      "keyword_id": "keyword-flood-control",
+      "pinyin": "",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "word": "治水"
+    },
+    {
+      "gloss": "【教师待审】不同群体围绕共同目标进行资源与行动协调。",
+      "keyword_id": "keyword-cooperation",
+      "pinyin": "",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "word": "部族协作"
+    }
+  ],
+  "lesson_id": "dayu-flood-control",
+  "lesson_no": "",
+  "level_goals": [
+    "在六回合内控制水患，并保留基本民心、粮食与劳力。"
+  ],
+  "map_points": [
+    {
+      "kind": "teaching-placeholder",
+      "label": "黄河中游技术样板点",
+      "lat": null,
+      "lng": null,
+      "note": "【教师待审】仅作地图与状态引擎联调，不代表精确历史坐标。",
+      "point_id": "map-yellow-river-middle",
+      "region": "黄河中游"
+    }
+  ],
+  "package_id": "pkg-dayu-flood-control",
+  "people": [
+    {
+      "boundaries": [
+        "不得把传说细节表述成无争议的考古定论。"
+      ],
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "name": "禹",
+      "person_id": "person-yu",
+      "persona": "【教师待审】强调实地勘察、长期坚持和方法调整。",
+      "role": "治水行动的主导者",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": ""
+    },
+    {
+      "boundaries": [
+        "只表达样板设定中的群体处境，不虚构具体史料引文。"
+      ],
+      "fact_refs": [
+        "fact-public-mobilization"
+      ],
+      "name": "百姓代表",
+      "person_id": "person-people-representative",
+      "persona": "",
+      "role": "表达劳役与生计压力",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": ""
+    },
+    {
+      "boundaries": [
+        "不得使用后世国家制度概念替代当时语境。"
+      ],
+      "fact_refs": [
+        "fact-cooperation"
+      ],
+      "name": "部族首领",
+      "person_id": "person-tribe-leader",
+      "persona": "",
+      "role": "表达协作与资源分配压力",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": ""
+    },
+    {
+      "boundaries": [
+        "工程解释必须标注为教学模型，不伪装成出土原话。"
+      ],
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "name": "水利工匠",
+      "person_id": "person-artisan",
+      "persona": "",
+      "role": "解释地势、河道与工程取舍",
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": ""
+    }
+  ],
+  "qa_points": [
+    "为什么工程方案会同时改变水患、资源和民心？"
+  ],
+  "scenario_refs": [
+    {
+      "checksum": "c35aed9454005e91aa335f754d50c6a94785d49afdf6886f38a5a4e2f8e64911",
+      "primary": true,
+      "scenario_id": "scenario-dayu-flood-control",
+      "scenario_version": 1
+    }
+  ],
+  "schema_version": "course-package/v1",
+  "sealed_at": "2026-07-14T02:00:00Z",
+  "sealed_by": "fixture-builder",
+  "section": "内容包",
+  "seed_canvas": [],
+  "source_refs": [
+    {
+      "citation_note": "教师团队需要在正式发布前替换为教材、课程标准与审校资料。",
+      "kind": "other",
+      "publisher": "",
+      "reliability": "pending",
+      "source_id": "source-dayu-placeholder",
+      "title": "大禹治水样板资料占位",
+      "url_or_path": ""
+    }
+  ],
+  "status": "sealed",
+  "teacher_notes": "所有历史内容均为开发夹具，不承担正式教学结论。",
+  "teaching_objectives": [
+    "理解治水方案需要同时考虑工程方法、资源和公共协作。",
+    "能够依据状态变化解释一次选择的收益与代价。"
+  ],
+  "title": "大禹治水（技术样板）",
+  "unit": "文明起源与早期国家",
+  "updated_at": "2026-07-14T02:00:00Z"
+}
