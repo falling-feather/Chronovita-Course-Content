@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "tech-person-sample",
+  "title": "李大钊（技术样板）",
+  "version": 1,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "66116a88da3c89ab49095de6690f80cd23b9301a4f4fbab82f2923547cf19569",
+  "sealed_at": "2026-07-25T18:06:58.939473Z",
+  "sealed_by": "contract-test",
+  "files": [
+    {
+      "path": "李大钊(技术样板)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 1025,
+      "blob_sha256": "7c4fbd701cb11c46b4a17903680601d87ca7f6cb4ead2bb26fbf77d648cc2c27",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "66116a88da3c89ab49095de6690f80cd23b9301a4f4fbab82f2923547cf19569"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1025,
+  "archive_id": "arc-cb189cdc5475e111890e63cca45f61e7",
+  "archive_checksum": "cb189cdc5475e111890e63cca45f61e767c1b3038e7ce61d975bee195b843249",
+  "archive_path": "people/tech-person-sample/versions/v001/arc-cb189cdc5475e111890e63cca45f61e7",
+  "manifest_checksum": "2a8d9e728626a87f1e4d6d5c0261a889fc9dacc5d521ce2f981d7267b56770ff"
+}

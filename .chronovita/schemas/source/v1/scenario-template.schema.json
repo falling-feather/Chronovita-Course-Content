@@ -1,0 +1,1169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chronovita.local/schemas/v1/scenario-template.schema.json",
+  "$comment": "Lifecycle conditions are represented here when JSON Schema can express them. Cross-object references, checksums and replay invariants require the services.contracts RuntimeBundleV1 semantic validator.",
+  "$defs": {
+    "ActionRuleV1": {
+      "additionalProperties": false,
+      "properties": {
+        "action_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Action Id",
+          "type": "string"
+        },
+        "label": {
+          "minLength": 1,
+          "title": "Label",
+          "type": "string"
+        },
+        "description": {
+          "default": "",
+          "title": "Description",
+          "type": "string"
+        },
+        "aliases": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Aliases",
+          "type": "array"
+        },
+        "available_when": {
+          "items": {
+            "discriminator": {
+              "mapping": {
+                "npc": "#/$defs/NpcConditionV1",
+                "state": "#/$defs/StateConditionV1",
+                "turn": "#/$defs/TurnConditionV1"
+              },
+              "propertyName": "kind"
+            },
+            "oneOf": [
+              {
+                "$ref": "#/$defs/StateConditionV1"
+              },
+              {
+                "$ref": "#/$defs/TurnConditionV1"
+              },
+              {
+                "$ref": "#/$defs/NpcConditionV1"
+              }
+            ]
+          },
+          "title": "Available When",
+          "type": "array"
+        },
+        "effects": {
+          "items": {
+            "discriminator": {
+              "mapping": {
+                "npc": "#/$defs/NpcEffectV1",
+                "state": "#/$defs/StateEffectV1"
+              },
+              "propertyName": "kind"
+            },
+            "oneOf": [
+              {
+                "$ref": "#/$defs/StateEffectV1"
+              },
+              {
+                "$ref": "#/$defs/NpcEffectV1"
+              }
+            ]
+          },
+          "title": "Effects",
+          "type": "array"
+        },
+        "feedback": {
+          "default": "",
+          "title": "Feedback",
+          "type": "string"
+        },
+        "fact_refs": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Fact Refs",
+          "type": "array"
+        },
+        "next_node_id": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "minLength": 2,
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Next Node Id"
+        }
+      },
+      "required": [
+        "action_id",
+        "label"
+      ],
+      "title": "ActionRuleV1",
+      "type": "object"
+    },
+    "CompatibilitySourceV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "default": "native-v1",
+          "enum": [
+            "native-v1",
+            "lesson-content-package",
+            "saga-template",
+            "sandbox-scenario"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "source_id": {
+          "default": "",
+          "title": "Source Id",
+          "type": "string"
+        },
+        "source_version": {
+          "default": "",
+          "title": "Source Version",
+          "type": "string"
+        },
+        "source_checksum": {
+          "anyOf": [
+            {
+              "pattern": "^[0-9a-f]{64}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Checksum"
+        },
+        "notes": {
+          "default": "",
+          "title": "Notes",
+          "type": "string"
+        },
+        "unresolved_refs": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Unresolved Refs",
+          "type": "array"
+        },
+        "legacy_materials": {
+          "items": {
+            "$ref": "#/$defs/LegacyMaterialSnapshotV1"
+          },
+          "title": "Legacy Materials",
+          "type": "array"
+        },
+        "legacy_id_map": {
+          "additionalProperties": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Legacy Id Map",
+          "type": "object"
+        }
+      },
+      "title": "CompatibilitySourceV1",
+      "type": "object"
+    },
+    "DossierTemplateV1": {
+      "additionalProperties": false,
+      "properties": {
+        "title_template": {
+          "default": "《{scenario_title}卷宗》",
+          "title": "Title Template",
+          "type": "string"
+        },
+        "reflection_questions": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Reflection Questions",
+          "type": "array"
+        },
+        "knowledge_node_kinds": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Knowledge Node Kinds",
+          "type": "array"
+        }
+      },
+      "title": "DossierTemplateV1",
+      "type": "object"
+    },
+    "EndingRuleV1": {
+      "additionalProperties": false,
+      "properties": {
+        "ending_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Ending Id",
+          "type": "string"
+        },
+        "title": {
+          "minLength": 1,
+          "title": "Title",
+          "type": "string"
+        },
+        "match": {
+          "default": "all",
+          "enum": [
+            "all",
+            "any"
+          ],
+          "title": "Match",
+          "type": "string"
+        },
+        "conditions": {
+          "items": {
+            "discriminator": {
+              "mapping": {
+                "npc": "#/$defs/NpcConditionV1",
+                "state": "#/$defs/StateConditionV1",
+                "turn": "#/$defs/TurnConditionV1"
+              },
+              "propertyName": "kind"
+            },
+            "oneOf": [
+              {
+                "$ref": "#/$defs/StateConditionV1"
+              },
+              {
+                "$ref": "#/$defs/TurnConditionV1"
+              },
+              {
+                "$ref": "#/$defs/NpcConditionV1"
+              }
+            ]
+          },
+          "minItems": 1,
+          "title": "Conditions",
+          "type": "array"
+        },
+        "summary": {
+          "minLength": 1,
+          "title": "Summary",
+          "type": "string"
+        },
+        "historical_explanation": {
+          "default": "",
+          "title": "Historical Explanation",
+          "type": "string"
+        },
+        "major_costs": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Major Costs",
+          "type": "array"
+        },
+        "source_ref_ids": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Source Ref Ids",
+          "type": "array"
+        },
+        "fact_refs": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Fact Refs",
+          "type": "array"
+        },
+        "priority": {
+          "default": 100,
+          "title": "Priority",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "ending_id",
+        "title",
+        "conditions",
+        "summary"
+      ],
+      "title": "EndingRuleV1",
+      "type": "object"
+    },
+    "EventRuleV1": {
+      "additionalProperties": false,
+      "properties": {
+        "event_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Event Id",
+          "type": "string"
+        },
+        "title": {
+          "minLength": 1,
+          "title": "Title",
+          "type": "string"
+        },
+        "match": {
+          "default": "all",
+          "enum": [
+            "all",
+            "any"
+          ],
+          "title": "Match",
+          "type": "string"
+        },
+        "trigger": {
+          "items": {
+            "discriminator": {
+              "mapping": {
+                "npc": "#/$defs/NpcConditionV1",
+                "state": "#/$defs/StateConditionV1",
+                "turn": "#/$defs/TurnConditionV1"
+              },
+              "propertyName": "kind"
+            },
+            "oneOf": [
+              {
+                "$ref": "#/$defs/StateConditionV1"
+              },
+              {
+                "$ref": "#/$defs/TurnConditionV1"
+              },
+              {
+                "$ref": "#/$defs/NpcConditionV1"
+              }
+            ]
+          },
+          "minItems": 1,
+          "title": "Trigger",
+          "type": "array"
+        },
+        "effects": {
+          "items": {
+            "discriminator": {
+              "mapping": {
+                "npc": "#/$defs/NpcEffectV1",
+                "state": "#/$defs/StateEffectV1"
+              },
+              "propertyName": "kind"
+            },
+            "oneOf": [
+              {
+                "$ref": "#/$defs/StateEffectV1"
+              },
+              {
+                "$ref": "#/$defs/NpcEffectV1"
+              }
+            ]
+          },
+          "title": "Effects",
+          "type": "array"
+        },
+        "narrative": {
+          "default": "",
+          "title": "Narrative",
+          "type": "string"
+        },
+        "once": {
+          "default": true,
+          "title": "Once",
+          "type": "boolean"
+        },
+        "priority": {
+          "default": 100,
+          "title": "Priority",
+          "type": "integer"
+        },
+        "fact_refs": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Fact Refs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "event_id",
+        "title",
+        "trigger"
+      ],
+      "title": "EventRuleV1",
+      "type": "object"
+    },
+    "LegacyMaterialSnapshotV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "enum": [
+            "saga",
+            "sandbox"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "title": {
+          "default": "",
+          "title": "Title",
+          "type": "string"
+        },
+        "objective": {
+          "default": "",
+          "title": "Objective",
+          "type": "string"
+        },
+        "notes": {
+          "default": "",
+          "title": "Notes",
+          "type": "string"
+        },
+        "assets": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Assets",
+          "type": "array"
+        }
+      },
+      "required": [
+        "kind"
+      ],
+      "title": "LegacyMaterialSnapshotV1",
+      "type": "object"
+    },
+    "NpcConditionV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "const": "npc",
+          "default": "npc",
+          "enum": [
+            "npc"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "person_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Person Id",
+          "type": "string"
+        },
+        "field": {
+          "enum": [
+            "attitude",
+            "trust"
+          ],
+          "title": "Field",
+          "type": "string"
+        },
+        "operator": {
+          "enum": [
+            "lt",
+            "lte",
+            "eq",
+            "gte",
+            "gt"
+          ],
+          "title": "Operator",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "number"
+        }
+      },
+      "required": [
+        "person_id",
+        "field",
+        "operator",
+        "value"
+      ],
+      "title": "NpcConditionV1",
+      "type": "object"
+    },
+    "NpcEffectV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "const": "npc",
+          "default": "npc",
+          "enum": [
+            "npc"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "person_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Person Id",
+          "type": "string"
+        },
+        "attitude_delta": {
+          "default": 0,
+          "title": "Attitude Delta",
+          "type": "number"
+        },
+        "trust_delta": {
+          "default": 0,
+          "title": "Trust Delta",
+          "type": "number"
+        },
+        "reveal_fact_refs": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Reveal Fact Refs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "person_id"
+      ],
+      "title": "NpcEffectV1",
+      "type": "object"
+    },
+    "NpcSpecV1": {
+      "additionalProperties": false,
+      "properties": {
+        "person_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Person Id",
+          "type": "string"
+        },
+        "display_name": {
+          "minLength": 1,
+          "title": "Display Name",
+          "type": "string"
+        },
+        "role": {
+          "default": "",
+          "title": "Role",
+          "type": "string"
+        },
+        "persona": {
+          "default": "",
+          "title": "Persona",
+          "type": "string"
+        },
+        "boundaries": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Boundaries",
+          "type": "array"
+        },
+        "initial_attitude": {
+          "default": 0,
+          "maximum": 100.0,
+          "minimum": -100.0,
+          "title": "Initial Attitude",
+          "type": "number"
+        },
+        "initial_trust": {
+          "default": 0,
+          "maximum": 100.0,
+          "minimum": -100.0,
+          "title": "Initial Trust",
+          "type": "number"
+        },
+        "fact_refs": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Fact Refs",
+          "type": "array"
+        }
+      },
+      "required": [
+        "person_id",
+        "display_name"
+      ],
+      "title": "NpcSpecV1",
+      "type": "object"
+    },
+    "ScenarioNodeV1": {
+      "additionalProperties": false,
+      "properties": {
+        "node_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Node Id",
+          "type": "string"
+        },
+        "title": {
+          "minLength": 1,
+          "title": "Title",
+          "type": "string"
+        },
+        "narration": {
+          "default": "",
+          "title": "Narration",
+          "type": "string"
+        },
+        "action_ids": {
+          "items": {
+            "maxLength": 64,
+            "minLength": 2,
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+            "type": "string"
+          },
+          "title": "Action Ids",
+          "type": "array"
+        },
+        "ending_id": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "minLength": 2,
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ending Id"
+        }
+      },
+      "required": [
+        "node_id",
+        "title"
+      ],
+      "title": "ScenarioNodeV1",
+      "type": "object"
+    },
+    "StateConditionV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "const": "state",
+          "default": "state",
+          "enum": [
+            "state"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "variable_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Variable Id",
+          "type": "string"
+        },
+        "operator": {
+          "enum": [
+            "lt",
+            "lte",
+            "eq",
+            "gte",
+            "gt"
+          ],
+          "title": "Operator",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "number"
+        }
+      },
+      "required": [
+        "variable_id",
+        "operator",
+        "value"
+      ],
+      "title": "StateConditionV1",
+      "type": "object"
+    },
+    "StateEffectV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "const": "state",
+          "default": "state",
+          "enum": [
+            "state"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "variable_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Variable Id",
+          "type": "string"
+        },
+        "operation": {
+          "default": "add",
+          "enum": [
+            "add",
+            "set"
+          ],
+          "title": "Operation",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "number"
+        }
+      },
+      "required": [
+        "variable_id",
+        "value"
+      ],
+      "title": "StateEffectV1",
+      "type": "object"
+    },
+    "StateVariableV1": {
+      "additionalProperties": false,
+      "properties": {
+        "variable_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Variable Id",
+          "type": "string"
+        },
+        "label": {
+          "minLength": 1,
+          "title": "Label",
+          "type": "string"
+        },
+        "description": {
+          "default": "",
+          "title": "Description",
+          "type": "string"
+        },
+        "initial": {
+          "title": "Initial",
+          "type": "number"
+        },
+        "minimum": {
+          "default": 0,
+          "title": "Minimum",
+          "type": "number"
+        },
+        "maximum": {
+          "default": 100,
+          "title": "Maximum",
+          "type": "number"
+        }
+      },
+      "required": [
+        "variable_id",
+        "label",
+        "initial"
+      ],
+      "title": "StateVariableV1",
+      "type": "object"
+    },
+    "TurnConditionV1": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "const": "turn",
+          "default": "turn",
+          "enum": [
+            "turn"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "operator": {
+          "enum": [
+            "lt",
+            "lte",
+            "eq",
+            "gte",
+            "gt"
+          ],
+          "title": "Operator",
+          "type": "string"
+        },
+        "value": {
+          "minimum": 0,
+          "title": "Value",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "operator",
+        "value"
+      ],
+      "title": "TurnConditionV1",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "scenario-template/v1",
+      "default": "scenario-template/v1",
+      "enum": [
+        "scenario-template/v1"
+      ],
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "scenario_id": {
+      "maxLength": 64,
+      "minLength": 2,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+      "title": "Scenario Id",
+      "type": "string"
+    },
+    "scenario_version": {
+      "default": 0,
+      "minimum": 0,
+      "title": "Scenario Version",
+      "type": "integer"
+    },
+    "status": {
+      "default": "draft",
+      "enum": [
+        "draft",
+        "sealed"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "engine_family": {
+      "const": "rules_v1",
+      "default": "rules_v1",
+      "enum": [
+        "rules_v1"
+      ],
+      "title": "Engine Family",
+      "type": "string"
+    },
+    "course_id": {
+      "maxLength": 64,
+      "minLength": 2,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+      "title": "Course Id",
+      "type": "string"
+    },
+    "lesson_id": {
+      "maxLength": 64,
+      "minLength": 2,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+      "title": "Lesson Id",
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "title": "Title",
+      "type": "string"
+    },
+    "scenario_type": {
+      "enum": [
+        "crisis_governance",
+        "institutional_reform",
+        "council"
+      ],
+      "title": "Scenario Type",
+      "type": "string"
+    },
+    "student_role": {
+      "minLength": 1,
+      "title": "Student Role",
+      "type": "string"
+    },
+    "objective": {
+      "minLength": 1,
+      "title": "Objective",
+      "type": "string"
+    },
+    "opening": {
+      "minLength": 1,
+      "title": "Opening",
+      "type": "string"
+    },
+    "max_turns": {
+      "default": 6,
+      "maximum": 50,
+      "minimum": 1,
+      "title": "Max Turns",
+      "type": "integer"
+    },
+    "variables": {
+      "items": {
+        "$ref": "#/$defs/StateVariableV1"
+      },
+      "title": "Variables",
+      "type": "array"
+    },
+    "npcs": {
+      "items": {
+        "$ref": "#/$defs/NpcSpecV1"
+      },
+      "title": "Npcs",
+      "type": "array"
+    },
+    "action_rules": {
+      "items": {
+        "$ref": "#/$defs/ActionRuleV1"
+      },
+      "title": "Action Rules",
+      "type": "array"
+    },
+    "event_rules": {
+      "items": {
+        "$ref": "#/$defs/EventRuleV1"
+      },
+      "title": "Event Rules",
+      "type": "array"
+    },
+    "ending_rules": {
+      "items": {
+        "$ref": "#/$defs/EndingRuleV1"
+      },
+      "title": "Ending Rules",
+      "type": "array"
+    },
+    "start_node_id": {
+      "anyOf": [
+        {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Start Node Id"
+    },
+    "nodes": {
+      "items": {
+        "$ref": "#/$defs/ScenarioNodeV1"
+      },
+      "title": "Nodes",
+      "type": "array"
+    },
+    "fact_refs": {
+      "items": {
+        "maxLength": 64,
+        "minLength": 2,
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+        "type": "string"
+      },
+      "title": "Fact Refs",
+      "type": "array"
+    },
+    "source_ref_ids": {
+      "items": {
+        "maxLength": 64,
+        "minLength": 2,
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+        "type": "string"
+      },
+      "title": "Source Ref Ids",
+      "type": "array"
+    },
+    "dossier_template": {
+      "$ref": "#/$defs/DossierTemplateV1"
+    },
+    "created_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Created At"
+    },
+    "updated_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Updated At"
+    },
+    "sealed_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Sealed At"
+    },
+    "sealed_by": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Sealed By"
+    },
+    "checksum": {
+      "anyOf": [
+        {
+          "pattern": "^[0-9a-f]{64}$",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Checksum"
+    },
+    "compatibility": {
+      "$ref": "#/$defs/CompatibilitySourceV1"
+    }
+  },
+  "required": [
+    "scenario_id",
+    "course_id",
+    "lesson_id",
+    "title",
+    "scenario_type",
+    "student_role",
+    "objective",
+    "opening",
+    "status"
+  ],
+  "title": "ScenarioTemplateV1",
+  "type": "object",
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "draft"
+          }
+        },
+        "required": [
+          "status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "scenario_version": {
+            "const": 0
+          },
+          "sealed_at": {
+            "const": null
+          },
+          "sealed_by": {
+            "const": null
+          },
+          "checksum": {
+            "const": null
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "sealed"
+          }
+        },
+        "required": [
+          "status"
+        ]
+      },
+      "then": {
+        "required": [
+          "variables",
+          "action_rules",
+          "ending_rules",
+          "scenario_version",
+          "sealed_at",
+          "sealed_by",
+          "checksum"
+        ],
+        "properties": {
+          "scenario_version": {
+            "minimum": 1
+          },
+          "variables": {
+            "minItems": 1
+          },
+          "action_rules": {
+            "minItems": 1
+          },
+          "ending_rules": {
+            "minItems": 1
+          },
+          "sealed_at": {
+            "type": "string"
+          },
+          "sealed_by": {
+            "type": "string",
+            "minLength": 1
+          },
+          "checksum": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          }
+        }
+      }
+    }
+  ]
+}
