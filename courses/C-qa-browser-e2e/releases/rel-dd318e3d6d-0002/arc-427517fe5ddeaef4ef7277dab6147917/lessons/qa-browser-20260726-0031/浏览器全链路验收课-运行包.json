@@ -1,0 +1,223 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-qa-browser-20260726-0031",
+  "course_id": "C-qa-browser-e2e",
+  "lesson_id": "qa-browser-20260726-0031",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "浏览器全链路验收课",
+  "unit": "技术质量验收",
+  "era": "开发测试",
+  "body": [
+    "## 全链路验收说明",
+    "本课是浏览器端到端验收用的隔离技术样板，包含 **加粗文本** 与普通正文，不属于正式历史课程。",
+    "第二段验证 ==标红文本==、封存关键词以及多段正文能够进入预览和结构化归档。",
+    "第三段记录本次流程只验证草稿、审校、封存、发布和 GitHub 投稿，不提供任何正式史实结论。"
+  ],
+  "abstract": "## 全链路验收说明",
+  "course_title": "浏览器全链路验收",
+  "era_id": "content",
+  "section": "内容包",
+  "lesson_no": "QA-E2E",
+  "duration": "08:00",
+  "teaching_objectives": [
+    "完成从低代码编辑到课程预览的验证。",
+    "完成从课程发布到 GitHub 内容历史库投稿的验证。"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-11fd4b61",
+      "word": "草稿",
+      "pinyin": "",
+      "gloss": "教师可反复保存和继续修改的内容状态。",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-2552e369",
+      "word": "审校",
+      "pinyin": "",
+      "gloss": "对内容结构和来源表达进行检查的过程。",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e4ec790c",
+      "word": "封存",
+      "pinyin": "",
+      "gloss": "将通过审校的内容生成不可变版本。",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-cd4055d5",
+      "word": "发布",
+      "pinyin": "",
+      "gloss": "让课程服务读取指定封存版本。",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-896f30db",
+      "word": "归档",
+      "pinyin": "",
+      "gloss": "将发布版本打包并提交内容历史库。",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-58a8ef41",
+      "name": "测试教师",
+      "role": "内容作者",
+      "summary": "负责填写隔离验收课程。",
+      "persona": "只讨论本次技术验收，不模拟历史人物。",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-6d2e071c",
+      "name": "测试审校员",
+      "role": "审校角色",
+      "summary": "负责检查结构与发布边界。",
+      "persona": "只依据当前测试内容给出判断。",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-99224a6b",
+      "label": "测试节点",
+      "region": "本地环境",
+      "lat": null,
+      "lng": null,
+      "note": "仅用于验证地图点结构化保存。",
+      "kind": "site"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-f5981162",
+      "statement": "本内容仅用于 Chronovita 浏览器全链路技术验收。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-403327fe",
+      "statement": "本内容不属于教师团队编写的正式历史课程。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-f2c6ffc8",
+      "statement": "封存版本必须来自已经通过审校的草稿。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7728db45",
+      "statement": "发布版本必须固定到明确的封存内容。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-a3773409",
+      "statement": "GitHub 投稿默认创建审核分支或 Pull Request。",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-a130ffa5",
+      "title": "Chronovita 内容编辑建设清单",
+      "kind": "other",
+      "publisher": "项目开发文档",
+      "url_or_path": "docs/06-内容编辑建设清单.md",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-294ecf4c",
+      "title": "课程内容历史库运维指南",
+      "kind": "other",
+      "publisher": "项目运维文档",
+      "url_or_path": "docs/07-课程内容历史库运维指南.md",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "草稿保存后刷新页面是否仍能读取？",
+    "封存与发布有什么区别？",
+    "课程归档会包含哪些文件？",
+    "GitHub 投稿为什么默认进入审核？"
+  ],
+  "level_goals": [
+    "完成从低代码编辑到课程预览的验证。",
+    "完成从课程发布到 GitHub 内容历史库投稿的验证。"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "草稿",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "审校",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "封存",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "发布",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "归档",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "",
+  "created_at": "2026-07-25T16:31:18.914137Z",
+  "updated_at": "2026-07-25T16:33:15.536382Z",
+  "sealed_at": "2026-07-25T16:33:15.536382Z",
+  "sealed_by": "local-admin",
+  "checksum": "c239d40362895acb44896375aa329795b76440a434669a968e0c914014c74092",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "qa-browser-20260726-0031",
+    "source_version": "1",
+    "source_checksum": "c09f1a055cdae9d807e2d987b3b225de2b64d594e3b408d99fdb7f795248a994",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "saga 占位",
+        "objective": "后续互动叙事目标",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "sandbox 占位",
+        "objective": "后续参数化推演目标",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

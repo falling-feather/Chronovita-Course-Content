@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-dd318e3d6d-0002",
+  "release_no": 2,
+  "course_id": "C-qa-browser-e2e",
+  "operation": "publish",
+  "parent_release_id": "rel-dd318e3d6d-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-07-25T16:33:20.836017Z",
+  "created_by": "local-admin",
+  "note": "浏览器全链路自动验收：隔离测试内容，不属于正式课程。",
+  "items": [
+    {
+      "lesson_id": "qa-browser-20260726-0031",
+      "course_id": "C-qa-browser-e2e",
+      "content_version": 1,
+      "source_path": "sealed/qa-browser-20260726-0031-v001.json",
+      "source_checksum": "c09f1a055cdae9d807e2d987b3b225de2b64d594e3b408d99fdb7f795248a994",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-qa-browser-20260726-0031",
+        "course_id": "C-qa-browser-e2e",
+        "lesson_id": "qa-browser-20260726-0031",
+        "version": 1,
+        "checksum": "c239d40362895acb44896375aa329795b76440a434669a968e0c914014c74092",
+        "path": "runtime/v1/course-packages/C-qa-browser-e2e/qa-browser-20260726-0031/v001-c239d40362895acb44896375aa329795b76440a434669a968e0c914014c74092.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "e25d0a9d82e2a56923b6ff5e31b1ce85fbd11268fdcf450af58f0286419a5fe4"
+}

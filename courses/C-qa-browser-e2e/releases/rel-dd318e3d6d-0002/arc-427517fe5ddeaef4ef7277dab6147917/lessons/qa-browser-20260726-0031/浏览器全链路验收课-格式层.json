@@ -1,0 +1,58 @@
+{
+  "lesson_id": "qa-browser-20260726-0031",
+  "paragraphs": [
+    {
+      "block": "heading_2",
+      "index": 0,
+      "raw": "## 全链路验收说明",
+      "segments": [],
+      "text": "全链路验收说明"
+    },
+    {
+      "block": "paragraph",
+      "index": 1,
+      "raw": "本课是浏览器端到端验收用的隔离技术样板，包含 **加粗文本** 与普通正文，不属于正式历史课程。",
+      "segments": [
+        {
+          "marks": [
+            "bold"
+          ],
+          "text": "加粗文本"
+        }
+      ],
+      "text": "本课是浏览器端到端验收用的隔离技术样板，包含 **加粗文本** 与普通正文，不属于正式历史课程。"
+    },
+    {
+      "block": "paragraph",
+      "index": 2,
+      "raw": "第二段验证 ==标红文本==、封存关键词以及多段正文能够进入预览和结构化归档。",
+      "segments": [
+        {
+          "marks": [
+            "highlight"
+          ],
+          "text": "标红文本"
+        }
+      ],
+      "text": "第二段验证 ==标红文本==、封存关键词以及多段正文能够进入预览和结构化归档。"
+    },
+    {
+      "block": "paragraph",
+      "index": 3,
+      "raw": "第三段记录本次流程只验证草稿、审校、封存、发布和 GitHub 投稿，不提供任何正式史实结论。",
+      "segments": [],
+      "text": "第三段记录本次流程只验证草稿、审校、封存、发布和 GitHub 投稿，不提供任何正式史实结论。"
+    }
+  ],
+  "renderer_version": 2,
+  "schema_version": "teacher-format-layer/v1",
+  "source_checksum": "c09f1a055cdae9d807e2d987b3b225de2b64d594e3b408d99fdb7f795248a994",
+  "syntax": {
+    "bold": "**文字**",
+    "colors": "{{红色:文字}} / {{蓝色:文字}} / {{金色:文字}}",
+    "font_size": "{{大字:文字}} / {{小字:文字}}",
+    "heading": "# 一级标题 / ## 二级标题 / ### 三级标题",
+    "highlight": "==标红文字==",
+    "keyword": "【关键词】"
+  }
+}

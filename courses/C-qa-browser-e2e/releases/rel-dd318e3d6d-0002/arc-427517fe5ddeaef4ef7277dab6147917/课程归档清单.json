@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "427517fe5ddeaef4ef7277dab6147917a80a0fbd7c4fb463b3b0996748246344",
+  "archive_id": "arc-427517fe5ddeaef4ef7277dab6147917",
+  "archive_path": "C-qa-browser-e2e/releases/rel-dd318e3d6d-0002/arc-427517fe5ddeaef4ef7277dab6147917",
+  "course_id": "C-qa-browser-e2e",
+  "course_title": "浏览器全链路验收",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "02b7d8b052fa6bb07ed63dec99d6ec1580dd68f39d067979780b93eeda5d7a84",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "qa-browser-20260726-0031",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/qa-browser-20260726-0031/浏览器全链路验收课-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 1203
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "eb6b6e2e07193f5e0da0fd817bf6ee2ad724fa24b5fd843249e03ef36c09f1ac",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "qa-browser-20260726-0031",
+      "media_type": "application/json",
+      "path": "lessons/qa-browser-20260726-0031/浏览器全链路验收课-格式层.json",
+      "schema_version": null,
+      "size_bytes": 2011
+    },
+    {
+      "artifact_id": "pkg-qa-browser-20260726-0031",
+      "artifact_version": 1,
+      "blob_sha256": "871e656fb82058d763f71c1dfe676b392542952d43e8fbcfc31af2dc52cd552e",
+      "contract_checksum": "c239d40362895acb44896375aa329795b76440a434669a968e0c914014c74092",
+      "kind": "course-package",
+      "lesson_id": "qa-browser-20260726-0031",
+      "media_type": "application/json",
+      "path": "lessons/qa-browser-20260726-0031/浏览器全链路验收课-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 6892
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "fd133bd158d5e94f18a9f578be6591266a7d51073ff3c0979aac60c72b419399",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "qa-browser-20260726-0031",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/qa-browser-20260726-0031/浏览器全链路验收课-预览.html",
+      "schema_version": null,
+      "size_bytes": 2800
+    },
+    {
+      "artifact_id": "qa-browser-20260726-0031",
+      "artifact_version": 1,
+      "blob_sha256": "69eba83e6ce56efcf7c1c0b1b7fccc76d806978816dd1755ba41aa37a8764327",
+      "contract_checksum": "c09f1a055cdae9d807e2d987b3b225de2b64d594e3b408d99fdb7f795248a994",
+      "kind": "sealed-lesson",
+      "lesson_id": "qa-browser-20260726-0031",
+      "media_type": "application/json",
+      "path": "lessons/qa-browser-20260726-0031/浏览器全链路验收课.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 4282
+    },
+    {
+      "artifact_id": "rel-dd318e3d6d-0002",
+      "artifact_version": 2,
+      "blob_sha256": "1ebe24f0b96aac1cb3c6c59653e224d6c60c5f337020d7ad62a5f70152c7acb1",
+      "contract_checksum": "e25d0a9d82e2a56923b6ff5e31b1ce85fbd11268fdcf450af58f0286419a5fe4",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1421
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "c239d40362895acb44896375aa329795b76440a434669a968e0c914014c74092",
+      "course_package_id": "pkg-qa-browser-20260726-0031",
+      "files": [
+        "lessons/qa-browser-20260726-0031/浏览器全链路验收课-教师稿.md",
+        "lessons/qa-browser-20260726-0031/浏览器全链路验收课-格式层.json",
+        "lessons/qa-browser-20260726-0031/浏览器全链路验收课-运行包.json",
+        "lessons/qa-browser-20260726-0031/浏览器全链路验收课-预览.html",
+        "lessons/qa-browser-20260726-0031/浏览器全链路验收课.json"
+      ],
+      "lesson_id": "qa-browser-20260726-0031",
+      "scenarios": [],
+      "source_checksum": "c09f1a055cdae9d807e2d987b3b225de2b64d594e3b408d99fdb7f795248a994",
+      "title": "浏览器全链路验收课"
+    }
+  ],
+  "manifest_checksum": "8afbe13997c4febef435a898ad1b7e1f9bfd028e130b4632bcdcece8230e180d",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "e25d0a9d82e2a56923b6ff5e31b1ce85fbd11268fdcf450af58f0286419a5fe4",
+  "release_created_at": "2026-07-25T16:33:20.836017Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-dd318e3d6d-0002",
+  "release_no": 2,
+  "release_note": "浏览器全链路自动验收：隔离测试内容，不属于正式课程。",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 18609
+}
