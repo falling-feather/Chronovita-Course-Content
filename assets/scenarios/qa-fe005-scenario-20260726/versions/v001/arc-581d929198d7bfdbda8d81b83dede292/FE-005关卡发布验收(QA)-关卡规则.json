@@ -1,0 +1,116 @@
+{
+  "schema_version": "scenario-template/v1",
+  "scenario_id": "qa-fe005-scenario-20260726",
+  "scenario_version": 1,
+  "status": "sealed",
+  "engine_family": "rules_v1",
+  "course_id": "C-qa-fe005",
+  "lesson_id": "qa-fe005-lesson",
+  "title": "FE-005关卡发布验收（QA）",
+  "scenario_type": "crisis_governance",
+  "student_role": "技术验收参与者",
+  "objective": "验证关卡规则保存、校验、封存、归档和远端审核流程。",
+  "opening": "这是不进入正式教学资料的技术验收关卡。",
+  "max_turns": 6,
+  "variables": [
+    {
+      "variable_id": "progress",
+      "label": "推进度",
+      "description": "",
+      "initial": 50.0,
+      "minimum": 0.0,
+      "maximum": 100.0
+    }
+  ],
+  "npcs": [],
+  "action_rules": [
+    {
+      "action_id": "advance-carefully",
+      "label": "稳步推进",
+      "description": "",
+      "aliases": [],
+      "available_when": [],
+      "effects": [
+        {
+          "kind": "state",
+          "variable_id": "progress",
+          "operation": "add",
+          "value": 10.0
+        }
+      ],
+      "feedback": "",
+      "fact_refs": [],
+      "next_node_id": null
+    }
+  ],
+  "event_rules": [],
+  "ending_rules": [
+    {
+      "ending_id": "ending-progress",
+      "title": "阶段目标达成",
+      "match": "all",
+      "conditions": [
+        {
+          "kind": "state",
+          "variable_id": "progress",
+          "operator": "gte",
+          "value": 60.0
+        }
+      ],
+      "summary": "教师在这里概括学生抵达这一结局时发生了什么。",
+      "historical_explanation": "",
+      "major_costs": [],
+      "source_ref_ids": [],
+      "fact_refs": [],
+      "priority": 100
+    },
+    {
+      "ending_id": "ending-turn-limit",
+      "title": "进入复盘",
+      "match": "all",
+      "conditions": [
+        {
+          "kind": "turn",
+          "operator": "gte",
+          "value": 6
+        }
+      ],
+      "summary": "达到回合上限，进入课堂复盘。",
+      "historical_explanation": "",
+      "major_costs": [],
+      "source_ref_ids": [],
+      "fact_refs": [],
+      "priority": 1000
+    }
+  ],
+  "start_node_id": null,
+  "nodes": [],
+  "fact_refs": [],
+  "source_ref_ids": [],
+  "dossier_template": {
+    "title_template": "《{scenario_title}卷宗》",
+    "reflection_questions": [
+      "哪一次选择最关键？依据和代价分别是什么？"
+    ],
+    "knowledge_node_kinds": [
+      "cause",
+      "consequence",
+      "concept"
+    ]
+  },
+  "created_at": "2026-07-25T18:23:04.379187Z",
+  "updated_at": "2026-07-25T18:23:20.549619Z",
+  "sealed_at": "2026-07-25T18:23:20.549619Z",
+  "sealed_by": "local-admin",
+  "checksum": "526520b5218870b63323c35be697e1d23d16bbc7d4886d57c8f7d9acac6d0f6d",
+  "compatibility": {
+    "kind": "native-v1",
+    "source_id": "",
+    "source_version": "",
+    "source_checksum": null,
+    "notes": "",
+    "unresolved_refs": [],
+    "legacy_materials": [],
+    "legacy_id_map": {}
+  }
+}

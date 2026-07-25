@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "scenario",
+  "asset_id": "qa-fe005-scenario-20260726",
+  "title": "FE-005关卡发布验收（QA）",
+  "version": 1,
+  "source_schema_version": "scenario-template/v1",
+  "source_checksum": "526520b5218870b63323c35be697e1d23d16bbc7d4886d57c8f7d9acac6d0f6d",
+  "sealed_at": "2026-07-25T18:23:20.549619Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "FE-005关卡发布验收(QA)-关卡规则.json",
+      "kind": "sealed-scenario",
+      "media_type": "application/json",
+      "size_bytes": 2983,
+      "blob_sha256": "0626b508127938ca88a8fd0440620fffe912075ac135c227236b56f9dfc698e2",
+      "schema_version": "scenario-template/v1",
+      "contract_checksum": "526520b5218870b63323c35be697e1d23d16bbc7d4886d57c8f7d9acac6d0f6d"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2983,
+  "archive_id": "arc-581d929198d7bfdbda8d81b83dede292",
+  "archive_checksum": "581d929198d7bfdbda8d81b83dede292afe15429db435cbcb577014d4abd72f7",
+  "archive_path": "scenarios/qa-fe005-scenario-20260726/versions/v001/arc-581d929198d7bfdbda8d81b83dede292",
+  "manifest_checksum": "d942ad12958dc57c71dccaa4f4f27b5bf1fce8f197f71e30fab8ef188bbbb01b"
+}
