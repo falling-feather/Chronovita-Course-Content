@@ -1,0 +1,23 @@
+{
+  "schema_version": "content-history-repository/v1",
+  "repository_id": 1311692460,
+  "owner": "falling-feather",
+  "repository": "Chronovita-Course-Content",
+  "visibility": "private",
+  "default_branch": "main",
+  "archive_root": "courses",
+  "default_publication_mode": "pull_request",
+  "allowed_publication_modes": [
+    "pull_request",
+    "direct_commit"
+  ],
+  "direct_commit_requires_confirmation": true,
+  "contract": {
+    "schema_version": "course-archive/v1",
+    "schema_file": ".chronovita/schemas/archive/v1/course-archive-manifest.schema.json",
+    "schema_sha256": "5238ee1cd9e4b5ada6209b3d5f08c720b7c4365e6495c36fab98c50188958f93",
+    "source_repository": "falling-feather/Chronovita",
+    "source_branch": "class",
+    "source_commit": "5e9bedcbb3181606c618d431b2df9e77a8c25905"
+  }
+}

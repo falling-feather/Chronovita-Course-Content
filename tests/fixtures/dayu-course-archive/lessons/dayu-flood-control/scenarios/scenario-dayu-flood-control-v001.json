@@ -1,0 +1,489 @@
+{
+  "action_rules": [
+    {
+      "action_id": "survey-terrain",
+      "aliases": [
+        "勘察河道",
+        "查看地形"
+      ],
+      "available_when": [],
+      "description": "",
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 15.0,
+          "variable_id": "engineering_knowledge"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 5.0,
+          "variable_id": "flood_risk"
+        }
+      ],
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "feedback": "工程认知提升，但勘察期间水患仍在发展。",
+      "label": "勘察地势",
+      "next_node_id": null
+    },
+    {
+      "action_id": "reinforce-dam",
+      "aliases": [],
+      "available_when": [],
+      "description": "",
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -10.0,
+          "variable_id": "flood_risk"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -5.0,
+          "variable_id": "food"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -5.0,
+          "variable_id": "public_support"
+        }
+      ],
+      "fact_refs": [
+        "fact-flood-method",
+        "fact-public-mobilization"
+      ],
+      "feedback": "短期风险下降，但资源和民众承受度受损。",
+      "label": "抢修堤坝",
+      "next_node_id": null
+    },
+    {
+      "action_id": "open-channels",
+      "aliases": [],
+      "available_when": [
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 50.0,
+          "variable_id": "engineering_knowledge"
+        }
+      ],
+      "description": "",
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -25.0,
+          "variable_id": "flood_risk"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -12.0,
+          "variable_id": "labor"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "engineering_knowledge"
+        }
+      ],
+      "fact_refs": [
+        "fact-flood-method",
+        "fact-public-mobilization"
+      ],
+      "feedback": "疏导降低水患，但消耗劳力。",
+      "label": "开挖疏导线",
+      "next_node_id": null
+    },
+    {
+      "action_id": "explain-plan",
+      "aliases": [],
+      "available_when": [],
+      "description": "",
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "public_support"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 15.0,
+          "variable_id": "tribal_trust"
+        },
+        {
+          "attitude_delta": 20.0,
+          "kind": "npc",
+          "person_id": "person-tribe-leader",
+          "reveal_fact_refs": [
+            "fact-cooperation"
+          ],
+          "trust_delta": 15.0
+        }
+      ],
+      "fact_refs": [
+        "fact-cooperation"
+      ],
+      "feedback": "解释延缓工程，但提高了协作意愿。",
+      "label": "向部族解释计划",
+      "next_node_id": null
+    },
+    {
+      "action_id": "allocate-food",
+      "aliases": [],
+      "available_when": [],
+      "description": "",
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": -15.0,
+          "variable_id": "food"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "public_support"
+        },
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "tribal_trust"
+        }
+      ],
+      "fact_refs": [
+        "fact-public-mobilization",
+        "fact-cooperation"
+      ],
+      "feedback": "粮食储备下降，但民心与协作基础得到恢复。",
+      "label": "分配粮食保障",
+      "next_node_id": null
+    }
+  ],
+  "checksum": "c35aed9454005e91aa335f754d50c6a94785d49afdf6886f38a5a4e2f8e64911",
+  "compatibility": {
+    "kind": "native-v1",
+    "legacy_id_map": {},
+    "legacy_materials": [],
+    "notes": "",
+    "source_checksum": null,
+    "source_id": "",
+    "source_version": "",
+    "unresolved_refs": []
+  },
+  "course_id": "C-early-civilization",
+  "created_at": "2026-07-13T02:00:00Z",
+  "dossier_template": {
+    "knowledge_node_kinds": [
+      "cause",
+      "consequence",
+      "concept"
+    ],
+    "reflection_questions": [
+      "哪一次选择改变了治水方法？",
+      "你为降低水患付出了哪些资源和社会代价？"
+    ],
+    "title_template": "《{scenario_title}卷宗》"
+  },
+  "ending_rules": [
+    {
+      "conditions": [
+        {
+          "kind": "turn",
+          "operator": "gte",
+          "value": 5
+        },
+        {
+          "kind": "state",
+          "operator": "lte",
+          "value": 35.0,
+          "variable_id": "flood_risk"
+        },
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 60.0,
+          "variable_id": "engineering_knowledge"
+        }
+      ],
+      "ending_id": "ending-water-controlled",
+      "fact_refs": [
+        "fact-flood-method",
+        "fact-public-mobilization",
+        "fact-cooperation"
+      ],
+      "historical_explanation": "【教师待审】正式解释由教师团队依据教材与资料替换。",
+      "major_costs": [
+        "粮食与劳力消耗",
+        "前期勘察带来的短期风险"
+      ],
+      "match": "all",
+      "priority": 10,
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": "你以勘察、疏导和协作逐步控制水患。",
+      "title": "疏导见效"
+    },
+    {
+      "conditions": [
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 95.0,
+          "variable_id": "flood_risk"
+        },
+        {
+          "kind": "state",
+          "operator": "lte",
+          "value": 10.0,
+          "variable_id": "public_support"
+        },
+        {
+          "kind": "state",
+          "operator": "lte",
+          "value": 5.0,
+          "variable_id": "food"
+        }
+      ],
+      "ending_id": "ending-system-collapse",
+      "fact_refs": [
+        "fact-flood-method",
+        "fact-public-mobilization",
+        "fact-cooperation"
+      ],
+      "historical_explanation": "【教师待审】用于验证失败结局，不承担正式历史结论。",
+      "major_costs": [],
+      "match": "any",
+      "priority": 20,
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": "水患或资源压力突破了行动体系的承受边界。",
+      "title": "动员体系失效"
+    },
+    {
+      "conditions": [
+        {
+          "kind": "turn",
+          "operator": "gte",
+          "value": 6
+        }
+      ],
+      "ending_id": "ending-timeout",
+      "fact_refs": [],
+      "historical_explanation": "技术兜底结局。",
+      "major_costs": [],
+      "match": "all",
+      "priority": 1000,
+      "source_ref_ids": [
+        "source-dayu-placeholder"
+      ],
+      "summary": "六回合后仍未触发成功或失败结局。",
+      "title": "汛期未决"
+    }
+  ],
+  "engine_family": "rules_v1",
+  "event_rules": [
+    {
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "flood_risk"
+        }
+      ],
+      "event_id": "event-heavy-rain",
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "match": "all",
+      "narrative": "【教师待审】暴雨使水患再次上升。",
+      "once": true,
+      "priority": 10,
+      "title": "暴雨将至",
+      "trigger": [
+        {
+          "kind": "turn",
+          "operator": "gte",
+          "value": 3
+        },
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 50.0,
+          "variable_id": "flood_risk"
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "kind": "state",
+          "operation": "add",
+          "value": 10.0,
+          "variable_id": "labor"
+        }
+      ],
+      "event_id": "event-cooperation",
+      "fact_refs": [
+        "fact-cooperation"
+      ],
+      "match": "all",
+      "narrative": "协作关系转化为可用劳力。",
+      "once": true,
+      "priority": 20,
+      "title": "部族协作形成",
+      "trigger": [
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 70.0,
+          "variable_id": "tribal_trust"
+        },
+        {
+          "kind": "state",
+          "operator": "gte",
+          "value": 70.0,
+          "variable_id": "public_support"
+        }
+      ]
+    }
+  ],
+  "fact_refs": [
+    "fact-flood-method",
+    "fact-public-mobilization",
+    "fact-cooperation"
+  ],
+  "lesson_id": "dayu-flood-control",
+  "max_turns": 6,
+  "nodes": [],
+  "npcs": [
+    {
+      "boundaries": [],
+      "display_name": "禹",
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "initial_attitude": 20.0,
+      "initial_trust": 25.0,
+      "person_id": "person-yu",
+      "persona": "【教师待审】要求行动者观察地势并承担长期工程代价。",
+      "role": "治水主导者"
+    },
+    {
+      "boundaries": [],
+      "display_name": "百姓代表",
+      "fact_refs": [
+        "fact-public-mobilization"
+      ],
+      "initial_attitude": 0.0,
+      "initial_trust": 0.0,
+      "person_id": "person-people-representative",
+      "persona": "",
+      "role": "民生压力反馈者"
+    },
+    {
+      "boundaries": [],
+      "display_name": "部族首领",
+      "fact_refs": [
+        "fact-cooperation"
+      ],
+      "initial_attitude": 0.0,
+      "initial_trust": 0.0,
+      "person_id": "person-tribe-leader",
+      "persona": "",
+      "role": "协作与资源谈判者"
+    },
+    {
+      "boundaries": [],
+      "display_name": "水利工匠",
+      "fact_refs": [
+        "fact-flood-method"
+      ],
+      "initial_attitude": 0.0,
+      "initial_trust": 0.0,
+      "person_id": "person-artisan",
+      "persona": "",
+      "role": "工程方案解释者"
+    }
+  ],
+  "objective": "在六回合内降低水患，同时维持粮食、劳力、民心和部族信任。",
+  "opening": "【教师待审】暴雨季将至，各部族正在等待你的第一项治水安排。",
+  "scenario_id": "scenario-dayu-flood-control",
+  "scenario_type": "crisis_governance",
+  "scenario_version": 1,
+  "schema_version": "scenario-template/v1",
+  "sealed_at": "2026-07-14T02:00:00Z",
+  "sealed_by": "fixture-builder",
+  "source_ref_ids": [
+    "source-dayu-placeholder"
+  ],
+  "start_node_id": null,
+  "status": "sealed",
+  "student_role": "受命协助禹组织治水的行动者",
+  "title": "大禹治水：疏堵与协作",
+  "updated_at": "2026-07-14T02:00:00Z",
+  "variables": [
+    {
+      "description": "",
+      "initial": 70.0,
+      "label": "水患",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "flood_risk"
+    },
+    {
+      "description": "",
+      "initial": 55.0,
+      "label": "民心",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "public_support"
+    },
+    {
+      "description": "",
+      "initial": 70.0,
+      "label": "粮食",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "food"
+    },
+    {
+      "description": "",
+      "initial": 70.0,
+      "label": "劳力",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "labor"
+    },
+    {
+      "description": "",
+      "initial": 45.0,
+      "label": "部族信任",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "tribal_trust"
+    },
+    {
+      "description": "",
+      "initial": 35.0,
+      "label": "工程认知",
+      "maximum": 100.0,
+      "minimum": 0.0,
+      "variable_id": "engineering_knowledge"
+    }
+  ]
+}

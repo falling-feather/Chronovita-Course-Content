@@ -1,0 +1,427 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chronovita.local/schemas/archive/v1/course-archive-manifest.schema.json",
+  "$comment": "Pydantic semantic validation additionally enforces exact release identity, renderer identity, portable NFKC paths, file-size totals, source contract checksums and lesson/scenario cross-references. files excludes the self-referential archive manifest.",
+  "$defs": {
+    "ArchiveRendererV1": {
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": "archive-renderer/v1",
+          "default": "archive-renderer/v1",
+          "enum": [
+            "archive-renderer/v1"
+          ],
+          "title": "Schema Version",
+          "type": "string"
+        },
+        "renderer_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Renderer Id",
+          "type": "string"
+        },
+        "renderer_version": {
+          "minimum": 1,
+          "title": "Renderer Version",
+          "type": "integer"
+        },
+        "style_profile": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Style Profile",
+          "type": "string"
+        }
+      },
+      "required": [
+        "renderer_id",
+        "renderer_version",
+        "style_profile"
+      ],
+      "title": "ArchiveRendererV1",
+      "type": "object"
+    },
+    "CourseArchiveFileV1": {
+      "additionalProperties": false,
+      "properties": {
+        "path": {
+          "maxLength": 512,
+          "minLength": 1,
+          "title": "Path",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "release-manifest",
+            "sealed-lesson",
+            "course-package",
+            "scenario-template",
+            "format-layer",
+            "teacher-markdown",
+            "preview-html"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "media_type": {
+          "enum": [
+            "application/json",
+            "text/markdown; charset=utf-8",
+            "text/html; charset=utf-8"
+          ],
+          "title": "Media Type",
+          "type": "string"
+        },
+        "size_bytes": {
+          "maximum": 2097152,
+          "minimum": 1,
+          "title": "Size Bytes",
+          "type": "integer"
+        },
+        "blob_sha256": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Blob Sha256",
+          "type": "string"
+        },
+        "lesson_id": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "minLength": 2,
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Lesson Id"
+        },
+        "artifact_id": {
+          "anyOf": [
+            {
+              "maxLength": 64,
+              "minLength": 2,
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Artifact Id"
+        },
+        "artifact_version": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Artifact Version"
+        },
+        "schema_version": {
+          "anyOf": [
+            {
+              "maxLength": 56,
+              "minLength": 4,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Schema Version"
+        },
+        "contract_checksum": {
+          "anyOf": [
+            {
+              "pattern": "^[0-9a-f]{64}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Contract Checksum"
+        }
+      },
+      "required": [
+        "path",
+        "kind",
+        "media_type",
+        "size_bytes",
+        "blob_sha256"
+      ],
+      "title": "CourseArchiveFileV1",
+      "type": "object"
+    },
+    "CourseArchiveLessonV1": {
+      "additionalProperties": false,
+      "properties": {
+        "lesson_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Lesson Id",
+          "type": "string"
+        },
+        "title": {
+          "maxLength": 160,
+          "minLength": 1,
+          "title": "Title",
+          "type": "string"
+        },
+        "content_version": {
+          "minimum": 1,
+          "title": "Content Version",
+          "type": "integer"
+        },
+        "source_checksum": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Source Checksum",
+          "type": "string"
+        },
+        "course_package_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Course Package Id",
+          "type": "string"
+        },
+        "course_package_checksum": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Course Package Checksum",
+          "type": "string"
+        },
+        "scenarios": {
+          "default": [],
+          "items": {
+            "$ref": "#/$defs/CourseArchiveScenarioV1"
+          },
+          "title": "Scenarios",
+          "type": "array"
+        },
+        "files": {
+          "items": {
+            "maxLength": 512,
+            "minLength": 1,
+            "type": "string"
+          },
+          "title": "Files",
+          "type": "array"
+        }
+      },
+      "required": [
+        "lesson_id",
+        "title",
+        "content_version",
+        "source_checksum",
+        "course_package_id",
+        "course_package_checksum",
+        "files"
+      ],
+      "title": "CourseArchiveLessonV1",
+      "type": "object"
+    },
+    "CourseArchiveScenarioV1": {
+      "additionalProperties": false,
+      "properties": {
+        "scenario_id": {
+          "maxLength": 64,
+          "minLength": 2,
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+          "title": "Scenario Id",
+          "type": "string"
+        },
+        "scenario_version": {
+          "minimum": 1,
+          "title": "Scenario Version",
+          "type": "integer"
+        },
+        "scenario_checksum": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Scenario Checksum",
+          "type": "string"
+        },
+        "primary": {
+          "default": false,
+          "title": "Primary",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "scenario_id",
+        "scenario_version",
+        "scenario_checksum"
+      ],
+      "title": "CourseArchiveScenarioV1",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "course-archive/v1",
+      "default": "course-archive/v1",
+      "enum": [
+        "course-archive/v1"
+      ],
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "course_id": {
+      "maxLength": 64,
+      "minLength": 2,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+      "title": "Course Id",
+      "type": "string"
+    },
+    "course_title": {
+      "maxLength": 160,
+      "minLength": 1,
+      "title": "Course Title",
+      "type": "string"
+    },
+    "release_schema_version": {
+      "enum": [
+        "course-release/v1",
+        "course-release/v2"
+      ],
+      "title": "Release Schema Version",
+      "type": "string"
+    },
+    "release_id": {
+      "maxLength": 64,
+      "minLength": 1,
+      "title": "Release Id",
+      "type": "string"
+    },
+    "release_no": {
+      "minimum": 1,
+      "title": "Release No",
+      "type": "integer"
+    },
+    "release_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Release Checksum",
+      "type": "string"
+    },
+    "release_operation": {
+      "enum": [
+        "bootstrap",
+        "publish",
+        "rollback"
+      ],
+      "title": "Release Operation",
+      "type": "string"
+    },
+    "release_created_at": {
+      "format": "date-time",
+      "title": "Release Created At",
+      "type": "string"
+    },
+    "release_created_by": {
+      "maxLength": 160,
+      "minLength": 1,
+      "title": "Release Created By",
+      "type": "string"
+    },
+    "release_note": {
+      "default": "",
+      "maxLength": 2000,
+      "title": "Release Note",
+      "type": "string"
+    },
+    "renderer": {
+      "$ref": "#/$defs/ArchiveRendererV1"
+    },
+    "manifest_path": {
+      "const": "课程归档清单.json",
+      "default": "课程归档清单.json",
+      "enum": [
+        "课程归档清单.json"
+      ],
+      "title": "Manifest Path",
+      "type": "string"
+    },
+    "lessons": {
+      "items": {
+        "$ref": "#/$defs/CourseArchiveLessonV1"
+      },
+      "title": "Lessons",
+      "type": "array"
+    },
+    "files": {
+      "items": {
+        "$ref": "#/$defs/CourseArchiveFileV1"
+      },
+      "title": "Files",
+      "type": "array"
+    },
+    "file_count": {
+      "maximum": 128,
+      "minimum": 1,
+      "title": "File Count",
+      "type": "integer"
+    },
+    "total_size_bytes": {
+      "maximum": 16777216,
+      "minimum": 1,
+      "title": "Total Size Bytes",
+      "type": "integer"
+    },
+    "archive_id": {
+      "title": "Archive Id",
+      "type": "string"
+    },
+    "archive_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Archive Checksum",
+      "type": "string"
+    },
+    "archive_path": {
+      "maxLength": 512,
+      "minLength": 1,
+      "title": "Archive Path",
+      "type": "string"
+    },
+    "manifest_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Manifest Checksum",
+      "type": "string"
+    }
+  },
+  "required": [
+    "course_id",
+    "course_title",
+    "release_schema_version",
+    "release_id",
+    "release_no",
+    "release_checksum",
+    "release_operation",
+    "release_created_at",
+    "release_created_by",
+    "renderer",
+    "lessons",
+    "files",
+    "file_count",
+    "total_size_bytes",
+    "archive_id",
+    "archive_checksum",
+    "archive_path",
+    "manifest_checksum"
+  ],
+  "title": "CourseArchiveManifestV1",
+  "type": "object"
+}
