@@ -1,0 +1,23 @@
+{
+  "lesson_id": "dayu-flood-control",
+  "paragraphs": [
+    {
+      "index": 0,
+      "raw": "【教师待审】本段仅用于验证课程发布与关卡运行链路，正式课文由教师团队替换。"
+    },
+    {
+      "index": 1,
+      "raw": "【教师待审】样板围绕治水方法、公共动员和部族协作组织可计算的历史局势。"
+    }
+  ],
+  "schema_version": "teacher-format-layer/v1",
+  "source_checksum": "6d74c9c18549618afa922944c371efb83acc883568bf669e1cb9df7615fd5c76",
+  "syntax": {
+    "bold": "**文字**",
+    "colors": "{{红色:文字}} / {{蓝色:文字}} / {{金色:文字}}",
+    "font_size": "{{大字:文字}} / {{小字:文字}}",
+    "heading": "# 一级标题 / ## 二级标题 / ### 三级标题",
+    "highlight": "==标红文字==",
+    "keyword": "【关键词】"
+  }
+}

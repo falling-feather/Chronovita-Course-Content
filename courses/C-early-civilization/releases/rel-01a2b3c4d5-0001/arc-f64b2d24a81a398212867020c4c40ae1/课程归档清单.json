@@ -1,0 +1,138 @@
+{
+  "archive_checksum": "f64b2d24a81a398212867020c4c40ae1e01141b58ef70957bcfbe14a4085e940",
+  "archive_id": "arc-f64b2d24a81a398212867020c4c40ae1",
+  "archive_path": "C-early-civilization/releases/rel-01a2b3c4d5-0001/arc-f64b2d24a81a398212867020c4c40ae1",
+  "course_id": "C-early-civilization",
+  "course_title": "文明起源与早期国家",
+  "file_count": 7,
+  "files": [
+    {
+      "artifact_id": "scenario-dayu-flood-control",
+      "artifact_version": 1,
+      "blob_sha256": "f0c0c25642ebc9f20521c98fcbda4eac0136ee79c751cb706884f959ac600bee",
+      "contract_checksum": "c35aed9454005e91aa335f754d50c6a94785d49afdf6886f38a5a4e2f8e64911",
+      "kind": "scenario-template",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "application/json",
+      "path": "lessons/dayu-flood-control/scenarios/scenario-dayu-flood-control-v001.json",
+      "schema_version": "scenario-template/v1",
+      "size_bytes": 12057
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "b13c491cd049e0d9aa3c754303f65c2fb147935f75803015c8bd67d5c42cbe52",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/dayu-flood-control/大禹治水(技术样板)-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 849
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "44752b91b735965a5277dc1032d36c37c278e89831673cb4a600a9c2d8c6ede2",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "application/json",
+      "path": "lessons/dayu-flood-control/大禹治水(技术样板)-格式层.json",
+      "schema_version": null,
+      "size_bytes": 826
+    },
+    {
+      "artifact_id": "pkg-dayu-flood-control",
+      "artifact_version": 1,
+      "blob_sha256": "ed7dec227ae7c44bc7aee0b87d8aa5dd614bd7645e0fe2c29a75e312747bf7bb",
+      "contract_checksum": "e128e00b4ad604763bd522be2eca639b3fa00aae878c6dc8a570865350eb6789",
+      "kind": "course-package",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "application/json",
+      "path": "lessons/dayu-flood-control/大禹治水(技术样板)-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 5745
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "2232391643550f062f7041703ed4dc9115400e0c431f63abbbd729195560d1f6",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/dayu-flood-control/大禹治水(技术样板)-预览.html",
+      "schema_version": null,
+      "size_bytes": 1047
+    },
+    {
+      "artifact_id": "dayu-flood-control",
+      "artifact_version": 1,
+      "blob_sha256": "ba421595a14a7e04d6b3f58c9d240e8b0df8d623a14ae444ca0de5089bc5f82a",
+      "contract_checksum": "6d74c9c18549618afa922944c371efb83acc883568bf669e1cb9df7615fd5c76",
+      "kind": "sealed-lesson",
+      "lesson_id": "dayu-flood-control",
+      "media_type": "application/json",
+      "path": "lessons/dayu-flood-control/大禹治水(技术样板).json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 3804
+    },
+    {
+      "artifact_id": "rel-01a2b3c4d5-0001",
+      "artifact_version": 1,
+      "blob_sha256": "69fbd9e5227ba86ff7c4d728b44d56fc290be3215e96b78c9c0048dae7b807a8",
+      "contract_checksum": "106d696831803748f86f4e9c3428d14454b41da2bd2051ec5950134b3dd9eec8",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1972
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "e128e00b4ad604763bd522be2eca639b3fa00aae878c6dc8a570865350eb6789",
+      "course_package_id": "pkg-dayu-flood-control",
+      "files": [
+        "lessons/dayu-flood-control/scenarios/scenario-dayu-flood-control-v001.json",
+        "lessons/dayu-flood-control/大禹治水(技术样板)-教师稿.md",
+        "lessons/dayu-flood-control/大禹治水(技术样板)-格式层.json",
+        "lessons/dayu-flood-control/大禹治水(技术样板)-运行包.json",
+        "lessons/dayu-flood-control/大禹治水(技术样板)-预览.html",
+        "lessons/dayu-flood-control/大禹治水(技术样板).json"
+      ],
+      "lesson_id": "dayu-flood-control",
+      "scenarios": [
+        {
+          "primary": true,
+          "scenario_checksum": "c35aed9454005e91aa335f754d50c6a94785d49afdf6886f38a5a4e2f8e64911",
+          "scenario_id": "scenario-dayu-flood-control",
+          "scenario_version": 1
+        }
+      ],
+      "source_checksum": "6d74c9c18549618afa922944c371efb83acc883568bf669e1cb9df7615fd5c76",
+      "title": "大禹治水（技术样板）"
+    }
+  ],
+  "manifest_checksum": "2d76b1aa4f38135ae8669ca0e5223ddc9aa51264a25a48fd8b31876bfb07f679",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "106d696831803748f86f4e9c3428d14454b41da2bd2051ec5950134b3dd9eec8",
+  "release_created_at": "2026-07-14T00:00:00Z",
+  "release_created_by": "architecture-fixture",
+  "release_id": "rel-01a2b3c4d5-0001",
+  "release_no": 1,
+  "release_note": "Development-only contract fixture; not an active published release.",
+  "release_operation": "bootstrap",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 1,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 26300
+}
