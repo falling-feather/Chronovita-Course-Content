@@ -1,0 +1,35 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "tech-person-sample",
+  "name": "李大钊（技术样板）",
+  "role": "技术验收样例",
+  "era": "近代",
+  "summary": "仅用于验证人物档案归档契约，不属于教师正式内容。",
+  "persona": "回答必须以已审校史实和来源边界为准。",
+  "boundaries": [
+    "不虚构未被来源支持的经历或观点。"
+  ],
+  "keywords": [
+    "新文化运动"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "技术样例来源",
+      "source": "fixture-only",
+      "url_or_path": "",
+      "citation_note": "非正式课程资料",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-07-25T17:55:12.676242Z",
+  "updated_at": "2026-07-25T17:55:12.691872Z",
+  "sealed_at": "2026-07-25T17:55:12.691872Z",
+  "sealed_by": "contract-test",
+  "checksum": "3f0faf055c78a4e9752937666ce664c2adfad23bb8fa1e89762cd9e3649fd6ec"
+}

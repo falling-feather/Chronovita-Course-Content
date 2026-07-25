@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chronovita.local/schemas/archive/v1/content-asset-archive-manifest.schema.json",
+  "$comment": "A person, keyword or scenario archive contains one exact immutable JSON source plus signed identity, size and checksum metadata.",
+  "$defs": {
+    "ContentAssetArchiveFileV1": {
+      "additionalProperties": false,
+      "properties": {
+        "path": {
+          "maxLength": 512,
+          "minLength": 1,
+          "title": "Path",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "sealed-person",
+            "sealed-keyword",
+            "sealed-scenario"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "media_type": {
+          "const": "application/json",
+          "default": "application/json",
+          "enum": [
+            "application/json"
+          ],
+          "title": "Media Type",
+          "type": "string"
+        },
+        "size_bytes": {
+          "maximum": 2097152,
+          "minimum": 1,
+          "title": "Size Bytes",
+          "type": "integer"
+        },
+        "blob_sha256": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Blob Sha256",
+          "type": "string"
+        },
+        "schema_version": {
+          "maxLength": 56,
+          "minLength": 4,
+          "title": "Schema Version",
+          "type": "string"
+        },
+        "contract_checksum": {
+          "pattern": "^[0-9a-f]{64}$",
+          "title": "Contract Checksum",
+          "type": "string"
+        }
+      },
+      "required": [
+        "path",
+        "kind",
+        "size_bytes",
+        "blob_sha256",
+        "schema_version",
+        "contract_checksum"
+      ],
+      "title": "ContentAssetArchiveFileV1",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "content-asset-archive/v1",
+      "default": "content-asset-archive/v1",
+      "enum": [
+        "content-asset-archive/v1"
+      ],
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "asset_kind": {
+      "enum": [
+        "person",
+        "keyword",
+        "scenario"
+      ],
+      "title": "Asset Kind",
+      "type": "string"
+    },
+    "asset_id": {
+      "maxLength": 64,
+      "minLength": 2,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]+$",
+      "title": "Asset Id",
+      "type": "string"
+    },
+    "title": {
+      "maxLength": 160,
+      "minLength": 1,
+      "title": "Title",
+      "type": "string"
+    },
+    "version": {
+      "minimum": 1,
+      "title": "Version",
+      "type": "integer"
+    },
+    "source_schema_version": {
+      "enum": [
+        "person-profile/v1",
+        "keyword-profile/v1",
+        "scenario-template/v1"
+      ],
+      "title": "Source Schema Version",
+      "type": "string"
+    },
+    "source_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Source Checksum",
+      "type": "string"
+    },
+    "sealed_at": {
+      "format": "date-time",
+      "title": "Sealed At",
+      "type": "string"
+    },
+    "sealed_by": {
+      "maxLength": 160,
+      "minLength": 1,
+      "title": "Sealed By",
+      "type": "string"
+    },
+    "files": {
+      "items": {
+        "$ref": "#/$defs/ContentAssetArchiveFileV1"
+      },
+      "title": "Files",
+      "type": "array"
+    },
+    "file_count": {
+      "maximum": 128,
+      "minimum": 1,
+      "title": "File Count",
+      "type": "integer"
+    },
+    "total_size_bytes": {
+      "maximum": 16777216,
+      "minimum": 1,
+      "title": "Total Size Bytes",
+      "type": "integer"
+    },
+    "archive_id": {
+      "title": "Archive Id",
+      "type": "string"
+    },
+    "archive_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Archive Checksum",
+      "type": "string"
+    },
+    "archive_path": {
+      "maxLength": 512,
+      "minLength": 1,
+      "title": "Archive Path",
+      "type": "string"
+    },
+    "manifest_checksum": {
+      "pattern": "^[0-9a-f]{64}$",
+      "title": "Manifest Checksum",
+      "type": "string"
+    }
+  },
+  "required": [
+    "asset_kind",
+    "asset_id",
+    "title",
+    "version",
+    "source_schema_version",
+    "source_checksum",
+    "sealed_at",
+    "sealed_by",
+    "files",
+    "file_count",
+    "total_size_bytes",
+    "archive_id",
+    "archive_checksum",
+    "archive_path",
+    "manifest_checksum"
+  ],
+  "title": "ContentAssetArchiveManifestV1",
+  "type": "object"
+}

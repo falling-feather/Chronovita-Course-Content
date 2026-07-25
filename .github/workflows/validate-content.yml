@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   validate:
-    name: Validate immutable course archives
+    name: Validate immutable course and asset archives
     runs-on: ubuntu-latest
     timeout-minutes: 10
 

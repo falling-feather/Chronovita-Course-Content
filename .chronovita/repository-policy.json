@@ -6,6 +6,7 @@
   "visibility": "private",
   "default_branch": "main",
   "archive_root": "courses",
+  "asset_archive_root": "assets",
   "default_publication_mode": "pull_request",
   "allowed_publication_modes": [
     "pull_request",
@@ -19,5 +20,13 @@
     "source_repository": "falling-feather/Chronovita",
     "source_branch": "class",
     "source_commit": "5e9bedcbb3181606c618d431b2df9e77a8c25905"
+  },
+  "asset_contract": {
+    "schema_version": "content-asset-archive/v1",
+    "schema_file": ".chronovita/schemas/archive/v1/content-asset-archive-manifest.schema.json",
+    "schema_sha256": "69794a10f19f5c4d342e5bd2acff707ee0c71089fa6c69056598fe0c9251d0c4",
+    "source_repository": "falling-feather/Chronovita",
+    "source_branch": "class",
+    "source_commit": "909a868cfe1a1b447ddb0d967c548a9993e62c79"
   }
 }
