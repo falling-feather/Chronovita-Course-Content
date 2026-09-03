@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-28b5624648-0002",
+  "release_no": 2,
+  "course_id": "C-prequin-state",
+  "operation": "publish",
+  "parent_release_id": "rel-28b5624648-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-03T08:17:24.906701Z",
+  "created_by": "local-admin",
+  "note": "Publish L101 v1.",
+  "items": [
+    {
+      "lesson_id": "L101",
+      "course_id": "C-prequin-state",
+      "content_version": 1,
+      "source_path": "sealed/L101-v001.json",
+      "source_checksum": "0691503be1b6f60138132e5212531c6c8efd372e27c80d8ab0a2b4171a93ab89",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L101",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L101",
+        "version": 1,
+        "checksum": "be65677fcf91fe383c344c0227a03a642c0b16ca8b530a1e938108a774385071",
+        "path": "runtime/v1/course-packages/C-prequin-state/L101/v001-be65677fcf91fe383c344c0227a03a642c0b16ca8b530a1e938108a774385071.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "05146e0c5e1e91dff41e718f564272be3c95a3bb113c340fd5f98cea90deaa2c"
+}
