@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "a9fd34534009f00df7b046350ac25a9c798176a06633d92f8b185e29739a51a2",
+  "archive_id": "arc-a9fd34534009f00df7b046350ac25a9c",
+  "archive_path": "C-prequin-state/releases/rel-28b5624648-0006/arc-a9fd34534009f00df7b046350ac25a9c",
+  "course_id": "C-prequin-state",
+  "course_title": "早期国家与社会变革",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "86979b531123937d66c58cf1780053b819f197f54f1513bc7e4f490b7e79984d",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L101",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L101/夏朝的建立与「家天下」-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 6947
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ee163e9bbfff3553f5a464a930d955fa5887da3a440cd8ce4423eeb99146e2af",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」-格式层.json",
+      "schema_version": null,
+      "size_bytes": 11635
+    },
+    {
+      "artifact_id": "pkg-L101",
+      "artifact_version": 3,
+      "blob_sha256": "603cd3fb4015c3f8a02a3a5396551a7b497cf00f2d2b240b4c74f1f9d96bf80a",
+      "contract_checksum": "11ae617261b716513b716775e408fd11e626c508af3cc25f4ea134495fcf92fb",
+      "kind": "course-package",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 18819
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5512ee2f2137628c82e0e8ebe5fc04fa32ec2673ec618988e66c43f6b208585c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L101",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L101/夏朝的建立与「家天下」-预览.html",
+      "schema_version": null,
+      "size_bytes": 8709
+    },
+    {
+      "artifact_id": "L101",
+      "artifact_version": 3,
+      "blob_sha256": "22e1b65b2b481f0bb5a346f1b62b6b4dcc92434177a89846e5c2dc8a21633892",
+      "contract_checksum": "ac7b09fe8f09af7f19d971cbe3f6faa15f4454bfe7ce9787043bfb7f3a0be3fe",
+      "kind": "sealed-lesson",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 14061
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "40c0df451dd668eea549a2d4e26f6e3c084bd2d3879fbd7f70c9275f3f9328c2",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L102",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L102/商朝的兴衰与甲骨文-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 5131
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "dd5d97ffabdf05b727f17eae98444cad999b9aa47be34f5a334f7f51843fc558",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L102",
+      "media_type": "application/json",
+      "path": "lessons/L102/商朝的兴衰与甲骨文-格式层.json",
+      "schema_version": null,
+      "size_bytes": 9100
+    },
+    {
+      "artifact_id": "pkg-L102",
+      "artifact_version": 1,
+      "blob_sha256": "0829d87ff403fee3f4a7e094edb0f104dbfff97c3e4be98c2255536b27a3ed70",
+      "contract_checksum": "a11bda9d6a062a46151752e997f4c2e6728f727a0ce7b48fe899f09309be0be3",
+      "kind": "course-package",
+      "lesson_id": "L102",
+      "media_type": "application/json",
+      "path": "lessons/L102/商朝的兴衰与甲骨文-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 15531
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "69317c250aecd689f628b9e977598c19ffcbf20a482d18ae9fb95222213b0bd3",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L102",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L102/商朝的兴衰与甲骨文-预览.html",
+      "schema_version": null,
+      "size_bytes": 6609
+    },
+    {
+      "artifact_id": "L102",
+      "artifact_version": 1,
+      "blob_sha256": "ec35123c949a1469cb7d4eab91ea80d73cd1890cd5eaf02f96d1e9301d01e174",
+      "contract_checksum": "239e495033e37379b5116a97b8187ffbf6deaf877f4beb68a315a455ccfbcb79",
+      "kind": "sealed-lesson",
+      "lesson_id": "L102",
+      "media_type": "application/json",
+      "path": "lessons/L102/商朝的兴衰与甲骨文.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 11054
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "4e8038eb8d0caff2cbf74a8178eba13b2e8b728a53eb6441b7b78e8cd7e9c8cc",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L103",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L103/西周分封与宗法-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 5255
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "470a71a94bb42e02a4bb7e457a66cd8f28ac41ccfd486572c37e62f7e740c1e0",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L103",
+      "media_type": "application/json",
+      "path": "lessons/L103/西周分封与宗法-格式层.json",
+      "schema_version": null,
+      "size_bytes": 9959
+    },
+    {
+      "artifact_id": "pkg-L103",
+      "artifact_version": 1,
+      "blob_sha256": "becf5d17db6407a7103bc38c071e1ba86c0fea943d1bc222c12bdb662b0ab5c4",
+      "contract_checksum": "d096762f2e12988aac7e58a355764418bb97cb9d2283f0ef89486bee217aa193",
+      "kind": "course-package",
+      "lesson_id": "L103",
+      "media_type": "application/json",
+      "path": "lessons/L103/西周分封与宗法-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 15883
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "367fca5dbb9181b365efef67943123ea8844bfc28eb385d51e9c06ebff7f92d8",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L103",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L103/西周分封与宗法-预览.html",
+      "schema_version": null,
+      "size_bytes": 7197
+    },
+    {
+      "artifact_id": "L103",
+      "artifact_version": 1,
+      "blob_sha256": "4299786fe22524a9cb51dd290944e57bd5898e80531fe9e41d52229312d82fe5",
+      "contract_checksum": "c13f6ee144e3c039752a5e0d6731aa54a3534a6fde1ae7727782a2ce00290cdc",
+      "kind": "sealed-lesson",
+      "lesson_id": "L103",
+      "media_type": "application/json",
+      "path": "lessons/L103/西周分封与宗法.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 11546
+    },
+    {
+      "artifact_id": "rel-28b5624648-0006",
+      "artifact_version": 6,
+      "blob_sha256": "169f9e996f939bcebc6caa9cc0554f9ec8e3c624912040cbb8544dcec54ae1c5",
+      "contract_checksum": "99d08338fd297d798d0eea10b18036cf39e4936b6923fc119194048fae5f3335",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2863
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 3,
+      "course_package_checksum": "11ae617261b716513b716775e408fd11e626c508af3cc25f4ea134495fcf92fb",
+      "course_package_id": "pkg-L101",
+      "files": [
+        "lessons/L101/夏朝的建立与「家天下」-教师稿.md",
+        "lessons/L101/夏朝的建立与「家天下」-格式层.json",
+        "lessons/L101/夏朝的建立与「家天下」-运行包.json",
+        "lessons/L101/夏朝的建立与「家天下」-预览.html",
+        "lessons/L101/夏朝的建立与「家天下」.json"
+      ],
+      "lesson_id": "L101",
+      "scenarios": [],
+      "source_checksum": "ac7b09fe8f09af7f19d971cbe3f6faa15f4454bfe7ce9787043bfb7f3a0be3fe",
+      "title": "夏朝的建立与「家天下」"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "a11bda9d6a062a46151752e997f4c2e6728f727a0ce7b48fe899f09309be0be3",
+      "course_package_id": "pkg-L102",
+      "files": [
+        "lessons/L102/商朝的兴衰与甲骨文-教师稿.md",
+        "lessons/L102/商朝的兴衰与甲骨文-格式层.json",
+        "lessons/L102/商朝的兴衰与甲骨文-运行包.json",
+        "lessons/L102/商朝的兴衰与甲骨文-预览.html",
+        "lessons/L102/商朝的兴衰与甲骨文.json"
+      ],
+      "lesson_id": "L102",
+      "scenarios": [],
+      "source_checksum": "239e495033e37379b5116a97b8187ffbf6deaf877f4beb68a315a455ccfbcb79",
+      "title": "商朝的兴衰与甲骨文"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "d096762f2e12988aac7e58a355764418bb97cb9d2283f0ef89486bee217aa193",
+      "course_package_id": "pkg-L103",
+      "files": [
+        "lessons/L103/西周分封与宗法-教师稿.md",
+        "lessons/L103/西周分封与宗法-格式层.json",
+        "lessons/L103/西周分封与宗法-运行包.json",
+        "lessons/L103/西周分封与宗法-预览.html",
+        "lessons/L103/西周分封与宗法.json"
+      ],
+      "lesson_id": "L103",
+      "scenarios": [],
+      "source_checksum": "c13f6ee144e3c039752a5e0d6731aa54a3534a6fde1ae7727782a2ce00290cdc",
+      "title": "西周分封与宗法"
+    }
+  ],
+  "manifest_checksum": "faa8fb83ba1b39b240c482a8e3318b634042807985ce492f4bad4f26f0c687b8",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "99d08338fd297d798d0eea10b18036cf39e4936b6923fc119194048fae5f3335",
+  "release_created_at": "2026-09-05T22:00:41.457083Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-28b5624648-0006",
+  "release_no": 6,
+  "release_note": "Publish L103 v1.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 160299
+}
