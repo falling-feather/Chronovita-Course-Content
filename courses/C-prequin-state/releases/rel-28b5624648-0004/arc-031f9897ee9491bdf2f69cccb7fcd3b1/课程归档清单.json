@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "031f9897ee9491bdf2f69cccb7fcd3b189bed1569b12fcb9ea09913a885e59d6",
+  "archive_id": "arc-031f9897ee9491bdf2f69cccb7fcd3b1",
+  "archive_path": "C-prequin-state/releases/rel-28b5624648-0004/arc-031f9897ee9491bdf2f69cccb7fcd3b1",
+  "course_id": "C-prequin-state",
+  "course_title": "早期国家与社会变革",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "86979b531123937d66c58cf1780053b819f197f54f1513bc7e4f490b7e79984d",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L101",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L101/夏朝的建立与「家天下」-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 6947
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ee163e9bbfff3553f5a464a930d955fa5887da3a440cd8ce4423eeb99146e2af",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」-格式层.json",
+      "schema_version": null,
+      "size_bytes": 11635
+    },
+    {
+      "artifact_id": "pkg-L101",
+      "artifact_version": 3,
+      "blob_sha256": "603cd3fb4015c3f8a02a3a5396551a7b497cf00f2d2b240b4c74f1f9d96bf80a",
+      "contract_checksum": "11ae617261b716513b716775e408fd11e626c508af3cc25f4ea134495fcf92fb",
+      "kind": "course-package",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 18819
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5512ee2f2137628c82e0e8ebe5fc04fa32ec2673ec618988e66c43f6b208585c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L101",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L101/夏朝的建立与「家天下」-预览.html",
+      "schema_version": null,
+      "size_bytes": 8709
+    },
+    {
+      "artifact_id": "L101",
+      "artifact_version": 3,
+      "blob_sha256": "22e1b65b2b481f0bb5a346f1b62b6b4dcc92434177a89846e5c2dc8a21633892",
+      "contract_checksum": "ac7b09fe8f09af7f19d971cbe3f6faa15f4454bfe7ce9787043bfb7f3a0be3fe",
+      "kind": "sealed-lesson",
+      "lesson_id": "L101",
+      "media_type": "application/json",
+      "path": "lessons/L101/夏朝的建立与「家天下」.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 14061
+    },
+    {
+      "artifact_id": "rel-28b5624648-0004",
+      "artifact_version": 4,
+      "blob_sha256": "c6960156700218a70c941fedda0371d6e889f05d154ad4e756b5d188350834ce",
+      "contract_checksum": "39255f3841de03243ac964fd1a3f3886c43546d799bedb478d0473e610690cf5",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1255
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 3,
+      "course_package_checksum": "11ae617261b716513b716775e408fd11e626c508af3cc25f4ea134495fcf92fb",
+      "course_package_id": "pkg-L101",
+      "files": [
+        "lessons/L101/夏朝的建立与「家天下」-教师稿.md",
+        "lessons/L101/夏朝的建立与「家天下」-格式层.json",
+        "lessons/L101/夏朝的建立与「家天下」-运行包.json",
+        "lessons/L101/夏朝的建立与「家天下」-预览.html",
+        "lessons/L101/夏朝的建立与「家天下」.json"
+      ],
+      "lesson_id": "L101",
+      "scenarios": [],
+      "source_checksum": "ac7b09fe8f09af7f19d971cbe3f6faa15f4454bfe7ce9787043bfb7f3a0be3fe",
+      "title": "夏朝的建立与「家天下」"
+    }
+  ],
+  "manifest_checksum": "28ceae7a4059cc34bdc7aff676cb311371e8c2a96d3ce3ff202c08933a62f520",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "39255f3841de03243ac964fd1a3f3886c43546d799bedb478d0473e610690cf5",
+  "release_created_at": "2026-09-03T11:19:54.294217Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-28b5624648-0004",
+  "release_no": 4,
+  "release_note": "Publish L101 v3.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 61426
+}
