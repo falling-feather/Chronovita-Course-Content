@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "04b34cb3d72d65a5709c59b5a90d0ab99ab8d34a6a68275d447943243d62c846",
+  "archive_id": "arc-04b34cb3d72d65a5709c59b5a90d0ab9",
+  "archive_path": "C-prequin-thought/releases/rel-57ad9376e1-0002/arc-04b34cb3d72d65a5709c59b5a90d0ab9",
+  "course_id": "C-prequin-thought",
+  "course_title": "百家争鸣",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "572c6efac2372bf4b417ea504be74196a3a9d1713a0a30c1c3d1d39514c93da0",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L106",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L106/孔子与儒家-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 5223
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5cd854204249dc187d35af073cf05dfdc108201a275811f7bd1eb7241bbb8a30",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L106",
+      "media_type": "application/json",
+      "path": "lessons/L106/孔子与儒家-格式层.json",
+      "schema_version": null,
+      "size_bytes": 9416
+    },
+    {
+      "artifact_id": "pkg-L106",
+      "artifact_version": 1,
+      "blob_sha256": "bb86c2ede4d2f4059a02c9137b691f8f9b8e083d681ef2e400ad75e21124239d",
+      "contract_checksum": "e6f1274ccd65c19a2686ec6e1a9fb00af69d9eda9483b24a3e884ee66e59207a",
+      "kind": "course-package",
+      "lesson_id": "L106",
+      "media_type": "application/json",
+      "path": "lessons/L106/孔子与儒家-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 14442
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ab3ad551cbeee68dca07e3c429c0d547241f92a0e315eacd20dfd78c3081a868",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L106",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L106/孔子与儒家-预览.html",
+      "schema_version": null,
+      "size_bytes": 6750
+    },
+    {
+      "artifact_id": "L106",
+      "artifact_version": 1,
+      "blob_sha256": "91d53255fb0cad1fc8cdc4e5bbad2e9a1d23daebb50834a4a5dc79ac9dcf0a38",
+      "contract_checksum": "bb6cc8a955b789543226b5e54f8af7bffd7b420ab4eb509221e6f883bdcf5401",
+      "kind": "sealed-lesson",
+      "lesson_id": "L106",
+      "media_type": "application/json",
+      "path": "lessons/L106/孔子与儒家.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 10574
+    },
+    {
+      "artifact_id": "rel-57ad9376e1-0002",
+      "artifact_version": 2,
+      "blob_sha256": "e0670238327551fdefa2b0b041c0dc9c44917dd698a5bf4cb6540aed480c6c3d",
+      "contract_checksum": "87ae0157c63515dd8ffbb4fd7a5416ce4dc1bf9ed9157968ad919ba9e741aea5",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1263
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "e6f1274ccd65c19a2686ec6e1a9fb00af69d9eda9483b24a3e884ee66e59207a",
+      "course_package_id": "pkg-L106",
+      "files": [
+        "lessons/L106/孔子与儒家-教师稿.md",
+        "lessons/L106/孔子与儒家-格式层.json",
+        "lessons/L106/孔子与儒家-运行包.json",
+        "lessons/L106/孔子与儒家-预览.html",
+        "lessons/L106/孔子与儒家.json"
+      ],
+      "lesson_id": "L106",
+      "scenarios": [],
+      "source_checksum": "bb6cc8a955b789543226b5e54f8af7bffd7b420ab4eb509221e6f883bdcf5401",
+      "title": "孔子与儒家"
+    }
+  ],
+  "manifest_checksum": "86341b6121a1ab2f86921dcbfb268c9ecba61ee988a777097e9ab9397077bf4e",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "87ae0157c63515dd8ffbb4fd7a5416ce4dc1bf9ed9157968ad919ba9e741aea5",
+  "release_created_at": "2026-09-06T01:37:11.169210Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-57ad9376e1-0002",
+  "release_no": 2,
+  "release_note": "Publish L106 v1.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 47668
+}

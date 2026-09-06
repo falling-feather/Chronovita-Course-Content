@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-57ad9376e1-0002",
+  "release_no": 2,
+  "course_id": "C-prequin-thought",
+  "operation": "publish",
+  "parent_release_id": "rel-57ad9376e1-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-06T01:37:11.169210Z",
+  "created_by": "local-admin",
+  "note": "Publish L106 v1.",
+  "items": [
+    {
+      "lesson_id": "L106",
+      "course_id": "C-prequin-thought",
+      "content_version": 1,
+      "source_path": "sealed/L106-v001.json",
+      "source_checksum": "bb6cc8a955b789543226b5e54f8af7bffd7b420ab4eb509221e6f883bdcf5401",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L106",
+        "course_id": "C-prequin-thought",
+        "lesson_id": "L106",
+        "version": 1,
+        "checksum": "e6f1274ccd65c19a2686ec6e1a9fb00af69d9eda9483b24a3e884ee66e59207a",
+        "path": "runtime/v1/course-packages/C-prequin-thought/L106/v001-e6f1274ccd65c19a2686ec6e1a9fb00af69d9eda9483b24a3e884ee66e59207a.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "87ae0157c63515dd8ffbb4fd7a5416ce4dc1bf9ed9157968ad919ba9e741aea5"
+}

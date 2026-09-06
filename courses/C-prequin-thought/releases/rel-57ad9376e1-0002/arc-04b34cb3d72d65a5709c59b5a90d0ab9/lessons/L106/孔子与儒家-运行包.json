@@ -1,0 +1,313 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L106",
+  "course_id": "C-prequin-thought",
+  "lesson_id": "L106",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "孔子与儒家",
+  "unit": "百家争鸣",
+  "era": "先秦",
+  "body": [
+    "西周以来的政治秩序以周王室和贵族等级为中心。到了春秋晚期，诸侯竞争、战争频繁，旧有的礼仪和社会关系受到冲击。面对不断变化的现实，人们开始思考：社会为什么会失去秩序，怎样才能使人与人之间重新建立信任和责任？不同学者从各自的经历出发提出了不同回答，后世把这一思想活跃的局面概括为【百家争鸣】。【孔子】正是在这样的时代中，形成了自己的教育和政治主张。",
+    "孔子名丘，字仲尼，是春秋晚期【鲁国】人。他年轻时学习礼乐和历史，后来在鲁国担任过官职，希望通过整顿政治和社会关系恢复秩序。孔子发现，单靠职位和命令并不能使人真正承担责任，于是把更多精力放在讲学和培养人才上。他招收来自不同家庭的学生，与弟子讨论做人、学习和治理国家的问题，逐渐形成了自己的学派。",
+    "孔子曾带领弟子离开鲁国，前往卫、陈、蔡、楚等地寻找能够实行其主张的诸侯，这段经历被称为【周游列国】。途中，他们有时受到礼遇，有时陷入困顿，孔子仍坚持讲学和思考。孔子的政治理想没有在当时得到充分施展，但他的言行和学说通过弟子流传下来。对孔子而言，教育不仅是传授知识，也是帮助人们认识责任、约束行为和改善社会关系的途径。",
+    "孔子思想的核心之一是【仁】。仁可以理解为关心他人、推己及人，并在处理关系时保持体谅和责任。孔子又重视【礼】，这里的礼不仅指仪式，也包括社会交往中应遵守的规范和分寸。在他看来，社会成员如果只追逐利益而缺少自我约束，人与人之间就容易发生冲突；如果能够以仁的态度待人，并用礼来规范行为，家庭、社会和政治关系才可能较为稳定。",
+    "孔子把教育看作改变个人和社会的重要途径。他提出【有教无类】，主张不应只让贵族子弟接受教育；只要愿意学习，普通人也可以成为受教者。教学过程中，他还注意学生的性格和基础，后人把这种方法概括为【因材施教】。孔子常常通过提问和对话引导学生思考，同一个问题也会根据学生的不同情况作出不同回答。这种重视学习、反思和实践的教育方式，扩大了当时知识传播的范围。",
+    "孔子去世后，弟子和再传弟子整理他的言论与事迹，形成了【《论语》】。这部书主要由对话、问答和简短格言组成，保存了后人对孔子言行的记忆，也反映了早期弟子对学习、仁、礼和政治的理解。它不是孔子亲自撰写的自传，书中内容经过长期传承和编纂，但仍是认识孔子思想的重要材料。阅读时既要关注其中的具体对话，也要注意它形成于孔子身后这一事实。",
+    "孔子生前没有建立一个以自己学说为基础的政治集团，但他的弟子继续讲学，相关思想逐渐发展为【儒家】。儒家重视学习和道德修养，强调人在家庭、社会和政治关系中承担责任，也要求统治者以自身的德行和行为影响社会。后世儒家不断解释和发展孔子的学说，使它成为中国传统思想的重要组成部分。孔子与儒家的意义，不只在于提出若干道德格言，更在于把教育、人格修养和社会秩序联系起来，回应了春秋社会变化带来的现实问题。"
+  ],
+  "abstract": "西周以来的政治秩序以周王室和贵族等级为中心。到了春秋晚期，诸侯竞争、战争频繁，旧有的礼仪和社会关系受到冲击。面对不断变化的现实，人们开始思考：社会为什么会失去秩序，怎样才能使人与人之间重新建立信任和责任？不同学者从各自的经历出发提出了不...",
+  "course_title": "百家争鸣",
+  "era_id": "prequin",
+  "section": "思想",
+  "lesson_no": "2.1",
+  "duration": "09:10",
+  "teaching_objectives": [
+    "梳理孔子从鲁国任职、讲学到周游列国的基本经历",
+    "结合具体语境解释仁与礼的基本含义",
+    "结合有教无类和因材施教说明孔子的教育主张",
+    "说明《论语》的成书方式及其认识孔子思想的价值",
+    "概括孔子学说发展为儒家传统的基本过程和历史影响"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-bf4f274e",
+      "word": "百家争鸣",
+      "pinyin": "bǎi jiā zhēng míng",
+      "gloss": "春秋战国时期思想活跃的局面；不同学派围绕社会问题提出主张",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-dddad505",
+      "word": "孔子",
+      "pinyin": "kǒng zǐ",
+      "gloss": "春秋晚期思想家和教育家；儒家学派的重要先驱",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-a5561ba3",
+      "word": "鲁国",
+      "pinyin": "lǔ guó",
+      "gloss": "春秋时期的诸侯国；孔子的出生和主要活动地之一",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-2e27cae7",
+      "word": "周游列国",
+      "pinyin": "zhōu yóu liè guó",
+      "gloss": "孔子带领弟子在诸侯国之间游历；寻求施展政治主张的机会",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-1cc3cf4e",
+      "word": "仁",
+      "pinyin": "rén",
+      "gloss": "关心他人并推己及人的道德要求；孔子思想的重要内容",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-7f4610f3",
+      "word": "礼",
+      "pinyin": "lǐ",
+      "gloss": "社会交往和行为活动中的规范与分寸；维系关系秩序的重要方式",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-980c0ef3",
+      "word": "有教无类",
+      "pinyin": "yǒu jiào wú lèi",
+      "gloss": "不以出身区别受教育者；主张不同身份的人都可以学习",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-158fa04e",
+      "word": "因材施教",
+      "pinyin": "yīn cái shī jiào",
+      "gloss": "根据学生的不同特点进行教学；重视教育方法的针对性",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-4bcf6072",
+      "word": "《论语》",
+      "pinyin": "lún yǔ",
+      "gloss": "记录孔子言行和弟子问答的传世文献；儒家重要经典",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-6698c984",
+      "word": "儒家",
+      "pinyin": "rú jiā",
+      "gloss": "由孔子学说发展而来的思想学派；重视学习 修养和社会责任",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-eafceb5f",
+      "name": "孔子",
+      "role": "春秋晚期思想家和教育家",
+      "summary": "通过讲学、问答和政治实践提出仁、礼及教育主张的思想家",
+      "persona": "重点说明孔子如何回应社会秩序变化；结合具体经历解释其思想",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-7aff63a8",
+      "label": "曲阜",
+      "region": "今山东曲阜一带",
+      "lat": null,
+      "lng": null,
+      "note": "鲁国重要城邑；与孔子的出生、讲学和活动传统相关",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-9a5e15e2",
+      "label": "鲁国",
+      "region": "今山东南部一带",
+      "lat": null,
+      "lng": null,
+      "note": "孔子所在的诸侯国；保留较多周礼传统",
+      "kind": "state"
+    },
+    {
+      "point_id": "map-8164464b",
+      "label": "周游列国路线",
+      "region": "今河南、安徽、江苏等地的部分区域",
+      "lat": null,
+      "lng": null,
+      "note": "孔子与弟子游历诸侯国并传播学说的传统路线",
+      "kind": "route"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-0d0333c2",
+      "statement": "春秋晚期社会秩序发生变化；不同学者开始从政治、伦理和教育等方面寻找解决办法",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ff117365",
+      "statement": "孔子名丘、字仲尼；是春秋晚期鲁国人",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-e2ced99e",
+      "statement": "孔子曾在鲁国任职并讲学；后来带领弟子周游列国",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7c0c98a1",
+      "statement": "仁强调关心他人和推己及人；礼强调社会交往中的规范与分寸",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-0bd95653",
+      "statement": "有教无类扩大了孔子教育主张的对象；因材施教重视根据学生特点教学",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-5fabad6d",
+      "statement": "《论语》由弟子和再传弟子整理；主要记录孔子言行和弟子问答",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-76e56598",
+      "statement": "孔子学说经弟子传播和后世发展；逐渐形成儒家传统",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-faa42bcb",
+      "statement": "儒家把学习、人格修养和社会责任联系起来；对中国传统思想产生持续影响",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-5992fa6d",
+      "title": "《论语》",
+      "kind": "other",
+      "publisher": "传世文献",
+      "url_or_path": "《论语》",
+      "citation_note": "孔子及弟子问答、学习教育和仁礼思想的主要材料",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-993addde",
+      "title": "《史记·孔子世家》",
+      "kind": "other",
+      "publisher": "传世文献",
+      "url_or_path": "《史记·孔子世家》",
+      "citation_note": "记载孔子生平、从政经历、周游列国和弟子传承",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-701c739f",
+      "title": "《礼记·中庸》",
+      "kind": "other",
+      "publisher": "传世文献",
+      "url_or_path": "《礼记·中庸》",
+      "citation_note": "保存后世对孔子及儒家思想的概括性表述；用于了解儒家传统的发展",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "春秋晚期的社会变化为什么会促使人们重新思考社会秩序？",
+    "孔子为什么从政治实践转向讲学和培养人才？",
+    "仁和礼分别强调什么内容？二者之间有什么联系？",
+    "有教无类和因材施教反映了孔子怎样的教育思想？",
+    "孔子周游列国的经历说明了他的政治主张处于怎样的处境？",
+    "《论语》是怎样形成的？阅读这部书时应注意什么？",
+    "儒家思想为什么能够在孔子去世后继续发展？"
+  ],
+  "level_goals": [
+    "梳理孔子从鲁国任职、讲学到周游列国的基本经历",
+    "结合具体语境解释仁与礼的基本含义",
+    "结合有教无类和因材施教说明孔子的教育主张",
+    "说明《论语》的成书方式及其认识孔子思想的价值",
+    "概括孔子学说发展为儒家传统的基本过程和历史影响"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "百家争鸣",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "孔子",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "鲁国",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "周游列国",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "仁",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "礼",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "第六课进入百家争鸣单元；以春秋晚期社会秩序变化为背景，围绕孔子的经历、仁礼思想、教育实践和儒家形成展开；《论语》的成书问题在正文中集中说明一次，不反复插入史料限制。",
+  "created_at": "2026-09-06T00:00:00Z",
+  "updated_at": "2026-09-06T01:37:10.275484Z",
+  "sealed_at": "2026-09-06T01:37:10.275484Z",
+  "sealed_by": "local-admin",
+  "checksum": "e6f1274ccd65c19a2686ec6e1a9fb00af69d9eda9483b24a3e884ee66e59207a",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L106",
+    "source_version": "1",
+    "source_checksum": "bb6cc8a955b789543226b5e54f8af7bffd7b420ab4eb509221e6f883bdcf5401",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
