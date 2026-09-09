@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "6cc0616d97f1589b0b06935443911eddc00a7f423fdfbd8a940bb6c41402caf7",
+  "archive_id": "arc-6cc0616d97f1589b0b06935443911edd",
+  "archive_path": "C-prequin-thought/releases/rel-57ad9376e1-0015/arc-6cc0616d97f1589b0b06935443911edd",
+  "course_id": "C-prequin-thought",
+  "course_title": "百家争鸣",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "db4b4247307d1c768e1d898fb8d1fb615e7e67dc359bfaa75b25386fde797420",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L201",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L201/孔子与儒家-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 5223
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "4aac7675942765ec86575f8e5958a5cfe97d4df02a5144955004abd74116c0d7",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L201",
+      "media_type": "application/json",
+      "path": "lessons/L201/孔子与儒家-格式层.json",
+      "schema_version": null,
+      "size_bytes": 9416
+    },
+    {
+      "artifact_id": "pkg-L201",
+      "artifact_version": 3,
+      "blob_sha256": "9eab72b1795ebaf5fcd359516d861956161b60b389302b04cd8df95c9be016f0",
+      "contract_checksum": "ee131f6b699fe78ddeb8e56195844df577ebba412c5df859ff5392ea509d2b51",
+      "kind": "course-package",
+      "lesson_id": "L201",
+      "media_type": "application/json",
+      "path": "lessons/L201/孔子与儒家-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 14442
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ab3ad551cbeee68dca07e3c429c0d547241f92a0e315eacd20dfd78c3081a868",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L201",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L201/孔子与儒家-预览.html",
+      "schema_version": null,
+      "size_bytes": 6750
+    },
+    {
+      "artifact_id": "L201",
+      "artifact_version": 3,
+      "blob_sha256": "3eb03435cadbfcf3faa03a563e68c98d79795ba9ad294693d18b3dc11dba71b8",
+      "contract_checksum": "bf386994b4c390adfb52a33a83c1d0c8e9f47ce2a0d3d49b0d08df4e11c419a9",
+      "kind": "sealed-lesson",
+      "lesson_id": "L201",
+      "media_type": "application/json",
+      "path": "lessons/L201/孔子与儒家.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 10574
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "69add865d2788e00d4e74cfc1c1cd2d474ba30a3ea7d5fcd3147e44818a79a98",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L202",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L202/老子与道家-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4277
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "acc0d0ce7caff682ea545931d0f6514033cad2a0a8cc5c5a8ad2041949c17e80",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L202",
+      "media_type": "application/json",
+      "path": "lessons/L202/老子与道家-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7954
+    },
+    {
+      "artifact_id": "pkg-L202",
+      "artifact_version": 3,
+      "blob_sha256": "3c2731eb9923910168ea6d64f5edf8a6aeeff1b257f47c424b348419f3e45f69",
+      "contract_checksum": "23cb9ade30168ee9bf09e06e1644b1da40c69a05c21cdad0b8b43320086947b0",
+      "kind": "course-package",
+      "lesson_id": "L202",
+      "media_type": "application/json",
+      "path": "lessons/L202/老子与道家-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12242
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "40c1a91487cf379f19a08cd4dfe73030a9cee0c5a83b071dde528beb7ac5a685",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L202",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L202/老子与道家-预览.html",
+      "schema_version": null,
+      "size_bytes": 5790
+    },
+    {
+      "artifact_id": "L202",
+      "artifact_version": 3,
+      "blob_sha256": "4832c9d962d9c98a5dd1c6386e9f608f161f2b3a02ef5dbd55ca7db4ad6eab1c",
+      "contract_checksum": "2021f384ad4ab888a030514fab45d9840afa09596453d7b137c15947f6214b6d",
+      "kind": "sealed-lesson",
+      "lesson_id": "L202",
+      "media_type": "application/json",
+      "path": "lessons/L202/老子与道家.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8857
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "bf84638c79bb14590afe3a311139c85d806ed6ea4d377b9c92ff4640569dc5cf",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L203",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L203/韩非与法家-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4462
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d52805132edd07dc1cbe663e20d3aaf2f7da7455522f9e43bad6fad431cb73fb",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L203",
+      "media_type": "application/json",
+      "path": "lessons/L203/韩非与法家-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8254
+    },
+    {
+      "artifact_id": "pkg-L203",
+      "artifact_version": 3,
+      "blob_sha256": "93c525390f93c615d779b9d8bbede86b231cfbb4eb0527fd26a5d453e395dc92",
+      "contract_checksum": "a0e0756dc69eaa83e7197fb8eaa1082deb86d9eb2bff07f10cb0a4b1fbca9256",
+      "kind": "course-package",
+      "lesson_id": "L203",
+      "media_type": "application/json",
+      "path": "lessons/L203/韩非与法家-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12773
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "72e0a25c7276d4a586b02899f288450663fa2ce0b9d5baa43e1d4228838999f5",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L203",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L203/韩非与法家-预览.html",
+      "schema_version": null,
+      "size_bytes": 5936
+    },
+    {
+      "artifact_id": "L203",
+      "artifact_version": 3,
+      "blob_sha256": "c19d750ec2471597b7d00b43c7301a0c231efa722e8019ee07e3d714c13dc96e",
+      "contract_checksum": "b3f2d212f64c93c2c3ee39f1580ca36fa22f6eb0775e67ded26758ccef54874b",
+      "kind": "sealed-lesson",
+      "lesson_id": "L203",
+      "media_type": "application/json",
+      "path": "lessons/L203/韩非与法家.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9339
+    },
+    {
+      "artifact_id": "rel-57ad9376e1-0015",
+      "artifact_version": 15,
+      "blob_sha256": "9fc5530e6d82a8ccd73fbe724771e24dfc02c127a88360b17a76b6cba8ac2597",
+      "contract_checksum": "f6cb097ba195529c7559770de47588f1ec3385ba28fa975a285daf8b0c6ac0cd",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2884
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 3,
+      "course_package_checksum": "ee131f6b699fe78ddeb8e56195844df577ebba412c5df859ff5392ea509d2b51",
+      "course_package_id": "pkg-L201",
+      "files": [
+        "lessons/L201/孔子与儒家-教师稿.md",
+        "lessons/L201/孔子与儒家-格式层.json",
+        "lessons/L201/孔子与儒家-运行包.json",
+        "lessons/L201/孔子与儒家-预览.html",
+        "lessons/L201/孔子与儒家.json"
+      ],
+      "lesson_id": "L201",
+      "scenarios": [],
+      "source_checksum": "bf386994b4c390adfb52a33a83c1d0c8e9f47ce2a0d3d49b0d08df4e11c419a9",
+      "title": "孔子与儒家"
+    },
+    {
+      "content_version": 3,
+      "course_package_checksum": "23cb9ade30168ee9bf09e06e1644b1da40c69a05c21cdad0b8b43320086947b0",
+      "course_package_id": "pkg-L202",
+      "files": [
+        "lessons/L202/老子与道家-教师稿.md",
+        "lessons/L202/老子与道家-格式层.json",
+        "lessons/L202/老子与道家-运行包.json",
+        "lessons/L202/老子与道家-预览.html",
+        "lessons/L202/老子与道家.json"
+      ],
+      "lesson_id": "L202",
+      "scenarios": [],
+      "source_checksum": "2021f384ad4ab888a030514fab45d9840afa09596453d7b137c15947f6214b6d",
+      "title": "老子与道家"
+    },
+    {
+      "content_version": 3,
+      "course_package_checksum": "a0e0756dc69eaa83e7197fb8eaa1082deb86d9eb2bff07f10cb0a4b1fbca9256",
+      "course_package_id": "pkg-L203",
+      "files": [
+        "lessons/L203/韩非与法家-教师稿.md",
+        "lessons/L203/韩非与法家-格式层.json",
+        "lessons/L203/韩非与法家-运行包.json",
+        "lessons/L203/韩非与法家-预览.html",
+        "lessons/L203/韩非与法家.json"
+      ],
+      "lesson_id": "L203",
+      "scenarios": [],
+      "source_checksum": "b3f2d212f64c93c2c3ee39f1580ca36fa22f6eb0775e67ded26758ccef54874b",
+      "title": "韩非与法家"
+    }
+  ],
+  "manifest_checksum": "175461052bdaafdf166dc1a3de913ce266a87fcfb89d0ae8213cbf98f119af63",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "f6cb097ba195529c7559770de47588f1ec3385ba28fa975a285daf8b0c6ac0cd",
+  "release_created_at": "2026-09-09T10:53:48.562986Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-57ad9376e1-0015",
+  "release_no": 15,
+  "release_note": "Publish L203 v3.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 129173
+}
