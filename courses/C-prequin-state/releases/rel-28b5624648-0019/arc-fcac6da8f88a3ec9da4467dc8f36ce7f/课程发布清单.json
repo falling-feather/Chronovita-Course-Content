@@ -1,0 +1,115 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-28b5624648-0019",
+  "release_no": 19,
+  "course_id": "C-prequin-state",
+  "operation": "publish",
+  "parent_release_id": "rel-28b5624648-0018",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T10:44:42.519002Z",
+  "created_by": "local-admin",
+  "note": "Publish L101 v5.",
+  "items": [
+    {
+      "lesson_id": "L101",
+      "course_id": "C-prequin-state",
+      "content_version": 5,
+      "source_path": "sealed/L101-v005.json",
+      "source_checksum": "086558e9c848ad7b2dfc733cec0564aa47b3627ef0156f2b6d619ae53d446702",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L101",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L101",
+        "version": 5,
+        "checksum": "df5ac4c6ea1ed39e6685943360a616249dd71d62568f08a8fccdba2f779161db",
+        "path": "runtime/v1/course-packages/C-prequin-state/L101/v005-df5ac4c6ea1ed39e6685943360a616249dd71d62568f08a8fccdba2f779161db.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L102",
+      "course_id": "C-prequin-state",
+      "content_version": 3,
+      "source_path": "sealed/L102-v003.json",
+      "source_checksum": "057d03109337244f01b38cc5f8c5840f2418bc529030e86d6f8c528adc56c071",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L102",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L102",
+        "version": 3,
+        "checksum": "858d2cb5109614871dadd8ed894e5667ed1ac29a6bcf32062447c44f02170a9b",
+        "path": "runtime/v1/course-packages/C-prequin-state/L102/v003-858d2cb5109614871dadd8ed894e5667ed1ac29a6bcf32062447c44f02170a9b.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L103",
+      "course_id": "C-prequin-state",
+      "content_version": 3,
+      "source_path": "sealed/L103-v003.json",
+      "source_checksum": "dc6e4983e385b244de0cde3bd6ee036d34a9dc749e64e45f14962ad5272c8263",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L103",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L103",
+        "version": 3,
+        "checksum": "ec1ebd3d29cd0c96fc91a26b212234c17874a91ee847e016d26903f0ad042d52",
+        "path": "runtime/v1/course-packages/C-prequin-state/L103/v003-ec1ebd3d29cd0c96fc91a26b212234c17874a91ee847e016d26903f0ad042d52.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L104",
+      "course_id": "C-prequin-state",
+      "content_version": 2,
+      "source_path": "sealed/L104-v002.json",
+      "source_checksum": "87c9a3a667cd5679d380b66e4767524033d92242eac52e37231ecbe1013d0016",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L104",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L104",
+        "version": 2,
+        "checksum": "c58ab80c727e4d03ef1152eb6255ae020b2a8cea2d72c0aa7a421277034c8372",
+        "path": "runtime/v1/course-packages/C-prequin-state/L104/v002-c58ab80c727e4d03ef1152eb6255ae020b2a8cea2d72c0aa7a421277034c8372.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L105",
+      "course_id": "C-prequin-state",
+      "content_version": 2,
+      "source_path": "sealed/L105-v002.json",
+      "source_checksum": "aab062d30898fba50a990670dbf42bd0abb9ce22bb8402de55ffb2422c6de041",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L105",
+        "course_id": "C-prequin-state",
+        "lesson_id": "L105",
+        "version": 2,
+        "checksum": "4e3c894589d9a035ea11ea69c6d676177df75750c36dbeee50cb760f512ff459",
+        "path": "runtime/v1/course-packages/C-prequin-state/L105/v002-4e3c894589d9a035ea11ea69c6d676177df75750c36dbeee50cb760f512ff459.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "373a47aa8c05e450ebfbeef7854cd9ac2d062febf45c70e5bcb39d1c171fcfb5"
+}

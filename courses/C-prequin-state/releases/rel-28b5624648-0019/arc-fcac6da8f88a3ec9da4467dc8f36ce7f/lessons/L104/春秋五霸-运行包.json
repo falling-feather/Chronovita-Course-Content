@@ -1,0 +1,377 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L104",
+  "course_id": "C-prequin-state",
+  "lesson_id": "L104",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "春秋五霸",
+  "unit": "早期国家与社会变革",
+  "era": "先秦",
+  "body": [
+    "周平王东迁以后，周王室对地方的控制逐渐减弱，各地封国开始争夺土地、人口和政治影响。强大的封国通过战争、结盟和援助周王室扩大自己的声望，弱小的封国则需要在大国之间寻找生存空间。传统文献把这一时期先后出现的强大诸侯称为【春秋五霸】。关于五霸的具体名单，文献有不同说法，常见说法包括【齐桓公】、【晋文公】、【楚庄王】、【吴王阖闾】和【越王勾践】。这里的“霸”主要指在诸侯中取得较大影响、能够主持会盟和号召其他封国的政治地位。",
+    "齐国位于东方，拥有较好的交通和经济条件。齐桓公即位后，任用【管仲】为相，整顿内政，发展生产，编组军队，使齐国逐渐强盛。管仲又提出【尊王攘夷】的号召，借助周王的名义团结诸侯，同时抵御山戎等周边势力。公元前651年，齐桓公在【葵丘会盟】中召集多个封国，成为春秋时期较早取得霸主地位的诸侯。齐桓公的霸业表明，诸侯要取得主导权，既需要强大的国力，也需要处理诸侯之间的关系。",
+    "晋国后来在北方兴起。晋文公早年长期流亡，回国继位后整顿政务，联合诸侯，并在周王室遇到危机时出兵相助。公元前632年，晋军在【城濮之战】中击败楚军，晋文公随后主持会盟，确立了晋国在中原地区的影响。关于晋文公退避三舍的故事，主要见于后世文献，但它表现了古人对守信、知礼和政治声望的重视。",
+    "楚国长期经营长江中游地区，国土广阔，军事实力较强。楚庄王即位后，经过一段时间的整顿，楚国不断向中原发展。公元前597年，楚军在邲之战中击败晋军，楚庄王由此取得了重要的政治声望。楚国称霸说明，春秋时期的政治中心不再只由北方封国控制，南方强国也开始积极参与中原事务。",
+    "春秋后期，吴、越两国在东南地区相继强大起来。吴王阖闾任用伍子胥等人，整顿军队，进攻楚国，并一度占领楚国都城。吴国衰落后，越王勾践经过长期准备灭掉吴国，成为东南地区新的强国。后世常用“卧薪尝胆”讲述勾践复国的故事，这一说法寄托了忍耐图强的道德意味。吴、越的崛起扩大了诸侯争霸的范围，也加强了中原与长江下游地区的联系。",
+    "诸侯争霸留下了城市、墓葬、青铜器和盟誓文字等多种遗存。山西侯马的【侯马晋国遗址】出土了城址、手工业遗存和侯马盟书，反映了春秋晚期晋国的政治活动和贵族盟誓。考古材料让我们看到，诸侯争霸不仅发生在战场上，也体现在城市建设、资源组织和政治结盟之中。",
+    "春秋时期的争霸战争削弱了周王室原有的政治权威，也推动了诸侯国之间的外交、军事和经济联系。霸主并没有建立统一的中央政权，但他们通过会盟和战争改变了各国之间的力量关系。春秋五霸的兴起，标志着西周时期以周王室为中心的秩序发生变化，并为战国时期各国更加激烈的竞争准备了条件。"
+  ],
+  "abstract": "周平王东迁以后，周王室对地方的控制逐渐减弱，各地封国开始争夺土地、人口和政治影响。强大的封国通过战争、结盟和援助周王室扩大自己的声望，弱小的封国则需要在大国之间寻找生存空间。传统文献把这一时期先后出现的强大诸侯称为【春秋五霸】。关于五霸...",
+  "course_title": "早期国家与社会变革",
+  "era_id": "prequin",
+  "section": "制度",
+  "lesson_no": "1.4",
+  "duration": "09:10",
+  "teaching_objectives": [
+    "按照齐桓公、晋文公、楚庄王、吴王阖闾和越王勾践的活动梳理春秋争霸进程",
+    "结合管仲改革和葵丘会盟说明齐桓公称霸的条件",
+    "结合城濮之战和邲之战理解诸侯国之间的力量变化",
+    "说明吴越崛起对春秋争霸范围和区域联系的影响",
+    "结合侯马晋国遗址认识考古材料所呈现的春秋政治活动"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-c74fce3a",
+      "word": "春秋五霸",
+      "pinyin": "chūn qiū wǔ bà",
+      "gloss": "春秋时期取得较大政治影响的诸侯；具体名单有不同说法",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-a3c72920",
+      "word": "齐桓公",
+      "pinyin": "qí huán gōng",
+      "gloss": "春秋时期齐国国君；任用管仲并成为较早的霸主",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-4848771f",
+      "word": "管仲",
+      "pinyin": "guǎn zhòng",
+      "gloss": "齐桓公任用的卿相；主持齐国政治 经济和军事改革",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-02da759e",
+      "word": "尊王攘夷",
+      "pinyin": "zūn wáng rǎng yí",
+      "gloss": "尊重周王名义；联合诸侯抵御周边势力的政治号召",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-8a55cd6f",
+      "word": "葵丘会盟",
+      "pinyin": "kuí qiū huì méng",
+      "gloss": "齐桓公召集诸侯举行的会盟；齐国霸业的重要标志",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-d95e81e5",
+      "word": "晋文公",
+      "pinyin": "jìn wén gōng",
+      "gloss": "春秋时期晋国国君；城濮之战后成为中原霸主",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-96a1aecd",
+      "word": "城濮之战",
+      "pinyin": "chéng pú zhī zhàn",
+      "gloss": "晋军击败楚军的春秋战役；晋文公确立霸主地位的重要事件",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-203aff01",
+      "word": "楚庄王",
+      "pinyin": "chǔ zhuāng wáng",
+      "gloss": "春秋时期楚国国君；楚国称霸中原的重要人物",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-86f21f3d",
+      "word": "吴王阖闾",
+      "pinyin": "wú wáng hé lǘ",
+      "gloss": "春秋后期吴国国君；进攻楚国并扩大吴国影响",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-8129eb42",
+      "word": "越王勾践",
+      "pinyin": "yuè wáng gōu jiàn",
+      "gloss": "春秋后期越国国君；灭吴后成为东南强国首领",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-01fe09f6",
+      "word": "侯马晋国遗址",
+      "pinyin": "hóu mǎ jìn guó yí zhǐ",
+      "gloss": "位于今山西侯马的晋国都城遗址；出土城址和盟誓文字",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-8c1961f1",
+      "name": "齐桓公",
+      "role": "春秋时期齐国国君",
+      "summary": "任用管仲改革并通过会盟取得霸主地位的诸侯",
+      "persona": "重点说明齐国国力、管仲改革和会盟外交之间的关系",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-7e4354fd",
+      "name": "管仲",
+      "role": "齐国卿相",
+      "summary": "辅佐齐桓公整顿内政、发展生产和编组军队的政治家",
+      "persona": "将改革措施与齐国称霸联系起来；避免把后世评价写成唯一结论",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-819c23ca",
+      "name": "晋文公",
+      "role": "春秋时期晋国国君",
+      "summary": "城濮之战后主持会盟并取得中原霸主地位的诸侯",
+      "persona": "重点说明流亡经历、军事胜利和政治声望之间的联系",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-bf6dfac4",
+      "name": "楚庄王",
+      "role": "春秋时期楚国国君",
+      "summary": "整顿楚国并在邲之战后取得中原政治影响的君主",
+      "persona": "突出南方强国参与中原政治的历史变化",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-a17805e9",
+      "name": "吴王阖闾",
+      "role": "春秋后期吴国国君",
+      "summary": "整顿军队、进攻楚国并扩大吴国影响的君主",
+      "persona": "用于说明东南诸侯崛起和争霸范围扩大",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-526e3585",
+      "name": "越王勾践",
+      "role": "春秋后期越国国君",
+      "summary": "灭吴后成为东南地区强国首领的君主",
+      "persona": "区分勾践的历史活动与后世卧薪尝胆故事的道德表达",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-9c2c02e1",
+      "label": "临淄",
+      "region": "今山东淄博一带",
+      "lat": null,
+      "lng": null,
+      "note": "齐国都城；齐桓公称霸时期的重要政治中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-e7dca65f",
+      "label": "城濮",
+      "region": "今河南濮阳一带",
+      "lat": null,
+      "lng": null,
+      "note": "晋楚城濮之战的传统地点",
+      "kind": "battlefield"
+    },
+    {
+      "point_id": "map-49318915",
+      "label": "侯马晋国遗址",
+      "region": "今山西侯马",
+      "lat": null,
+      "lng": null,
+      "note": "春秋时期晋国都城遗址；出土城址和盟誓文字",
+      "kind": "site"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-980a98c9",
+      "statement": "周平王东迁后；周王室对地方的控制逐渐减弱",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-f07f1c5a",
+      "statement": "春秋五霸的具体名单有不同说法；常见说法包括齐桓公、晋文公、楚庄王、吴王阖闾和越王勾践",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-60d9de19",
+      "statement": "管仲主持齐国政治、经济和军事改革；齐国由此逐渐强盛",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-5c2ec99c",
+      "statement": "齐桓公通过尊王攘夷和葵丘会盟取得较早的霸主地位",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-f8779498",
+      "statement": "晋文公在城濮之战击败楚军；随后主持诸侯会盟",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-0c0214fe",
+      "statement": "楚庄王在邲之战后取得中原政治影响；南方强国参与诸侯竞争",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-1562203e",
+      "statement": "吴王阖闾和越王勾践的活动；扩大了春秋争霸的地域范围",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-2e6d514e",
+      "statement": "侯马晋国遗址出土城址、手工业遗存和盟誓文字；反映春秋晚期晋国的政治活动",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-91bed8ab",
+      "statement": "春秋争霸推动诸侯之间的战争、会盟和区域联系；周王室原有政治秩序由此发生变化",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-0e1c0275",
+      "title": "文史漫步：荀子评点战国双雄齐、秦",
+      "kind": "other",
+      "publisher": "广州市政协",
+      "url_or_path": "https://www.gzszx.gov.cn/wstd/wsmb/33751.shtml",
+      "citation_note": "介绍春秋五霸的常见名单及齐桓公相关历史",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-c8b2e177",
+      "title": "管仲治齐",
+      "kind": "other",
+      "publisher": "清风齐鲁网",
+      "url_or_path": "https://www.qfxc.gov.cn/contents/32/13126.html",
+      "citation_note": "介绍管仲改革、尊王攘夷和齐桓公会盟",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-49374697",
+      "title": "博物馆展览：争霸春秋",
+      "kind": "other",
+      "publisher": "北京市人民政府",
+      "url_or_path": "https://www.beijing.gov.cn/fwcj/calendar/bwgzl/6a0d7712daec8455186ecd6f.html",
+      "citation_note": "介绍侯马晋国遗址、侯马盟书和春秋晋国历史",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "周王室权威减弱后，诸侯为什么要争夺霸主地位？",
+    "管仲采取了哪些措施帮助齐国强盛？",
+    "尊王攘夷对齐桓公取得霸主地位有什么作用？",
+    "城濮之战为什么成为晋文公称霸的重要事件？",
+    "楚庄王称霸反映了春秋政治格局发生了怎样的变化？",
+    "吴王阖闾和越王勾践的活动如何扩大了争霸范围？",
+    "侯马晋国遗址中的盟誓文字为认识春秋政治提供了哪些线索？"
+  ],
+  "level_goals": [
+    "按照齐桓公、晋文公、楚庄王、吴王阖闾和越王勾践的活动梳理春秋争霸进程",
+    "结合管仲改革和葵丘会盟说明齐桓公称霸的条件",
+    "结合城濮之战和邲之战理解诸侯国之间的力量变化",
+    "说明吴越崛起对春秋争霸范围和区域联系的影响",
+    "结合侯马晋国遗址认识考古材料所呈现的春秋政治活动"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "春秋五霸",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "齐桓公",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "管仲",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "尊王攘夷",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "葵丘会盟",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "晋文公",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "第四课以周王室权威减弱和诸侯争霸为主线；五霸名单差异在首次出现处说明；关键词均在正文首次出现处标注。",
+  "created_at": "2026-09-06T00:00:00Z",
+  "updated_at": "2026-09-09T09:26:59.067265Z",
+  "sealed_at": "2026-09-09T09:26:59.067265Z",
+  "sealed_by": "local-admin",
+  "checksum": "c58ab80c727e4d03ef1152eb6255ae020b2a8cea2d72c0aa7a421277034c8372",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L104",
+    "source_version": "2",
+    "source_checksum": "87c9a3a667cd5679d380b66e4767524033d92242eac52e37231ecbe1013d0016",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
