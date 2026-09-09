@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-f9a3cdd790-0004",
+  "release_no": 4,
+  "course_id": "C-qinhan-founding",
+  "operation": "publish",
+  "parent_release_id": "rel-f9a3cdd790-0003",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T11:21:13.455960Z",
+  "created_by": "local-admin",
+  "note": "Publish L403 v3.",
+  "items": [
+    {
+      "lesson_id": "L403",
+      "course_id": "C-qinhan-founding",
+      "content_version": 3,
+      "source_path": "sealed/L403-v003.json",
+      "source_checksum": "5bbbe407c42653133e70fa573c8da110670796908943de104eab45af0411af20",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L403",
+        "course_id": "C-qinhan-founding",
+        "lesson_id": "L403",
+        "version": 3,
+        "checksum": "8017500ab5ef337e67f70a93cf1c4468a27467ca79799e5773b45b3d2c96b340",
+        "path": "runtime/v1/course-packages/C-qinhan-founding/L403/v003-8017500ab5ef337e67f70a93cf1c4468a27467ca79799e5773b45b3d2c96b340.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "7d98e3bc5bfe963bc675ebef1e9e0a04b63d8543e6daa909d38ae52f5045f1d7"
+}
