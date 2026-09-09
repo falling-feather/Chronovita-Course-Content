@@ -1,0 +1,265 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L602",
+  "course_id": "C-weijin-fusion",
+  "lesson_id": "L602",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "清谈玄学与竹林七贤",
+  "unit": "乱世中的思想与士人选择",
+  "era": "魏晋南北朝",
+  "body": [
+    "魏晋时期，王朝更替频繁，士人既要面对政治风险，也在重新思考个人与礼法 社会和自然的关系。汉代经学重视经典解释和政治秩序，到了魏晋，一些学者转而讨论世界的根本 人的本性以及名教与自然的关系。这种新的思想风气被称为【玄学】。",
+    "玄学家常用《周易》《老子》《庄子》解释问题，三部经典合称【三玄】。何晏和【王弼】是曹魏前期的重要代表。王弼认为纷繁万物背后有共同根本，并用简明注释重新解释《老子》和《周易》。玄学并不是完全抛开儒家礼制，而是尝试用新的概念说明礼制为何成立以及人应当怎样生活。",
+    "玄学讨论常以人物对话和辩论展开，被称为【清谈】。参与者重视语言 条理和风度，谈论有无 本末 名教与自然等问题。清谈使哲学思考进入士人交往，也可能流于空疏。后世常把西晋政治衰败简单归咎于清谈，其实政权危机还与权力斗争 土地关系和军事失序等多种因素有关。",
+    "魏晋之际，司马氏与曹魏宗室的冲突使政治气氛紧张。部分士人不愿直接卷入权力争夺，便以饮酒 弹琴 写诗和谈论玄理表达态度。后人把【嵇康】【阮籍】 山涛 向秀 刘伶 王戎和阮咸合称【竹林七贤】。他们并非始终采取相同立场，也未必长期固定聚会，但在文学记忆中共同代表了魏晋士人的独特风貌。",
+    "嵇康擅长音乐和文章，强调顺应人的自然本性，不愿接受司马氏安排的官职。他写下《与山巨源绝交书》，说明自己不适合仕途，后来因卷入案件被处死。阮籍在复杂政治环境中采取更加曲折的方式，常借诗歌和行为表达忧惧，避免公开评论现实。他的《咏怀诗》语言含蓄，反映士人在乱世中的压抑和自我保护。",
+    "竹林七贤的形象后来见于《世说新语》等文献。书中许多故事生动传神，塑造出率真 洒脱或不拘礼法的【魏晋风度】。这些记载既保存了人物言行，也经过选择和文学加工。认识这一群体，应把人物真实经历 后世叙述和文化象征区分开来。",
+    "清谈与玄学拓展了古人对生命 个性和自然的讨论，也影响诗歌 书法 绘画和人物品评。它们产生于动荡时代，却没有停留在消极避世。学习本课，重点是理解政治环境怎样影响士人的思想选择，并看到儒道观念在新的时代条件下发生了重新解释。"
+  ],
+  "abstract": "魏晋政治动荡促使士人重新思考名教 自然和个人生命。玄学与清谈兴起，竹林七贤的选择成为理解魏晋士人精神世界的重要线索。",
+  "course_title": "分裂中的文化整合",
+  "era_id": "weijin",
+  "section": "通史",
+  "lesson_no": "1.2",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "解释玄学和清谈的基本含义",
+    "说明政治环境与士人选择之间的关系",
+    "比较嵇康与阮籍的不同处世方式",
+    "认识竹林七贤历史人物与文化形象的区别"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-8f4a4866",
+      "word": "玄学",
+      "pinyin": "xuán xué",
+      "gloss": "魏晋时期讨论世界根本和人生问题的思想潮流；重视儒道经典的新解释",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-ec241f45",
+      "word": "三玄",
+      "pinyin": "sān xuán",
+      "gloss": "《周易》《老子》《庄子》的合称；魏晋玄学讨论的重要经典",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-ef346f33",
+      "word": "王弼",
+      "pinyin": "wáng bì",
+      "gloss": "曹魏玄学家；以注释《老子》《周易》著名",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-7404163b",
+      "word": "清谈",
+      "pinyin": "qīng tán",
+      "gloss": "魏晋士人围绕哲理和人物品评展开的谈论；重视语言与思辨",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e6bae646",
+      "word": "嵇康",
+      "pinyin": "jī kāng",
+      "gloss": "魏晋文学家和思想家；不愿与司马氏合作；后被处死",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-0701174a",
+      "word": "阮籍",
+      "pinyin": "ruǎn jí",
+      "gloss": "魏晋诗人；以含蓄诗文和独特行为应对政治风险",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-d8532caf",
+      "word": "竹林七贤",
+      "pinyin": "zhú lín qī xián",
+      "gloss": "后世对嵇康 阮籍等七位魏晋士人的合称；形象具有文化象征意义",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-96978c76",
+      "word": "魏晋风度",
+      "pinyin": "wèi jìn fēng dù",
+      "gloss": "魏晋士人重视个性 精神自由和人物气质的文化风貌",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-2fa00fc7",
+      "name": "王弼",
+      "role": "曹魏玄学家",
+      "summary": "重新注释《老子》和《周易》",
+      "persona": "通过有无与本末问题理解玄学思考",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-3dfae037",
+      "name": "嵇康",
+      "role": "文学家和思想家",
+      "summary": "以文章 音乐和人生选择表达对自然的重视",
+      "persona": "联系政治风险理解拒绝仕途的选择",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-faf916a6",
+      "name": "阮籍",
+      "role": "诗人和名士",
+      "summary": "以含蓄方式表达乱世中的忧惧",
+      "persona": "避免把文学形象等同于全部历史事实",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-434b5c9a",
+      "label": "洛阳",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "曹魏和西晋政治文化中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-4e7192af",
+      "label": "山阳",
+      "region": "今河南焦作一带",
+      "lat": null,
+      "lng": null,
+      "note": "后世竹林七贤故事联系的地区",
+      "kind": "region"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-407cda62",
+      "statement": "玄学以《周易》《老子》《庄子》等经典为重要思想资源",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-b93ab2a4",
+      "statement": "清谈是魏晋士人讨论哲理和品评人物的重要方式",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9d732377",
+      "statement": "竹林七贤并非思想和政治选择完全一致的固定团体",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-0d10cbe2",
+      "statement": "《世说新语》兼具人物记录与文学叙事特点",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-da4ef20a",
+      "statement": "玄学和清谈影响魏晋文学艺术与人物审美",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-08fbb890",
+      "title": "《三国志》及裴松之注",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《三国志》及裴松之注",
+      "citation_note": "保存魏晋人物经历和多种早期记载",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-fbc1ca14",
+      "title": "《世说新语》",
+      "kind": "other",
+      "publisher": "志人小说",
+      "url_or_path": "《世说新语》",
+      "citation_note": "记录魏晋人物言谈和文化形象；具有文学加工特点",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "魏晋时期为什么会兴起玄学讨论？",
+    "清谈主要讨论哪些问题？",
+    "嵇康与阮籍面对政治风险时有何不同？",
+    "为什么不能把《世说新语》的故事全部视为实录？"
+  ],
+  "level_goals": [
+    "解释玄学和清谈的基本含义",
+    "说明政治环境与士人选择之间的关系",
+    "比较嵇康与阮籍的不同处世方式",
+    "认识竹林七贤历史人物与文化形象的区别"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "玄学",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "清谈",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "竹林七贤",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "魏晋风度",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课把思想变化放入政治环境和人物选择中讲述；集中一次说明竹林七贤叙事的文献性质。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T11:48:29.920257Z",
+  "sealed_at": "2026-09-09T11:48:29.920257Z",
+  "sealed_by": "codex",
+  "checksum": "9d049e31a06a114b3264933a7fd5d0911626ce91a9293414ea2a0b9fd3c259a4",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L602",
+    "source_version": "1",
+    "source_checksum": "cd2314fcb19ea9294f5f81bb0892faeb3f5af33a47153a04a6854284c8059eb4",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
