@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-74a6cd6e30-0005",
+  "release_no": 5,
+  "course_id": "C-songyuan-song",
+  "operation": "publish",
+  "parent_release_id": "rel-74a6cd6e30-0004",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T12:33:37.461984Z",
+  "created_by": "local-admin",
+  "note": "Publish L1001 v2.",
+  "items": [
+    {
+      "lesson_id": "L1001",
+      "course_id": "C-songyuan-song",
+      "content_version": 2,
+      "source_path": "sealed/L1001-v002.json",
+      "source_checksum": "2fc3435c94ca0ddb03524e63d4f14072b6e289a97c1a6bfa26ac33eb9e368868",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1001",
+        "course_id": "C-songyuan-song",
+        "lesson_id": "L1001",
+        "version": 2,
+        "checksum": "5ad04c59e35e0af830a934f479c29d3d2ea8ce7f266266f4556dfa8f606b6c31",
+        "path": "runtime/v1/course-packages/C-songyuan-song/L1001/v002-5ad04c59e35e0af830a934f479c29d3d2ea8ce7f266266f4556dfa8f606b6c31.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1002",
+      "course_id": "C-songyuan-song",
+      "content_version": 1,
+      "source_path": "sealed/L1002-v001.json",
+      "source_checksum": "9a23070e04218f9d581cd191500d0b4b16411384b0d025b724ebee4bffb8da68",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1002",
+        "course_id": "C-songyuan-song",
+        "lesson_id": "L1002",
+        "version": 1,
+        "checksum": "81af3a5e7ad488f0f421eec57772501bfd8e1b331b145093d3ef87537b4ab933",
+        "path": "runtime/v1/course-packages/C-songyuan-song/L1002/v001-81af3a5e7ad488f0f421eec57772501bfd8e1b331b145093d3ef87537b4ab933.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1003",
+      "course_id": "C-songyuan-song",
+      "content_version": 1,
+      "source_path": "sealed/L1003-v001.json",
+      "source_checksum": "8b4396cafa5e1e9285421f27ae8f934279b0def5ffeeedf0095026f6fdb26bf7",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1003",
+        "course_id": "C-songyuan-song",
+        "lesson_id": "L1003",
+        "version": 1,
+        "checksum": "1a5ecd5cfed14f4afaf8dd226a88113769a0caf9934db22fddd0f0147c2ff41f",
+        "path": "runtime/v1/course-packages/C-songyuan-song/L1003/v001-1a5ecd5cfed14f4afaf8dd226a88113769a0caf9934db22fddd0f0147c2ff41f.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "e08bd43f1fb68fc1d03166761031e7a843ca6e0c2758b5ec94c3b563f4698cdc"
+}
