@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-aa5e0f6766-0004",
+  "release_no": 4,
+  "course_id": "C-qinhan-thought",
+  "operation": "publish",
+  "parent_release_id": "rel-aa5e0f6766-0003",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T10:29:02.245222Z",
+  "created_by": "local-admin",
+  "note": "发布新编课时 L503。",
+  "items": [
+    {
+      "lesson_id": "L501",
+      "course_id": "C-qinhan-thought",
+      "content_version": 1,
+      "source_path": "sealed/L501-v001.json",
+      "source_checksum": "b38c184fe3994342e5ee1c8ef47fe6505a775787a8c10bb1e092bc0f0b5952a1",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L501",
+        "course_id": "C-qinhan-thought",
+        "lesson_id": "L501",
+        "version": 1,
+        "checksum": "3f18739c072c694709ac0c372d289711d4669aeae03006e27bf83bf85f30c501",
+        "path": "runtime/v1/course-packages/C-qinhan-thought/L501/v001-3f18739c072c694709ac0c372d289711d4669aeae03006e27bf83bf85f30c501.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L502",
+      "course_id": "C-qinhan-thought",
+      "content_version": 1,
+      "source_path": "sealed/L502-v001.json",
+      "source_checksum": "2606c456e171fba95773551b1e9a7cf63c946ff584dc68126a823fa75c79fbb1",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L502",
+        "course_id": "C-qinhan-thought",
+        "lesson_id": "L502",
+        "version": 1,
+        "checksum": "8a3b5bae79c63fb4f7ea06c59824e007a7b4f75c15f109aeee003e67712f2401",
+        "path": "runtime/v1/course-packages/C-qinhan-thought/L502/v001-8a3b5bae79c63fb4f7ea06c59824e007a7b4f75c15f109aeee003e67712f2401.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L503",
+      "course_id": "C-qinhan-thought",
+      "content_version": 1,
+      "source_path": "sealed/L503-v001.json",
+      "source_checksum": "cb2441a084a5ef1dfa101ef358673f17fded049429c5867a35994032dbc5196e",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L503",
+        "course_id": "C-qinhan-thought",
+        "lesson_id": "L503",
+        "version": 1,
+        "checksum": "3642bbc2ff211d6e68858aba2cf36db39cf299244c61f7e9fbc8cbcce55f54bb",
+        "path": "runtime/v1/course-packages/C-qinhan-thought/L503/v001-3642bbc2ff211d6e68858aba2cf36db39cf299244c61f7e9fbc8cbcce55f54bb.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "a64349ec94bfbe604c40691a9e0d56c2c0f4ec696fa14d12c9bf9594b4d02616"
+}

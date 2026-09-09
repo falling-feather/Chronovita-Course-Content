@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "83f0586f920f4c0f7b87c2f400e2efc3cdf81f9d6a48e8fddd0e6c1243ab6707",
+  "archive_id": "arc-83f0586f920f4c0f7b87c2f400e2efc3",
+  "archive_path": "C-qinhan-thought/releases/rel-aa5e0f6766-0004/arc-83f0586f920f4c0f7b87c2f400e2efc3",
+  "course_id": "C-qinhan-thought",
+  "course_title": "两汉思想与科技",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "fa3d206a9723276ff88b86b7e0951e00d2d153756ecd2331f31e8d70f197ed54",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L501",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L501/司马迁与《史记》-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4073
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e059e401d515c2dbd526a114b888e66231c56095f7f9454e3bcde5cac777ff52",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L501",
+      "media_type": "application/json",
+      "path": "lessons/L501/司马迁与《史记》-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7305
+    },
+    {
+      "artifact_id": "pkg-L501",
+      "artifact_version": 1,
+      "blob_sha256": "3e4c53baae4a7c87bf5c1eaf14bbae196b0e252d16be8eeb9851f181fedbc839",
+      "contract_checksum": "3f18739c072c694709ac0c372d289711d4669aeae03006e27bf83bf85f30c501",
+      "kind": "course-package",
+      "lesson_id": "L501",
+      "media_type": "application/json",
+      "path": "lessons/L501/司马迁与《史记》-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13477
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "4919e67bec7853dc3ae1d6b2ccb7b5de120c54f8d4851e64f60fe53e6002d721",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L501",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L501/司马迁与《史记》-预览.html",
+      "schema_version": null,
+      "size_bytes": 5782
+    },
+    {
+      "artifact_id": "L501",
+      "artifact_version": 1,
+      "blob_sha256": "a52856993274ede4dc1b78fa8094f9ed410fa989aae85de538a7dc4603a3bdda",
+      "contract_checksum": "b38c184fe3994342e5ee1c8ef47fe6505a775787a8c10bb1e092bc0f0b5952a1",
+      "kind": "sealed-lesson",
+      "lesson_id": "L501",
+      "media_type": "application/json",
+      "path": "lessons/L501/司马迁与《史记》.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9488
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "88c616ea74553fd5adf2ce00326f58b334e9b6630d4cfc2fcf5198d8fd9c80e6",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L502",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L502/今古文经学与白虎观-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4098
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "2e5d768ae5d38ac0f23de8c0f0e723c0f3b8aec7ccd8a575822bd84e87f1252a",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L502",
+      "media_type": "application/json",
+      "path": "lessons/L502/今古文经学与白虎观-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7456
+    },
+    {
+      "artifact_id": "pkg-L502",
+      "artifact_version": 1,
+      "blob_sha256": "bad6682a2fb26f94bf86c1749267abcdca0cf4d354daae21fb3b3a2baa51a3ba",
+      "contract_checksum": "8a3b5bae79c63fb4f7ea06c59824e007a7b4f75c15f109aeee003e67712f2401",
+      "kind": "course-package",
+      "lesson_id": "L502",
+      "media_type": "application/json",
+      "path": "lessons/L502/今古文经学与白虎观-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13427
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "40a53dc796665ab2d0d111e1bd18a74c8520f4e2b65246e8311d2a94cd2f2d90",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L502",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L502/今古文经学与白虎观-预览.html",
+      "schema_version": null,
+      "size_bytes": 5828
+    },
+    {
+      "artifact_id": "L502",
+      "artifact_version": 1,
+      "blob_sha256": "ed9e791bd51525b882951ad6d9c59ac6cdbac8afcc7117a0beffed409644251e",
+      "contract_checksum": "2606c456e171fba95773551b1e9a7cf63c946ff584dc68126a823fa75c79fbb1",
+      "kind": "sealed-lesson",
+      "lesson_id": "L502",
+      "media_type": "application/json",
+      "path": "lessons/L502/今古文经学与白虎观.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9489
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "7f5c7e41bd574dc03cd24cb56e9869097f17890f23779571a1a73ec82ad2d9bc",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L503",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L503/造纸术、地动仪与《九章算术》-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4542
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "c32d3625fcc02eb0aec0e56a36b66fecb99f378d50d021714c475da3ebcd8101",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L503",
+      "media_type": "application/json",
+      "path": "lessons/L503/造纸术、地动仪与《九章算术》-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8248
+    },
+    {
+      "artifact_id": "pkg-L503",
+      "artifact_version": 1,
+      "blob_sha256": "0f1404401a566a47803c8437162b4e2f145cb51dc1d70e1b6d417fcc5bfd8dd9",
+      "contract_checksum": "3642bbc2ff211d6e68858aba2cf36db39cf299244c61f7e9fbc8cbcce55f54bb",
+      "kind": "course-package",
+      "lesson_id": "L503",
+      "media_type": "application/json",
+      "path": "lessons/L503/造纸术、地动仪与《九章算术》-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 14132
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "2a1fa4e9a333b4d680533a0005d8897e35ff9f1e05f88f112af84d5d25fd4d2c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L503",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L503/造纸术、地动仪与《九章算术》-预览.html",
+      "schema_version": null,
+      "size_bytes": 6241
+    },
+    {
+      "artifact_id": "L503",
+      "artifact_version": 1,
+      "blob_sha256": "2537098987da1d69929bdf8253c65d05339da4e398480e071f83cb19b3ef212a",
+      "contract_checksum": "cb2441a084a5ef1dfa101ef358673f17fded049429c5867a35994032dbc5196e",
+      "kind": "sealed-lesson",
+      "lesson_id": "L503",
+      "media_type": "application/json",
+      "path": "lessons/L503/造纸术、地动仪与《九章算术》.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 10134
+    },
+    {
+      "artifact_id": "rel-aa5e0f6766-0004",
+      "artifact_version": 4,
+      "blob_sha256": "2c6e7746b92c9e00969215323db67a471a54adbf40d5eb5455b47edac8e6fe08",
+      "contract_checksum": "a64349ec94bfbe604c40691a9e0d56c2c0f4ec696fa14d12c9bf9594b4d02616",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2883
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "3f18739c072c694709ac0c372d289711d4669aeae03006e27bf83bf85f30c501",
+      "course_package_id": "pkg-L501",
+      "files": [
+        "lessons/L501/司马迁与《史记》-教师稿.md",
+        "lessons/L501/司马迁与《史记》-格式层.json",
+        "lessons/L501/司马迁与《史记》-运行包.json",
+        "lessons/L501/司马迁与《史记》-预览.html",
+        "lessons/L501/司马迁与《史记》.json"
+      ],
+      "lesson_id": "L501",
+      "scenarios": [],
+      "source_checksum": "b38c184fe3994342e5ee1c8ef47fe6505a775787a8c10bb1e092bc0f0b5952a1",
+      "title": "司马迁与《史记》"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "8a3b5bae79c63fb4f7ea06c59824e007a7b4f75c15f109aeee003e67712f2401",
+      "course_package_id": "pkg-L502",
+      "files": [
+        "lessons/L502/今古文经学与白虎观-教师稿.md",
+        "lessons/L502/今古文经学与白虎观-格式层.json",
+        "lessons/L502/今古文经学与白虎观-运行包.json",
+        "lessons/L502/今古文经学与白虎观-预览.html",
+        "lessons/L502/今古文经学与白虎观.json"
+      ],
+      "lesson_id": "L502",
+      "scenarios": [],
+      "source_checksum": "2606c456e171fba95773551b1e9a7cf63c946ff584dc68126a823fa75c79fbb1",
+      "title": "今古文经学与白虎观"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "3642bbc2ff211d6e68858aba2cf36db39cf299244c61f7e9fbc8cbcce55f54bb",
+      "course_package_id": "pkg-L503",
+      "files": [
+        "lessons/L503/造纸术、地动仪与《九章算术》-教师稿.md",
+        "lessons/L503/造纸术、地动仪与《九章算术》-格式层.json",
+        "lessons/L503/造纸术、地动仪与《九章算术》-运行包.json",
+        "lessons/L503/造纸术、地动仪与《九章算术》-预览.html",
+        "lessons/L503/造纸术、地动仪与《九章算术》.json"
+      ],
+      "lesson_id": "L503",
+      "scenarios": [],
+      "source_checksum": "cb2441a084a5ef1dfa101ef358673f17fded049429c5867a35994032dbc5196e",
+      "title": "造纸术、地动仪与《九章算术》"
+    }
+  ],
+  "manifest_checksum": "b86fa62a08bf082bffdcb790c245de5d8555b7bea660abe49f2dfbc17f6beab1",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "a64349ec94bfbe604c40691a9e0d56c2c0f4ec696fa14d12c9bf9594b4d02616",
+  "release_created_at": "2026-09-09T10:29:02.245222Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-aa5e0f6766-0004",
+  "release_no": 4,
+  "release_note": "发布新编课时 L503。",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 126603
+}
