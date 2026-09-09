@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "9fbb54f8685d8560e1d4fa03a1eebbd193bb44b5a9db5177942d1587ece4d9a1",
+  "archive_id": "arc-9fbb54f8685d8560e1d4fa03a1eebbd1",
+  "archive_path": "C-qinhan-founding/releases/rel-f9a3cdd790-0003/arc-9fbb54f8685d8560e1d4fa03a1eebbd1",
+  "course_id": "C-qinhan-founding",
+  "course_title": "大一统帝国的奠基",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "34f6fe7f90258c64fd9ca7c9f2daf30bbc9971751adef103a6458643fcedc849",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L403",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L403/光武中兴与东汉兴衰-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4423
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ccf5d558c95108c2783425ef4cf55ac77a3c9ab73560078b3aa4b72072788ca3",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L403",
+      "media_type": "application/json",
+      "path": "lessons/L403/光武中兴与东汉兴衰-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8095
+    },
+    {
+      "artifact_id": "pkg-L403",
+      "artifact_version": 2,
+      "blob_sha256": "0aeafd07d84ff80837f887842926a77060962ebe893fb5e53d5a69b711eda149",
+      "contract_checksum": "e88c9c119f35a2174aa201115ccba0d4c9ee6348476031bf7b00f6f3d4dfeec6",
+      "kind": "course-package",
+      "lesson_id": "L403",
+      "media_type": "application/json",
+      "path": "lessons/L403/光武中兴与东汉兴衰-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 14126
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ff1f8358c491f3295a814356a49a8f007fad8fe68038368b80e3b35b7fc6a899",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L403",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L403/光武中兴与东汉兴衰-预览.html",
+      "schema_version": null,
+      "size_bytes": 6186
+    },
+    {
+      "artifact_id": "L403",
+      "artifact_version": 2,
+      "blob_sha256": "6ef7459c5e36dd17aa63cb9537e38fffa7a4760f7d57a812771feec09976ed71",
+      "contract_checksum": "9073fd0cfc6b4870eb1ae0051a92b968bb1c3f7918b5fb42e0498612d689bf9b",
+      "kind": "sealed-lesson",
+      "lesson_id": "L403",
+      "media_type": "application/json",
+      "path": "lessons/L403/光武中兴与东汉兴衰.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 10013
+    },
+    {
+      "artifact_id": "rel-f9a3cdd790-0003",
+      "artifact_version": 3,
+      "blob_sha256": "0c8edc7d1f4e1b0f40443643f44184658a889e80cc9f83125a8a80ae21a59476",
+      "contract_checksum": "14807f7ed4533e532bd64cf822c7cf62c25b78a93b941e046fde1ef4baaf227f",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1263
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 2,
+      "course_package_checksum": "e88c9c119f35a2174aa201115ccba0d4c9ee6348476031bf7b00f6f3d4dfeec6",
+      "course_package_id": "pkg-L403",
+      "files": [
+        "lessons/L403/光武中兴与东汉兴衰-教师稿.md",
+        "lessons/L403/光武中兴与东汉兴衰-格式层.json",
+        "lessons/L403/光武中兴与东汉兴衰-运行包.json",
+        "lessons/L403/光武中兴与东汉兴衰-预览.html",
+        "lessons/L403/光武中兴与东汉兴衰.json"
+      ],
+      "lesson_id": "L403",
+      "scenarios": [],
+      "source_checksum": "9073fd0cfc6b4870eb1ae0051a92b968bb1c3f7918b5fb42e0498612d689bf9b",
+      "title": "光武中兴与东汉兴衰"
+    }
+  ],
+  "manifest_checksum": "0a44a884cf12e0c0e87b073cb3bf33def76fa82f3ba3dde8cc81bde483c73bbc",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "14807f7ed4533e532bd64cf822c7cf62c25b78a93b941e046fde1ef4baaf227f",
+  "release_created_at": "2026-09-09T11:17:15.029200Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-f9a3cdd790-0003",
+  "release_no": 3,
+  "release_note": "Publish L403 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 44106
+}
