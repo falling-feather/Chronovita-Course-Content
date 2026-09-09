@@ -1,0 +1,282 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L604",
+  "course_id": "C-weijin-fusion",
+  "lesson_id": "L604",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "佛教东传与中国化",
+  "unit": "宗教传播与文化交流",
+  "era": "魏晋南北朝",
+  "body": [
+    "佛教产生于古代印度。大约在两汉之际，商旅 使者和僧人沿陆上与海上交通路线来到中国，佛教经典和造像也随之传入。早期信徒对许多概念并不熟悉，只能借助已有词语理解新的信仰。佛教进入中国并不是一次完成的事件，而是持续数百年的【佛教东传】过程。",
+    "洛阳是早期佛教活动的重要城市。传世故事把东汉【白马寺】的建立同朝廷迎请西域僧人联系起来，这一说法包含后世整理成分。可以确定的是，汉魏以后译经活动逐渐增加，僧人需要在不同语言之间寻找合适表达。翻译不仅转换文字，也改变了中国人理解佛教义理的方式。",
+    "十六国时期，来自龟兹的【鸠摩罗什】到达长安，主持大规模【译经】。他与众多僧人共同校译《法华经》《金刚经》等经典，译文较为流畅，许多表达长期沿用。不同译本之间的比较和讲解，使佛教思想更容易进入士人和普通信众的生活。",
+    "东晋僧人【慧远】长期居住庐山，组织僧众修行，并与士大夫通信讨论佛教与礼法的关系。他主张僧侣在宗教生活中保持一定独立，也重视净土信仰。南北各地逐渐出现寺院 抄经 讲经和造像活动，佛教由外来信仰转变为社会文化的重要组成部分。",
+    "北方统治者常通过修建寺院和石窟表达护持佛教，也借此汇聚工匠和展示政权威望。北魏开凿的【云冈石窟】保留较多中亚和印度艺术因素；迁都洛阳后兴建的【龙门石窟】在造像衣饰 面容和题记上呈现更多中原特点。石窟中的形象变化，记录了艺术传播与本地创造相互结合的过程。",
+    "佛教传播也经历冲突。寺院拥有土地和人口时，可能与国家赋役发生矛盾；一些统治者曾限制或毁坏佛教。与此同时，僧人与儒道学者不断讨论孝亲 生死 因果和修行问题，佛教采用汉语概念解释教义，中国社会也用自身伦理和礼俗重新理解佛教。这一双向调整被称为【佛教中国化】。",
+    "经录 史书和僧人传记保存了传播故事，寺院遗址 石窟造像和题记则展示信仰实践。学习佛教东传，重点是看到交通 翻译 政治和社会生活共同推动文化交流。外来文化并非原样移入，也不是被动接受，而是在长期接触中形成新的思想 艺术和生活方式。"
+  ],
+  "abstract": "佛教经由陆海交通路线逐步传入中国。译经 寺院和石窟推动信仰传播，佛教也在与中国语言 礼俗和思想互动中发生本土变化。",
+  "course_title": "分裂中的文化整合",
+  "era_id": "weijin",
+  "section": "通史",
+  "lesson_no": "1.4",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "概括佛教东传的时间和主要途径",
+    "说明鸠摩罗什译经与慧远活动的作用",
+    "结合石窟材料认识佛教艺术的本地变化",
+    "理解佛教中国化是长期双向互动过程"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-ce401685",
+      "word": "佛教东传",
+      "pinyin": "fó jiào dōng chuán",
+      "gloss": "佛教从古代印度经陆海路线传入中国的长期过程",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-18fd589f",
+      "word": "白马寺",
+      "pinyin": "bái mǎ sì",
+      "gloss": "洛阳早期佛教寺院；传世故事将其与东汉迎请西域僧人相联系",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-20c7ee40",
+      "word": "鸠摩罗什",
+      "pinyin": "jiū mó luó shí",
+      "gloss": "十六国时期著名译经僧；在长安主持翻译多部佛经",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e97d22f4",
+      "word": "译经",
+      "pinyin": "yì jīng",
+      "gloss": "把佛教经典译成汉语的活动；包含语言转换和义理解释",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-a2257476",
+      "word": "慧远",
+      "pinyin": "huì yuǎn",
+      "gloss": "东晋僧人；在庐山组织修行并讨论佛教与礼法关系",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-ed905bac",
+      "word": "云冈石窟",
+      "pinyin": "yún gāng shí kū",
+      "gloss": "北魏在平城附近开凿的大型石窟群；体现多地区艺术交流",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-28f777f2",
+      "word": "龙门石窟",
+      "pinyin": "lóng mén shí kū",
+      "gloss": "北魏迁都洛阳后兴建的石窟群；造像呈现中原化特点",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-1582e403",
+      "word": "佛教中国化",
+      "pinyin": "fó jiào zhōng guó huà",
+      "gloss": "佛教与中国语言 思想和礼俗长期互动形成的新变化",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-a2587e07",
+      "name": "鸠摩罗什",
+      "role": "译经僧",
+      "summary": "在长安主持翻译多部重要佛经",
+      "persona": "突出集体译场和语言转换作用",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-e3b082df",
+      "name": "慧远",
+      "role": "东晋僧人",
+      "summary": "在庐山组织僧团并讨论宗教与礼法",
+      "persona": "说明佛教融入本土社会的过程",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-65df6a96",
+      "label": "长安",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "鸠摩罗什主持译经的重要城市",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-a1590b51",
+      "label": "庐山",
+      "region": "今江西九江一带",
+      "lat": null,
+      "lng": null,
+      "note": "慧远长期活动地区",
+      "kind": "site"
+    },
+    {
+      "point_id": "map-fa7f2b5d",
+      "label": "云冈石窟",
+      "region": "今山西大同",
+      "lat": null,
+      "lng": null,
+      "note": "北魏重要佛教石窟",
+      "kind": "site"
+    },
+    {
+      "point_id": "map-90f64db2",
+      "label": "龙门石窟",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "北魏迁都后持续营造的石窟",
+      "kind": "site"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-5b271061",
+      "statement": "佛教大约在两汉之际逐步传入中国",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-fe308d3e",
+      "statement": "鸠摩罗什在长安主持大规模译经活动",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-abe832a0",
+      "statement": "慧远在庐山组织僧众并参与佛教与礼法讨论",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-46648b11",
+      "statement": "云冈与龙门石窟反映佛教艺术传播和本地变化",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-241e2069",
+      "statement": "佛教中国化是外来信仰与本土社会双向调整的过程",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-0990e96e",
+      "title": "《高僧传》",
+      "kind": "other",
+      "publisher": "僧人传记",
+      "url_or_path": "《高僧传》",
+      "citation_note": "记载早期译经僧和佛教传播活动",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-0d871295",
+      "title": "云冈石窟造像与题记",
+      "kind": "other",
+      "publisher": "考古艺术材料",
+      "url_or_path": "云冈石窟",
+      "citation_note": "反映北魏佛教艺术和多地区文化联系",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-70822107",
+      "title": "龙门石窟造像与题记",
+      "kind": "other",
+      "publisher": "考古艺术材料",
+      "url_or_path": "龙门石窟",
+      "citation_note": "反映迁都洛阳后的造像风格和信仰活动",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "佛教通过哪些途径传入中国？",
+    "译经为什么不仅是文字转换？",
+    "云冈与龙门石窟怎样反映文化交流？",
+    "佛教中国化包含哪些方面的变化？"
+  ],
+  "level_goals": [
+    "概括佛教东传的时间和主要途径",
+    "说明鸠摩罗什译经与慧远活动的作用",
+    "结合石窟材料认识佛教艺术的本地变化",
+    "理解佛教中国化是长期双向互动过程"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "佛教东传",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "译经",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "石窟艺术",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "佛教中国化",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以交通 译经 寺院和石窟串联传播过程；白马寺传统仅在首次出现时作一次限定。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T11:48:30.318685Z",
+  "sealed_at": "2026-09-09T11:48:30.318685Z",
+  "sealed_by": "codex",
+  "checksum": "2a91812cb1306b26d4c419f12c962840f98c87507d3014c9bf48beca510b7110",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L604",
+    "source_version": "1",
+    "source_checksum": "cc3a71e5573c820caeb6337a98391e2547b16ca3b6a45ad54e599b943e77f17c",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
