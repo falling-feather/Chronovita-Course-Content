@@ -1,0 +1,55 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-3e2ebc3863-0004",
+  "release_no": 4,
+  "course_id": "C-suitang-tang",
+  "operation": "publish",
+  "parent_release_id": "rel-3e2ebc3863-0003",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T12:07:39.195719Z",
+  "created_by": "local-admin",
+  "note": "Publish L801 v2.",
+  "items": [
+    {
+      "lesson_id": "L801",
+      "course_id": "C-suitang-tang",
+      "content_version": 2,
+      "source_path": "sealed/L801-v002.json",
+      "source_checksum": "3ecd8d588f40fc20ed2d089762de7c4fabb24b0f5df1185a5473adea4a86fc2f",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L801",
+        "course_id": "C-suitang-tang",
+        "lesson_id": "L801",
+        "version": 2,
+        "checksum": "66c6a1161dce9b1e9d27afb0adc3019841dae3da83795901e20bac94df896365",
+        "path": "runtime/v1/course-packages/C-suitang-tang/L801/v002-66c6a1161dce9b1e9d27afb0adc3019841dae3da83795901e20bac94df896365.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L802",
+      "course_id": "C-suitang-tang",
+      "content_version": 1,
+      "source_path": "sealed/L802-v001.json",
+      "source_checksum": "600411f15ba2256d4ef2a798238c108de6bcb9e036ae5aea71362158040f8b64",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L802",
+        "course_id": "C-suitang-tang",
+        "lesson_id": "L802",
+        "version": 1,
+        "checksum": "c9b2228c4c1bf397ae7eccfc61f587a0b11be640eb0da23a1856339934614fcc",
+        "path": "runtime/v1/course-packages/C-suitang-tang/L802/v001-c9b2228c4c1bf397ae7eccfc61f587a0b11be640eb0da23a1856339934614fcc.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "4c0954358bb792493daf881bb348692d5967178b225c369d70877ce34ed48e90"
+}

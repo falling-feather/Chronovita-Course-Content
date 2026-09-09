@@ -1,0 +1,194 @@
+{
+  "archive_checksum": "471dbe7cf274735cb26e2a7ad0368fe3a2660b1feac91ae50ad8c8c15ff5296f",
+  "archive_id": "arc-471dbe7cf274735cb26e2a7ad0368fe3",
+  "archive_path": "C-suitang-tang/releases/rel-3e2ebc3863-0004/arc-471dbe7cf274735cb26e2a7ad0368fe3",
+  "course_id": "C-suitang-tang",
+  "course_title": "唐代盛衰",
+  "file_count": 11,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e6bb23f6ca2ee3630c8c4dcf451fe3b873406fcde572265838c77022b7c239fb",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L801",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L801/贞观之治-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3557
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "359b8a78e6368994d29282a9a00736a57511953b4d100297a8d440e2d639cbd0",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L801",
+      "media_type": "application/json",
+      "path": "lessons/L801/贞观之治-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6988
+    },
+    {
+      "artifact_id": "pkg-L801",
+      "artifact_version": 2,
+      "blob_sha256": "2974e88998bde7067ec49aa2432ceac2018e358c7851a373a498b38ba4f1e052",
+      "contract_checksum": "66c6a1161dce9b1e9d27afb0adc3019841dae3da83795901e20bac94df896365",
+      "kind": "course-package",
+      "lesson_id": "L801",
+      "media_type": "application/json",
+      "path": "lessons/L801/贞观之治-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11733
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d0ec3eb2260f64aa46d0a8a2d03faf64a261d0d8bb2cc1eb6a477ce2b4871a6f",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L801",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L801/贞观之治-预览.html",
+      "schema_version": null,
+      "size_bytes": 5465
+    },
+    {
+      "artifact_id": "L801",
+      "artifact_version": 2,
+      "blob_sha256": "4b32a87fefb2ca0c937d0da0971a7ae3aaf4cd993f7ddacf8e9849df5215dfcc",
+      "contract_checksum": "3ecd8d588f40fc20ed2d089762de7c4fabb24b0f5df1185a5473adea4a86fc2f",
+      "kind": "sealed-lesson",
+      "lesson_id": "L801",
+      "media_type": "application/json",
+      "path": "lessons/L801/贞观之治.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8416
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5da9dd71b7cf2dbe5e5cdafccb13fbd7c730ffe03fedabbc7567c0effd300b5d",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L802",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L802/武周与开元盛世-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3567
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "6590df6d2858f0ba888595c51603c110ea3a429e74d7e8453928841b96daef3f",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L802",
+      "media_type": "application/json",
+      "path": "lessons/L802/武周与开元盛世-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6808
+    },
+    {
+      "artifact_id": "pkg-L802",
+      "artifact_version": 1,
+      "blob_sha256": "6687c74f884dc043900722f414f6105b4900f7547490bbf607eddf1ac26d4c68",
+      "contract_checksum": "c9b2228c4c1bf397ae7eccfc61f587a0b11be640eb0da23a1856339934614fcc",
+      "kind": "course-package",
+      "lesson_id": "L802",
+      "media_type": "application/json",
+      "path": "lessons/L802/武周与开元盛世-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11627
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "51994d75fd8d2ca18672c9ca40fe2d56956e50ccace640cc3ea4a15dd5bf3315",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L802",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L802/武周与开元盛世-预览.html",
+      "schema_version": null,
+      "size_bytes": 5395
+    },
+    {
+      "artifact_id": "L802",
+      "artifact_version": 1,
+      "blob_sha256": "62a8bbb69ccb1dfac08535338032352d4662fca77726141926cb1561ab3ffe77",
+      "contract_checksum": "600411f15ba2256d4ef2a798238c108de6bcb9e036ae5aea71362158040f8b64",
+      "kind": "sealed-lesson",
+      "lesson_id": "L802",
+      "media_type": "application/json",
+      "path": "lessons/L802/武周与开元盛世.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8109
+    },
+    {
+      "artifact_id": "rel-3e2ebc3863-0004",
+      "artifact_version": 4,
+      "blob_sha256": "8650f385519e9e3b1ddd61bb1a352e5ff88d7aced48056801632022e8ea835ac",
+      "contract_checksum": "4c0954358bb792493daf881bb348692d5967178b225c369d70877ce34ed48e90",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2052
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 2,
+      "course_package_checksum": "66c6a1161dce9b1e9d27afb0adc3019841dae3da83795901e20bac94df896365",
+      "course_package_id": "pkg-L801",
+      "files": [
+        "lessons/L801/贞观之治-教师稿.md",
+        "lessons/L801/贞观之治-格式层.json",
+        "lessons/L801/贞观之治-运行包.json",
+        "lessons/L801/贞观之治-预览.html",
+        "lessons/L801/贞观之治.json"
+      ],
+      "lesson_id": "L801",
+      "scenarios": [],
+      "source_checksum": "3ecd8d588f40fc20ed2d089762de7c4fabb24b0f5df1185a5473adea4a86fc2f",
+      "title": "贞观之治"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "c9b2228c4c1bf397ae7eccfc61f587a0b11be640eb0da23a1856339934614fcc",
+      "course_package_id": "pkg-L802",
+      "files": [
+        "lessons/L802/武周与开元盛世-教师稿.md",
+        "lessons/L802/武周与开元盛世-格式层.json",
+        "lessons/L802/武周与开元盛世-运行包.json",
+        "lessons/L802/武周与开元盛世-预览.html",
+        "lessons/L802/武周与开元盛世.json"
+      ],
+      "lesson_id": "L802",
+      "scenarios": [],
+      "source_checksum": "600411f15ba2256d4ef2a798238c108de6bcb9e036ae5aea71362158040f8b64",
+      "title": "武周与开元盛世"
+    }
+  ],
+  "manifest_checksum": "c7c6fb1eaa69ebaeafef867ba51d3488b4653d76ae5f4e61d5e6711050dd4846",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "4c0954358bb792493daf881bb348692d5967178b225c369d70877ce34ed48e90",
+  "release_created_at": "2026-09-09T12:07:39.195719Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-3e2ebc3863-0004",
+  "release_no": 4,
+  "release_note": "Publish L801 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 73717
+}

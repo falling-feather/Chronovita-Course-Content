@@ -1,0 +1,297 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L802",
+  "course_id": "C-suitang-tang",
+  "lesson_id": "L802",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "武周与开元盛世",
+  "unit": "女皇执政与盛唐发展",
+  "era": "隋唐",
+  "body": [
+    "唐太宗去世后，唐高宗李治即位。皇后【武则天】逐步参与处理政务，高宗晚年因病难以亲自处理全部事务，两人一同临朝，时人称为【二圣临朝】。武则天由后宫进入权力中心，既依靠个人政治能力，也利用皇权与旧贵族之间的矛盾扩展支持力量。",
+    "高宗去世后，武则天先后临朝称制并控制朝政。公元690年，她改国号为周，自立为皇帝，史称【武周】。她打击反对自己的李唐宗室和部分贵族，也任用酷吏监控臣下，政治斗争十分激烈。与此同时，她扩大科举取士，重视通过考试和荐举选拔人才，并在宫殿亲自主持考试，推动【殿试】形式发展。",
+    "武周继续经营农业和边疆，洛阳成为重要政治中心。狄仁杰等官员得到任用，姚崇 宋璟等后来活跃于开元时期的人才也在这一阶段积累经验。武则天统治既突破了女性不能称帝的传统限制，也伴随严密控制和权力清洗，不能只用单一评价概括。",
+    "公元705年，年老多病的武则天被迫退位，唐朝国号恢复。此后宫廷斗争仍然持续。公元712年，【唐玄宗】李隆基即位，次年清除太平公主势力，逐步掌握朝政。他先后任用【姚崇】【宋璟】等人为相，裁减冗官，整顿吏治，并要求地方官重视户籍和农业。",
+    "开元前期，社会生产继续发展，南北漕运更加繁忙，长安 洛阳和扬州等城市人口汇聚。手工业 商业和对外交通也十分活跃。唐朝与吐蕃 突厥和西域各政权既有战争，也有使节 贸易和人员往来。政治相对稳定与长期积累共同形成【开元盛世】。",
+    "盛世之下也出现新的变化。土地兼并和人口流动使原有赋役制度难以继续，边疆驻军逐渐由长期募兵承担，掌握军政权力的将领地位上升。唐玄宗统治后期减少亲自处理政务，李林甫 杨国忠等掌握朝政，宫廷和边镇之间的矛盾不断积累。",
+    "史书中的武则天评价常受到性别观念和王朝正统立场影响，认识她的统治需要结合具体政策与政治环境。学习武周与开元盛世，重点是理解人才选拔 制度调整和长期经济发展怎样推动唐朝繁荣，也要看到盛世并不会自动消除社会和军事结构中的风险。"
+  ],
+  "abstract": "武则天逐步掌权并建立武周，通过科举和荐举扩大人才来源。唐玄宗开元前期整顿吏治，社会经济继续发展，形成开元盛世，同时也积累新的制度风险。",
+  "course_title": "唐代盛衰",
+  "era_id": "suitang",
+  "section": "通史",
+  "lesson_no": "2.2",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "说明武则天参政 称帝和武周结束的过程",
+    "从多方面评价武周统治",
+    "概括开元前期整顿和繁荣表现",
+    "分析开元盛世形成条件与潜在风险"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-7236441e",
+      "word": "武则天",
+      "pinyin": "wǔ zé tiān",
+      "gloss": "唐高宗皇后；后建立武周；中国古代唯一正式称帝的女性",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-b463d424",
+      "word": "二圣临朝",
+      "pinyin": "èr shèng lín cháo",
+      "gloss": "唐高宗与武则天共同处理朝政的政治局面",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-afd7a737",
+      "word": "武周",
+      "pinyin": "wǔ zhōu",
+      "gloss": "武则天于公元690年建立的政权；公元705年结束",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-b24db132",
+      "word": "殿试",
+      "pinyin": "diàn shì",
+      "gloss": "皇帝在宫殿亲自主持的考试形式；武则天时期得到推动",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-30a582e0",
+      "word": "唐玄宗",
+      "pinyin": "táng xuán zōng",
+      "gloss": "唐朝皇帝李隆基；开元前期推动整顿并形成盛世局面",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-fc8930ef",
+      "word": "姚崇",
+      "pinyin": "yáo chóng",
+      "gloss": "唐玄宗开元初年宰相；主张整顿吏治并裁减冗官",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-542c8034",
+      "word": "宋璟",
+      "pinyin": "sòng jǐng",
+      "gloss": "唐玄宗开元时期宰相；以守法和敢于进言著名",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-921a3158",
+      "word": "开元盛世",
+      "pinyin": "kāi yuán shèng shì",
+      "gloss": "唐玄宗开元年间政治较稳定和经济文化繁荣的局面",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-0ef1a9c0",
+      "name": "武则天",
+      "role": "武周皇帝",
+      "summary": "由参政到称帝并扩大人才选拔",
+      "persona": "结合政治能力 权力斗争和史书立场综合评价",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-93455b4e",
+      "name": "唐玄宗",
+      "role": "唐朝皇帝",
+      "summary": "开元前期整顿政治并推动盛世形成",
+      "persona": "区分统治前后期的不同表现",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-5dc6a611",
+      "name": "姚崇",
+      "role": "开元宰相",
+      "summary": "参与裁减冗官和整顿吏治",
+      "persona": "说明盛世形成依靠官僚群体和制度运行",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-95cc30e5",
+      "label": "洛阳",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "武周时期的重要政治中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-302f44f4",
+      "label": "长安",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "唐玄宗时期主要都城和政治文化中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-6b57186c",
+      "label": "扬州",
+      "region": "今江苏扬州",
+      "lat": null,
+      "lng": null,
+      "note": "开元时期繁荣的运河商业城市",
+      "kind": "city"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-784f1ada",
+      "statement": "武则天在唐高宗时期逐步参与朝政",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8784432f",
+      "statement": "公元690年武则天称帝并建立武周",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-2e68f600",
+      "statement": "武则天扩大科举和荐举并推动殿试形式发展",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-b469db4d",
+      "statement": "公元705年武周结束并恢复唐朝国号",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-cf3269a5",
+      "statement": "唐玄宗开元前期任用姚崇 宋璟等整顿吏治",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c0ea5d40",
+      "statement": "开元繁荣与前代积累 政治稳定和经济发展共同相关",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c82ed106",
+      "statement": "土地 赋役和边疆军事变化为后期危机埋下风险",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-0761310c",
+      "title": "《旧唐书·则天皇后本纪》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《旧唐书·则天皇后本纪》",
+      "citation_note": "记载武则天参政 称帝和政策活动",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-66245963",
+      "title": "《资治通鉴》唐纪",
+      "kind": "other",
+      "publisher": "编年史书",
+      "url_or_path": "《资治通鉴》唐纪",
+      "citation_note": "记录武周至开元时期政治事件",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-4bf4f16b",
+      "title": "唐代墓志与城市遗址",
+      "kind": "other",
+      "publisher": "考古材料",
+      "url_or_path": "洛阳 长安地区唐代墓志与遗址",
+      "citation_note": "补充官员经历 人口流动和城市生活信息",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "武则天怎样逐步进入权力中心？",
+    "武周时期人才选拔发生了哪些变化？",
+    "开元盛世由哪些因素共同推动？",
+    "为什么盛世之下仍可能积累危机？"
+  ],
+  "level_goals": [
+    "说明武则天参政 称帝和武周结束的过程",
+    "从多方面评价武周统治",
+    "概括开元前期整顿和繁荣表现",
+    "分析开元盛世形成条件与潜在风险"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "二圣临朝",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "武周称帝",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "开元整顿",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "盛世与风险",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课连接武周人才政策与开元繁荣；评价武则天时提示史书立场但不展开重复史料辨析。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T11:48:31.441744Z",
+  "sealed_at": "2026-09-09T11:48:31.441744Z",
+  "sealed_by": "codex",
+  "checksum": "c9b2228c4c1bf397ae7eccfc61f587a0b11be640eb0da23a1856339934614fcc",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L802",
+    "source_version": "1",
+    "source_checksum": "600411f15ba2256d4ef2a798238c108de6bcb9e036ae5aea71362158040f8b64",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
