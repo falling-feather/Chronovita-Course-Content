@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-2923fa04b7-0002",
+  "release_no": 2,
+  "course_id": "C-qin-han-transition",
+  "operation": "publish",
+  "parent_release_id": "rel-2923fa04b7-0001",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T10:29:01.050001Z",
+  "created_by": "local-admin",
+  "note": "发布新编课时 L401。",
+  "items": [
+    {
+      "lesson_id": "L401",
+      "course_id": "C-qin-han-transition",
+      "content_version": 1,
+      "source_path": "sealed/L401-v001.json",
+      "source_checksum": "9ef7fb27a77b2bdbaf751b6503cb5f8e5c83c461e027e101795fc18d941e54d4",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L401",
+        "course_id": "C-qin-han-transition",
+        "lesson_id": "L401",
+        "version": 1,
+        "checksum": "d206c7fbec307790c75b39f048ed039851cf0daeee83e31cd24c72eb69b3a087",
+        "path": "runtime/v1/course-packages/C-qin-han-transition/L401/v001-d206c7fbec307790c75b39f048ed039851cf0daeee83e31cd24c72eb69b3a087.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "b484da42fc3623ea2b283b1a793e89981d0c27839249b74e3f09aa1d4374963a"
+}

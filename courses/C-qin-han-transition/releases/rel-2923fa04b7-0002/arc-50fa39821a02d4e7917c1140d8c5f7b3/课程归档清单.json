@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "50fa39821a02d4e7917c1140d8c5f7b3d9fd008770fed91fd23610d4826e8ea4",
+  "archive_id": "arc-50fa39821a02d4e7917c1140d8c5f7b3",
+  "archive_path": "C-qin-han-transition/releases/rel-2923fa04b7-0002/arc-50fa39821a02d4e7917c1140d8c5f7b3",
+  "course_id": "C-qin-han-transition",
+  "course_title": "大一统帝国的奠基",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d85cf710f4c968b4589eb9bb3778516fe9a770605decf70e3df93403f34674ec",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L401",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L401/秦亡与楚汉相争-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3962
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ef1a6493b73cb29c307d7a2c758207079329e04b212ad84d6291fed6dc7aeec8",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L401",
+      "media_type": "application/json",
+      "path": "lessons/L401/秦亡与楚汉相争-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7405
+    },
+    {
+      "artifact_id": "pkg-L401",
+      "artifact_version": 1,
+      "blob_sha256": "7cb38dbddb1ea60a88a2132c956abeb8ce9988d4de0e7489161b36eb8811194f",
+      "contract_checksum": "d206c7fbec307790c75b39f048ed039851cf0daeee83e31cd24c72eb69b3a087",
+      "kind": "course-package",
+      "lesson_id": "L401",
+      "media_type": "application/json",
+      "path": "lessons/L401/秦亡与楚汉相争-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13370
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "f7216cce1f2669419edd821ede2aeb1f1d95b5de6208fe02b2f29a6309fae166",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L401",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L401/秦亡与楚汉相争-预览.html",
+      "schema_version": null,
+      "size_bytes": 5827
+    },
+    {
+      "artifact_id": "L401",
+      "artifact_version": 1,
+      "blob_sha256": "be34533f1cf8781c83326d3f35464a69861b7fcb8f60019698d2c440e1c15415",
+      "contract_checksum": "9ef7fb27a77b2bdbaf751b6503cb5f8e5c83c461e027e101795fc18d941e54d4",
+      "kind": "sealed-lesson",
+      "lesson_id": "L401",
+      "media_type": "application/json",
+      "path": "lessons/L401/秦亡与楚汉相争.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9584
+    },
+    {
+      "artifact_id": "rel-2923fa04b7-0002",
+      "artifact_version": 2,
+      "blob_sha256": "85b29d39b79be32130423a2655f0000b95715f764ed3b1ead3556f784d2537f6",
+      "contract_checksum": "b484da42fc3623ea2b283b1a793e89981d0c27839249b74e3f09aa1d4374963a",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1285
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "d206c7fbec307790c75b39f048ed039851cf0daeee83e31cd24c72eb69b3a087",
+      "course_package_id": "pkg-L401",
+      "files": [
+        "lessons/L401/秦亡与楚汉相争-教师稿.md",
+        "lessons/L401/秦亡与楚汉相争-格式层.json",
+        "lessons/L401/秦亡与楚汉相争-运行包.json",
+        "lessons/L401/秦亡与楚汉相争-预览.html",
+        "lessons/L401/秦亡与楚汉相争.json"
+      ],
+      "lesson_id": "L401",
+      "scenarios": [],
+      "source_checksum": "9ef7fb27a77b2bdbaf751b6503cb5f8e5c83c461e027e101795fc18d941e54d4",
+      "title": "秦亡与楚汉相争"
+    }
+  ],
+  "manifest_checksum": "18e572246d1a07cd3fd7a9e18d1d22e74d3221f9d5aa50f45f1d16234db38a0c",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "b484da42fc3623ea2b283b1a793e89981d0c27839249b74e3f09aa1d4374963a",
+  "release_created_at": "2026-09-09T10:29:01.050001Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-2923fa04b7-0002",
+  "release_no": 2,
+  "release_note": "发布新编课时 L401。",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 41433
+}
