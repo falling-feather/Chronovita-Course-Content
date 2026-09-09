@@ -1,0 +1,321 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L105",
+  "course_id": "C-prequin-state",
+  "lesson_id": "L105",
+  "content_version": 3,
+  "status": "sealed",
+  "title": "商鞅变法",
+  "unit": "早期国家与社会变革",
+  "era": "先秦",
+  "body": [
+    "春秋晚期以后，诸侯之间的竞争更加激烈，战争规模不断扩大。各国不仅要争夺土地，还要获得更多人口、粮食和兵员。西周以来以血缘和等级为基础的贵族秩序，已经难以完全满足新的战争和治理需要。进入【战国】时期后，许多国家先后寻求改革。地处关中、原本并不处于中原强国行列的秦国，也面临着增强国力的压力。秦孝公即位后决心改变现状，向各地招揽能够帮助秦国富强的人才。",
+    "【商鞅】原本是魏国人，后来进入秦国，得到【秦孝公】的支持。他提出，要通过重新制定法令、整顿社会组织和调动百姓积极性，使国家能够集中力量发展生产、训练军队。约公元前356年和公元前350年，秦国先后推行改革，后世把这些改革统称为【商鞅变法】。变法开始时，秦国还流传着贵族反对、百姓观望的情形。传统故事中的【徙木立信】，讲述商鞅用兑现赏金的办法让人们相信新法一定会执行，表现了改革者重视法令信用的一面。",
+    "商鞅首先把发展农业和取得军功放在国家治理的重要位置，这种方针被概括为【农战】。秦国奖励耕种和纺织，鼓励人们增加粮食生产；同时实行【军功爵制】，按照战场上的功劳授予爵位和相应待遇。过去贵族的身份和待遇主要依靠血缘继承，新的制度则为普通士兵和下层民众提供了凭军功改变身份的机会。这样一来，国家既能获得更多粮食，也能调动军队作战的积极性，旧贵族的世袭特权则受到冲击。",
+    "为了加强对基层社会的管理，秦国把民户编入什伍组织。十户、五户相互监督，一户违法，相关民户也可能承担责任，这种管理方式被称为【什伍连坐】。它把国家的法令进一步落实到普通家庭，使官府能够掌握人口、征收赋税并动员劳役和兵员。与此同时，秦国在地方设置由国君任免官员管理的【县制】，逐步削弱贵族对地方事务的世袭控制。县制在本课只作为变法加强国家管理的一项措施，后来成为秦统一后地方治理的重要制度。",
+    "变法还调整了土地和赋税关系，传统概括为【废井田开阡陌】。它改变旧有田地界限，承认土地经营和转让关系的变化，使国家能够按照土地和民户征收赋税。农业生产因此与国家收入联系得更加紧密，但土地兼并和贫富差异也可能随之发展。商鞅的改革并不是只改变某一项制度，而是把生产、军事、户籍和地方管理结合起来，形成了由国君直接推动的整套治理办法。",
+    "变法推行以后，秦国的农业生产、军队组织和国家财政逐渐得到加强，秦国在诸侯竞争中的地位不断上升。改革同时加重了对民众的管理和服役要求，也触动了旧贵族的利益。秦孝公去世后，反对者重新掌握权力，商鞅失势。据传统记载，他在逃亡途中被捕并遭到严厉处置，但秦国并没有完全废除已经推行的制度。改革的作用，更多体现在国家结构发生了变化，而不只是商鞅个人的进退。",
+    "商鞅变法是战国时期各国变法的重要事例。它推动秦国从贵族世袭秩序逐步转向由国家法令、户籍和官员共同管理的政治形态，也使军功和国家需要在身份、资源分配中占有更大比重。秦国后来能够不断扩张并完成统一，商鞅变法提供了重要的制度条件，但统一还与秦国的地理、人口、军事和后续政治经营有关。学习这段历史，既要看到改革增强国家动员能力的一面，也要注意改革给社会带来的压力和变化。"
+  ],
+  "abstract": "春秋晚期以后，诸侯之间的竞争更加激烈，战争规模不断扩大。各国不仅要争夺土地，还要获得更多人口、粮食和兵员。西周以来以血缘和等级为基础的贵族秩序，已经难以完全满足新的战争和治理需要。进入【战国】时期后，许多国家先后寻求改革。地处关中、原本...",
+  "course_title": "早期国家与社会变革",
+  "era_id": "prequin",
+  "section": "制度",
+  "lesson_no": "1.5",
+  "duration": "09:10",
+  "teaching_objectives": [
+    "梳理秦孝公任用商鞅及变法推行的基本过程",
+    "结合农战和军功爵制说明秦国如何调动农业与军事力量",
+    "结合什伍连坐和县制理解国家管理向基层和地方延伸的变化",
+    "结合废井田开阡陌分析变法对土地关系和赋税制度的影响",
+    "说明商鞅个人命运与变法制度延续之间的关系"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-c9766ddc",
+      "word": "战国",
+      "pinyin": "zhàn guó",
+      "gloss": "东周后期的历史时期；诸侯国长期竞争并相继变法",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-62264c19",
+      "word": "商鞅",
+      "pinyin": "shāng yāng",
+      "gloss": "战国时期政治家；主持秦国变法",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-9c608a0c",
+      "word": "秦孝公",
+      "pinyin": "qín xiào gōng",
+      "gloss": "战国时期秦国国君；任用商鞅主持变法",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-037cb56c",
+      "word": "商鞅变法",
+      "pinyin": "shāng yāng biàn fǎ",
+      "gloss": "商鞅在秦国推行的改革；涉及政治 经济和军事",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-62c66683",
+      "word": "农战",
+      "pinyin": "nóng zhàn",
+      "gloss": "以发展农业和加强战争力量为目标的治国方针",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e9a7be6c",
+      "word": "军功爵制",
+      "pinyin": "jūn gōng jué zhì",
+      "gloss": "按军功授予爵位和待遇的制度；削弱贵族世袭特权",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-6c638a14",
+      "word": "什伍连坐",
+      "pinyin": "shí wǔ lián zuò",
+      "gloss": "以五户和十户编组居民的管理方式；成员相互监督并承担连带责任",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e4ac5791",
+      "word": "县制",
+      "pinyin": "xiàn zhì",
+      "gloss": "由国君任免官员管理地方的制度；加强国家对地方的控制",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-10692fab",
+      "word": "废井田开阡陌",
+      "pinyin": "fèi jǐng tián kāi qiān mò",
+      "gloss": "调整田地界限和土地关系的改革措施；促进土地经营变化",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-78ba36f4",
+      "word": "徙木立信",
+      "pinyin": "xǐ mù lì xìn",
+      "gloss": "商鞅以搬木兑现赏金取信于民的传统故事",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-dc51e437",
+      "name": "商鞅",
+      "role": "战国时期秦国政治家",
+      "summary": "主持秦国改革并推动法令、军功和地方管理制度变化的政治家",
+      "persona": "重点说明改革措施及其社会影响；区分商鞅个人命运与制度延续",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-de960e2b",
+      "name": "秦孝公",
+      "role": "战国时期秦国国君",
+      "summary": "招揽人才并支持商鞅在秦国推行改革的君主",
+      "persona": "用于说明君主支持是改革得以推行的重要条件",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-9cc69a81",
+      "label": "秦国",
+      "region": "今陕西关中及甘肃东部一带",
+      "lat": null,
+      "lng": null,
+      "note": "战国时期推行商鞅变法的诸侯国；地处关中，依托关中平原发展",
+      "kind": "state"
+    },
+    {
+      "point_id": "map-a2072a6d",
+      "label": "咸阳",
+      "region": "今陕西咸阳一带",
+      "lat": null,
+      "lng": null,
+      "note": "秦国后来发展的重要政治中心；可联系秦国政治管理的集中化趋势",
+      "kind": "capital"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-f8cf2633",
+      "statement": "战国时期诸侯竞争加剧；各国需要扩大农业生产、军队和财政收入",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ac07cae5",
+      "statement": "秦孝公任用商鞅；约公元前356年和前350年先后推行改革",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7c77b8bb",
+      "statement": "商鞅变法以农战为重要方针；奖励耕织并按军功授予爵位",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-4e2c30ba",
+      "statement": "军功爵制削弱贵族世袭特权；提高普通民众通过军功改变身份的可能",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-4fe43ba0",
+      "statement": "什伍连坐把民户编组并实行相互监督；加强国家对基层社会的管理",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-e0c1e349",
+      "statement": "秦国设置县制并由国君任免官员；削弱贵族对地方事务的世袭控制",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7141aeed",
+      "statement": "废井田开阡陌调整田地界限和土地关系；使农业生产与国家赋税联系更紧密",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9fcdebd6",
+      "statement": "商鞅失势后秦国仍保留许多改革制度；变法影响超出商鞅个人命运",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-3e8c0008",
+      "statement": "商鞅变法增强秦国国家动员能力；为秦国后来的扩张和统一提供重要制度条件",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-10481499",
+      "title": "普通高中历史课程相关教学材料",
+      "kind": "other",
+      "publisher": "成都市教育局",
+      "url_or_path": "https://jyj.changdu.gov.cn/cdsjyj/c101476/202205/764ee1914e3c45aaba8e372f1b628a34/files/98a04fa1c8ef411ca0ee34ebcb4bcd73.pdf",
+      "citation_note": "整理商鞅变法中农战、军功、连坐、土地和县制等主要措施及其影响",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-a78eb5aa",
+      "title": "徙木立信：商鞅变法中的法令信用",
+      "kind": "other",
+      "publisher": "中央网信办",
+      "url_or_path": "https://www.cac.gov.cn/2022-12/12/c_1672477198256264.htm",
+      "citation_note": "介绍徙木立信的传统故事及商鞅重视法令执行的历史记忆",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-90f286d0",
+      "title": "商鞅变法与秦国制度变化",
+      "kind": "other",
+      "publisher": "全国哲学社会科学工作办公室",
+      "url_or_path": "https://www.nopss.gov.cn/n1/2023/0612/c219544-40011381.html",
+      "citation_note": "说明军功爵制及商鞅变法对秦国政治和社会结构的影响",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "战国时期各国为什么需要推行改革？",
+    "秦孝公为什么支持商鞅主持变法？",
+    "农战方针和军功爵制怎样改变秦国的生产与军事组织？",
+    "什伍连坐和县制怎样加强国家对基层和地方的管理？",
+    "废井田开阡陌对土地关系和赋税征收产生了怎样的影响？",
+    "商鞅失势后改革制度为什么仍能在秦国延续？",
+    "商鞅变法为秦国后来的发展提供了哪些条件？"
+  ],
+  "level_goals": [
+    "梳理秦孝公任用商鞅及变法推行的基本过程",
+    "结合农战和军功爵制说明秦国如何调动农业与军事力量",
+    "结合什伍连坐和县制理解国家管理向基层和地方延伸的变化",
+    "结合废井田开阡陌分析变法对土地关系和赋税制度的影响",
+    "说明商鞅个人命运与变法制度延续之间的关系"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "战国",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "商鞅",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "秦孝公",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "商鞅变法",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "农战",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "军功爵制",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "第五课以战国竞争加剧为背景，以秦孝公任用商鞅、推行变法为主线；重点讲述农战、军功爵制、什伍连坐、县制和土地关系变化；避免提前展开秦统一课的郡县制和统一措施。",
+  "created_at": "2026-09-06T00:00:00Z",
+  "updated_at": "2026-09-09T10:49:29.202170Z",
+  "sealed_at": "2026-09-09T10:49:29.202170Z",
+  "sealed_by": "local-admin",
+  "checksum": "a22001ecde1bb61524742df38a10725cf84190fb590c8f8f03df3aee2228c2cc",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L105",
+    "source_version": "3",
+    "source_checksum": "6071a4fb2aac5fcb84abfb2947e26ff997502d621b4f478e7dfed337f0596637",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
