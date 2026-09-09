@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "a447872d26c615e374af9d209393a72d5e43c4480312d016db668c5389e72d3b",
+  "archive_id": "arc-a447872d26c615e374af9d209393a72d",
+  "archive_path": "C-suitang-culture/releases/rel-d87307565c-0005/arc-a447872d26c615e374af9d209393a72d",
+  "course_id": "C-suitang-culture",
+  "course_title": "唐代文化与世界",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "8ac4cce06c497e48a29141a93ecdcc2fdf57ff752dcb3a1b50cd212291e4c111",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L901",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L901/李白与杜甫-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3625
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e217c6e5bb945136f19ecdad3276066e38f9dbcd47319c2409a6eb0b5a21c0ea",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L901",
+      "media_type": "application/json",
+      "path": "lessons/L901/李白与杜甫-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7194
+    },
+    {
+      "artifact_id": "pkg-L901",
+      "artifact_version": 2,
+      "blob_sha256": "fb47220c2277bd33c955c388cafc1e9bdae12ae7d32d3ddb80d8251300212b13",
+      "contract_checksum": "5cb40902e570ff7c64dd5994279bd18e0e4f53439b134a5d92b93e5aef50f78c",
+      "kind": "course-package",
+      "lesson_id": "L901",
+      "media_type": "application/json",
+      "path": "lessons/L901/李白与杜甫-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11249
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "9e7297877e623ae3809251bcc7d649b86b4098ad5fd93ccdb31f812bcd99757c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L901",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L901/李白与杜甫-预览.html",
+      "schema_version": null,
+      "size_bytes": 5396
+    },
+    {
+      "artifact_id": "L901",
+      "artifact_version": 2,
+      "blob_sha256": "6487d2d782af6de7722bbc752ff32529a094bbea6c7fa32b2b2ebf42908696ed",
+      "contract_checksum": "ded946b74620d5eb4bfef3721d93c5ba5993a3f6b2cfe11ae39d2d087412f598",
+      "kind": "sealed-lesson",
+      "lesson_id": "L901",
+      "media_type": "application/json",
+      "path": "lessons/L901/李白与杜甫.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8086
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "4b2413c3dfaaa90fb95cfac7ad9a4baa3d79e6f64dc20743a2d5581448907f24",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L902",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L902/玄奘西行-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3517
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "45b7cd4ac5da5f55789879c32b527303aad59044cf6990ab33d293130d9deb50",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L902",
+      "media_type": "application/json",
+      "path": "lessons/L902/玄奘西行-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6936
+    },
+    {
+      "artifact_id": "pkg-L902",
+      "artifact_version": 1,
+      "blob_sha256": "04143989e2a6217efdec5d639200a515592954fedf6767d769c378399ca9778b",
+      "contract_checksum": "9aec5dd026e116579536aa054325804a3d9664350b3b143ae5280409f5658e5f",
+      "kind": "course-package",
+      "lesson_id": "L902",
+      "media_type": "application/json",
+      "path": "lessons/L902/玄奘西行-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11347
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "145064e6f7504cb416a0ec46789d7fc88e2d41306ae406f70b53dc2e7978a098",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L902",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L902/玄奘西行-预览.html",
+      "schema_version": null,
+      "size_bytes": 5442
+    },
+    {
+      "artifact_id": "L902",
+      "artifact_version": 1,
+      "blob_sha256": "62289b0021fb31caf21521eb6c269538ff525840c56138ac32a6994c19419f9b",
+      "contract_checksum": "0b4a5ca4e82574e8b9e7aa1712407159013588d5cf504f59e96faed50fb9229b",
+      "kind": "sealed-lesson",
+      "lesson_id": "L902",
+      "media_type": "application/json",
+      "path": "lessons/L902/玄奘西行.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8034
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e37d3afd2d709474e655e54886fdb4de0d0f7afcd6f5a27e4ea48798a12900e9",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L903",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L903/丝绸之路与世界中的长安-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3656
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "856dd1e5399d1f3c19958300458bf6bd6d434289b43bab9ffa78b5409c21adbe",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L903",
+      "media_type": "application/json",
+      "path": "lessons/L903/丝绸之路与世界中的长安-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7088
+    },
+    {
+      "artifact_id": "pkg-L903",
+      "artifact_version": 1,
+      "blob_sha256": "ccc8bf2327499db36ece54113f49a75e88a2d1ac7edcec7bd3044403572ddcba",
+      "contract_checksum": "32e79ca68068d9dac9691a9b89f32715c316c0c2d81ec6580cd2e44b687998ef",
+      "kind": "course-package",
+      "lesson_id": "L903",
+      "media_type": "application/json",
+      "path": "lessons/L903/丝绸之路与世界中的长安-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11928
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "7a2bf68bb73d7253a504d6e7aa9fb98eb198cc55977fa4c25a00f0c0c1de183c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L903",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L903/丝绸之路与世界中的长安-预览.html",
+      "schema_version": null,
+      "size_bytes": 5651
+    },
+    {
+      "artifact_id": "L903",
+      "artifact_version": 1,
+      "blob_sha256": "0038831b267141f7a6c1facb682855ee4576cdb149637a3e6dc46dc8d359abd2",
+      "contract_checksum": "2356009b628c7216deb79732fa3fc4de3264434c89327e714292995f6b8d9721",
+      "kind": "sealed-lesson",
+      "lesson_id": "L903",
+      "media_type": "application/json",
+      "path": "lessons/L903/丝绸之路与世界中的长安.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8575
+    },
+    {
+      "artifact_id": "rel-d87307565c-0005",
+      "artifact_version": 5,
+      "blob_sha256": "4fe9b3e4320df60c38ef21bf771a4eba2f4a629e081679ea021d894ff5fddde6",
+      "contract_checksum": "d690df78533dc96fdd4b3eeef020903800581b932900d7fe811ce96c9994cb3b",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2883
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 2,
+      "course_package_checksum": "5cb40902e570ff7c64dd5994279bd18e0e4f53439b134a5d92b93e5aef50f78c",
+      "course_package_id": "pkg-L901",
+      "files": [
+        "lessons/L901/李白与杜甫-教师稿.md",
+        "lessons/L901/李白与杜甫-格式层.json",
+        "lessons/L901/李白与杜甫-运行包.json",
+        "lessons/L901/李白与杜甫-预览.html",
+        "lessons/L901/李白与杜甫.json"
+      ],
+      "lesson_id": "L901",
+      "scenarios": [],
+      "source_checksum": "ded946b74620d5eb4bfef3721d93c5ba5993a3f6b2cfe11ae39d2d087412f598",
+      "title": "李白与杜甫"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "9aec5dd026e116579536aa054325804a3d9664350b3b143ae5280409f5658e5f",
+      "course_package_id": "pkg-L902",
+      "files": [
+        "lessons/L902/玄奘西行-教师稿.md",
+        "lessons/L902/玄奘西行-格式层.json",
+        "lessons/L902/玄奘西行-运行包.json",
+        "lessons/L902/玄奘西行-预览.html",
+        "lessons/L902/玄奘西行.json"
+      ],
+      "lesson_id": "L902",
+      "scenarios": [],
+      "source_checksum": "0b4a5ca4e82574e8b9e7aa1712407159013588d5cf504f59e96faed50fb9229b",
+      "title": "玄奘西行"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "32e79ca68068d9dac9691a9b89f32715c316c0c2d81ec6580cd2e44b687998ef",
+      "course_package_id": "pkg-L903",
+      "files": [
+        "lessons/L903/丝绸之路与世界中的长安-教师稿.md",
+        "lessons/L903/丝绸之路与世界中的长安-格式层.json",
+        "lessons/L903/丝绸之路与世界中的长安-运行包.json",
+        "lessons/L903/丝绸之路与世界中的长安-预览.html",
+        "lessons/L903/丝绸之路与世界中的长安.json"
+      ],
+      "lesson_id": "L903",
+      "scenarios": [],
+      "source_checksum": "2356009b628c7216deb79732fa3fc4de3264434c89327e714292995f6b8d9721",
+      "title": "丝绸之路与世界中的长安"
+    }
+  ],
+  "manifest_checksum": "2e828f2bed8ddaa0713c49851830b09ac131c005a6b7e78ebd948fb18169a67b",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "d690df78533dc96fdd4b3eeef020903800581b932900d7fe811ce96c9994cb3b",
+  "release_created_at": "2026-09-09T12:32:47.228410Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-d87307565c-0005",
+  "release_no": 5,
+  "release_note": "Publish L901 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 110607
+}

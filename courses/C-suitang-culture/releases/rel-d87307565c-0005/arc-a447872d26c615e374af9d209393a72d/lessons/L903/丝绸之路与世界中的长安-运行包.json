@@ -1,0 +1,299 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L903",
+  "course_id": "C-suitang-culture",
+  "lesson_id": "L903",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "丝绸之路与世界中的长安",
+  "unit": "都城生活与跨区域交流",
+  "era": "隋唐",
+  "body": [
+    "唐代的【丝绸之路】并不是一条固定道路，而是连接东亚 中亚 南亚和西亚的陆海交通网络。使者 商人 僧侣 工匠和留学生沿不同路线往来，携带丝绸 香料 药材 金银器和书籍，也传播语言 宗教 音乐和生活习俗。长安位于道路东端，是政治中心，也是各种人群相遇的城市。",
+    "【长安城】在隋大兴城基础上继续发展，城内街道整齐，宫城 皇城和居民坊分区设置。朱雀大街贯穿南北，城中有一百多个坊，市场主要集中在东市和【西市】。鼓声响起后市门开启，来自各地的货物进入店铺；夜间坊门关闭，城市生活受到严格管理。",
+    "西市靠近通往西北的城门，常有来自中亚和西亚的【胡商】经营珠宝 香料 酒店和其他商品。其中不少人来自粟特地区，汉文文献常以【昭武九姓】称呼相关城邦和家族。粟特商人建立跨地区联系，有些人在中国长期居住，出任军职或地方官，并把墓葬艺术和宗教传统带入中原。",
+    "长安还汇聚多种宗教。佛教寺院遍布城中，祆教 摩尼教和景教也随外来人口进入唐朝。公元781年建立的【大秦景教流行中国碑】，用汉文和叙利亚文记录景教在唐代传播的情况。碑文带有宗教群体自述立场，却为认识当时中外文化接触提供了珍贵材料。",
+    "东亚国家也不断派遣使节和学生。日本多次派出【遣唐使】，随行者学习律令 佛教 文学 医药和城市制度；新罗留学生和僧人也活跃在长安。唐朝由【鸿胪寺】负责部分外国使节接待事务。有人学成回国，有人留在唐朝任官，知识和制度由此在东亚各地重新传播。",
+    "陆路之外，广州 扬州等港口连接海上航线。阿拉伯和波斯商船经南海进入中国，瓷器 丝绸等商品也运往海外。安史之乱后，长安和西北陆路受到战争影响，海上贸易的重要性进一步上升。唐代对外交流并非始终畅通，却在不同路线之间保持延续。",
+    "城址 墓葬 壁画 钱币和外文碑刻，让今天的人能够看到长安生活的多样面貌。学习世界中的长安，重点不只是记住有哪些外国人和商品，而是理解一座都城如何依靠交通 制度和日常交往成为文化汇聚点。唐文化的活力既来自自身发展，也来自对外来事物的吸收与转化。"
+  ],
+  "abstract": "唐代丝绸之路连接陆海交通网络，长安依靠坊市制度和都城地位汇聚商人 僧侣 使节与留学生，成为跨区域文化交流的重要中心。",
+  "course_title": "唐代文化与世界",
+  "era_id": "suitang",
+  "section": "文化",
+  "lesson_no": "3.3",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "说明唐代陆海交通网络的基本范围",
+    "结合坊市布局认识长安城市生活",
+    "举例说明商品 人口 宗教和制度的跨区域流动",
+    "利用碑刻 遗址和墓葬认识唐代中外交流"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-d4fb4191",
+      "word": "丝绸之路",
+      "pinyin": "sī chóu zhī lù",
+      "gloss": "连接东亚 中亚 南亚和西亚的陆海交通网络；运输商品并传播文化",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-c2560634",
+      "word": "长安城",
+      "pinyin": "cháng ān chéng",
+      "gloss": "隋唐时期大型都城；街道整齐；宫城 皇城 坊市分区设置",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-cd838ea4",
+      "word": "西市",
+      "pinyin": "xī shì",
+      "gloss": "唐长安主要市场之一；外来商人和异域商品较为集中",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-82a2800e",
+      "word": "胡商",
+      "pinyin": "hú shāng",
+      "gloss": "古代中国文献对来自西域等地商人的常见称呼",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-096066fa",
+      "word": "昭武九姓",
+      "pinyin": "zhāo wǔ jiǔ xìng",
+      "gloss": "唐代文献对中亚部分粟特城邦和家族的合称",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-5ed4a498",
+      "word": "大秦景教流行中国碑",
+      "pinyin": "dà qín jǐng jiào liú xíng zhōng guó bēi",
+      "gloss": "公元781年建立的宗教碑刻；记录景教在唐代传播情况",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-bdafe21b",
+      "word": "遣唐使",
+      "pinyin": "qiǎn táng shǐ",
+      "gloss": "日本派往唐朝的官方使团；承担外交和文化学习任务",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-8020555b",
+      "word": "鸿胪寺",
+      "pinyin": "hóng lú sì",
+      "gloss": "唐代负责部分礼宾和外国使节接待事务的中央机构",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-798622b7",
+      "name": "阿倍仲麻吕",
+      "role": "日本遣唐留学生和唐朝官员",
+      "summary": "长期留居唐朝并以晁衡之名任官",
+      "persona": "用于说明跨国学习和个人迁徙",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-b48c3103",
+      "name": "空海",
+      "role": "日本入唐僧人",
+      "summary": "赴长安学习佛教并把相关知识带回日本",
+      "persona": "说明宗教与文字文化传播",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-be5cfcf0",
+      "name": "粟特商人",
+      "role": "跨区域商业群体",
+      "summary": "连接中亚与唐朝的商品和文化网络",
+      "persona": "作为群体角色使用；不虚构单一个人经历",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-ca934e7a",
+      "label": "长安",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "唐代政治中心和丝绸之路东端重要城市",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-976d3831",
+      "label": "撒马尔罕",
+      "region": "今乌兹别克斯坦撒马尔罕",
+      "lat": null,
+      "lng": null,
+      "note": "粟特地区重要城市和陆路交通节点",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-fe314435",
+      "label": "广州",
+      "region": "今广东广州",
+      "lat": null,
+      "lng": null,
+      "note": "唐代海上贸易重要港口",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-51b25f4a",
+      "label": "奈良",
+      "region": "今日本奈良",
+      "lat": null,
+      "lng": null,
+      "note": "遣唐使往来和吸收唐文化的重要地区",
+      "kind": "city"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-39da076a",
+      "statement": "唐代丝绸之路包括多条陆路和海路",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ef8c049e",
+      "statement": "唐长安实行宫城 皇城 坊和市分区布局",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-55da7fc9",
+      "statement": "粟特商人在唐代跨区域贸易中发挥重要作用",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-d9b3ac35",
+      "statement": "大秦景教流行中国碑使用汉文和叙利亚文",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-fa68b971",
+      "statement": "日本遣唐使承担外交 学习和文化传播任务",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-e13ea025",
+      "statement": "安史之乱后海上贸易的重要性进一步上升",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-0f3c87c8",
+      "title": "大秦景教流行中国碑",
+      "kind": "other",
+      "publisher": "碑刻文字材料",
+      "url_or_path": "西安碑林藏大秦景教流行中国碑",
+      "citation_note": "记录景教群体对入唐和传播过程的自述",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-b9ef4346",
+      "title": "唐长安城考古遗址",
+      "kind": "other",
+      "publisher": "城市考古材料",
+      "url_or_path": "隋大兴唐长安城遗址",
+      "citation_note": "反映都城道路 坊市和建筑布局",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-24e1a884",
+      "title": "唐代粟特墓葬与墓志",
+      "kind": "other",
+      "publisher": "考古材料",
+      "url_or_path": "西安 太原等地粟特人墓葬与墓志",
+      "citation_note": "反映外来人口生活 身份和宗教文化",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "为什么丝绸之路不是一条固定道路？",
+    "长安的城市规划怎样影响居民和商业生活？",
+    "粟特商人与遣唐使分别推动了哪些交流？",
+    "哪些材料能够证明长安文化的多样性？"
+  ],
+  "level_goals": [
+    "说明唐代陆海交通网络的基本范围",
+    "结合坊市布局认识长安城市生活",
+    "举例说明商品 人口 宗教和制度的跨区域流动",
+    "利用碑刻 遗址和墓葬认识唐代中外交流"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "陆海交通网络",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "长安坊市",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "商人与宗教",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "遣唐使",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以都城空间中的人员流动为中心；陆海路线 商品 宗教和使节均服务于长安世界性主题。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T12:16:14.856314Z",
+  "sealed_at": "2026-09-09T12:16:14.856314Z",
+  "sealed_by": "codex",
+  "checksum": "32e79ca68068d9dac9691a9b89f32715c316c0c2d81ec6580cd2e44b687998ef",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L903",
+    "source_version": "1",
+    "source_checksum": "2356009b628c7216deb79732fa3fc4de3264434c89327e714292995f6b8d9721",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

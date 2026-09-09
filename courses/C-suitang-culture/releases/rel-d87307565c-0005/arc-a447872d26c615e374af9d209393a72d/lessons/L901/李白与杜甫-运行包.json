@@ -1,0 +1,283 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L901",
+  "course_id": "C-suitang-culture",
+  "lesson_id": "L901",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "李白与杜甫",
+  "unit": "盛唐诗歌与时代生活",
+  "era": "隋唐",
+  "body": [
+    "唐代城市繁荣，交通范围扩大，学校 科举和文人交往也不断发展。诗歌既用于宴饮送别，也进入科举 官场和日常生活。山川旅途 边塞战争 城市风物和百姓疾苦，都成为诗人书写的内容。在众多诗人中，【李白】与【杜甫】以不同的人生经历和艺术风格，展现了【唐诗】的广阔面貌。",
+    "李白年轻时离开蜀地，沿长江远游，希望凭才华获得施展政治抱负的机会。他游历名山大川，结交文士和官员，诗中常出现高山 大河 明月和长风。公元742年，李白奉召进入长安，任翰林供奉，为朝廷起草文辞，却没有获得真正参与政务的机会。几年后，他离开长安，再次踏上漫游之路。",
+    "李白的诗想象开阔，语言明快，常用夸张和跳跃的画面表现自由精神。他把蜀道写得险峻，把黄河写得仿佛从天而来，也在静夜望月时表达思乡之情。后人称他为【诗仙】，并不是说他的生活脱离现实，而是强调其诗歌飘逸奔放的艺术气质。安史之乱后，他因卷入永王李璘事件被流放，晚年生活并不平静。",
+    "杜甫比李白年轻十一岁。他早年也曾漫游，希望通过科举和献赋进入仕途，却长期困居长安。繁华都城中的贫富差异，使他逐渐关注普通人的生活。安史之乱爆发后，杜甫经历逃难 被俘和辗转任官，亲眼看到城市残破 家庭离散和征役沉重。这些经历改变了他的诗歌主题。",
+    "杜甫的诗结构严谨，感情深沉，常把个人遭遇与时代变化联系起来。《春望》写陷落后的长安，【三吏三别】描写战乱中的征兵和离别。后人称他为【诗圣】，又把他的作品称为【诗史】，强调诗中保存了时代生活的具体感受。诗歌不能代替官府档案，却能让后人接近战争中的个人经验。",
+    "公元744年，李白和杜甫在洛阳相遇，后来一同游历梁宋地区。两人的交往时间并不长，却在文学史上留下深刻印记。李白的浪漫想象与杜甫的沉郁关怀并非互相排斥，他们都从盛唐社会获得创作力量，也都在政治挫折和战争动荡中重新理解人生。",
+    "诗集 书信和唐代社会材料共同帮助我们认识两位诗人。学习李白与杜甫，重点不只是背诵名句，而是理解作品怎样由旅行 仕途 友情和战乱中的真实感受生长出来。两种不同声音共同构成唐代文化的高度，也让个人生命与宏大时代在诗歌中彼此照见。"
+  ],
+  "abstract": "唐代城市繁荣，交通范围扩大，学校 科举和文人交往也不断发展。诗歌既用于宴饮送别，也进入科举 官场和日常生活。山川旅途 边塞战争 城市风物和百姓疾苦，都成为诗人书写的内容。在众多诗人中，【李白】与【杜甫】以不同的人生经历和艺术风格，展现了...",
+  "course_title": "唐代文化与世界",
+  "era_id": "suitang",
+  "section": "文化",
+  "lesson_no": "3.1",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "概括李白与杜甫的主要人生经历",
+    "比较两位诗人的创作题材和艺术风格",
+    "结合具体作品理解诗歌与时代的关系",
+    "说明文学作品作为历史材料的独特价值"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-2eae53f7",
+      "word": "李白",
+      "pinyin": "lǐ bái",
+      "gloss": "唐代诗人；作品想象开阔；风格飘逸奔放",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-d3a0eb93",
+      "word": "杜甫",
+      "pinyin": "dù fǔ",
+      "gloss": "唐代诗人；关注战乱与民生；作品感情深沉",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-5c3138a3",
+      "word": "唐诗",
+      "pinyin": "táng shī",
+      "gloss": "唐代诗歌的总称；题材丰富；风格多样；名家众多",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-61ac213f",
+      "word": "诗仙",
+      "pinyin": "shī xiān",
+      "gloss": "后人对李白的称誉；突出其诗歌飘逸奔放的特点",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-b19a81c6",
+      "word": "三吏三别",
+      "pinyin": "sān lì sān bié",
+      "gloss": "杜甫创作的六首组诗；描写安史之乱中的征役和离别",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-37402031",
+      "word": "诗圣",
+      "pinyin": "shī shèng",
+      "gloss": "后人对杜甫的称誉；突出其诗歌艺术和现实关怀",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-ace66c15",
+      "word": "诗史",
+      "pinyin": "shī shǐ",
+      "gloss": "以诗歌反映时代变化和社会生活的特点；常用于评价杜甫作品",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-57bb5eae",
+      "name": "李白",
+      "role": "唐代诗人",
+      "summary": "以漫游经历和开阔想象写出奔放诗篇",
+      "persona": "联系政治理想和人生挫折理解浪漫风格",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-3a2b3043",
+      "name": "杜甫",
+      "role": "唐代诗人",
+      "summary": "以个人经历记录战争和社会生活",
+      "persona": "区分诗歌感受与官府史料的不同价值",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-b21bf5e6",
+      "label": "长安",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "李白供奉翰林和杜甫长期生活的重要城市",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-24b75f83",
+      "label": "洛阳",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "公元744年李白与杜甫相遇地区",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-eac19564",
+      "label": "成都",
+      "region": "今四川成都",
+      "lat": null,
+      "lng": null,
+      "note": "杜甫草堂生活和创作地区",
+      "kind": "city"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-cd68da2c",
+      "statement": "公元742年李白奉召进入长安并任翰林供奉",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-e7498369",
+      "statement": "李白离开长安后继续漫游；安史之乱后卷入永王事件",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-25bd4dbd",
+      "statement": "杜甫长期困居长安并经历安史之乱",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-260de4b0",
+      "statement": "三吏三别描写战乱中的征役和家庭离散",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-d9ff883c",
+      "statement": "公元744年李白与杜甫在洛阳相遇",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8cb8beb1",
+      "statement": "诗歌能保存时代感受；不能直接代替行政档案",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-67e02218",
+      "title": "《李太白集》",
+      "kind": "other",
+      "publisher": "传世诗文集",
+      "url_or_path": "《李太白集》",
+      "citation_note": "保存李白诗文和人生表达",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-bd544286",
+      "title": "《杜工部集》",
+      "kind": "other",
+      "publisher": "传世诗文集",
+      "url_or_path": "《杜工部集》",
+      "citation_note": "保存杜甫诗作及其时代经验",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-b863a8fa",
+      "title": "《旧唐书》相关列传",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《旧唐书·文苑传》",
+      "citation_note": "记载李白 杜甫生平和后世评价",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "李白的漫游经历怎样影响其诗歌？",
+    "安史之乱怎样改变杜甫的创作？",
+    "诗仙 诗圣和诗史分别强调什么？",
+    "诗歌作为历史材料具有哪些价值和限制？"
+  ],
+  "level_goals": [
+    "概括李白与杜甫的主要人生经历",
+    "比较两位诗人的创作题材和艺术风格",
+    "结合具体作品理解诗歌与时代的关系",
+    "说明文学作品作为历史材料的独特价值"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "李白",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "杜甫",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "唐诗",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "诗仙",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "三吏三别",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "诗圣",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以两位诗人的人生经历串联作品风格；不罗列诗坛人物；集中说明诗歌史料价值。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T12:32:46.781710Z",
+  "sealed_at": "2026-09-09T12:32:46.781710Z",
+  "sealed_by": "local-admin",
+  "checksum": "5cb40902e570ff7c64dd5994279bd18e0e4f53439b134a5d92b93e5aef50f78c",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L901",
+    "source_version": "2",
+    "source_checksum": "ded946b74620d5eb4bfef3721d93c5ba5993a3f6b2cfe11ae39d2d087412f598",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
