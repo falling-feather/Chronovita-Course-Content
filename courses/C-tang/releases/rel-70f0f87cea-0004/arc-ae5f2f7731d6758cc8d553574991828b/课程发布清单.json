@@ -1,0 +1,55 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-70f0f87cea-0004",
+  "release_no": 4,
+  "course_id": "C-tang",
+  "operation": "publish",
+  "parent_release_id": "rel-70f0f87cea-0003",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T12:07:00.880694Z",
+  "created_by": "local-admin",
+  "note": "Publish L701 v2.",
+  "items": [
+    {
+      "lesson_id": "L701",
+      "course_id": "C-tang",
+      "content_version": 2,
+      "source_path": "sealed/L701-v002.json",
+      "source_checksum": "6c12d0e4f732d46e0ff3d6ef56b1f219b68085efb619be5b2a575c49687b7887",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L701",
+        "course_id": "C-tang",
+        "lesson_id": "L701",
+        "version": 2,
+        "checksum": "c0bb840d509f7228db4d2ec08726a1e905e5d29d496f5012002bacf92e96faf6",
+        "path": "runtime/v1/course-packages/C-tang/L701/v002-c0bb840d509f7228db4d2ec08726a1e905e5d29d496f5012002bacf92e96faf6.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L703",
+      "course_id": "C-tang",
+      "content_version": 1,
+      "source_path": "sealed/L703-v001.json",
+      "source_checksum": "698c3da293f77d9671c86cd674c44ddf6e69608a30d4cfaf95778c3e50cdd492",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L703",
+        "course_id": "C-tang",
+        "lesson_id": "L703",
+        "version": 1,
+        "checksum": "c1a85f3fec5baad367a5b78a8a2525173c5c7a7a7fddc44441778c578e1980ee",
+        "path": "runtime/v1/course-packages/C-tang/L703/v001-c1a85f3fec5baad367a5b78a8a2525173c5c7a7a7fddc44441778c578e1980ee.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "f2a1f22874c4091b6b95af318a973f8ac3702748f2026c884432f7493c1886fd"
+}

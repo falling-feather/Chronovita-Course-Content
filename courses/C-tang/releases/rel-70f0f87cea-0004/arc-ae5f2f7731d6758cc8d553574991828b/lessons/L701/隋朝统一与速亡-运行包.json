@@ -1,0 +1,302 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L701",
+  "course_id": "C-tang",
+  "lesson_id": "L701",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "隋朝统一与速亡",
+  "unit": "唐太宗与魏征同窗问答",
+  "era": "隋唐",
+  "body": [
+    "魏晋南北朝后期，南北长期分立，但各地区之间的人口迁徙 经济往来和文化交融从未停止。北方经过北魏 北齐和北周的政权更替，统一力量逐渐增强。公元581年，北周外戚【杨坚】夺取政权，建立【隋朝】，定都长安，史称隋文帝。",
+    "隋文帝整顿户籍和赋役，削弱地方豪强对人口的控制，又改革中央和地方官制。朝廷减轻部分刑罚，兴修仓储，鼓励农业生产。社会秩序逐步恢复，国家粮仓积蓄增加，后世把这一时期称为【开皇之治】。隋还营建【大兴城】，以整齐的街道和坊市规划新的都城空间。",
+    "公元589年，隋军渡过长江，灭掉南方的陈朝，结束数百年的南北分裂。统一使南北政令和交通重新连为一体，也扩大了物资调运和人员往来的需要。隋朝在旧有水道基础上继续疏浚开凿运河，希望把黄河 淮河 长江和钱塘江水系连接起来。",
+    "杨坚去世后，【隋炀帝】杨广即位。他迁都洛阳，并从公元605年起大规模修建【大运河】。河道把北方政治中心与江淮粮食产区联系起来，便利漕运和军队调动，也促进沿线城市发展。工程分段利用天然河流和前代水道，并非完全从空地一次挖成。",
+    "宏大工程需要征发大量劳动力。隋炀帝又频繁巡游，修筑宫殿和道路，并多次发动对高句丽的战争，后世常称【三征高句丽】。运输 徭役和战争相互叠加，许多百姓离开田地，地方生产和家庭生活受到破坏。朝廷对资源的动员超过社会能够长期承受的范围。",
+    "公元611年前后，各地反抗不断扩大，形成【隋末起义】。起义军 地方豪强和隋朝将领分别占据地区，统一不久的国家迅速分裂。公元618年，隋炀帝在江都被部将杀死；同年李渊在长安称帝，建立唐朝。隋朝只有三十多年，却完成统一并留下影响后世的制度和交通基础。",
+    "史书多从君主行为解释隋亡，赋役文书 城市遗址和运河遗迹则能帮助我们观察国家工程怎样进入普通人的生活。学习隋朝兴亡，重点是理解统一带来的建设能力与沉重动员为何同时存在。大运河的长期作用不能抹去修建过程中的负担，隋朝速亡也不是由单一工程造成。"
+  ],
+  "abstract": "魏晋南北朝后期，南北长期分立，但各地区之间的人口迁徙 经济往来和文化交融从未停止。北方经过北魏 北齐和北周的政权更替，统一力量逐渐增强。公元581年，北周外戚【杨坚】夺取政权，建立【隋朝】，定都长安，史称隋文帝。",
+  "course_title": "隋唐制度创新",
+  "era_id": "sui-tang",
+  "section": "P0 主线",
+  "lesson_no": "L701",
+  "duration": "09:00",
+  "teaching_objectives": [
+    "按时间说明隋朝建立 统一和灭亡过程",
+    "概括开皇之治的主要表现",
+    "评价大运河建设的不同影响",
+    "从国家动员与社会承受能力解释隋朝速亡"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-e9e3eb86",
+      "word": "杨坚",
+      "pinyin": "yáng jiān",
+      "gloss": "隋朝建立者；结束南北分裂并整顿国家制度",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e190152f",
+      "word": "隋朝",
+      "pinyin": "suí cháo",
+      "gloss": "公元581年建立的统一王朝；公元618年灭亡",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-cfae2ad1",
+      "word": "开皇之治",
+      "pinyin": "kāi huáng zhī zhì",
+      "gloss": "隋文帝时期社会恢复和国力增长的局面",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-949e9889",
+      "word": "大兴城",
+      "pinyin": "dà xīng chéng",
+      "gloss": "隋朝营建的都城；位于今陕西西安；成为唐长安城基础",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-fe063a4a",
+      "word": "隋炀帝",
+      "pinyin": "suí yáng dì",
+      "gloss": "隋朝第二位皇帝杨广；迁都洛阳并大规模修建运河",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-9730b2de",
+      "word": "大运河",
+      "pinyin": "dà yùn hé",
+      "gloss": "隋代贯通多个水系的南北水运体系；承担漕运和交通功能",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-42b4a909",
+      "word": "三征高句丽",
+      "pinyin": "sān zhēng gāo gōu lí",
+      "gloss": "隋炀帝多次发动的东北战争；大量消耗兵力和物资",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-3369563f",
+      "word": "隋末起义",
+      "pinyin": "suí mò qǐ yì",
+      "gloss": "隋朝末年各地反抗力量发动的起事；加速隋朝瓦解",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-5a36ad6b",
+      "name": "杨坚",
+      "role": "隋文帝",
+      "summary": "建立隋朝并完成南北统一",
+      "persona": "从制度整顿和社会恢复理解统一基础",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-19c136aa",
+      "name": "杨广",
+      "role": "隋炀帝",
+      "summary": "推动运河建设并多次发动战争",
+      "persona": "同时观察工程长期作用和当时社会负担",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-bbddb26c",
+      "name": "李渊",
+      "role": "唐朝建立者",
+      "summary": "隋末起兵并于公元618年建立唐朝",
+      "persona": "用于说明隋唐政权更替",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-d672b8df",
+      "label": "大兴城",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "隋朝都城和唐长安城基础",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-be9587fe",
+      "label": "洛阳",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "隋炀帝营建的东都和运河交通中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-c7f6c7af",
+      "label": "江都",
+      "region": "今江苏扬州",
+      "lat": null,
+      "lng": null,
+      "note": "隋炀帝晚年所在地区",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-cd94c1ae",
+      "label": "隋代大运河",
+      "region": "连接海河 黄河 淮河 长江 钱塘江水系",
+      "lat": null,
+      "lng": null,
+      "note": "南北漕运与交通网络",
+      "kind": "route"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-3ed43770",
+      "statement": "公元581年杨坚建立隋朝",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-736afa5d",
+      "statement": "公元589年隋灭陈并统一南北",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-f5a95fe1",
+      "statement": "隋代在旧有水道基础上扩建南北运河体系",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-256a6b1a",
+      "statement": "工程 战争和徭役负担共同加剧社会矛盾",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-6d33220b",
+      "statement": "公元618年隋亡并由唐朝取代",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-f95bd0a9",
+      "title": "《隋书》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《隋书》",
+      "citation_note": "记载隋朝制度 工程 战争和政权兴亡",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-ab8c6e66",
+      "title": "隋唐长安城遗址",
+      "kind": "other",
+      "publisher": "考古遗址",
+      "url_or_path": "隋大兴唐长安城遗址",
+      "citation_note": "反映都城规划和城市规模",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-e311e77d",
+      "title": "大运河遗产与考古材料",
+      "kind": "other",
+      "publisher": "工程遗址",
+      "url_or_path": "隋唐大运河相关河段和遗址",
+      "citation_note": "用于认识河道走向 建设过程和长期使用",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "隋朝为什么能够结束南北分裂？",
+    "大运河建设有哪些长期作用和当时负担？",
+    "隋朝速亡与哪些因素有关？",
+    "为什么不能用单一原因解释隋亡？"
+  ],
+  "level_goals": [
+    "按时间说明隋朝建立 统一和灭亡过程",
+    "概括开皇之治的主要表现",
+    "评价大运河建设的不同影响",
+    "从国家动员与社会承受能力解释隋朝速亡"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "杨坚",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "隋朝",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "开皇之治",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "大兴城",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "隋炀帝",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "大运河",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以统一 建设和动员失衡为主线；兼顾大运河长期价值与当时民众负担。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T12:07:00.337173Z",
+  "sealed_at": "2026-09-09T12:07:00.337173Z",
+  "sealed_by": "local-admin",
+  "checksum": "c0bb840d509f7228db4d2ec08726a1e905e5d29d496f5012002bacf92e96faf6",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L701",
+    "source_version": "2",
+    "source_checksum": "6c12d0e4f732d46e0ff3d6ef56b1f219b68085efb619be5b2a575c49687b7887",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
