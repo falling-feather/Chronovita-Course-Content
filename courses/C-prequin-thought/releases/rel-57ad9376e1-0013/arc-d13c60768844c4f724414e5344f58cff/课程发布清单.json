@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-57ad9376e1-0013",
+  "release_no": 13,
+  "course_id": "C-prequin-thought",
+  "operation": "publish",
+  "parent_release_id": "rel-57ad9376e1-0012",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-09T10:49:57.998564Z",
+  "created_by": "local-admin",
+  "note": "Publish L201 v3.",
+  "items": [
+    {
+      "lesson_id": "L201",
+      "course_id": "C-prequin-thought",
+      "content_version": 3,
+      "source_path": "sealed/L201-v003.json",
+      "source_checksum": "bf386994b4c390adfb52a33a83c1d0c8e9f47ce2a0d3d49b0d08df4e11c419a9",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L201",
+        "course_id": "C-prequin-thought",
+        "lesson_id": "L201",
+        "version": 3,
+        "checksum": "ee131f6b699fe78ddeb8e56195844df577ebba412c5df859ff5392ea509d2b51",
+        "path": "runtime/v1/course-packages/C-prequin-thought/L201/v003-ee131f6b699fe78ddeb8e56195844df577ebba412c5df859ff5392ea509d2b51.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L202",
+      "course_id": "C-prequin-thought",
+      "content_version": 2,
+      "source_path": "sealed/L202-v002.json",
+      "source_checksum": "18efbfff1f132c015253edf5df33a0829409efd4b83255da09ca2ae1841d4e8d",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L202",
+        "course_id": "C-prequin-thought",
+        "lesson_id": "L202",
+        "version": 2,
+        "checksum": "bb7fa146af5dadcae5fc84393bd09afaacb361ec103befc2c8af7dd136dc4e11",
+        "path": "runtime/v1/course-packages/C-prequin-thought/L202/v002-bb7fa146af5dadcae5fc84393bd09afaacb361ec103befc2c8af7dd136dc4e11.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L203",
+      "course_id": "C-prequin-thought",
+      "content_version": 2,
+      "source_path": "sealed/L203-v002.json",
+      "source_checksum": "2b77064fc28833699067df5d4decff9d04331e44fcea057d246953ebc092fcf9",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L203",
+        "course_id": "C-prequin-thought",
+        "lesson_id": "L203",
+        "version": 2,
+        "checksum": "c9d368d9762d0ac2468617784db0a25069a7187888aebf14bae7f0c2376b86ed",
+        "path": "runtime/v1/course-packages/C-prequin-thought/L203/v002-c9d368d9762d0ac2468617784db0a25069a7187888aebf14bae7f0c2376b86ed.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "a6b4f6c41cbcef40cd81dce128666343720a548e63523336f673697a8ae909f4"
+}
