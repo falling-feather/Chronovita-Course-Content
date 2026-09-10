@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-86d1ee9518-0009",
+  "release_no": 9,
+  "course_id": "C-songyuan-mongol",
+  "operation": "publish",
+  "parent_release_id": "rel-86d1ee9518-0008",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-10T03:20:48.100072Z",
+  "created_by": "local-admin",
+  "note": "Publish L1103 v2.",
+  "items": [
+    {
+      "lesson_id": "L1101",
+      "course_id": "C-songyuan-mongol",
+      "content_version": 4,
+      "source_path": "sealed/L1101-v004.json",
+      "source_checksum": "3c31b2d68b33e79d7fd51a93dc2af29e339dbe559779d5cfe226cae185c844d0",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1101",
+        "course_id": "C-songyuan-mongol",
+        "lesson_id": "L1101",
+        "version": 4,
+        "checksum": "6007397cf39063ad2c832be27d02418ed03b5243967054adabb120a4307e254a",
+        "path": "runtime/v1/course-packages/C-songyuan-mongol/L1101/v004-6007397cf39063ad2c832be27d02418ed03b5243967054adabb120a4307e254a.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1102",
+      "course_id": "C-songyuan-mongol",
+      "content_version": 2,
+      "source_path": "sealed/L1102-v002.json",
+      "source_checksum": "ba626289fc047a798105df514ff52439f28e9b776b15317813f33e7a5c1e038e",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1102",
+        "course_id": "C-songyuan-mongol",
+        "lesson_id": "L1102",
+        "version": 2,
+        "checksum": "45763bbea95548d0405ea82341ec143462e6f98a8fdff3b471c67d973a6b7e49",
+        "path": "runtime/v1/course-packages/C-songyuan-mongol/L1102/v002-45763bbea95548d0405ea82341ec143462e6f98a8fdff3b471c67d973a6b7e49.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1103",
+      "course_id": "C-songyuan-mongol",
+      "content_version": 2,
+      "source_path": "sealed/L1103-v002.json",
+      "source_checksum": "fdbc3aae15a251b8402d330ddd94ad8aabf597238c77dfc5696c861a35a19bde",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1103",
+        "course_id": "C-songyuan-mongol",
+        "lesson_id": "L1103",
+        "version": 2,
+        "checksum": "ac6e91e12a59f6d1768786a5b1796a79aec95e5bb463ba19f9ddf2e6ccf7a9d9",
+        "path": "runtime/v1/course-packages/C-songyuan-mongol/L1103/v002-ac6e91e12a59f6d1768786a5b1796a79aec95e5bb463ba19f9ddf2e6ccf7a9d9.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "6d7952fee7590fcc6eae3c4ef37fbdc5fb58623ae08b99dfd453ea0d7bc156e3"
+}
