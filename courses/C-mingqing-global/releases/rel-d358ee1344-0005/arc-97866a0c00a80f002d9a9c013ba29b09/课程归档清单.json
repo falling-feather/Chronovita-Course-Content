@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "97866a0c00a80f002d9a9c013ba29b09e0257f809f605d445d276240c1a11275",
+  "archive_id": "arc-97866a0c00a80f002d9a9c013ba29b09",
+  "archive_path": "C-mingqing-global/releases/rel-d358ee1344-0005/arc-97866a0c00a80f002d9a9c013ba29b09",
+  "course_id": "C-mingqing-global",
+  "course_title": "中国与早期全球化",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "c34cfed7beda844170fd4d835fd9562488fa43316f67c8efbad95d9c1fb28cbe",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1301",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1301/郑和下西洋-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3541
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d2d8fed410d80d1d75dba24ce7295dcb995d0cf99623d6814a4adfaf602e001f",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1301",
+      "media_type": "application/json",
+      "path": "lessons/L1301/郑和下西洋-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6854
+    },
+    {
+      "artifact_id": "pkg-L1301",
+      "artifact_version": 1,
+      "blob_sha256": "e674b2edb9e705688d3ca55637127409ca471ff9021a8b6e6c998fcda2e78210",
+      "contract_checksum": "abd06e168646f20d23302861863723303b8b9d03fad0154b8476ffee28939349",
+      "kind": "course-package",
+      "lesson_id": "L1301",
+      "media_type": "application/json",
+      "path": "lessons/L1301/郑和下西洋-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11556
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "1f2b2fcc0df4edb5485708faae51a7086d5e7de5106174ab9abd32d40835c306",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1301",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1301/郑和下西洋-预览.html",
+      "schema_version": null,
+      "size_bytes": 5364
+    },
+    {
+      "artifact_id": "L1301",
+      "artifact_version": 1,
+      "blob_sha256": "2dc5e6d26b967b512534fea70253beec76d8736395b5fab85bd455e5da8de150",
+      "contract_checksum": "4c9d0b735291aa7eb9ac55b7213acdb13a18c8de696038373ed4edf5d53101f2",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1301",
+      "media_type": "application/json",
+      "path": "lessons/L1301/郑和下西洋.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8257
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "f2d75e86bdb7bfd5f1288481c51a9ae2d06538f67a9bee06b6dcb553d1c6a479",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1302",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1302/耶稣会士与白银贸易-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3761
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "08afdcab02cdb8f3cf5c5b0cf6e9fd131c2521a9afa94c22c4d199424eb9d91c",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1302",
+      "media_type": "application/json",
+      "path": "lessons/L1302/耶稣会士与白银贸易-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7109
+    },
+    {
+      "artifact_id": "pkg-L1302",
+      "artifact_version": 1,
+      "blob_sha256": "5e6d82853a060dae8801dda6d24ca85be6f5471921ebf66788b8d71e55765409",
+      "contract_checksum": "bf463aaa36fbb4b8461cdb76663bcfaf6c54eeed4405c13be885be8170e69429",
+      "kind": "course-package",
+      "lesson_id": "L1302",
+      "media_type": "application/json",
+      "path": "lessons/L1302/耶稣会士与白银贸易-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11957
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "b8fc74fdc10dd669ce450c5a0b0ea38ea050b305cba1dea91080ea2ca8f31d3e",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1302",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1302/耶稣会士与白银贸易-预览.html",
+      "schema_version": null,
+      "size_bytes": 5573
+    },
+    {
+      "artifact_id": "L1302",
+      "artifact_version": 1,
+      "blob_sha256": "b5a862b8e98bef58af1dbffb0e8f802d2bf41f65d9c868144a539d418b4b98c9",
+      "contract_checksum": "b659acc65a346d2af60c28342510c1000414fbde32131403018dde6aa2ab5bc5",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1302",
+      "media_type": "application/json",
+      "path": "lessons/L1302/耶稣会士与白银贸易.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8478
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "1b010c99e6eb434e9c3cdb4d3cce77f197cf70910bcaaa8e131aab4bfca821e9",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1303",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1303/明亡与南明-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3626
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "81675715e9242cb5517ef40c950efc310a393a41312da876e3e12571deb18457",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1303",
+      "media_type": "application/json",
+      "path": "lessons/L1303/明亡与南明-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6866
+    },
+    {
+      "artifact_id": "pkg-L1303",
+      "artifact_version": 2,
+      "blob_sha256": "1c94b3049d91bbfb6da0835ed14200757cbc3a3addeaaf3ab7749beb02b1a1b2",
+      "contract_checksum": "40f392f371cde740fea254da0b87f5eba27804e60fd5a9a105da974ceda2d249",
+      "kind": "course-package",
+      "lesson_id": "L1303",
+      "media_type": "application/json",
+      "path": "lessons/L1303/明亡与南明-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12765
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "68d68cf204e7789c801551877a1537976a30ebe90892c45781cb976657f3fefc",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1303",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1303/明亡与南明-预览.html",
+      "schema_version": null,
+      "size_bytes": 5548
+    },
+    {
+      "artifact_id": "L1303",
+      "artifact_version": 2,
+      "blob_sha256": "1601830cb95e99d9360b29528da17bb9fc78cee6240d472f164582adc35d17fa",
+      "contract_checksum": "862e67a0d7febd5d1880463c64470d0d2e7565ded742958b5f23a696cc9c95e2",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1303",
+      "media_type": "application/json",
+      "path": "lessons/L1303/明亡与南明.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9088
+    },
+    {
+      "artifact_id": "rel-d358ee1344-0005",
+      "artifact_version": 5,
+      "blob_sha256": "73596cdec4a7c06389bf441b7c2826155130c5b441a7e267ec09424adb47beea",
+      "contract_checksum": "ba6f3e3c16d4d4936c955acbbdf97b0bcc80a5caee57eecf65d9958f607376d6",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2899
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "abd06e168646f20d23302861863723303b8b9d03fad0154b8476ffee28939349",
+      "course_package_id": "pkg-L1301",
+      "files": [
+        "lessons/L1301/郑和下西洋-教师稿.md",
+        "lessons/L1301/郑和下西洋-格式层.json",
+        "lessons/L1301/郑和下西洋-运行包.json",
+        "lessons/L1301/郑和下西洋-预览.html",
+        "lessons/L1301/郑和下西洋.json"
+      ],
+      "lesson_id": "L1301",
+      "scenarios": [],
+      "source_checksum": "4c9d0b735291aa7eb9ac55b7213acdb13a18c8de696038373ed4edf5d53101f2",
+      "title": "郑和下西洋"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "bf463aaa36fbb4b8461cdb76663bcfaf6c54eeed4405c13be885be8170e69429",
+      "course_package_id": "pkg-L1302",
+      "files": [
+        "lessons/L1302/耶稣会士与白银贸易-教师稿.md",
+        "lessons/L1302/耶稣会士与白银贸易-格式层.json",
+        "lessons/L1302/耶稣会士与白银贸易-运行包.json",
+        "lessons/L1302/耶稣会士与白银贸易-预览.html",
+        "lessons/L1302/耶稣会士与白银贸易.json"
+      ],
+      "lesson_id": "L1302",
+      "scenarios": [],
+      "source_checksum": "b659acc65a346d2af60c28342510c1000414fbde32131403018dde6aa2ab5bc5",
+      "title": "耶稣会士与白银贸易"
+    },
+    {
+      "content_version": 2,
+      "course_package_checksum": "40f392f371cde740fea254da0b87f5eba27804e60fd5a9a105da974ceda2d249",
+      "course_package_id": "pkg-L1303",
+      "files": [
+        "lessons/L1303/明亡与南明-教师稿.md",
+        "lessons/L1303/明亡与南明-格式层.json",
+        "lessons/L1303/明亡与南明-运行包.json",
+        "lessons/L1303/明亡与南明-预览.html",
+        "lessons/L1303/明亡与南明.json"
+      ],
+      "lesson_id": "L1303",
+      "scenarios": [],
+      "source_checksum": "862e67a0d7febd5d1880463c64470d0d2e7565ded742958b5f23a696cc9c95e2",
+      "title": "明亡与南明"
+    }
+  ],
+  "manifest_checksum": "ff2874687f0b0b626cd80ebe517cc04b2d9bd4cb3cf4a12332ac4bcb4bfb1b9a",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "ba6f3e3c16d4d4936c955acbbdf97b0bcc80a5caee57eecf65d9958f607376d6",
+  "release_created_at": "2026-09-10T03:26:22.025678Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-d358ee1344-0005",
+  "release_no": 5,
+  "release_note": "Publish L1303 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 113242
+}
