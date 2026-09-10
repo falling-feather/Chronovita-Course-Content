@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "87cfa7c94bf7bf3f2a339e09a4050d77bfbe6489bf00d5d961a30645d7ec0739",
+  "archive_id": "arc-87cfa7c94bf7bf3f2a339e09a4050d77",
+  "archive_path": "C-songyuan-song/releases/rel-74a6cd6e30-0007/arc-87cfa7c94bf7bf3f2a339e09a4050d77",
+  "course_id": "C-songyuan-song",
+  "course_title": "宋代制度与商品经济",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "c2961a131daa4df32408523b13e183ea90fc92012f8d3680eea5b65eb008421f",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1001",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1001/陈桥兵变与重文抑武-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3678
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "8e52e8a03b5053afb12a47284968e442d2fbfe0d6a20247ae3471bdb2798b7bb",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1001",
+      "media_type": "application/json",
+      "path": "lessons/L1001/陈桥兵变与重文抑武-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7143
+    },
+    {
+      "artifact_id": "pkg-L1001",
+      "artifact_version": 4,
+      "blob_sha256": "186030c61b380d0a30df1a9a38797430c390f68dec56de60db9edfdf1fd29d92",
+      "contract_checksum": "cf223b106e16cdfe138f54e6e457722c90415342f78a7f19fdf927bc5830b468",
+      "kind": "course-package",
+      "lesson_id": "L1001",
+      "media_type": "application/json",
+      "path": "lessons/L1001/陈桥兵变与重文抑武-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11370
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "2ba38e14e360e10eeb3b0113d6ef1245fa7c06722537976fb72069e329372b1f",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1001",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1001/陈桥兵变与重文抑武-预览.html",
+      "schema_version": null,
+      "size_bytes": 5410
+    },
+    {
+      "artifact_id": "L1001",
+      "artifact_version": 4,
+      "blob_sha256": "7ac90f0879af1ab0295dc241fd5e7d5e73eb7227a4652d07cf55aa8374d74ff3",
+      "contract_checksum": "ba25fb5997e4b97896668d64909755eab890c8ee3268e2fed5dd0f83c02c81e1",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1001",
+      "media_type": "application/json",
+      "path": "lessons/L1001/陈桥兵变与重文抑武.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8214
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "418b408dc800b438a701fe7b8f3d35729bb25413a6c375f4c87be08ad1c0c5ee",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1002",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1002/澶渊之盟与岁币体系-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3370
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "8bacdd1b5cc88075b0183f7324536a6cceb1069bd8e603d45a7b9d974738c0ef",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1002",
+      "media_type": "application/json",
+      "path": "lessons/L1002/澶渊之盟与岁币体系-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6656
+    },
+    {
+      "artifact_id": "pkg-L1002",
+      "artifact_version": 1,
+      "blob_sha256": "5c5633253b6e70818d2eb935d5b1f09c7142afe2f5af9b7bfca1b9953f6b667e",
+      "contract_checksum": "81af3a5e7ad488f0f421eec57772501bfd8e1b331b145093d3ef87537b4ab933",
+      "kind": "course-package",
+      "lesson_id": "L1002",
+      "media_type": "application/json",
+      "path": "lessons/L1002/澶渊之盟与岁币体系-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11453
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "4337a273e5ae89ab043b867958590bda0fedda410dc1191909bb8d53bfb55fc5",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1002",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1002/澶渊之盟与岁币体系-预览.html",
+      "schema_version": null,
+      "size_bytes": 5298
+    },
+    {
+      "artifact_id": "L1002",
+      "artifact_version": 1,
+      "blob_sha256": "945b7c092c690288c2fe897f7bbaf316589163de8316f3561e5735bea4e25c71",
+      "contract_checksum": "9a23070e04218f9d581cd191500d0b4b16411384b0d025b724ebee4bffb8da68",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1002",
+      "media_type": "application/json",
+      "path": "lessons/L1002/澶渊之盟与岁币体系.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7924
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e33c99b0a237ff7b766ad6adc36aa382c059a4dbfbc00bbc62ecb7bf725f82dc",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1003",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1003/交子、市易和海贸-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3541
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "0fc36bfa1361836fa31ccd540b80c1207b1438aacf4812c0a90fb78d9201592d",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1003",
+      "media_type": "application/json",
+      "path": "lessons/L1003/交子、市易和海贸-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6877
+    },
+    {
+      "artifact_id": "pkg-L1003",
+      "artifact_version": 1,
+      "blob_sha256": "52b136b5b795952449f01f0607c7d7af85b657a81a674e39602859770585ec56",
+      "contract_checksum": "1a5ecd5cfed14f4afaf8dd226a88113769a0caf9934db22fddd0f0147c2ff41f",
+      "kind": "course-package",
+      "lesson_id": "L1003",
+      "media_type": "application/json",
+      "path": "lessons/L1003/交子、市易和海贸-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11144
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "283112c4408149b742bde961c45f42a14ac87f0d4504e1645cc05a80b8fdc1d7",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1003",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1003/交子、市易和海贸-预览.html",
+      "schema_version": null,
+      "size_bytes": 5312
+    },
+    {
+      "artifact_id": "L1003",
+      "artifact_version": 1,
+      "blob_sha256": "3b4d9ae1948c6aca92c2d0e4e14c06cf32c66fdf07a7ac16d2e57fb56cc5257b",
+      "contract_checksum": "8b4396cafa5e1e9285421f27ae8f934279b0def5ffeeedf0095026f6fdb26bf7",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1003",
+      "media_type": "application/json",
+      "path": "lessons/L1003/交子、市易和海贸.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7963
+    },
+    {
+      "artifact_id": "rel-74a6cd6e30-0007",
+      "artifact_version": 7,
+      "blob_sha256": "e4c1c24576744796d33d90d2209316b7b7808e8275912da09e44c9184d94c5c7",
+      "contract_checksum": "87e467473248f13189049ed0901ed781db870730354cd8e4f3c81055e8f4055d",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2879
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 4,
+      "course_package_checksum": "cf223b106e16cdfe138f54e6e457722c90415342f78a7f19fdf927bc5830b468",
+      "course_package_id": "pkg-L1001",
+      "files": [
+        "lessons/L1001/陈桥兵变与重文抑武-教师稿.md",
+        "lessons/L1001/陈桥兵变与重文抑武-格式层.json",
+        "lessons/L1001/陈桥兵变与重文抑武-运行包.json",
+        "lessons/L1001/陈桥兵变与重文抑武-预览.html",
+        "lessons/L1001/陈桥兵变与重文抑武.json"
+      ],
+      "lesson_id": "L1001",
+      "scenarios": [],
+      "source_checksum": "ba25fb5997e4b97896668d64909755eab890c8ee3268e2fed5dd0f83c02c81e1",
+      "title": "陈桥兵变与重文抑武"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "81af3a5e7ad488f0f421eec57772501bfd8e1b331b145093d3ef87537b4ab933",
+      "course_package_id": "pkg-L1002",
+      "files": [
+        "lessons/L1002/澶渊之盟与岁币体系-教师稿.md",
+        "lessons/L1002/澶渊之盟与岁币体系-格式层.json",
+        "lessons/L1002/澶渊之盟与岁币体系-运行包.json",
+        "lessons/L1002/澶渊之盟与岁币体系-预览.html",
+        "lessons/L1002/澶渊之盟与岁币体系.json"
+      ],
+      "lesson_id": "L1002",
+      "scenarios": [],
+      "source_checksum": "9a23070e04218f9d581cd191500d0b4b16411384b0d025b724ebee4bffb8da68",
+      "title": "澶渊之盟与岁币体系"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "1a5ecd5cfed14f4afaf8dd226a88113769a0caf9934db22fddd0f0147c2ff41f",
+      "course_package_id": "pkg-L1003",
+      "files": [
+        "lessons/L1003/交子、市易和海贸-教师稿.md",
+        "lessons/L1003/交子、市易和海贸-格式层.json",
+        "lessons/L1003/交子、市易和海贸-运行包.json",
+        "lessons/L1003/交子、市易和海贸-预览.html",
+        "lessons/L1003/交子、市易和海贸.json"
+      ],
+      "lesson_id": "L1003",
+      "scenarios": [],
+      "source_checksum": "8b4396cafa5e1e9285421f27ae8f934279b0def5ffeeedf0095026f6fdb26bf7",
+      "title": "交子、市易和海贸"
+    }
+  ],
+  "manifest_checksum": "93274e98f82252d0b960ec312386c1c21e6877ee8e96eba9ae9f48bb076f93b8",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "87e467473248f13189049ed0901ed781db870730354cd8e4f3c81055e8f4055d",
+  "release_created_at": "2026-09-10T02:23:59.923045Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-74a6cd6e30-0007",
+  "release_no": 7,
+  "release_note": "Publish L1001 v4.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 108232
+}

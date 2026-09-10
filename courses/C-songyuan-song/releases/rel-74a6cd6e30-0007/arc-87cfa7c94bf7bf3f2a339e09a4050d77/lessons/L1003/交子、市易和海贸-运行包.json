@@ -1,0 +1,282 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1003",
+  "course_id": "C-songyuan-song",
+  "lesson_id": "L1003",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "交子、市易和海贸",
+  "unit": "城市市场与商业网络",
+  "era": "宋元",
+  "body": [
+    "宋代农业生产发展，人口增加，城市和集镇分布更加密集。粮食 茶叶 丝绸 瓷器和书籍在不同地区间流通，商人需要携带货币支付货款。水路运输和市场扩大，使【商品经济】进入更多人的日常生活，也推动金融 财政和海外贸易出现新变化。",
+    "四川地区贸易活跃，却长期使用沉重的铁钱。商人远行时携带大量铁钱很不方便，于是一些富商联合开设交子铺，接受现金并发行可以兑现的纸质凭证，这就是早期【交子】。信用使纸面凭证能够流通，但发行者一旦准备不足，也可能无法兑现。",
+    "北宋政府后来接管交子发行，在益州设置【交子务】，规定发行额度 流通期限和兑换办法。交子由私人信用逐渐转为官府管理的【纸币】，方便大额交易和远距离支付。政府若发行过多，纸币价值也会下降，因此纸币既提高交易效率，也要求稳定财政和兑换信用。",
+    "商业繁荣也带来价格波动和大商人囤积货物等问题。王安石变法期间，朝廷推行【市易法】，由官府机构收购滞销货物，在市场需要时出售，并向部分商人提供贷款。它希望平抑物价 增加财政收入并限制大商人控制市场，却可能因执行人员强制摊派和追求收益而增加商户负担。",
+    "宋代海外贸易同样兴盛。广州 明州和【泉州港】等地停泊来自东南亚 南亚和阿拉伯地区的船只。中国输出瓷器 丝绸和铜钱，输入香料 药材 珠宝等商品。朝廷在重要港口设置【市舶司】，管理船舶 检查货物 征收税款并接待外国商人。",
+    "造船技术 航海知识和季风利用帮助商船驶向更远海域。南宋时期，北方陆路受阻，江南经济和海港地位更加重要。沉船中的瓷器 金属器和外来商品，记录了真实贸易规模；文献中的税额和商人故事，则让我们看到国家与市场之间既合作又相互制约的关系。",
+    "交子 市易和海贸分别涉及支付手段 市场管理和跨海贸易，却都回应了商品流通扩大的需要。学习本课，重点是理解经济创新如何解决实际问题，也要看到信用 行政执行和航海风险会限制其效果。宋代商业发展不是脱离农业和国家制度单独发生，而是由生产 城市 交通和政策共同推动。"
+  ],
+  "abstract": "宋代商品流通扩大推动交子出现，政府通过交子务和市易法介入金融与市场，沿海港口和市舶司则连接日益繁荣的海上贸易。",
+  "course_title": "宋代制度与商品经济",
+  "era_id": "songyuan",
+  "section": "制度",
+  "lesson_no": "1.3",
+  "duration": "10:30",
+  "teaching_objectives": [
+    "说明交子从私人凭证到官府纸币的发展",
+    "理解纸币便利与信用风险",
+    "从目标和执行两方面评价市易法",
+    "结合港口 市舶司和沉船材料认识宋代海贸"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-c20aa134",
+      "word": "商品经济",
+      "pinyin": "shāng pǐn jīng jì",
+      "gloss": "以生产和交换商品为重要内容的经济活动；依赖市场 货币和交通",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-8744bcab",
+      "word": "交子",
+      "pinyin": "jiāo zǐ",
+      "gloss": "北宋四川出现的纸质货币凭证；由商人发行后转为官府管理",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-7189d86d",
+      "word": "交子务",
+      "pinyin": "jiāo zǐ wù",
+      "gloss": "北宋政府管理交子发行 兑换和流通的机构",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-9a98276e",
+      "word": "纸币",
+      "pinyin": "zhǐ bì",
+      "gloss": "以纸张作为载体并依靠发行信用流通的货币",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-6c984e1d",
+      "word": "市易法",
+      "pinyin": "shì yì fǎ",
+      "gloss": "王安石变法中的市场措施；由官府收购货物并向部分商人放贷",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-df8dbea3",
+      "word": "泉州港",
+      "pinyin": "quán zhōu gǎng",
+      "gloss": "宋元时期重要海港；连接东南亚 南亚和更远地区",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-a0298e20",
+      "word": "市舶司",
+      "pinyin": "shì bó sī",
+      "gloss": "宋代管理海外贸易 船舶检查 税收和外商事务的机构",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-a01389e2",
+      "name": "王安石",
+      "role": "北宋政治家",
+      "summary": "主持变法并推动市易法等经济措施",
+      "persona": "从政策目标和执行结果两方面评价",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-48e54ca7",
+      "name": "宋代海商",
+      "role": "跨区域贸易群体",
+      "summary": "利用港口 船舶和季风开展海上贸易",
+      "persona": "作为群体角色使用；不虚构单一人物经历",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-1f040d3e",
+      "label": "成都府路",
+      "region": "今四川成都及周边地区",
+      "lat": null,
+      "lng": null,
+      "note": "早期交子流通和政府管理中心区域",
+      "kind": "region"
+    },
+    {
+      "point_id": "map-b7904bbb",
+      "label": "开封",
+      "region": "今河南开封",
+      "lat": null,
+      "lng": null,
+      "note": "北宋都城和大型消费市场",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-4adc5c5c",
+      "label": "泉州",
+      "region": "今福建泉州",
+      "lat": null,
+      "lng": null,
+      "note": "宋元时期重要海外贸易港口",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-997aafe8",
+      "label": "广州",
+      "region": "今广东广州",
+      "lat": null,
+      "lng": null,
+      "note": "宋代重要市舶贸易港口",
+      "kind": "port"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-c364e50f",
+      "statement": "北宋四川因铁钱沉重和贸易需要出现交子",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-5cb88036",
+      "statement": "交子最初由商人发行并逐渐转为政府管理",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8d52ad19",
+      "statement": "交子务负责官交子的发行和兑换等事务",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-37c6b8f7",
+      "statement": "市易法希望平抑物价并限制市场垄断；执行中也可能增加负担",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-785d6369",
+      "statement": "宋代在广州 明州 泉州等港口设置市舶管理机构",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-d66e44e7",
+      "statement": "南宋沉船遗物为海外贸易提供实物证据",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-90e838fc",
+      "title": "《宋史·食货志》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《宋史·食货志》",
+      "citation_note": "记载交子 市易和宋代财政贸易制度",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-000b4949",
+      "title": "宋代纸币钞版与相关文书",
+      "kind": "other",
+      "publisher": "实物与文字材料",
+      "url_or_path": "宋代纸币印版及金融文书",
+      "citation_note": "用于认识纸币印制 管理和流通",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-55d9ac13",
+      "title": "南海一号沉船出水遗物",
+      "kind": "other",
+      "publisher": "水下考古材料",
+      "url_or_path": "南海一号南宋沉船",
+      "citation_note": "反映南宋海船货物组成和海外贸易",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "四川为什么较早出现交子？",
+    "纸币流通为什么依赖信用？",
+    "市易法的目标与执行问题分别是什么？",
+    "宋代海贸繁荣需要哪些条件？"
+  ],
+  "level_goals": [
+    "说明交子从私人凭证到官府纸币的发展",
+    "理解纸币便利与信用风险",
+    "从目标和执行两方面评价市易法",
+    "结合港口 市舶司和沉船材料认识宋代海贸"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "铁钱不便",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "交子信用",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "市易管理",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "港口海贸",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课用交易中的实际困难串联金融 市场管理和海贸；重点块均提供具体制度与证据。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-09T12:16:15.442689Z",
+  "sealed_at": "2026-09-09T12:16:15.442689Z",
+  "sealed_by": "codex",
+  "checksum": "1a5ecd5cfed14f4afaf8dd226a88113769a0caf9934db22fddd0f0147c2ff41f",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1003",
+    "source_version": "1",
+    "source_checksum": "8b4396cafa5e1e9285421f27ae8f934279b0def5ffeeedf0095026f6fdb26bf7",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

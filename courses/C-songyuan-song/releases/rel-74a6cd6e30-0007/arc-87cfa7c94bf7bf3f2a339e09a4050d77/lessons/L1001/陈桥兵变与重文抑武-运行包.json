@@ -1,0 +1,283 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1001",
+  "course_id": "C-songyuan-song",
+  "lesson_id": "L1001",
+  "content_version": 4,
+  "status": "sealed",
+  "title": "陈桥兵变与重文抑武",
+  "unit": "赵宋立国与权力重组",
+  "era": "宋元",
+  "body": [
+    "唐朝灭亡后，中原在五十多年里先后更换五个王朝，南方和其他地区也存在多个政权，史称【五代十国】。将领掌握军队后夺取皇位的事情多次发生，皇帝常常担心部下仿效自己。怎样结束武将割据并让政权稳定传承，成为宋朝建立者必须解决的问题。",
+    "公元960年，后周将领【赵匡胤】奉命率军北上。军队到达陈桥驿后发生兵变，将士把象征皇帝身份的黄袍披在赵匡胤身上，拥立他返回开封夺取政权，这就是【陈桥兵变】。赵匡胤建立【北宋】，成为宋太祖。兵变经过主要见于宋代史书，具体细节带有后来塑造开国故事的成分。",
+    "宋太祖首先继续统一战争，先后消灭南方多个割据政权。与此同时，他逐步解除重要将领的兵权。后世以【杯酒释兵权】概括宋太祖在酒宴中劝说将领交出兵权的故事。实际变化并非只靠一次宴饮完成，朝廷还通过调换将领 分割军权和优厚安置等措施，让军队控制权逐渐集中到皇帝手中。",
+    "宋朝把禁军作为中央主要军事力量，使统兵 调兵和管理军队的权力分别由不同机构掌握。地方官多由文官担任，并设置【通判】监督知州；地方财政收入也有较大部分上交中央。官员频繁调动，难以在一个地区长期经营私人势力。这些做法加强了中央对地方的控制。",
+    "在用人方面，宋朝扩大科举规模，重用文官处理军政事务，并提高文官地位。后人把这一政策概括为【重文抑武】。它不是取消军队或排斥所有武将，而是限制将领长期独掌军政，尽量让军事行动受到文官制度和皇帝控制。文官政治促进教育 史学和文化发展，也形成庞大的官僚队伍。",
+    "宋朝的制度安排减少了晚唐以来武将割据和频繁兵变，却带来新的问题。军队中将领与士兵经常调动，可能影响训练和指挥；中央机构相互牵制，也增加行政成本。北宋完成中原和南方主要地区的统一，但北方仍有辽朝，西北后来又有西夏，宋并没有恢复汉唐时期全部疆域。",
+    "诏令，官制文献和宋代史书记录了赵宋立国过程。学习陈桥兵变与重文抑武，重点是理解一个由军事政变建立的王朝为何努力防止新的军事政变，以及权力集中怎样同时带来政治稳定和治理成本。制度的影响往往有多个方面，不能只用强或弱作简单判断。"
+  ],
+  "abstract": "唐朝灭亡后，中原在五十多年里先后更换五个王朝，南方和其他地区也存在多个政权，史称【五代十国】。将领掌握军队后夺取皇位的事情多次发生，皇帝常常担心部下仿效自己。怎样结束武将割据并让政权稳定传承，成为宋朝建立者必须解决的问题。",
+  "course_title": "宋代制度与商品经济",
+  "era_id": "songyuan",
+  "section": "制度",
+  "lesson_no": "1.1",
+  "duration": "09:30",
+  "teaching_objectives": [
+    "说明陈桥兵变和北宋建立过程",
+    "解释宋太祖削弱武将兵权的原因",
+    "概括宋朝加强中央与地方控制的主要措施",
+    "从稳定和成本两方面评价重文抑武"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-73f43018",
+      "word": "五代十国",
+      "pinyin": "wǔ dài shí guó",
+      "gloss": "唐亡后多个政权并立的历史时期；中原王朝更替频繁",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-637a696d",
+      "word": "赵匡胤",
+      "pinyin": "zhào kuāng yìn",
+      "gloss": "北宋建立者；通过陈桥兵变取得皇位；史称宋太祖",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-cac4a9c3",
+      "word": "陈桥兵变",
+      "pinyin": "chén qiáo bīng biàn",
+      "gloss": "公元960年赵匡胤被军队拥立并夺取后周政权的事件",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-b8c8401d",
+      "word": "北宋",
+      "pinyin": "běi sòng",
+      "gloss": "公元960年建立的王朝；都城东京；公元1127年灭亡",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-f78c2e83",
+      "word": "杯酒释兵权",
+      "pinyin": "bēi jiǔ shì bīng quán",
+      "gloss": "后世对宋太祖劝说重要将领交出兵权故事的概括",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-6ba409ac",
+      "word": "通判",
+      "pinyin": "tōng pàn",
+      "gloss": "宋代州级官员；参与地方政务并对知州形成监督",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-3c11fbe3",
+      "word": "重文抑武",
+      "pinyin": "zhòng wén yì wǔ",
+      "gloss": "宋朝提高文官地位并限制武将独掌军政的治理倾向",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-22291c94",
+      "name": "赵匡胤",
+      "role": "宋太祖",
+      "summary": "通过兵变建立北宋并逐步集中军政权力",
+      "persona": "联系五代兵变传统理解其制度选择",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-37054014",
+      "name": "赵普",
+      "role": "北宋初年宰相",
+      "summary": "参与统一和中央集权政策谋划",
+      "persona": "说明开国制度由君臣共同推动",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-f41c1a89",
+      "label": "陈桥驿",
+      "region": "今河南新乡封丘一带",
+      "lat": null,
+      "lng": null,
+      "note": "公元960年陈桥兵变发生地",
+      "kind": "site"
+    },
+    {
+      "point_id": "map-97324703",
+      "label": "东京",
+      "region": "今河南开封",
+      "lat": null,
+      "lng": null,
+      "note": "北宋都城和中央政治中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-477b9962",
+      "label": "太原",
+      "region": "今山西太原",
+      "lat": null,
+      "lng": null,
+      "note": "北汉都城；公元979年被北宋攻取",
+      "kind": "city"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-6637bb2d",
+      "statement": "公元960年赵匡胤通过陈桥兵变建立北宋",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8d366886",
+      "statement": "宋太祖通过多项措施逐步解除重要将领兵权",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ac61494c",
+      "statement": "杯酒释兵权是后世对相关故事的概括；不能代替全部制度过程",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9e0ddfbf",
+      "statement": "宋朝通过文官知州 通判和财政上收加强地方控制",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-0d1a326c",
+      "statement": "重文抑武不等于取消军队或排斥所有武将",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-889c2f5a",
+      "statement": "北宋减少武将割据风险；同时增加军事协调和行政成本",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-2d15939b",
+      "title": "《续资治通鉴长编》",
+      "kind": "other",
+      "publisher": "编年史书",
+      "url_or_path": "《续资治通鉴长编》",
+      "citation_note": "记载北宋初年政治和制度变化",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-3d24c18d",
+      "title": "《宋史·太祖本纪》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《宋史·太祖本纪》",
+      "citation_note": "记载陈桥兵变和宋太祖统治",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-3aa828d5",
+      "title": "《宋会要辑稿》",
+      "kind": "other",
+      "publisher": "制度文献汇编",
+      "url_or_path": "《宋会要辑稿》",
+      "citation_note": "保存宋代官制 财政和军事制度资料",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "五代十国的政治环境怎样影响宋朝制度？",
+    "宋太祖通过哪些方式集中军权？",
+    "重文抑武的准确含义是什么？",
+    "北宋立国制度产生了哪些不同影响？"
+  ],
+  "level_goals": [
+    "说明陈桥兵变和北宋建立过程",
+    "解释宋太祖削弱武将兵权的原因",
+    "概括宋朝加强中央与地方控制的主要措施",
+    "从稳定和成本两方面评价重文抑武"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "五代十国",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "赵匡胤",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "陈桥兵变",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "北宋",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "杯酒释兵权",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "通判",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课从五代兵变传统解释宋初制度选择；杯酒释兵权只作一次史料限定并回到制度主线。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-10T02:23:59.411511Z",
+  "sealed_at": "2026-09-10T02:23:59.411511Z",
+  "sealed_by": "local-admin",
+  "checksum": "cf223b106e16cdfe138f54e6e457722c90415342f78a7f19fdf927bc5830b468",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1001",
+    "source_version": "4",
+    "source_checksum": "ba25fb5997e4b97896668d64909755eab890c8ee3268e2fed5dd0f83c02c81e1",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
