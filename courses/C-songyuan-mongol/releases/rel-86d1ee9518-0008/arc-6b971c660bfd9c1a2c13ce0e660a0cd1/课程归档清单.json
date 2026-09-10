@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "6b971c660bfd9c1a2c13ce0e660a0cd10f0c389398036ef928a7e2fb56b32377",
+  "archive_id": "arc-6b971c660bfd9c1a2c13ce0e660a0cd1",
+  "archive_path": "C-songyuan-mongol/releases/rel-86d1ee9518-0008/arc-6b971c660bfd9c1a2c13ce0e660a0cd1",
+  "course_id": "C-songyuan-mongol",
+  "course_title": "蒙古与元帝国",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "42946db5112d58cf911d4efe20a84d7e753f6c0bb4c7cbc20a6b5afd94647fc8",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1101",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1101/成吉思汗-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3668
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "90b620e35b3509c4bb3e9616f4374cd7ddc93a8f504fa5ac906ffa205241b1e5",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1101",
+      "media_type": "application/json",
+      "path": "lessons/L1101/成吉思汗-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7016
+    },
+    {
+      "artifact_id": "pkg-L1101",
+      "artifact_version": 4,
+      "blob_sha256": "e9128aaf1061fcbd69df8bf624a6af37c9b9e29ab0c15a60db53adf76ea3b0ac",
+      "contract_checksum": "6007397cf39063ad2c832be27d02418ed03b5243967054adabb120a4307e254a",
+      "kind": "course-package",
+      "lesson_id": "L1101",
+      "media_type": "application/json",
+      "path": "lessons/L1101/成吉思汗-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12018
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "2d0213765ba9fca13fb94fca4244f7979c9d96b5654cd42570a678ec43e6a0bc",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1101",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1101/成吉思汗-预览.html",
+      "schema_version": null,
+      "size_bytes": 5491
+    },
+    {
+      "artifact_id": "L1101",
+      "artifact_version": 4,
+      "blob_sha256": "262c24be06f1ee07ac888a5c1790d8f3425da43a91a7ae3287c5975a466ca1ee",
+      "contract_checksum": "3c31b2d68b33e79d7fd51a93dc2af29e339dbe559779d5cfe226cae185c844d0",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1101",
+      "media_type": "application/json",
+      "path": "lessons/L1101/成吉思汗.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8548
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "032fca68fd999c5cff619d3a9b375a235d9d13b6275a130b311af034935db8dd",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1102",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1102/蒙古三次西征-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3520
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "6b43fa0f3e36f26971b65d55e8111ffd14c0d6e03ff96e5ccf0861e228fee582",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1102",
+      "media_type": "application/json",
+      "path": "lessons/L1102/蒙古三次西征-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6715
+    },
+    {
+      "artifact_id": "pkg-L1102",
+      "artifact_version": 2,
+      "blob_sha256": "1e7d72cadab12e75da2bca0816bbea0ca27a6a0e5b56b6e807e1d5cc4597ccb3",
+      "contract_checksum": "45763bbea95548d0405ea82341ec143462e6f98a8fdff3b471c67d973a6b7e49",
+      "kind": "course-package",
+      "lesson_id": "L1102",
+      "media_type": "application/json",
+      "path": "lessons/L1102/蒙古三次西征-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11999
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "eb709d089147b2844addda5a7ba1b52c10433f048127012e7d95d4a699a4b89a",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1102",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1102/蒙古三次西征-预览.html",
+      "schema_version": null,
+      "size_bytes": 5416
+    },
+    {
+      "artifact_id": "L1102",
+      "artifact_version": 2,
+      "blob_sha256": "b1a810c3e73a33f205abeb81d03d414034be5a6e36031cf2f201f7bcb040b2d5",
+      "contract_checksum": "ba626289fc047a798105df514ff52439f28e9b776b15317813f33e7a5c1e038e",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1102",
+      "media_type": "application/json",
+      "path": "lessons/L1102/蒙古三次西征.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8422
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "384761e1b6b500cfc8ceb577490d9ba575d98852bd2029c6d404b49c41a186f1",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1103",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1103/忽必烈与行省制-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3707
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "a96875900a85c6ef3599a22d04ea3c2c2e715a8261173b7f6809cb4a8d066c9a",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1103",
+      "media_type": "application/json",
+      "path": "lessons/L1103/忽必烈与行省制-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7080
+    },
+    {
+      "artifact_id": "pkg-L1103",
+      "artifact_version": 1,
+      "blob_sha256": "d4024c2337b4eece6d9b2fd149d8e03fec8b76d322abd63eefa31cd1f53643b3",
+      "contract_checksum": "42f5a998f8eea2b2ee8121519ad632fa834ce85cdecfdc3763b8c9ad6d5443c1",
+      "kind": "course-package",
+      "lesson_id": "L1103",
+      "media_type": "application/json",
+      "path": "lessons/L1103/忽必烈与行省制-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12217
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "433800cf88abd187de00887fecead72d120a786a20e63ac40f3f53c11cc41714",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1103",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1103/忽必烈与行省制-预览.html",
+      "schema_version": null,
+      "size_bytes": 5627
+    },
+    {
+      "artifact_id": "L1103",
+      "artifact_version": 1,
+      "blob_sha256": "37732a2f0449d8fe3b5ac8989d5d1b359fb4851711ae1832f589d329fb21734e",
+      "contract_checksum": "4db7491b5a5afe391ef768e2831002b904dc1f907027534d332c02c4916c49a7",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1103",
+      "media_type": "application/json",
+      "path": "lessons/L1103/忽必烈与行省制.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8577
+    },
+    {
+      "artifact_id": "rel-86d1ee9518-0008",
+      "artifact_version": 8,
+      "blob_sha256": "e5413be6227b8456509aa8d423d9615e0d6c69d6eeeeea793e7e9bcb91fa3e82",
+      "contract_checksum": "4a82bd630da4cab0b7f25299247d27dde6f37d36e280a172509e785a189e2216",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2899
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 4,
+      "course_package_checksum": "6007397cf39063ad2c832be27d02418ed03b5243967054adabb120a4307e254a",
+      "course_package_id": "pkg-L1101",
+      "files": [
+        "lessons/L1101/成吉思汗-教师稿.md",
+        "lessons/L1101/成吉思汗-格式层.json",
+        "lessons/L1101/成吉思汗-运行包.json",
+        "lessons/L1101/成吉思汗-预览.html",
+        "lessons/L1101/成吉思汗.json"
+      ],
+      "lesson_id": "L1101",
+      "scenarios": [],
+      "source_checksum": "3c31b2d68b33e79d7fd51a93dc2af29e339dbe559779d5cfe226cae185c844d0",
+      "title": "成吉思汗"
+    },
+    {
+      "content_version": 2,
+      "course_package_checksum": "45763bbea95548d0405ea82341ec143462e6f98a8fdff3b471c67d973a6b7e49",
+      "course_package_id": "pkg-L1102",
+      "files": [
+        "lessons/L1102/蒙古三次西征-教师稿.md",
+        "lessons/L1102/蒙古三次西征-格式层.json",
+        "lessons/L1102/蒙古三次西征-运行包.json",
+        "lessons/L1102/蒙古三次西征-预览.html",
+        "lessons/L1102/蒙古三次西征.json"
+      ],
+      "lesson_id": "L1102",
+      "scenarios": [],
+      "source_checksum": "ba626289fc047a798105df514ff52439f28e9b776b15317813f33e7a5c1e038e",
+      "title": "蒙古三次西征"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "42f5a998f8eea2b2ee8121519ad632fa834ce85cdecfdc3763b8c9ad6d5443c1",
+      "course_package_id": "pkg-L1103",
+      "files": [
+        "lessons/L1103/忽必烈与行省制-教师稿.md",
+        "lessons/L1103/忽必烈与行省制-格式层.json",
+        "lessons/L1103/忽必烈与行省制-运行包.json",
+        "lessons/L1103/忽必烈与行省制-预览.html",
+        "lessons/L1103/忽必烈与行省制.json"
+      ],
+      "lesson_id": "L1103",
+      "scenarios": [],
+      "source_checksum": "4db7491b5a5afe391ef768e2831002b904dc1f907027534d332c02c4916c49a7",
+      "title": "忽必烈与行省制"
+    }
+  ],
+  "manifest_checksum": "441a42bb4750c5126e1b3d8d12a3464a0d1fb5400b9f439f89a084971096e20d",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "4a82bd630da4cab0b7f25299247d27dde6f37d36e280a172509e785a189e2216",
+  "release_created_at": "2026-09-10T03:19:44.029446Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-86d1ee9518-0008",
+  "release_no": 8,
+  "release_note": "Publish L1101 v4.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 112920
+}
