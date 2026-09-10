@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "478e3c0b9f3c93ccda587c24fc6c1e9848173fa236fcca76933be1e83fa794c5",
+  "archive_id": "arc-478e3c0b9f3c93ccda587c24fc6c1e98",
+  "archive_path": "C-mingqing-system/releases/rel-79b5aa9f2b-0005/arc-478e3c0b9f3c93ccda587c24fc6c1e98",
+  "course_id": "C-mingqing-system",
+  "course_title": "明清制度与封闭",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "602fb2ea964a469b574dfd8cc556caa38aa848b74308670de4c531a2f672571d",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1201",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1201/胡惟庸案与废相-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3485
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "47815137d250c099c907dcd53f5481a189015417e1bb41fb0367c0f80a54ab55",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1201",
+      "media_type": "application/json",
+      "path": "lessons/L1201/胡惟庸案与废相-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6786
+    },
+    {
+      "artifact_id": "pkg-L1201",
+      "artifact_version": 1,
+      "blob_sha256": "9d612e25a0402e2b6c5889d804777f73fe791b3947102ae14a7a4f97d95a2008",
+      "contract_checksum": "bef39dec5ae442038a98d6962ae38c1d01c95853811e113fdae99dc60bbc91b1",
+      "kind": "course-package",
+      "lesson_id": "L1201",
+      "media_type": "application/json",
+      "path": "lessons/L1201/胡惟庸案与废相-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 10890
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "7244170015d28ecc8f44d92fb65f51d0046e2195e75a0977802785c08c0e2094",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1201",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1201/胡惟庸案与废相-预览.html",
+      "schema_version": null,
+      "size_bytes": 5378
+    },
+    {
+      "artifact_id": "L1201",
+      "artifact_version": 1,
+      "blob_sha256": "9a462a85952f26ace72954686e18508e77ef2024e328abd7b0fb81f076517e5d",
+      "contract_checksum": "a1c1cd5b9b68affa63a2b88df6d1c246dc3cd847cc37d2effdb9ef0f97afea06",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1201",
+      "media_type": "application/json",
+      "path": "lessons/L1201/胡惟庸案与废相.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7698
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "9734c0924502dc60f713081092fc1c9f610ba0bff1b52fa262dab7379634c5e4",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1202",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1202/军机处-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3231
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "abb7e067eb98465f8bbb23d7e8eaeb06c4284806e1b1d057728cc9e174203c0b",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1202",
+      "media_type": "application/json",
+      "path": "lessons/L1202/军机处-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6416
+    },
+    {
+      "artifact_id": "pkg-L1202",
+      "artifact_version": 1,
+      "blob_sha256": "6b8a89b981518aa50672e86ab73c6570fc0bfcd6feac817b6578afdf5aed8529",
+      "contract_checksum": "2e4c5352e130f72b02eaadce7a3a85ba12e1561fa18c9df5f8216ad558bf4053",
+      "kind": "course-package",
+      "lesson_id": "L1202",
+      "media_type": "application/json",
+      "path": "lessons/L1202/军机处-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 10331
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "55db47cfaf03630a6fb208693a1bb029f03f886202a6319a14102b57fec782c0",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1202",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1202/军机处-预览.html",
+      "schema_version": null,
+      "size_bytes": 4954
+    },
+    {
+      "artifact_id": "L1202",
+      "artifact_version": 1,
+      "blob_sha256": "821b14f334edb5e3bec1888c574bbfad92fbd9bb394a0d5ea7c5e707ef93446f",
+      "contract_checksum": "d7c95fb5d39e3ab1812b81c32377192bdbfccb253ea4e6a5a96c94aa4f6c034f",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1202",
+      "media_type": "application/json",
+      "path": "lessons/L1202/军机处.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7287
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5bf3fdd802db7b0de563a7dc33a95acde080aee798ee58aa8bf0a7affd114981",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1203",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1203/海禁与广州一口通商-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3871
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "68537bbbce83f3681ccad658e871d1fb5882b2044fb1b1209e161a4d51366572",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1203",
+      "media_type": "application/json",
+      "path": "lessons/L1203/海禁与广州一口通商-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7209
+    },
+    {
+      "artifact_id": "pkg-L1203",
+      "artifact_version": 2,
+      "blob_sha256": "4d205cf3bc02b5d8677c2e107c486a9db6f3c435a533bd29786f674f0261c422",
+      "contract_checksum": "d828411aa8eb203fb782f62ffd861711917c9a24c904397a3554c23bd4e2639a",
+      "kind": "course-package",
+      "lesson_id": "L1203",
+      "media_type": "application/json",
+      "path": "lessons/L1203/海禁与广州一口通商-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12562
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "63f6cc50aafea9d7882f6455612aa7b9e13b4901a00914886d0d90bfc13dff9b",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1203",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1203/海禁与广州一口通商-预览.html",
+      "schema_version": null,
+      "size_bytes": 5735
+    },
+    {
+      "artifact_id": "L1203",
+      "artifact_version": 2,
+      "blob_sha256": "c583533519f9dcfef8af625aa97365ca8952d4e83ffb84a6995bc3ab385e175d",
+      "contract_checksum": "fc7632ff3e58d372459a8150fb46189a52cb8b42a3735f9cc59e675bcc4ec958",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1203",
+      "media_type": "application/json",
+      "path": "lessons/L1203/海禁与广州一口通商.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8996
+    },
+    {
+      "artifact_id": "rel-79b5aa9f2b-0005",
+      "artifact_version": 5,
+      "blob_sha256": "dfce351e429048e87dac5b7124c4c5132fce785d58ca3e10e0519dda40072b11",
+      "contract_checksum": "d8f6703a53bc0f46069778db17c4890e85881cb39270619bf0a41562d55bada7",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2899
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "bef39dec5ae442038a98d6962ae38c1d01c95853811e113fdae99dc60bbc91b1",
+      "course_package_id": "pkg-L1201",
+      "files": [
+        "lessons/L1201/胡惟庸案与废相-教师稿.md",
+        "lessons/L1201/胡惟庸案与废相-格式层.json",
+        "lessons/L1201/胡惟庸案与废相-运行包.json",
+        "lessons/L1201/胡惟庸案与废相-预览.html",
+        "lessons/L1201/胡惟庸案与废相.json"
+      ],
+      "lesson_id": "L1201",
+      "scenarios": [],
+      "source_checksum": "a1c1cd5b9b68affa63a2b88df6d1c246dc3cd847cc37d2effdb9ef0f97afea06",
+      "title": "胡惟庸案与废相"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "2e4c5352e130f72b02eaadce7a3a85ba12e1561fa18c9df5f8216ad558bf4053",
+      "course_package_id": "pkg-L1202",
+      "files": [
+        "lessons/L1202/军机处-教师稿.md",
+        "lessons/L1202/军机处-格式层.json",
+        "lessons/L1202/军机处-运行包.json",
+        "lessons/L1202/军机处-预览.html",
+        "lessons/L1202/军机处.json"
+      ],
+      "lesson_id": "L1202",
+      "scenarios": [],
+      "source_checksum": "d7c95fb5d39e3ab1812b81c32377192bdbfccb253ea4e6a5a96c94aa4f6c034f",
+      "title": "军机处"
+    },
+    {
+      "content_version": 2,
+      "course_package_checksum": "d828411aa8eb203fb782f62ffd861711917c9a24c904397a3554c23bd4e2639a",
+      "course_package_id": "pkg-L1203",
+      "files": [
+        "lessons/L1203/海禁与广州一口通商-教师稿.md",
+        "lessons/L1203/海禁与广州一口通商-格式层.json",
+        "lessons/L1203/海禁与广州一口通商-运行包.json",
+        "lessons/L1203/海禁与广州一口通商-预览.html",
+        "lessons/L1203/海禁与广州一口通商.json"
+      ],
+      "lesson_id": "L1203",
+      "scenarios": [],
+      "source_checksum": "fc7632ff3e58d372459a8150fb46189a52cb8b42a3735f9cc59e675bcc4ec958",
+      "title": "海禁与广州一口通商"
+    }
+  ],
+  "manifest_checksum": "099dc29fb0a82e6b360f91234f83e08f89f0d139d83a1ca5b2517b90bddf2cb4",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "d8f6703a53bc0f46069778db17c4890e85881cb39270619bf0a41562d55bada7",
+  "release_created_at": "2026-09-10T03:22:21.436410Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-79b5aa9f2b-0005",
+  "release_no": 5,
+  "release_note": "Publish L1203 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 107728
+}

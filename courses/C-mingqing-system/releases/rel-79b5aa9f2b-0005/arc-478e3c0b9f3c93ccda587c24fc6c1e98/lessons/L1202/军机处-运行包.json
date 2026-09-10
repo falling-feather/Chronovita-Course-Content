@@ -1,0 +1,257 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1202",
+  "course_id": "C-mingqing-system",
+  "lesson_id": "L1202",
+  "content_version": 1,
+  "status": "sealed",
+  "title": "军机处",
+  "unit": "清代决策机构与皇权集中",
+  "era": "明清",
+  "body": [
+    "清朝入关后，沿用内阁 六部等中央机构，也保留满洲贵族参与政务的制度。随着疆域扩大，军事和行政事务增加，皇帝需要更迅速地取得情报并发布命令。康熙帝通过南书房和密折等方式选择亲近大臣参与机密政务，为后来决策机构的变化提供了条件。",
+    "雍正年间，西北军务频繁，军情需要快速处理。【雍正帝】在宫廷内设置办理军需事务的机构，后来逐渐定名为【军机处】。它靠近皇帝日常处理政务的【养心殿】，人员精简，可以减少公文在不同衙门之间往返的时间。",
+    "军机处成员称为【军机大臣】，通常由皇帝从大学士 尚书 侍郎等官员中挑选。他们听取皇帝指示，阅读奏折，起草谕旨，并把命令传给中央和地方官员。军机大臣地位可能很高，却没有独立决定国家大政的法定权力，核心职责是协助皇帝处理机密事务。",
+    "对紧急或机密命令，军机处可使用【廷寄】，由专门渠道直接寄给地方高级官员，减少层层抄转。地方官员则通过【密折制度】把重要情况直接报告皇帝。信息流动更加集中，使皇帝能够较快掌握军政情况，也让官员更难了解彼此报告的内容。",
+    "军机处形成后，内阁和六部并未消失。内阁继续处理常规公文，六部执行具体行政事务，军机处则靠近皇帝并参与重要决策的传达。不同机构并行，构成清代中央行政。军机处的实际权力会随皇帝信任 人员能力和政务性质发生变化。",
+    "这种运作提高了机密军务的处理速度，也进一步把决策集中到皇帝。官员可以提供建议，却难以形成独立于皇帝的集体决策机制。若皇帝勤于政事，信息集中可能提高效率；若判断失误，权力高度集中也缺少稳定的纠正渠道。",
+    "军机处档案 奏折和廷寄保存了大量清代政务信息。学习军机处，重点是理解它为何在军事需要中产生，又怎样从临时办事机构发展为皇帝处理重要事务的核心辅助机构。评价这一制度既要看到效率和保密，也要看到决策高度依赖皇帝个人的特点。"
+  ],
+  "abstract": "雍正年间军机处因西北军务需要逐渐形成，军机大臣协助皇帝阅读奏折 起草谕旨和传递命令，使决策更集中也更加依赖皇帝个人。",
+  "course_title": "明清制度与封闭",
+  "era_id": "mingqing",
+  "section": "制度",
+  "lesson_no": "1.2",
+  "duration": "09:00",
+  "teaching_objectives": [
+    "说明军机处形成的军事和行政背景",
+    "概括军机处的人员与工作流程",
+    "区分军机处与内阁六部的职能",
+    "分析信息集中对行政效率和权力结构的影响"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-a8257d38",
+      "word": "雍正帝",
+      "pinyin": "yōng zhèng dì",
+      "gloss": "清朝皇帝；在位期间设置并发展军机处",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-d576f46d",
+      "word": "军机处",
+      "pinyin": "jūn jī chù",
+      "gloss": "清代协助皇帝处理机密军政事务的中央机构；雍正年间形成",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-07280048",
+      "word": "养心殿",
+      "pinyin": "yǎng xīn diàn",
+      "gloss": "清代皇帝居住和处理政务的重要宫殿；军机处设在其附近",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-906bd3ba",
+      "word": "军机大臣",
+      "pinyin": "jūn jī dà chén",
+      "gloss": "由皇帝挑选并在军机处协助处理重要政务的官员",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-3d9bd518",
+      "word": "廷寄",
+      "pinyin": "tíng jì",
+      "gloss": "军机处向地方高级官员秘密传递皇帝命令的公文方式",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-446bb198",
+      "word": "密折制度",
+      "pinyin": "mì zhé zhì dù",
+      "gloss": "特定官员通过密封奏折直接向皇帝报告情况的制度",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-37285cf0",
+      "name": "雍正帝",
+      "role": "清朝皇帝",
+      "summary": "因处理西北军务推动军机处形成",
+      "persona": "从信息速度和皇权控制理解制度设置",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-130900e9",
+      "name": "张廷玉",
+      "role": "清代军机大臣",
+      "summary": "长期参与机密政务和谕旨起草",
+      "persona": "说明军机大臣依靠专业能力协助皇帝",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-f8b3b461",
+      "label": "北京紫禁城",
+      "region": "今北京故宫",
+      "lat": null,
+      "lng": null,
+      "note": "军机处和养心殿所在的清代政治中心",
+      "kind": "palace"
+    },
+    {
+      "point_id": "map-898d97f1",
+      "label": "西北军务地区",
+      "region": "今甘肃 青海 新疆及周边",
+      "lat": null,
+      "lng": null,
+      "note": "雍正时期紧急军事信息的重要来源",
+      "kind": "region"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-f05ce697",
+      "statement": "军机处在雍正年间因办理西北军务逐渐形成",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-4d8bfecc",
+      "statement": "军机处位于养心殿附近并直接服务皇帝",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-fe083f04",
+      "statement": "军机大臣负责阅读奏折 起草谕旨和传递命令",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ed37707d",
+      "statement": "军机大臣没有独立于皇帝的法定决策权",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-949306da",
+      "statement": "廷寄和密折使中央与地方信息传递更直接",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-2446583b",
+      "statement": "军机处形成后内阁与六部仍继续存在",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-d83e5c01",
+      "title": "中国第一历史档案馆军机处档案",
+      "kind": "other",
+      "publisher": "清代档案",
+      "url_or_path": "军机处录副奏折与廷寄档",
+      "citation_note": "反映军机处处理奏折和传递谕旨的流程",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-e7b64baa",
+      "title": "《清史稿·军机大臣年表》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《清史稿·军机大臣年表》",
+      "citation_note": "记录军机处人员和制度沿革",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-ba7b9f29",
+      "title": "清宫军机处建筑遗存",
+      "kind": "other",
+      "publisher": "建筑与宫廷遗存",
+      "url_or_path": "北京故宫军机处",
+      "citation_note": "反映军机处靠近内廷的空间位置",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "军机处为什么在雍正时期出现？",
+    "军机大臣主要承担哪些工作？",
+    "廷寄和密折怎样改变信息传递？",
+    "军机处为什么既提高效率又加强皇权集中？"
+  ],
+  "level_goals": [
+    "说明军机处形成的军事和行政背景",
+    "概括军机处的人员与工作流程",
+    "区分军机处与内阁六部的职能",
+    "分析信息集中对行政效率和权力结构的影响"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "西北军务",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "军机处形成",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "奏折与廷寄",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "皇权集中",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以军情传递的现实需要解释机构形成；不把军机处写成取代全部中央机构的正式宰相机关。",
+  "created_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-09-10T02:39:19.064360Z",
+  "sealed_at": "2026-09-10T02:39:19.064360Z",
+  "sealed_by": "codex",
+  "checksum": "2e4c5352e130f72b02eaadce7a3a85ba12e1561fa18c9df5f8216ad558bf4053",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1202",
+    "source_version": "1",
+    "source_checksum": "d7c95fb5d39e3ab1812b81c32377192bdbfccb253ea4e6a5a96c94aa4f6c034f",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
