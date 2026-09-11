@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "f146036b214674abd5677fa7268a74da7b4476f08b33e255fa9bfdd6929b5d51",
+  "archive_id": "arc-f146036b214674abd5677fa7268a74da",
+  "archive_path": "C-mingqing-late/releases/rel-10b7b8d06e-0005/arc-f146036b214674abd5677fa7268a74da",
+  "course_id": "C-mingqing-late",
+  "course_title": "晚清与帝制终结",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "adb6439b4c16e287ef38f135f52963251a69b439e06056994f45c62c36818337",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1501",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1501/鸦片战争与三元里-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3795
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d0330ca382f65bb51cd9260acaff649cd0869a23aa70da4ba757d442ac7e0516",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1501",
+      "media_type": "application/json",
+      "path": "lessons/L1501/鸦片战争与三元里-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7244
+    },
+    {
+      "artifact_id": "pkg-L1501",
+      "artifact_version": 1,
+      "blob_sha256": "07e2b5ed820fdbf858c67be6135b541ab46c91d0fcd138132dd148ca2155778d",
+      "contract_checksum": "48fb69bcbd3c557524db34cadde821af29f64aa2a9284760c1fdd9a744b53584",
+      "kind": "course-package",
+      "lesson_id": "L1501",
+      "media_type": "application/json",
+      "path": "lessons/L1501/鸦片战争与三元里-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12181
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "eb48ba616fa4287c8c9cb05aa3e44c9c928d2bb2b1e0f9539b039babc6615bd7",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1501",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1501/鸦片战争与三元里-预览.html",
+      "schema_version": null,
+      "size_bytes": 5646
+    },
+    {
+      "artifact_id": "L1501",
+      "artifact_version": 1,
+      "blob_sha256": "b9a54b2c7cd5eef9db24c2e91c3371eb8013909da6af767886e6818c62219ed3",
+      "contract_checksum": "eaa82cd3f4199f95476756a07f28295612795bc1e0e00aa1cecb4662db01d76e",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1501",
+      "media_type": "application/json",
+      "path": "lessons/L1501/鸦片战争与三元里.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8662
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e81c4325e6f20097f26bf5f639b3bdb1303e680611eb3bdc24a024f5d0ee17ce",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1502",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1502/太平天国-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3871
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "bfc3320fcbe12d2681402ba092f0d2b80311a3f043d5fc0e1e67a9c06ef4783e",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1502",
+      "media_type": "application/json",
+      "path": "lessons/L1502/太平天国-格式层.json",
+      "schema_version": null,
+      "size_bytes": 7251
+    },
+    {
+      "artifact_id": "pkg-L1502",
+      "artifact_version": 1,
+      "blob_sha256": "ea4dbf511128d32b7ce6d50d2c03d12e296ad61de24910b2ea4cdbb634b5a06a",
+      "contract_checksum": "97e8ad3cd0c60a21168d602e0a7a33274779b1b16f86dbaf21e5fca23948a4b8",
+      "kind": "course-package",
+      "lesson_id": "L1502",
+      "media_type": "application/json",
+      "path": "lessons/L1502/太平天国-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 12538
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "cb288c2bddca46b02d4afc29420b90d92967e75fff501ef658052e9da74b1f11",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1502",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1502/太平天国-预览.html",
+      "schema_version": null,
+      "size_bytes": 5772
+    },
+    {
+      "artifact_id": "L1502",
+      "artifact_version": 1,
+      "blob_sha256": "da5605bf8adde7e53e9792a49a08f845d7d68afbf1d45c4950e35012aabb0efd",
+      "contract_checksum": "34c909ea7938061dc6d0d0e8ffae73109541236bd9e69ff3f61778c8d6c5fcd0",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1502",
+      "media_type": "application/json",
+      "path": "lessons/L1502/太平天国.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8886
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "72c85f441ea1d34732eb911f763fdc09b887f546125d9505d269dc110ed21319",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1503",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1503/洋务运动、甲午战争与辛亥革命-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4675
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "79d351220d37b29fdd8dda16fcc1f7db1497539f27e62ec936869068e3088f90",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1503",
+      "media_type": "application/json",
+      "path": "lessons/L1503/洋务运动、甲午战争与辛亥革命-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8568
+    },
+    {
+      "artifact_id": "pkg-L1503",
+      "artifact_version": 2,
+      "blob_sha256": "7d738da8510d2c5705c33442077a56720e36683faecb5455cd43eaa19e0451fb",
+      "contract_checksum": "e93f337e5a24df46e087a65c895b922c1e31cb3941706bb747fbc8426f307402",
+      "kind": "course-package",
+      "lesson_id": "L1503",
+      "media_type": "application/json",
+      "path": "lessons/L1503/洋务运动、甲午战争与辛亥革命-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 14633
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "a67af33a1ed1e76dc4f121fa5597f63c77e096d273a2c299ce8e6eefc4fdb4b3",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1503",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1503/洋务运动、甲午战争与辛亥革命-预览.html",
+      "schema_version": null,
+      "size_bytes": 6617
+    },
+    {
+      "artifact_id": "L1503",
+      "artifact_version": 2,
+      "blob_sha256": "9c7f31d045cbd7678f55203f747463bca9dd4dd286cfdee943a18a42e85726c8",
+      "contract_checksum": "275cceeedd3f9ea23fd9224d8bf5fa5df2f54981c9a38e223493f4947bb1cf1b",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1503",
+      "media_type": "application/json",
+      "path": "lessons/L1503/洋务运动、甲午战争与辛亥革命.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 10523
+    },
+    {
+      "artifact_id": "rel-10b7b8d06e-0005",
+      "artifact_version": 5,
+      "blob_sha256": "7d3b8fb11ec790b532d4346f1060ad9426ab036268cef694a7a7feb9f2d687cc",
+      "contract_checksum": "bba7d27d2a62733aa015a32d3977dec013386795ccf12dffcb8ecbd6e6c04e09",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2879
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 1,
+      "course_package_checksum": "48fb69bcbd3c557524db34cadde821af29f64aa2a9284760c1fdd9a744b53584",
+      "course_package_id": "pkg-L1501",
+      "files": [
+        "lessons/L1501/鸦片战争与三元里-教师稿.md",
+        "lessons/L1501/鸦片战争与三元里-格式层.json",
+        "lessons/L1501/鸦片战争与三元里-运行包.json",
+        "lessons/L1501/鸦片战争与三元里-预览.html",
+        "lessons/L1501/鸦片战争与三元里.json"
+      ],
+      "lesson_id": "L1501",
+      "scenarios": [],
+      "source_checksum": "eaa82cd3f4199f95476756a07f28295612795bc1e0e00aa1cecb4662db01d76e",
+      "title": "鸦片战争与三元里"
+    },
+    {
+      "content_version": 1,
+      "course_package_checksum": "97e8ad3cd0c60a21168d602e0a7a33274779b1b16f86dbaf21e5fca23948a4b8",
+      "course_package_id": "pkg-L1502",
+      "files": [
+        "lessons/L1502/太平天国-教师稿.md",
+        "lessons/L1502/太平天国-格式层.json",
+        "lessons/L1502/太平天国-运行包.json",
+        "lessons/L1502/太平天国-预览.html",
+        "lessons/L1502/太平天国.json"
+      ],
+      "lesson_id": "L1502",
+      "scenarios": [],
+      "source_checksum": "34c909ea7938061dc6d0d0e8ffae73109541236bd9e69ff3f61778c8d6c5fcd0",
+      "title": "太平天国"
+    },
+    {
+      "content_version": 2,
+      "course_package_checksum": "e93f337e5a24df46e087a65c895b922c1e31cb3941706bb747fbc8426f307402",
+      "course_package_id": "pkg-L1503",
+      "files": [
+        "lessons/L1503/洋务运动、甲午战争与辛亥革命-教师稿.md",
+        "lessons/L1503/洋务运动、甲午战争与辛亥革命-格式层.json",
+        "lessons/L1503/洋务运动、甲午战争与辛亥革命-运行包.json",
+        "lessons/L1503/洋务运动、甲午战争与辛亥革命-预览.html",
+        "lessons/L1503/洋务运动、甲午战争与辛亥革命.json"
+      ],
+      "lesson_id": "L1503",
+      "scenarios": [],
+      "source_checksum": "275cceeedd3f9ea23fd9224d8bf5fa5df2f54981c9a38e223493f4947bb1cf1b",
+      "title": "洋务运动、甲午战争与辛亥革命"
+    }
+  ],
+  "manifest_checksum": "e4a77320d1c515ffe90212fc4158925551d10c82d7236a7f596f29bd8cef9d82",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "bba7d27d2a62733aa015a32d3977dec013386795ccf12dffcb8ecbd6e6c04e09",
+  "release_created_at": "2026-09-11T01:54:37.785733Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-10b7b8d06e-0005",
+  "release_no": 5,
+  "release_note": "Publish L1503 v2.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 123741
+}
