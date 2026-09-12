@@ -1,0 +1,338 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L103",
+  "course_id": "C-prequin-state",
+  "lesson_id": "L103",
+  "content_version": 6,
+  "status": "sealed",
+  "title": "西周分封与宗法",
+  "unit": "早期国家与社会变革",
+  "era": "先秦",
+  "body": [
+    "【西周】建立后，周人面对着如何治理新取得的广大区域这一问题。周人的统治中心在【镐京】，而东方地区距离王都较远，那里既有原来商人的聚居地，也有许多地方势力。周王室需要安置王族和功臣，控制重要交通地点，并让各地承认周王的统治。",
+    "姬发（周武王）去世后，年幼的姬诵（周成王）继位，姬旦（周公）负责辅佐成王处理政务。传世文献记载，周初一些贵族和商朝旧势力曾发动叛乱，周公率军平定东方，并在洛邑一带营建新的政治中心。平定叛乱和建设城市，使周王室进一步认识到，治理广大区域不能只依靠王都本身，还需要建立稳定的地方统治网络。",
+    "为了巩固统治，周王室实行了【分封制】。周王把一定的土地和人民分给王族、功臣以及先代贵族，让他们建立封国，成为地方的【诸侯】。诸侯在封国内组织生产、管理民众和进行防卫，同时承担朝贡、出兵和参加周王室礼仪活动等义务。鲁国、齐国和燕国，都是西周重要的封国。通过分封，周王室把王族和功臣安排到各地，使地方统治与周王室联系起来。",
+    "分封制不仅分配土地，也安排了贵族之间的政治等级。周王是天下共主，诸侯在自己的封国内拥有一定权力；诸侯还可以把部分土地和职位分给卿大夫，形成由周王、诸侯、卿大夫和士组成的等级关系。这样的制度有利于周王室组织地方和动员军队，但地方贵族也拥有自己的封地和势力。随着时间推移，一些诸侯逐渐发展壮大，周王室对地方的控制可能受到削弱。",
+    "分封制与【宗法制】密切相关。宗法制以血缘关系和亲疏次序安排贵族之间的权利与义务，其核心是【嫡长子继承制】。嫡长子通常继承家族的主要地位和权力，其他子弟则按照亲疏关系获得相应的身份和封地。这样一来，家族内部的继承关系与政治上的君臣关系相互结合，周王室、诸侯和卿大夫之间形成了层层相连的关系。",
+    "为了让这种等级关系得到社会承认，西周还逐渐形成了较为完整的【礼制】。祭祀、朝会、婚丧和宴享等活动，都有相应的身份、顺序和仪式。不同等级的人使用不同的礼仪和器物，贵族由此确认彼此的尊卑和亲疏。礼制把政治秩序融入日常生活，也使周王室所倡导的等级关系获得了较稳定的文化表达。",
+    "考古发现为认识西周的地方统治提供了新的线索。北京房山的【琉璃河遗址】发现了城址、墓葬以及带有周王册命内容的青铜器铭文，显示燕国都城的建立与周王室的分封有关。遗址和铭文让我们看到，周初的地方封国并不是传说中的抽象名称，而是曾经存在过的城市、墓葬和政治组织。",
+    "西周后期，周王室与诸侯之间的关系逐渐发生变化。诸侯国的力量不断增长，周王室的控制能力相对减弱。公元前771年，犬戎攻破镐京，姬宫湦（周幽王）在战乱中死亡。公元前770年，周平王将都城迁到【洛邑】，历史上把这之后的一时期称为东周，西周由此结束。",
+    "西周的分封、宗法和礼制，把土地分配、政治权力、家族关系和社会等级联系在一起，形成了周王朝治理天下的重要方式。它既加强了早期周王室对地方的组织，也为后来诸侯势力的发展和春秋时期的政治变化埋下了伏笔。"
+  ],
+  "abstract": "【西周】建立后，周人面对着如何治理新取得的广大区域这一问题。周人的统治中心在【镐京】，而东方地区距离王都较远，那里既有原来商人的聚居地，也有许多地方势力。周王室需要安置王族和功臣，控制重要交通地点，并让各地承认周王的统治。",
+  "course_title": "早期国家与社会变革",
+  "era_id": "prequin",
+  "section": "制度",
+  "lesson_no": "1.3",
+  "duration": "09:10",
+  "teaching_objectives": [
+    "按照周公辅政、分封诸侯、宗法维系和周王东迁的顺序梳理西周政治发展",
+    "解释分封制如何组织地方统治并联系周王室与诸侯",
+    "说明宗法制和嫡长子继承制如何安排贵族权力传承",
+    "结合礼制实例认识政治等级与贵族生活之间的联系",
+    "结合琉璃河遗址材料认识考古发现对研究西周地方封国的作用"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-217b544d",
+      "word": "西周",
+      "pinyin": "xī zhōu",
+      "gloss": "周朝前期的王朝；都城在镐京",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-03fda2f8",
+      "word": "镐京",
+      "pinyin": "hào jīng",
+      "gloss": "西周王都；位于今陕西西安一带",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-2071f572",
+      "word": "洛邑",
+      "pinyin": "luò yì",
+      "gloss": "周朝东部政治中心；位于今河南洛阳一带",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-da5355b9",
+      "word": "分封制",
+      "pinyin": "fēn fēng zhì",
+      "gloss": "周王分封土地和人民；诸侯建立封国并承担相应义务",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-156c0228",
+      "word": "诸侯",
+      "pinyin": "zhū hóu",
+      "gloss": "周王分封的地方贵族；在封国内组织统治和防卫",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-9118ec7f",
+      "word": "宗法制",
+      "pinyin": "zōng fǎ zhì",
+      "gloss": "依据血缘亲疏安排贵族权利和义务的制度",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-81b5a949",
+      "word": "嫡长子继承制",
+      "pinyin": "dí zhǎng zǐ jì chéng zhì",
+      "gloss": "嫡长子优先继承主要地位和权力的制度",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-944eaa7a",
+      "word": "礼制",
+      "pinyin": "lǐ zhì",
+      "gloss": "以礼仪规范身份等级和社会秩序的制度",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-cc2ad947",
+      "word": "琉璃河遗址",
+      "pinyin": "liú lí hé yí zhǐ",
+      "gloss": "位于今北京房山的西周燕国都城遗址；出土城址 墓葬和青铜器铭文",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-bb7d1baa",
+      "name": "姬发（周武王）",
+      "role": "西周开国君主",
+      "summary": "灭商后建立周王朝的周王",
+      "persona": "作为西周政治秩序的开端人物出现；不展开重复的牧野之战叙述",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-0ff9cd86",
+      "name": "姬旦（周公）",
+      "role": "西周初期政治家",
+      "summary": "辅佐周成王并主持平定东方叛乱的周王室贵族",
+      "persona": "重点说明其辅政、平乱和建设地方统治网络的作用",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-4b3ddbc8",
+      "name": "姬诵（周成王）",
+      "role": "西周早期周王",
+      "summary": "周武王去世后继位的周王；早年由周公辅佐",
+      "persona": "用于说明西周初期王权交接和周公辅政的背景",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-e6c68683",
+      "name": "姬宫湦（周幽王）",
+      "role": "西周末代周王",
+      "summary": "犬戎攻破镐京时在位的西周末代周王",
+      "persona": "重点说明西周王室控制力减弱和都城东迁的历史结果",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-172ea0db",
+      "label": "镐京",
+      "region": "今陕西西安一带",
+      "lat": null,
+      "lng": null,
+      "note": "西周王都；周王室统治中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-f8dd270e",
+      "label": "洛邑",
+      "region": "今河南洛阳一带",
+      "lat": null,
+      "lng": null,
+      "note": "周朝东部政治中心；周平王东迁后的都城",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-4a7e1d47",
+      "label": "琉璃河遗址",
+      "region": "今北京房山",
+      "lat": null,
+      "lng": null,
+      "note": "西周燕国都城遗址；出土城址、墓葬和青铜器铭文",
+      "kind": "site"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-97d898eb",
+      "statement": "西周建立后；周王室需要治理距离镐京较远的东方地区",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c5727044",
+      "statement": "周公辅佐周成王；传世文献记载其主持平定东方叛乱",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-dad978a1",
+      "statement": "分封制把土地和人民分给王族、功臣及先代贵族；诸侯建立封国并承担相应义务",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9c3c567a",
+      "statement": "周王、诸侯、卿大夫和士构成西周贵族等级关系",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c3dde126",
+      "statement": "宗法制依据血缘亲疏安排贵族权利和义务；嫡长子继承制是其核心内容",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7c8d64aa",
+      "statement": "礼制通过祭祀、朝会、婚丧和宴享等仪式规范身份等级",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-307a8530",
+      "statement": "琉璃河遗址出土城址、墓葬和青铜器铭文；为认识西周燕国提供考古线索",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ed048c8f",
+      "statement": "公元前771年犬戎攻破镐京；公元前770年周平王迁都洛邑",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-b0aeb040",
+      "title": "琉璃河遗址：西周分封制的力证",
+      "kind": "other",
+      "publisher": "北京市房山区人民政府",
+      "url_or_path": "https://www.bjfsh.gov.cn/zhxw/fsdt/202507/t20250725_40091097_fs.shtml",
+      "citation_note": "介绍琉璃河遗址、燕国城址和青铜器铭文所反映的西周分封",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-13c2448a",
+      "title": "周代礼制发展史",
+      "kind": "other",
+      "publisher": "全国哲学社会科学工作办公室",
+      "url_or_path": "https://www.nopss.gov.cn/n1/2024/0509/c373410-40232165.html",
+      "citation_note": "介绍周代礼制、宗法关系和政治秩序",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-8d9a91b6",
+      "title": "中国古代选官标准和方式的演变",
+      "kind": "other",
+      "publisher": "中华人民共和国司法部",
+      "url_or_path": "https://legalinfo.moj.gov.cn/zhfxfzwh/fzwhfsgs/202303/t20230308_473682.html",
+      "citation_note": "介绍西周分封体系和贵族等级关系",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "周王室为什么要把王族和功臣分封到各地？",
+    "分封制下诸侯承担哪些责任？",
+    "宗法制如何安排贵族之间的继承关系？",
+    "嫡长子继承制为什么能够帮助贵族确定权力传承？",
+    "礼制如何把政治等级融入贵族生活？",
+    "琉璃河遗址中的城址、墓葬和青铜器铭文说明了什么？",
+    "西周王室控制力减弱后，发生了怎样的政治变化？"
+  ],
+  "level_goals": [
+    "按照周公辅政、分封诸侯、宗法维系和周王东迁的顺序梳理西周政治发展",
+    "解释分封制如何组织地方统治并联系周王室与诸侯",
+    "说明宗法制和嫡长子继承制如何安排贵族权力传承",
+    "结合礼制实例认识政治等级与贵族生活之间的联系",
+    "结合琉璃河遗址材料认识考古发现对研究西周地方封国的作用"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "西周",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "镐京",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "洛邑",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "分封制",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "诸侯",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "宗法制",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "第三课正文以周王室治理地方为主线；关键词均在正文首次出现处标注；史料说明集中安排在琉璃河遗址处。",
+  "created_at": "2026-09-06T00:00:00Z",
+  "updated_at": "2026-09-12T04:13:15.016396Z",
+  "sealed_at": "2026-09-12T04:13:15.016396Z",
+  "sealed_by": "local-admin",
+  "checksum": "4f3159ad11e87a769b1a2376dca4e2a6564e7e8c87192faf424806df2ae49db8",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L103",
+    "source_version": "6",
+    "source_checksum": "28118691b9c549616d5a649131b48f3bd13d26bb41acad0106db476588a03206",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
