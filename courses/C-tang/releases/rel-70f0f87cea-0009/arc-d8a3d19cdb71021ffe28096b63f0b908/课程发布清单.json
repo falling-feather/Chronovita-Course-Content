@@ -1,0 +1,55 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-70f0f87cea-0009",
+  "release_no": 9,
+  "course_id": "C-tang",
+  "operation": "publish",
+  "parent_release_id": "rel-70f0f87cea-0008",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-12T04:48:15.627016Z",
+  "created_by": "local-admin",
+  "note": "Publish L703 v4.",
+  "items": [
+    {
+      "lesson_id": "L701",
+      "course_id": "C-tang",
+      "content_version": 4,
+      "source_path": "sealed/L701-v004.json",
+      "source_checksum": "76220b01848324ed6f762fb1f85c9c6d0e01831623dab1fd0d5dc653707cf292",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L701",
+        "course_id": "C-tang",
+        "lesson_id": "L701",
+        "version": 4,
+        "checksum": "f21082e360f56503412e0fdfda5239a0b07e2e9ee3f28eb77644594df270effa",
+        "path": "runtime/v1/course-packages/C-tang/L701/v004-f21082e360f56503412e0fdfda5239a0b07e2e9ee3f28eb77644594df270effa.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L703",
+      "course_id": "C-tang",
+      "content_version": 4,
+      "source_path": "sealed/L703-v004.json",
+      "source_checksum": "096596a4407429bddf390ffb593dcce48b7595c4920fbc9bb31c14aa7911a25f",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L703",
+        "course_id": "C-tang",
+        "lesson_id": "L703",
+        "version": 4,
+        "checksum": "275ac58e6b969bbf77063af98355e4e964d7b4ca8d4b2a851ca7d17cd67054ca",
+        "path": "runtime/v1/course-packages/C-tang/L703/v004-275ac58e6b969bbf77063af98355e4e964d7b4ca8d4b2a851ca7d17cd67054ca.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "7e12d0b6abc11cb6300c41f7d51b16df42e2edf9ac2b89e5c77c796e86d804a5"
+}

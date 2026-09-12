@@ -1,0 +1,194 @@
+{
+  "archive_checksum": "d8a3d19cdb71021ffe28096b63f0b9085f06aa7fc6c0f6244075e5e12189e136",
+  "archive_id": "arc-d8a3d19cdb71021ffe28096b63f0b908",
+  "archive_path": "C-tang/releases/rel-70f0f87cea-0009/arc-d8a3d19cdb71021ffe28096b63f0b908",
+  "course_id": "C-tang",
+  "course_title": "隋唐制度创新",
+  "file_count": 11,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "aaca511210d87cb0ba7fbb095926066c91748f6c91da3e0146d94d6ba57b33d8",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L701",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L701/隋朝统一与速亡-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3292
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "6cc208b46dfcc50942bc4123c3322fa74011591170a3cff7b2c55a8a7e89052f",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L701",
+      "media_type": "application/json",
+      "path": "lessons/L701/隋朝统一与速亡-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6813
+    },
+    {
+      "artifact_id": "pkg-L701",
+      "artifact_version": 4,
+      "blob_sha256": "9ba0217757a0d848899b2a1f43dc651ae237650b39493a73d4d7b49cf5e353e6",
+      "contract_checksum": "f21082e360f56503412e0fdfda5239a0b07e2e9ee3f28eb77644594df270effa",
+      "kind": "course-package",
+      "lesson_id": "L701",
+      "media_type": "application/json",
+      "path": "lessons/L701/隋朝统一与速亡-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11078
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "5b11cd3a802325a73e96aa8e4d58e6ae9d6edc21a6f5a244e6435e981ddd8247",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L701",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L701/隋朝统一与速亡-预览.html",
+      "schema_version": null,
+      "size_bytes": 5269
+    },
+    {
+      "artifact_id": "L701",
+      "artifact_version": 4,
+      "blob_sha256": "de7634a9225d4ac18d59c85582443f46df38c5ea1bda6dfacdda065a717ee6d0",
+      "contract_checksum": "76220b01848324ed6f762fb1f85c9c6d0e01831623dab1fd0d5dc653707cf292",
+      "kind": "sealed-lesson",
+      "lesson_id": "L701",
+      "media_type": "application/json",
+      "path": "lessons/L701/隋朝统一与速亡.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8108
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "946b730faf28e23e99dfd0d7b4b2596e55abbb8e33f517cf07d3b178c3ba8cc3",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L703",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L703/均田制、租庸调制与府兵制-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3441
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "50fbf51ebc8cff1b91150a306c737c53b1d4498fb017c7af048f1bab1bbeadbb",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L703",
+      "media_type": "application/json",
+      "path": "lessons/L703/均田制、租庸调制与府兵制-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6919
+    },
+    {
+      "artifact_id": "pkg-L703",
+      "artifact_version": 4,
+      "blob_sha256": "2f5bcb8702b20b3e481b40f0c1a6cb69537a9391355b01b67c81457aec7999be",
+      "contract_checksum": "275ac58e6b969bbf77063af98355e4e964d7b4ca8d4b2a851ca7d17cd67054ca",
+      "kind": "course-package",
+      "lesson_id": "L703",
+      "media_type": "application/json",
+      "path": "lessons/L703/均田制、租庸调制与府兵制-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 10347
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "82011aad05ad5217b8aa3399a01f27237cf3be78b9ee8caaa6c7b52cce3765a8",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L703",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L703/均田制、租庸调制与府兵制-预览.html",
+      "schema_version": null,
+      "size_bytes": 5096
+    },
+    {
+      "artifact_id": "L703",
+      "artifact_version": 4,
+      "blob_sha256": "da25bb653ddc0a953ac5085b6f9f153e3eb6885cd30f43775ceda921f350732f",
+      "contract_checksum": "096596a4407429bddf390ffb593dcce48b7595c4920fbc9bb31c14aa7911a25f",
+      "kind": "sealed-lesson",
+      "lesson_id": "L703",
+      "media_type": "application/json",
+      "path": "lessons/L703/均田制、租庸调制与府兵制.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7623
+    },
+    {
+      "artifact_id": "rel-70f0f87cea-0009",
+      "artifact_version": 9,
+      "blob_sha256": "cd959ef82cc9e28a523bd4f9942f67cecdacc5f78b346fbc8da50bcbac6b587e",
+      "contract_checksum": "7e12d0b6abc11cb6300c41f7d51b16df42e2edf9ac2b89e5c77c796e86d804a5",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1996
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 4,
+      "course_package_checksum": "f21082e360f56503412e0fdfda5239a0b07e2e9ee3f28eb77644594df270effa",
+      "course_package_id": "pkg-L701",
+      "files": [
+        "lessons/L701/隋朝统一与速亡-教师稿.md",
+        "lessons/L701/隋朝统一与速亡-格式层.json",
+        "lessons/L701/隋朝统一与速亡-运行包.json",
+        "lessons/L701/隋朝统一与速亡-预览.html",
+        "lessons/L701/隋朝统一与速亡.json"
+      ],
+      "lesson_id": "L701",
+      "scenarios": [],
+      "source_checksum": "76220b01848324ed6f762fb1f85c9c6d0e01831623dab1fd0d5dc653707cf292",
+      "title": "隋朝统一与速亡"
+    },
+    {
+      "content_version": 4,
+      "course_package_checksum": "275ac58e6b969bbf77063af98355e4e964d7b4ca8d4b2a851ca7d17cd67054ca",
+      "course_package_id": "pkg-L703",
+      "files": [
+        "lessons/L703/均田制、租庸调制与府兵制-教师稿.md",
+        "lessons/L703/均田制、租庸调制与府兵制-格式层.json",
+        "lessons/L703/均田制、租庸调制与府兵制-运行包.json",
+        "lessons/L703/均田制、租庸调制与府兵制-预览.html",
+        "lessons/L703/均田制、租庸调制与府兵制.json"
+      ],
+      "lesson_id": "L703",
+      "scenarios": [],
+      "source_checksum": "096596a4407429bddf390ffb593dcce48b7595c4920fbc9bb31c14aa7911a25f",
+      "title": "均田制、租庸调制与府兵制"
+    }
+  ],
+  "manifest_checksum": "b03c8ba049fc136cd8d9aabea163ff48de221f7ffd45ebcfe71f5a585b74ff2e",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "7e12d0b6abc11cb6300c41f7d51b16df42e2edf9ac2b89e5c77c796e86d804a5",
+  "release_created_at": "2026-09-12T04:48:15.627016Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-70f0f87cea-0009",
+  "release_no": 9,
+  "release_note": "Publish L703 v4.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 69982
+}
