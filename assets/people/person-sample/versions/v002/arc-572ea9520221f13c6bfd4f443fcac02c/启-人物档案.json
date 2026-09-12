@@ -1,0 +1,42 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "启",
+  "role": "夏代早期君主；禹之子，",
+  "era": "示例时代夏代早期",
+  "summary": "启是传统文献所记载的禹的儿子。按照《史记·夏本纪》的记载，禹去世后，政治地位一度授予益；但禹死后，诸侯转而支持禹的儿子启，启最终继承了夏的统治地位。启即位后，又因有扈氏不服而发生战争。《史记》的这一叙述常被后世用来说明从“禅让”传统向王位继承转变的过程。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "王位世袭制；家天下；夏；早期国家；公天下"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《夏本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷二；重点参考禹死后益与启的继承、启即位及伐有扈氏的记载",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《甘誓》",
+      "source": "《尚书》",
+      "url_or_path": "具体篇章；传统文献中关于启伐有扈氏的誓师记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "启适合用于讲解“禅让—继承”的问题。教学时不要简单告诉学生“禹以后立即建立了成熟的世袭制”，而应强调传世文献所呈现的是一个继承方式发生变化的叙述。",
+  "status": "sealed",
+  "version": 2,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-12T11:14:24.097930Z",
+  "sealed_at": "2026-09-12T11:14:24.097930Z",
+  "sealed_by": "local-admin",
+  "checksum": "a9aa15d4a1b5cacdc1aee578227cb38794225aa219f836bd8e867216a3939033"
+}

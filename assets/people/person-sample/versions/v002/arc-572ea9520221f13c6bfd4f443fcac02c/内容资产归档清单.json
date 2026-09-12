@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "启",
+  "version": 2,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "a9aa15d4a1b5cacdc1aee578227cb38794225aa219f836bd8e867216a3939033",
+  "sealed_at": "2026-09-12T11:14:24.097930Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "启-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 1930,
+      "blob_sha256": "4cd5e346ed39b8d65db222e55de8e7fef8143000abeb88178aac78834dce3cb1",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "a9aa15d4a1b5cacdc1aee578227cb38794225aa219f836bd8e867216a3939033"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1930,
+  "archive_id": "arc-572ea9520221f13c6bfd4f443fcac02c",
+  "archive_checksum": "572ea9520221f13c6bfd4f443fcac02c67e18df3b984b9cd357ae567780089e8",
+  "archive_path": "people/person-sample/versions/v002/arc-572ea9520221f13c6bfd4f443fcac02c",
+  "manifest_checksum": "9be4105521e6b41cb3dbc5314baf96a4dc3e870d9adde74edfb0a0e97f1882cd"
+}
