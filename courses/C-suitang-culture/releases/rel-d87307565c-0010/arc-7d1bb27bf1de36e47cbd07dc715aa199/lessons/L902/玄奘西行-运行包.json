@@ -1,0 +1,276 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L902",
+  "course_id": "C-suitang-culture",
+  "lesson_id": "L902",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "玄奘西行",
+  "unit": "求法旅程与知识交流",
+  "era": "隋唐",
+  "body": [
+    "唐朝初年，佛教在中国已经传播数百年，各地寺院保存着许多汉译佛经。然而，不同译本在词义和教理上常有差异，僧人对一些问题也有不同解释。年轻僧人玄奘在各地求学后，希望找到更完整的经典，于是决定前往佛教发源地学习。",
+    "贞观初年，玄奘离开长安，开始【西行求法】。他越过河西走廊和沙漠，到达高昌，又经中亚翻越葱岭进入印度。沿途语言、气候和政治环境不断变化，他有时得到当地君主和僧人的帮助，也经历缺水、风雪和道路阻隔。旅程本身就是一场跨越多种文化区域的知识交流。",
+    "到达印度后，玄奘进入【那烂陀寺】学习。这里汇聚许多僧人和学者，既研究佛教，也学习语言、逻辑和医学等知识。玄奘师从高僧戒贤，深入研习瑜伽行派学说，又到印度多地参访寺院、搜集经典，并与当地学者讨论教义。",
+    "公元645年，玄奘返回长安，带回大量梵文经典和佛像。唐太宗在洛阳接见他，希望了解西域各地情况。玄奘没有进入官场，而是在朝廷支持下组织【译场】。译场由译主、笔受、证义等人员共同合作，要经过口译、记录、校订和润色，译经并不是一个人独自完成的工作。",
+    "玄奘此后译出《大般若经》《瑜伽师地论》等大量经典。他的弟子窥基在相关学说基础上进一步阐释，形成后世所称的【法相宗】。长安【大慈恩寺】成为玄奘译经的重要场所，大雁塔最初也与保存他带回的经像有关。译经使印度佛教知识进入汉语世界，也创造了许多更加严密的表达。",
+    "玄奘还口述沿途各地的山川、城市、物产、风俗和宗教情况，由弟子辩机整理成【《大唐西域记》】。这部书既记录求法旅程，也保存七世纪中亚和南亚的重要信息。书中里程和传闻需要结合其他材料判断，但它仍是研究古代交通和区域历史的重要文献。",
+    "玄奘西行并不是神话人物的冒险，而是一位僧人为解决知识疑问进行的长期求学。他带回的不只是佛经，还有对不同社会的观察和翻译方法。学习本课，重点是理解个人求知如何依靠道路、政权、寺院和集体协作，进而推动不同文明之间的知识流动。"
+  ],
+  "abstract": "玄奘为解决佛经理解中的疑问远赴印度求法，在那烂陀寺学习后携经返回长安，通过集体译场和《大唐西域记》推动知识交流。",
+  "course_title": "唐代文化与世界",
+  "era_id": "suitang",
+  "section": "文化",
+  "lesson_no": "3.2",
+  "duration": "09:30",
+  "teaching_objectives": [
+    "说明玄奘西行的动机和主要路线",
+    "概括玄奘在印度学习和回国译经的过程",
+    "理解译经需要跨语言和集体协作",
+    "评价《大唐西域记》的信息价值与使用方法"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-13ec0ee7",
+      "word": "西行求法",
+      "pinyin": "xī xíng qiú fǎ",
+      "gloss": "玄奘从长安经中亚前往印度学习佛法并搜集经典的旅程",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e6281be5",
+      "word": "那烂陀寺",
+      "pinyin": "nà làn tuó sì",
+      "gloss": "古代印度重要佛教教育中心；玄奘长期学习之地",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-b93e86d0",
+      "word": "译场",
+      "pinyin": "yì chǎng",
+      "gloss": "多人分工翻译和校订佛教经典的场所与组织",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-4aaf8bd9",
+      "word": "法相宗",
+      "pinyin": "fǎ xiàng zōng",
+      "gloss": "玄奘及弟子依据瑜伽行派学说建立的汉传佛教宗派",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-faa0c943",
+      "word": "大慈恩寺",
+      "pinyin": "dà cí ēn sì",
+      "gloss": "唐代长安佛寺；玄奘主持译经的重要场所",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-aee0985e",
+      "word": "《大唐西域记》",
+      "pinyin": "dà táng xī yù jì",
+      "gloss": "玄奘口述并由辩机整理的地理见闻；记录中亚和南亚多地情况",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-2e115cdd",
+      "name": "玄奘",
+      "role": "唐代僧人和翻译家",
+      "summary": "西行印度求法并在长安主持译经",
+      "persona": "突出求知动机 旅程实践和集体翻译",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-a7df9adc",
+      "name": "戒贤",
+      "role": "那烂陀寺高僧",
+      "summary": "向玄奘讲授瑜伽行派学说",
+      "persona": "说明跨区域师生交流",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-fa6bb8d3",
+      "name": "辩机",
+      "role": "唐代僧人",
+      "summary": "根据玄奘口述整理《大唐西域记》",
+      "persona": "强调文献形成也依赖协作者",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-eacc65ad",
+      "label": "长安",
+      "region": "今陕西西安",
+      "lat": null,
+      "lng": null,
+      "note": "玄奘出发和回国后译经的中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-ba089819",
+      "label": "高昌",
+      "region": "今新疆吐鲁番一带",
+      "lat": null,
+      "lng": null,
+      "note": "玄奘西行途中受到支持的绿洲政权",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-c64155b7",
+      "label": "那烂陀寺",
+      "region": "今印度比哈尔邦",
+      "lat": null,
+      "lng": null,
+      "note": "玄奘在印度长期学习之地",
+      "kind": "site"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-3791f97c",
+      "statement": "玄奘因不同佛经译本存在差异而决定西行求法",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-98733826",
+      "statement": "玄奘经河西走廊 中亚和葱岭到达印度",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7f1c6475",
+      "statement": "玄奘在那烂陀寺师从戒贤学习",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-1a7204c4",
+      "statement": "公元645年玄奘携带大量经像返回长安",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-2591ae6b",
+      "statement": "唐代译场依靠多人分工完成经典翻译",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9526ac7d",
+      "statement": "《大唐西域记》保存七世纪中亚和南亚的重要信息",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-b17a019e",
+      "title": "《大唐大慈恩寺三藏法师传》",
+      "kind": "other",
+      "publisher": "僧人传记",
+      "url_or_path": "《大唐大慈恩寺三藏法师传》",
+      "citation_note": "记载玄奘求法旅程和译经活动",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-d0e02221",
+      "title": "《大唐西域记》",
+      "kind": "other",
+      "publisher": "地理见闻文献",
+      "url_or_path": "《大唐西域记》",
+      "citation_note": "记录七世纪中亚和南亚地理社会信息",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-eafe6e4f",
+      "title": "大雁塔与大慈恩寺遗存",
+      "kind": "other",
+      "publisher": "建筑与考古材料",
+      "url_or_path": "西安大慈恩寺大雁塔",
+      "citation_note": "反映玄奘译经和经像保存活动",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "玄奘为什么决定前往印度求法？",
+    "西行路线经过哪些重要区域？",
+    "唐代译场怎样完成经典翻译？",
+    "《大唐西域记》具有怎样的历史价值？"
+  ],
+  "level_goals": [
+    "说明玄奘西行的动机和主要路线",
+    "概括玄奘在印度学习和回国译经的过程",
+    "理解译经需要跨语言和集体协作",
+    "评价《大唐西域记》的信息价值与使用方法"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "长安出发",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "穿越中亚",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "那烂陀求学",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "回国译经",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课不重复佛教初传过程；以解决知识疑问为动机讲清旅行 学习 译经和著述。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-11T09:40:39.504375Z",
+  "sealed_at": "2026-09-11T09:40:39.504375Z",
+  "sealed_by": "local-admin",
+  "checksum": "7892a6e546ba849529108c539e52599d1e7f4c969e543c1e4ae3b21f940e534e",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L902",
+    "source_version": "2",
+    "source_checksum": "b28e2d89511e40023197dbc955234bac523ccec3cff85ac7a8096fb2351590f4",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

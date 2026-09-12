@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-d87307565c-0010",
+  "release_no": 10,
+  "course_id": "C-suitang-culture",
+  "operation": "publish",
+  "parent_release_id": "rel-d87307565c-0009",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-12T04:53:58.267074Z",
+  "created_by": "local-admin",
+  "note": "Publish L903 v4.",
+  "items": [
+    {
+      "lesson_id": "L901",
+      "course_id": "C-suitang-culture",
+      "content_version": 3,
+      "source_path": "sealed/L901-v003.json",
+      "source_checksum": "bdb25edd553e0ace47addb6b736c645ba69bbd60f7133045ba3f5289e9aca99a",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L901",
+        "course_id": "C-suitang-culture",
+        "lesson_id": "L901",
+        "version": 3,
+        "checksum": "f987f8bc803f5522f9038c8b208551b1461cd9750ce82c8e71e2544a5eb96c0b",
+        "path": "runtime/v1/course-packages/C-suitang-culture/L901/v003-f987f8bc803f5522f9038c8b208551b1461cd9750ce82c8e71e2544a5eb96c0b.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L902",
+      "course_id": "C-suitang-culture",
+      "content_version": 2,
+      "source_path": "sealed/L902-v002.json",
+      "source_checksum": "b28e2d89511e40023197dbc955234bac523ccec3cff85ac7a8096fb2351590f4",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L902",
+        "course_id": "C-suitang-culture",
+        "lesson_id": "L902",
+        "version": 2,
+        "checksum": "7892a6e546ba849529108c539e52599d1e7f4c969e543c1e4ae3b21f940e534e",
+        "path": "runtime/v1/course-packages/C-suitang-culture/L902/v002-7892a6e546ba849529108c539e52599d1e7f4c969e543c1e4ae3b21f940e534e.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L903",
+      "course_id": "C-suitang-culture",
+      "content_version": 4,
+      "source_path": "sealed/L903-v004.json",
+      "source_checksum": "058af9188a6d15d2babf9ef22d5f2002a60bf5ebe001255159f481b2fec9ffc4",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L903",
+        "course_id": "C-suitang-culture",
+        "lesson_id": "L903",
+        "version": 4,
+        "checksum": "59e51d86f60554afa14f79eb311f35a88094b49c17c5ab37026a8ecccede5395",
+        "path": "runtime/v1/course-packages/C-suitang-culture/L903/v004-59e51d86f60554afa14f79eb311f35a88094b49c17c5ab37026a8ecccede5395.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "7662928628b9f58b0ca3e4d9f4295886f401897c0ff56dbfdf3b617d6d172c2d"
+}
