@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "商汤",
+  "version": 3,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "0d084d47e44aa3ac6706b581383241d53429df99e87b958f63dec4390be9e123",
+  "sealed_at": "2026-09-12T12:37:10.951957Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "商汤-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2012,
+      "blob_sha256": "96f1f5f625d3503c4262ef7f9dcc9b4a154b3e9cc1e1cc17f5ea0b404cf7343b",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "0d084d47e44aa3ac6706b581383241d53429df99e87b958f63dec4390be9e123"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2012,
+  "archive_id": "arc-db91b34854734b2cc6df983c6a89733a",
+  "archive_checksum": "db91b34854734b2cc6df983c6a89733a0d4c5860857dc819197c916a235e39e6",
+  "archive_path": "people/person-sample/versions/v003/arc-db91b34854734b2cc6df983c6a89733a",
+  "manifest_checksum": "3623a207a9c3d8150e95353afbc27876ba981b5bdf8341876ba63071cb4d0521"
+}

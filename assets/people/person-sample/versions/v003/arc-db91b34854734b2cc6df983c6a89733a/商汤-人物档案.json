@@ -1,0 +1,42 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "商汤",
+  "role": "商族首领、传统文献记载中的商朝建立者",
+  "era": "夏末商初",
+  "summary": "商汤是传统文献记载中的商族首领，商朝的开国君主。夏朝末年，夏桀统治暴虐、丧失民心，各地诸侯纷纷背离夏朝。商汤广得人心、积累势力，获得诸侯广泛支持。夏桀忌惮商汤的势力，曾将他囚禁，后又将其释放。商汤随后起兵讨伐夏桀，夏桀战败逃至鸣条，夏朝政权灭亡。商汤由此建立商朝，完成夏商王朝更替，是上古早期历史中极为重要的人物。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "鸣条之战；夏；早期国家"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《夏本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷二；重点参考禹死后益与启的继承、启即位及伐有扈氏的记载",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《甘誓》",
+      "source": "《尚书》",
+      "url_or_path": "具体篇章；传统文献中关于启伐有扈氏的誓师记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "教学重点：把“汤灭夏”放在夏商更替和早期国家发展的背景下理解。避免把“汤是圣君、桀是暴君”作为未经分析的客观事实，应区分政治宣传、后世评价与历史叙述。",
+  "status": "sealed",
+  "version": 3,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-12T12:37:10.951957Z",
+  "sealed_at": "2026-09-12T12:37:10.951957Z",
+  "sealed_by": "local-admin",
+  "checksum": "0d084d47e44aa3ac6706b581383241d53429df99e87b958f63dec4390be9e123"
+}
