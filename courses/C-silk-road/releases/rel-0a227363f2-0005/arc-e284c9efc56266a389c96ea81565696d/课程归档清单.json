@@ -1,0 +1,118 @@
+{
+  "archive_checksum": "e284c9efc56266a389c96ea81565696d15e1e3113c67c375133cfe57226ab932",
+  "archive_id": "arc-e284c9efc56266a389c96ea81565696d",
+  "archive_path": "C-silk-road/releases/rel-0a227363f2-0005/arc-e284c9efc56266a389c96ea81565696d",
+  "course_id": "C-silk-road",
+  "course_title": "唐代盛衰",
+  "file_count": 6,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "ded5d2d2bedd68265a87e69988c498cd4378d6f9999adc11abb190e4bede8870",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L803",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L803/安史之乱与藩镇-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3426
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "7a29d299f248a602beb2eba35fb848d6a6d9a61f1ee36bc459dfbbd42b63c751",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L803",
+      "media_type": "application/json",
+      "path": "lessons/L803/安史之乱与藩镇-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6643
+    },
+    {
+      "artifact_id": "pkg-L803",
+      "artifact_version": 4,
+      "blob_sha256": "8c6c8d5216ef0b783923d80e33c88d9adef83ac3bb66d17cde88ab8208708b82",
+      "contract_checksum": "bbd180ab34da145ca73831c2782d9e8fb2cf6f663c98e79678f8b50b6e565cc1",
+      "kind": "course-package",
+      "lesson_id": "L803",
+      "media_type": "application/json",
+      "path": "lessons/L803/安史之乱与藩镇-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11778
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e94091a54cbda685417ad4f91a0509ec599647aad9ac29c325019b231a52dea0",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L803",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L803/安史之乱与藩镇-预览.html",
+      "schema_version": null,
+      "size_bytes": 5131
+    },
+    {
+      "artifact_id": "L803",
+      "artifact_version": 4,
+      "blob_sha256": "f409e7649865b2adffe8f8a86b8cd413b9664c3d0e94e4ad02f3386c292beadc",
+      "contract_checksum": "809b65e5f70a1a30ce7aaf54a8deb81034cb24936424f5645e47e3082de0a747",
+      "kind": "sealed-lesson",
+      "lesson_id": "L803",
+      "media_type": "application/json",
+      "path": "lessons/L803/安史之乱与藩镇.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8351
+    },
+    {
+      "artifact_id": "rel-0a227363f2-0005",
+      "artifact_version": 5,
+      "blob_sha256": "3215fbcf4d49212d483494701c81609bb583a24c42f1772781dcb33b86e13d69",
+      "contract_checksum": "8993d30a092d0a007457949467ab9f8f87d13d886844e3f2add1b47bd1f44002",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 1239
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 4,
+      "course_package_checksum": "bbd180ab34da145ca73831c2782d9e8fb2cf6f663c98e79678f8b50b6e565cc1",
+      "course_package_id": "pkg-L803",
+      "files": [
+        "lessons/L803/安史之乱与藩镇-教师稿.md",
+        "lessons/L803/安史之乱与藩镇-格式层.json",
+        "lessons/L803/安史之乱与藩镇-运行包.json",
+        "lessons/L803/安史之乱与藩镇-预览.html",
+        "lessons/L803/安史之乱与藩镇.json"
+      ],
+      "lesson_id": "L803",
+      "scenarios": [],
+      "source_checksum": "809b65e5f70a1a30ce7aaf54a8deb81034cb24936424f5645e47e3082de0a747",
+      "title": "安史之乱与藩镇"
+    }
+  ],
+  "manifest_checksum": "8a0d5c305db2c28a895f5f1ea1a689e67ded2ad0bd5c7afd8ef23fa9acffb019",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "8993d30a092d0a007457949467ab9f8f87d13d886844e3f2add1b47bd1f44002",
+  "release_created_at": "2026-09-12T04:49:26.264177Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-0a227363f2-0005",
+  "release_no": 5,
+  "release_note": "Publish L803 v4.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 36568
+}

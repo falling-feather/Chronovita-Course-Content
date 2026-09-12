@@ -1,0 +1,35 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-0a227363f2-0005",
+  "release_no": 5,
+  "course_id": "C-silk-road",
+  "operation": "publish",
+  "parent_release_id": "rel-0a227363f2-0004",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-12T04:49:26.264177Z",
+  "created_by": "local-admin",
+  "note": "Publish L803 v4.",
+  "items": [
+    {
+      "lesson_id": "L803",
+      "course_id": "C-silk-road",
+      "content_version": 4,
+      "source_path": "sealed/L803-v004.json",
+      "source_checksum": "809b65e5f70a1a30ce7aaf54a8deb81034cb24936424f5645e47e3082de0a747",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L803",
+        "course_id": "C-silk-road",
+        "lesson_id": "L803",
+        "version": 4,
+        "checksum": "bbd180ab34da145ca73831c2782d9e8fb2cf6f663c98e79678f8b50b6e565cc1",
+        "path": "runtime/v1/course-packages/C-silk-road/L803/v004-bbd180ab34da145ca73831c2782d9e8fb2cf6f663c98e79678f8b50b6e565cc1.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "8993d30a092d0a007457949467ab9f8f87d13d886844e3f2add1b47bd1f44002"
+}
