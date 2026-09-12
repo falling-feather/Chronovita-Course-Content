@@ -1,0 +1,252 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L603",
+  "course_id": "C-weijin-fusion",
+  "lesson_id": "L603",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "北魏孝文帝改革",
+  "unit": "北方统一与民族交往",
+  "era": "魏晋南北朝",
+  "body": [
+    "西晋灭亡后，北方先后出现许多政权，不同族群在战争、迁徙和共同生活中不断接触。鲜卑拓跋部逐渐强大，于公元386年建立【北魏】。到公元439年，北魏统一北方，与南方政权对峙。如何治理人口众多、农业发达而文化传统复杂的中原地区，成为统治者必须面对的问题。",
+    "北魏早期都城在【平城】，也就是今天的山西大同一带。统治者一方面保留鲜卑旧俗，另一方面任用汉族官员并学习中原制度。随着统治范围扩大，旧有部落关系难以单独承担赋税、户籍和地方管理。冯太后执政时期，朝廷实行俸禄制度、整理户籍并推行【三长制】，试图把基层人口更直接地纳入国家管理。",
+    "公元471年，拓跋宏（北魏孝文帝）即位。他亲政后希望进一步加强中央统治，也希望摆脱平城位置偏北、物资转运不便和旧贵族势力较强等限制。公元493年，他借南征之机率军到达洛阳，随后决定【迁都洛阳】。洛阳位于中原腹地，交通便利，也有深厚的政治文化传统。",
+    "迁都不仅是更换都城，也带来生活方式和政治制度的调整。孝文帝要求朝廷官员学习汉语，改穿中原服饰，按中原礼仪办理典章制度。他把皇族拓跋氏改为元氏，并推动鲜卑贵族采用汉姓，后世常把这些措施概括为【改用汉姓】。朝廷还鼓励鲜卑贵族与汉族士族通婚，以建立新的政治联系。",
+    "改革并非简单地让一个族群放弃全部传统。长期交往中，鲜卑军事传统也影响北方政治，汉族士人则进入北魏政权。洛阳城内宫殿、寺院和市场相继兴建，不同地区的人口汇聚。语言、婚姻、礼仪和制度的变化，使北方各族之间的联系更加紧密，也推动中原文化吸收新的因素。",
+    "改革触动了一些旧贵族和边镇军人的利益。迁都后的洛阳贵族生活日益富贵，北部边镇的军人却感到地位下降。孝文帝去世后，北魏内部矛盾继续积累，六镇起事等动荡最终导致政权分裂。因此，改革加强了北魏对中原的治理并促进族群交往，却不能解释北魏后来所有变化。",
+    "墓志、造像题记和洛阳城遗址保存了北魏人的姓名、官职、信仰和城市生活信息，与史书记载可以相互补充。学习孝文帝改革，重点在于理解北方政权为何主动调整制度与习俗，以及这一过程怎样为隋唐时期更大范围的政治统一和文化融合准备条件。"
+  ],
+  "abstract": "北魏统一北方后，需要治理复杂的中原社会。孝文帝迁都洛阳并调整语言 服饰 姓氏和礼制，促进北方各族交往，也引发新的利益矛盾。",
+  "course_title": "分裂中的文化整合",
+  "era_id": "weijin",
+  "section": "通史",
+  "lesson_no": "1.3",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "说明北魏统一北方和改革的背景",
+    "解释迁都洛阳的政治与地理考虑",
+    "概括孝文帝改革的主要措施",
+    "从族群交往和利益调整评价改革影响"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-09f04784",
+      "word": "北魏",
+      "pinyin": "běi wèi",
+      "gloss": "鲜卑拓跋部建立的北方政权；公元439年统一北方",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-4ce37ff9",
+      "word": "平城",
+      "pinyin": "píng chéng",
+      "gloss": "北魏前期都城；位于今山西大同一带",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-97836204",
+      "word": "三长制",
+      "pinyin": "sān zhǎng zhì",
+      "gloss": "北魏建立的基层管理制度；用于整理户籍并征收赋役",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-8d04079f",
+      "word": "迁都洛阳",
+      "pinyin": "qiān dū luò yáng",
+      "gloss": "公元493年北魏把政治中心迁往洛阳的行动；推动中原化改革",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-537399c9",
+      "word": "改用汉姓",
+      "pinyin": "gǎi yòng hàn xìng",
+      "gloss": "北魏皇族和部分鲜卑贵族采用汉式姓氏的措施；加强与中原士族联系",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-fd297034",
+      "name": "冯太后",
+      "role": "北魏实际执政者",
+      "summary": "推动俸禄 户籍和基层管理改革",
+      "persona": "说明孝文帝改革具有前期基础",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-ddc53b92",
+      "name": "拓跋宏（北魏孝文帝）",
+      "role": "北魏皇帝",
+      "summary": "迁都洛阳并调整制度和习俗",
+      "persona": "从国家治理和族群交往理解改革",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-1746f83e",
+      "label": "平城",
+      "region": "今山西大同一带",
+      "lat": null,
+      "lng": null,
+      "note": "北魏前期都城",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-5c5e53d9",
+      "label": "洛阳",
+      "region": "今河南洛阳",
+      "lat": null,
+      "lng": null,
+      "note": "北魏孝文帝迁都后的政治文化中心",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-4e7b2fd6",
+      "label": "北部六镇",
+      "region": "今内蒙古中部至河北北部一带",
+      "lat": null,
+      "lng": null,
+      "note": "北魏北部军事防线和后来动荡集中地区",
+      "kind": "region"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-081e20e9",
+      "statement": "公元439年北魏统一北方",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ca876a0c",
+      "statement": "冯太后时期的改革为孝文帝改革提供基础",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-b149b1d8",
+      "statement": "公元493年孝文帝决定迁都洛阳",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ebe475a8",
+      "statement": "孝文帝改革涉及语言 服饰 姓氏 礼制和婚姻联系",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-354aaa3e",
+      "statement": "改革促进族群交往；同时触动部分旧贵族和边镇军人利益",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-41217d11",
+      "title": "《魏书》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《魏书》",
+      "citation_note": "记载北魏政权和孝文帝改革",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-a7fa5e44",
+      "title": "北魏墓志与造像题记",
+      "kind": "other",
+      "publisher": "考古文字材料",
+      "url_or_path": "洛阳及北方地区北魏墓志 造像题记",
+      "citation_note": "反映姓名 官职 信仰和族群交往",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-015d1d67",
+      "title": "汉魏洛阳城遗址",
+      "kind": "other",
+      "publisher": "考古遗址",
+      "url_or_path": "汉魏洛阳故城",
+      "citation_note": "用于认识北魏迁都后的城市格局",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "北魏统一北方后面临哪些治理问题？",
+    "孝文帝为什么迁都洛阳？",
+    "迁都后的改革包括哪些方面？",
+    "怎样理解改革的影响和局限？"
+  ],
+  "level_goals": [
+    "说明北魏统一北方和改革的背景",
+    "解释迁都洛阳的政治与地理考虑",
+    "概括孝文帝改革的主要措施",
+    "从族群交往和利益调整评价改革影响"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "北魏统一北方",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "迁都洛阳",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "制度习俗改革",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "民族交往",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课突出改革的治理背景 具体措施和双重影响；避免把民族融合写成单向同化。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-11T09:40:32.730295Z",
+  "sealed_at": "2026-09-11T09:40:32.730295Z",
+  "sealed_by": "local-admin",
+  "checksum": "9740dfe0d0e9340c33eed6380e87483f76539a747699ca088a3b394d56c112c2",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L603",
+    "source_version": "2",
+    "source_checksum": "7419b6d40b48f9fd2d27c9ba34fe1f289e46c4a9b1163ee9a154069305bb91d9",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
