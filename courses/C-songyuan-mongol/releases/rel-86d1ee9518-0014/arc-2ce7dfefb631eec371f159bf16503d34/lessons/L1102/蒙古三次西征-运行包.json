@@ -1,0 +1,282 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1102",
+  "course_id": "C-songyuan-mongol",
+  "lesson_id": "L1102",
+  "content_version": 3,
+  "status": "sealed",
+  "title": "蒙古三次西征",
+  "unit": "欧亚战争与跨区域联系",
+  "era": "宋元",
+  "body": [
+    "十三世纪初，【花剌子模】控制着中亚许多城市和商路。蒙古希望与其建立商贸联系，但一支蒙古商队在讹答剌被扣押，随后派出的使者也遭到杀害。双方关系迅速破裂。公元1219年，成吉思汗率军向中亚进发，第一次大规模西征由此开始。",
+    "公元1219年，成吉思汗率军越过天山，发动【蒙古第一次西征】。蒙古军队分路进攻，先后占领讹答剌、撒马尔罕和布哈拉等城市，花剌子模政权瓦解。骑兵快速机动和严密通信发挥重要作用，屠城和破坏水利等战争行为也使中亚许多地区遭受严重损失。",
+    "成吉思汗去世后，窝阔台继任大汗。公元1235年，蒙古诸王决定再次大举西进，由拔都等统率军队，这就是【蒙古第二次西征】。蒙古军队征服钦察草原，攻破多个罗斯城邦，又进入波兰和匈牙利。公元1241年窝阔台去世后，主要军队陆续东返。",
+    "拔都后来以伏尔加河下游为中心建立【钦察汗国】，统治钦察草原和罗斯诸公国等地区。罗斯诸公国需要向汗国纳贡，同时保留一定内部治理。蒙古统治改变东欧政治格局，也使草原道路和商贸网络进入新的权力体系。",
+    "公元1253年起，蒙哥大汗派旭烈兀率军向西亚进发，史称【蒙古第三次西征】。军队攻灭木剌夷政权，于公元1258年攻占巴格达，阿拔斯王朝在当地的统治结束。蒙古军继续进入叙利亚，后来在阿音札鲁特被埃及马穆鲁克军队击败，向西扩张受到阻挡。",
+    "旭烈兀在波斯地区建立【伊利汗国】。随着蒙古诸汗国形成，欧亚大陆大片地区一度处于相互联系的蒙古政权之下。使者、商人、工匠、医生和宗教人士跨区域流动，技术与知识传播更加频繁；战争造成的人口死亡、城市破坏和强制迁徙同样不可忽视。",
+    "汉文、波斯文、阿拉伯文和欧洲旅行记对西征有不同记载，各自关注的战场与人群也不相同。学习蒙古三次西征，重点是按时间和空间分清三次远征，理解军事组织怎样支持远距离行动，并同时看到征服带来的破坏与欧亚联系重组。"
+  ],
+  "abstract": "蒙古三次西征先后进入中亚 东欧和西亚，建立钦察汗国与伊利汗国。远距离征服造成巨大破坏，也重组了欧亚政治和交通网络。",
+  "course_title": "蒙古与元帝国",
+  "era_id": "songyuan",
+  "section": "通史",
+  "lesson_no": "2.2",
+  "duration": "10:30",
+  "teaching_objectives": [
+    "按时间和空间区分蒙古三次西征",
+    "说明远距离征服依赖的军事组织条件",
+    "指出钦察汗国与伊利汗国的主要区域",
+    "从战争破坏和网络重组两方面评价西征"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-49e34bb8",
+      "word": "花剌子模",
+      "pinyin": "huā là zǐ mó",
+      "gloss": "十二至十三世纪中亚政权；与蒙古冲突后在第一次西征中瓦解",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-84db072e",
+      "word": "蒙古第一次西征",
+      "pinyin": "měng gǔ dì yī cì xī zhēng",
+      "gloss": "公元1219年开始的中亚远征；主要打击花剌子模政权",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-1061d620",
+      "word": "蒙古第二次西征",
+      "pinyin": "měng gǔ dì èr cì xī zhēng",
+      "gloss": "公元1235年开始的远征；进入钦察草原 罗斯和中东欧",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e5178f0a",
+      "word": "钦察汗国",
+      "pinyin": "qīn chá hán guó",
+      "gloss": "拔都在伏尔加河下游建立的蒙古汗国；影响东欧政治格局",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-192716a6",
+      "word": "蒙古第三次西征",
+      "pinyin": "měng gǔ dì sān cì xī zhēng",
+      "gloss": "公元1253年开始的西亚远征；攻占巴格达并进入叙利亚",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-22a63c86",
+      "word": "伊利汗国",
+      "pinyin": "yī lì hán guó",
+      "gloss": "旭烈兀在波斯地区建立的蒙古汗国",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-85f126fe",
+      "name": "拔都",
+      "role": "第二次西征统帅",
+      "summary": "率军进入东欧并建立钦察汗国",
+      "persona": "结合汗位变化理解军队东返",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-408f1574",
+      "name": "旭烈兀",
+      "role": "第三次西征统帅",
+      "summary": "率军进入西亚并建立伊利汗国",
+      "persona": "关注巴格达陷落和西进受阻",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-a8d33c72",
+      "label": "撒马尔罕",
+      "region": "今乌兹别克斯坦撒马尔罕",
+      "lat": null,
+      "lng": null,
+      "note": "第一次西征攻占的中亚重要城市",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-8ba4bde3",
+      "label": "基辅",
+      "region": "今乌克兰基辅",
+      "lat": null,
+      "lng": null,
+      "note": "第二次西征中被蒙古军攻占的罗斯城市",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-898ed8cc",
+      "label": "布达佩斯地区",
+      "region": "今匈牙利中部",
+      "lat": null,
+      "lng": null,
+      "note": "第二次西征进入中欧的重要区域",
+      "kind": "region"
+    },
+    {
+      "point_id": "map-029cf1b9",
+      "label": "巴格达",
+      "region": "今伊拉克巴格达",
+      "lat": null,
+      "lng": null,
+      "note": "公元1258年被旭烈兀军队攻占",
+      "kind": "city"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-cf2e636b",
+      "statement": "公元1219年蒙古第一次西征开始并摧毁花剌子模政权",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-1b2ea481",
+      "statement": "公元1235年蒙古诸王决定发动第二次西征",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-d7cafb69",
+      "statement": "第二次西征进入罗斯 波兰和匈牙利等地区",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-01972172",
+      "statement": "拔都在伏尔加河下游建立钦察汗国",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-04763e6d",
+      "statement": "公元1253年蒙古第三次西征开始",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-90eb61f4",
+      "statement": "公元1258年旭烈兀军队攻占巴格达",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-b59a877e",
+      "statement": "西征造成巨大破坏；同时重组欧亚交通和政治联系",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-2097215a",
+      "title": "《史集》",
+      "kind": "other",
+      "publisher": "波斯文史书",
+      "url_or_path": "拉施特《史集》",
+      "citation_note": "记载蒙古王族和中亚西亚征服",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-1874361c",
+      "title": "《世界征服者史》",
+      "kind": "other",
+      "publisher": "波斯文史书",
+      "url_or_path": "志费尼《世界征服者史》",
+      "citation_note": "记录花剌子模战争和蒙古统治",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-5c993a30",
+      "title": "《蒙古秘史》与《元史》",
+      "kind": "other",
+      "publisher": "蒙古与汉文史料",
+      "url_or_path": "《蒙古秘史》《元史》",
+      "citation_note": "补充西征决策和蒙古诸王活动",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "蒙古第一次西征为什么爆发？",
+    "三次西征的主要方向和统帅分别是谁？",
+    "钦察汗国与伊利汗国位于哪些区域？",
+    "应怎样同时认识西征的破坏与交流影响？"
+  ],
+  "level_goals": [
+    "按时间和空间区分蒙古三次西征",
+    "说明远距离征服依赖的军事组织条件",
+    "指出钦察汗国与伊利汗国的主要区域",
+    "从战争破坏和网络重组两方面评价西征"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "第一次西征 中亚",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "第二次西征 东欧",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "第三次西征 西亚",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "破坏与联系重组",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课不再重复蒙古统一和内部制度；直接从花剌子模冲突进入第一次西征；按三次远征分别叙述方向 统帅和结果。",
+  "created_at": "2026-09-09T00:00:00Z",
+  "updated_at": "2026-09-11T09:40:09.755332Z",
+  "sealed_at": "2026-09-11T09:40:09.755332Z",
+  "sealed_by": "local-admin",
+  "checksum": "0b735a5ee6c8e5dc38db75a0aa94482b82552664768e9a5b9eb3e3ba6bed2507",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1102",
+    "source_version": "3",
+    "source_checksum": "d083cba2028f907b55429dc0aa7aef63c9a9abe03e1bd0053e12be3fddb42837",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
