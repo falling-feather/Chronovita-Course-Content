@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "夏桀",
+  "version": 4,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "8d951520a3d4a31f5ccc0deb8c80574f3277e39649f4baf162d916ee71e38d6d",
+  "sealed_at": "2026-09-12T12:41:40.606250Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "夏桀-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2140,
+      "blob_sha256": "7634542c9580f79ece1751ae524d92225415f3891c797cc0456f21f3010fe376",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "8d951520a3d4a31f5ccc0deb8c80574f3277e39649f4baf162d916ee71e38d6d"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2140,
+  "archive_id": "arc-297c4b40f71edab9b41ed7572c8cb839",
+  "archive_checksum": "297c4b40f71edab9b41ed7572c8cb839dde5a66d712f1891fb190752eb984ad8",
+  "archive_path": "people/person-sample/versions/v004/arc-297c4b40f71edab9b41ed7572c8cb839",
+  "manifest_checksum": "e39ba570c073b6a5dafd6e358ee7be17fcd9d45a7d1cfd69ddfb605d61b3135e"
+}
