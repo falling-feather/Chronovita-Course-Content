@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "禹",
+  "version": 1,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d0b86902d2fa081a06741d971bbd0c905d3d208e4f6242a095959f7ab6ce0230",
+  "sealed_at": "2026-09-12T11:07:42.380834Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "禹-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 1624,
+      "blob_sha256": "dedc7b0ee1bff8b56f2521967853c95f6e99dbf880cb3ed82a58915b38c1b596",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d0b86902d2fa081a06741d971bbd0c905d3d208e4f6242a095959f7ab6ce0230"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1624,
+  "archive_id": "arc-a529a150c6bc02175ba0d900a0f4fa38",
+  "archive_checksum": "a529a150c6bc02175ba0d900a0f4fa38061e92af0c8b4904dfcb7d90a53f76f1",
+  "archive_path": "people/person-sample/versions/v001/arc-a529a150c6bc02175ba0d900a0f4fa38",
+  "manifest_checksum": "00e5874d7ad671f47e47ac9ab69d95d65d5e49036131a5a705e8f38f8aa0070f"
+}

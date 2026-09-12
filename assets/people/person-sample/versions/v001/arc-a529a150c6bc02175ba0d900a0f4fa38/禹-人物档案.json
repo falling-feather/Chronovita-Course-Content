@@ -1,0 +1,35 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "禹",
+  "role": "传统文献中的夏代建立者、治水者",
+  "era": "传说时代至夏代早期",
+  "summary": "禹是中国古代传说和早期历史文献中的重要人物。传统记载称，尧、舜时期洪水严重，禹受命继续治理洪水，并因此获得很高的政治声望。《史记·夏本纪》记载，舜曾让禹继承自己的政治地位；舜死后，禹先让位给舜的儿子商均，后来诸侯归附于禹，禹遂成为夏后。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "大禹治水；禅让制；早期国家；夏；阳城"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《夏本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷二；重点参考禹治水、舜荐禹及禹继承舜的相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "教学重点：区分“传说中的禹”和考古学能够直接证明的早期国家遗存。可利用禹治水引导学生理解早期社会的公共事务治理。",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-12T11:07:42.380834Z",
+  "sealed_at": "2026-09-12T11:07:42.380834Z",
+  "sealed_by": "local-admin",
+  "checksum": "d0b86902d2fa081a06741d971bbd0c905d3d208e4f6242a095959f7ab6ce0230"
+}
