@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "刘炟（汉章帝）",
+  "role": "东汉第三位皇帝",
+  "era": "东汉前期",
+  "summary": "刘炟是汉明帝的儿子，继承皇位后成为汉章帝。他在位时期，东汉政治相对稳定，社会经济继续发展，儒学和经学在国家政治文化中的地位进一步提高。汉章帝重视儒家经典的解释和统一，建初四年召集诸王、儒生和经学 scholars在白虎观讨论五经中的不同解释。这次会议被称为“白虎观会议”，会议内容后来由班固整理成《白虎通义》。白虎观会议对东汉官方经学的发展产生了重要影响，也推动了儒家经典解释的规范化。汉章帝还延续东汉前期的政治制度和统治方式，使东汉政权得到进一步巩固。他的统治通常被视为东汉前期较为稳定时期的一部分。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "白虎观会议、《白虎通义》"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《章帝纪》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "卷三，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《白虎通义》",
+      "source": "中华书局整理本",
+      "url_or_path": "白虎观会议讨论内容及经学制度相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《儒林列传》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "东汉经学发展相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解白虎观会议的召开背景、讨论内容及其对东汉官方经学的影响。注意区分“汉章帝主持或推动会议”和“班固负责整理会议成果”这两个不同角色；《白虎通义》是后人对会议内容的整理，并非汉章帝亲自撰写。",
+  "status": "sealed",
+  "version": 45,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T13:25:51.905801Z",
+  "sealed_at": "2026-09-14T13:25:51.905801Z",
+  "sealed_by": "local-admin",
+  "checksum": "92fb9ad00b4e584483347b16bf7353f8776686b51f46cc5ceb8e6aa691554e10"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘炟（汉章帝）",
+  "version": 45,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "92fb9ad00b4e584483347b16bf7353f8776686b51f46cc5ceb8e6aa691554e10",
+  "sealed_at": "2026-09-14T13:25:51.905801Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘炟(汉章帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2493,
+      "blob_sha256": "857e0472c6ce8f799990e1755a5acc250f8ee99a08ae28a36eec18d432bb0617",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "92fb9ad00b4e584483347b16bf7353f8776686b51f46cc5ceb8e6aa691554e10"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2493,
+  "archive_id": "arc-efec4aac67f5eabf55e796dbe7c1f728",
+  "archive_checksum": "efec4aac67f5eabf55e796dbe7c1f728dd500ac1462835226adfe3f8308e81d8",
+  "archive_path": "people/person-sample/versions/v045/arc-efec4aac67f5eabf55e796dbe7c1f728",
+  "manifest_checksum": "72f27a8258f378aa2d721340c1d1104c2a3e59b49bb6549b56792979e1e2b3c3"
+}
