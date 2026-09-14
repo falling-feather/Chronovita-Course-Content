@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘恒（汉文帝）",
+  "version": 35,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "686a0d94b60a97eece5352d41784bce04510ebccae76c559781a104d253c9acd",
+  "sealed_at": "2026-09-14T12:00:12.476223Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘恒(汉文帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2433,
+      "blob_sha256": "7dcfea4d823f1694ad8fa70ebda330fafa6af997b7c6da997e3ea639ec5b1e7e",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "686a0d94b60a97eece5352d41784bce04510ebccae76c559781a104d253c9acd"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2433,
+  "archive_id": "arc-c695e0f27eb6ac0c6ec1861aa35f91a9",
+  "archive_checksum": "c695e0f27eb6ac0c6ec1861aa35f91a9939ab2c7d5af97b1770c4d323b3db05e",
+  "archive_path": "people/person-sample/versions/v035/arc-c695e0f27eb6ac0c6ec1861aa35f91a9",
+  "manifest_checksum": "f7447195da59ac7fa4d77706ad975cb3aa83611cb2e5078ebca963b6a51f2a48"
+}

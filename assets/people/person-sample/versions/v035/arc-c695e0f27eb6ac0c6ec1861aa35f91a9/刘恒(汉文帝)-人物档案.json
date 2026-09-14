@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "刘恒（汉文帝）",
+  "role": "汉高祖刘邦之子，文景之治的重要开创者",
+  "era": "西汉前期",
+  "summary": "刘恒是汉高祖刘邦的儿子，早年被封为代王。吕后去世后，西汉统治集团经过政治协商，拥立刘恒即位，是为汉文帝。汉文帝即位后，吸取秦朝和汉初长期战争的教训，采取较为宽缓的统治政策，减轻赋税和徭役，重视农业生产，提倡节俭，并减少不必要的宫廷开支。他还注意调整法律，减轻刑罚，努力缓和社会矛盾。汉文帝在位期间，社会经济逐渐恢复，国家财政有所积累，政治秩序相对稳定。刘恒的统治为后来汉景帝时期的发展创造了条件，与汉景帝共同开创了“文景之治”。他的治理体现了西汉初期休养生息政策的重要特点。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "休养生息；文景之治"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《文帝纪》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "卷四，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《孝文本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷十，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "汉文帝统治相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解汉文帝实行休养生息政策的具体表现，如减轻赋税徭役、提倡节俭和恢复农业生产。注意“文景之治”是汉文帝、汉景帝共同治理的结果，不能全部归功于汉文帝一人。",
+  "status": "sealed",
+  "version": 35,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T12:00:12.476223Z",
+  "sealed_at": "2026-09-14T12:00:12.476223Z",
+  "sealed_by": "local-admin",
+  "checksum": "686a0d94b60a97eece5352d41784bce04510ebccae76c559781a104d253c9acd"
+}
