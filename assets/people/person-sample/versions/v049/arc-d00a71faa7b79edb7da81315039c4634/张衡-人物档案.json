@@ -1,0 +1,47 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "张衡",
+  "role": "东汉科学家、文学家",
+  "era": "东汉时期",
+  "summary": "张衡是东汉时期著名的科学家、文学家和官员，曾担任太常、侍中、河间相等职务。他学识广博，在天文学、数学、机械制造和文学方面都有重要成就。张衡重视对天体运行和自然现象的观察，曾制作浑天仪，用来表现和研究天体运动；他还撰写有关天文学的著作，提出了具有时代特色的宇宙认识。在地震观测方面，张衡设计并制造了候风地动仪，用于感知远方地震的发生。张衡同时擅长文学创作，《二京赋》等作品反映了东汉社会和城市生活。张衡的成就体现了东汉时期科学知识、技术制作和文学创作的综合发展，对中国古代科技史和文学史都具有重要价值。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《张衡传》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "卷五十九，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《张衡传》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "关于浑天仪、候风地动仪及其学术活动的记载",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《中国科学技术史》相关章节",
+      "source": "科学出版社或相关学术整理本",
+      "url_or_path": "东汉天文学与机械技术相关内容，具体页码以所用版本为准",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解张衡在天文学、地动仪和文学方面的综合成就。注意不要将候风地动仪描述为能够准确测定地震震级或完整记录地震波的现代地震仪；还应区分历史文献中的记载与现代复原模型。",
+  "status": "sealed",
+  "version": 49,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T13:34:02.726051Z",
+  "sealed_at": "2026-09-14T13:34:02.726051Z",
+  "sealed_by": "local-admin",
+  "checksum": "872d9a77faaaac944b99b615b989c02dcc64b42fdcd7b43d3e5ab5d568ab80e9"
+}

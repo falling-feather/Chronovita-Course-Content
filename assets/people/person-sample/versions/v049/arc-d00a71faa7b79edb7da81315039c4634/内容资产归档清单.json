@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "张衡",
+  "version": 49,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "872d9a77faaaac944b99b615b989c02dcc64b42fdcd7b43d3e5ab5d568ab80e9",
+  "sealed_at": "2026-09-14T13:34:02.726051Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "张衡-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2507,
+      "blob_sha256": "1a0ac65d2a253e2e169b47c639ec70765bd37d8fcc42690d83405b355f7f7d6e",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "872d9a77faaaac944b99b615b989c02dcc64b42fdcd7b43d3e5ab5d568ab80e9"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2507,
+  "archive_id": "arc-d00a71faa7b79edb7da81315039c4634",
+  "archive_checksum": "d00a71faa7b79edb7da81315039c46348c7dc115815eb0580eedf5be51e7db09",
+  "archive_path": "people/person-sample/versions/v049/arc-d00a71faa7b79edb7da81315039c4634",
+  "manifest_checksum": "4ebd56d1211b4d48e4381ef285c1c21a7b8d8ab90463d2fa9a2456438bda1e54"
+}
