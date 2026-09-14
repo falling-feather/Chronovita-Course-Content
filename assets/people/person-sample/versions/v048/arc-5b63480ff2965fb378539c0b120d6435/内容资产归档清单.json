@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "蔡伦",
+  "version": 48,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "66d955c52261c37e0855f0c8919d39d659f6588fb1ab8406b203242511939959",
+  "sealed_at": "2026-09-14T13:31:57.446258Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "蔡伦-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2558,
+      "blob_sha256": "ef29c7f1c970da8b8dfb7e0b8836ed41f5551f28ac4b40ec22db07760b074589",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "66d955c52261c37e0855f0c8919d39d659f6588fb1ab8406b203242511939959"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2558,
+  "archive_id": "arc-5b63480ff2965fb378539c0b120d6435",
+  "archive_checksum": "5b63480ff2965fb378539c0b120d643504ac4bf02eb9f7239bf5d2c7ecea7474",
+  "archive_path": "people/person-sample/versions/v048/arc-5b63480ff2965fb378539c0b120d6435",
+  "manifest_checksum": "6264de221a7b7187b198c34505a7172e3d6a369059a3078575b30f9ad6b1e17f"
+}
