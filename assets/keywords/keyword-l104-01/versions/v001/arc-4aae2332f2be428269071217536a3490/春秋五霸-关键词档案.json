@@ -1,0 +1,50 @@
+{
+  "schema_version": "keyword-profile/v1",
+  "asset_id": "keyword-l104-01",
+  "word": "春秋五霸",
+  "pinyin": "chūn qiū wǔ bà",
+  "gloss": "春秋时期取得较大政治影响的诸侯；具体名单有不同说法",
+  "era": "先秦",
+  "category": "时代",
+  "examples": [
+    "本课结合“春秋五霸”说明春秋时期取得较大政治影响的诸侯；具体名单有不同说法。",
+    "讲解“春秋五霸”时，应联系本课叙事理解它在先秦历史中的作用。"
+  ],
+  "related_people": [
+    "姜小白（齐桓公）姬重耳（晋文公） 熊侣（楚庄王）吴王阖闾 越王勾践"
+  ],
+  "related_lessons": [
+    "L104"
+  ],
+  "source_refs": [
+    {
+      "title": "文史漫步：荀子评点战国双雄齐、秦",
+      "source": "广州市政协",
+      "url_or_path": "https://www.gzszx.gov.cn/wstd/wsmb/33751.shtml",
+      "citation_note": "介绍春秋五霸的常见名单及齐桓公相关历史",
+      "reliability": "pending"
+    },
+    {
+      "title": "管仲治齐",
+      "source": "清风齐鲁网",
+      "url_or_path": "https://www.qfxc.gov.cn/contents/32/13126.html",
+      "citation_note": "介绍管仲改革、尊王攘夷和齐桓公会盟",
+      "reliability": "pending"
+    },
+    {
+      "title": "博物馆展览：争霸春秋",
+      "source": "北京市人民政府",
+      "url_or_path": "https://www.beijing.gov.cn/fwcj/calendar/bwgzl/6a0d7712daec8455186ecd6f.html",
+      "citation_note": "介绍侯马晋国遗址、侯马盟书和春秋晋国历史",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-09-14T13:36:29.274921Z",
+  "updated_at": "2026-09-14T18:03:51.990562Z",
+  "sealed_at": "2026-09-14T18:03:51.990562Z",
+  "sealed_by": "local-admin",
+  "checksum": "34cee861c5fe67653498fca78a53b2f7d1076d26bf087737ac2c38410355f23d"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l104-01",
+  "title": "春秋五霸",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "34cee861c5fe67653498fca78a53b2f7d1076d26bf087737ac2c38410355f23d",
+  "sealed_at": "2026-09-14T18:03:51.990562Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "春秋五霸-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1897,
+      "blob_sha256": "e562707b1ba19469aa8c05ab7037be24e3028bb857cec6d03d87e1fcb4fdd528",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "34cee861c5fe67653498fca78a53b2f7d1076d26bf087737ac2c38410355f23d"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1897,
+  "archive_id": "arc-4aae2332f2be428269071217536a3490",
+  "archive_checksum": "4aae2332f2be428269071217536a3490c246a03bc8f91e7ae50e778db16d40ff",
+  "archive_path": "keywords/keyword-l104-01/versions/v001/arc-4aae2332f2be428269071217536a3490",
+  "manifest_checksum": "9c0214372523505f3dd742ec52826f008968bf23f45f6196c8d1d3d83b2fe352"
+}
