@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "房玄龄",
+  "version": 64,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "696511db1a83374bf88dcc4950160d608dd0a0f9f3e346964b7006c474e6b35c",
+  "sealed_at": "2026-09-14T14:46:35.843833Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "房玄龄-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2217,
+      "blob_sha256": "46ea0dcf0c7b3bccefb85ac5653215775e3b54ea2b2b3657d1cb28ffcd7dca34",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "696511db1a83374bf88dcc4950160d608dd0a0f9f3e346964b7006c474e6b35c"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2217,
+  "archive_id": "arc-4cdf4ea580d9b9317024d56629d299ab",
+  "archive_checksum": "4cdf4ea580d9b9317024d56629d299aba3b88fee2d249a020d06aca377085997",
+  "archive_path": "people/person-sample/versions/v064/arc-4cdf4ea580d9b9317024d56629d299ab",
+  "manifest_checksum": "e8de8c5b5df9ffda13068f449cf64226de2f1c1ce9a1831391389f8f6938821f"
+}
