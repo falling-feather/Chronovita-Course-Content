@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "司马迁",
+  "version": 42,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "902122b8c5639caeac34a8c4eb29143d56ff4304723b061f471f0e7c2d3802c9",
+  "sealed_at": "2026-09-14T13:16:43.297858Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "司马迁-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2906,
+      "blob_sha256": "ff18b28d3825f4a5964bbda20dc4772a8505deee6f0e89100b5c7772cad47606",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "902122b8c5639caeac34a8c4eb29143d56ff4304723b061f471f0e7c2d3802c9"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2906,
+  "archive_id": "arc-cfa21bb98c005cbd2871b695c46f7f60",
+  "archive_checksum": "cfa21bb98c005cbd2871b695c46f7f60b0beb98c07da46ff176afdeac2a9019f",
+  "archive_path": "people/person-sample/versions/v042/arc-cfa21bb98c005cbd2871b695c46f7f60",
+  "manifest_checksum": "f689018fbfa76d8fda5beb85085e52a9aaf9f50e90abc8ab5ed6f21420d70bbc"
+}
