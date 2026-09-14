@@ -1,0 +1,42 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "李亨（唐肃宗）",
+  "role": "唐朝第七位皇帝",
+  "era": "唐朝中期",
+  "summary": "李亨是唐玄宗的儿子，安史之乱爆发时担任太子。755年叛乱爆发后，唐玄宗率军民向西南方向撤退，李亨则前往西北地区组织力量。756年，李亨在灵武即位，成为唐肃宗，遥尊唐玄宗为太上皇。即位后，他积极整合各地唐军，任用郭子仪、李光弼等将领，并通过外交方式争取回纥等力量援助唐军。唐肃宗时期，唐军先后收复长安和洛阳，叛军受到重大打击，但战争仍持续多年。李亨的统治在一定程度上恢复了唐朝中央政权，但为了平叛而借助外部军队和地方军事力量，也加剧了藩镇势力的发展。唐肃宗是安史之乱中唐朝恢复统治的重要人物。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "安史之乱"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《肃宗本纪》",
+      "source": "《旧唐书》，中华书局点校本",
+      "url_or_path": "卷十，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《肃宗本纪》",
+      "source": "《新唐书》，中华书局点校本",
+      "url_or_path": "卷六，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解李亨在灵武即位、组织平叛和收复长安、洛阳过程中的作用，同时要说明平叛过程对藩镇势力发展的影响。",
+  "status": "sealed",
+  "version": 72,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T15:10:53.982077Z",
+  "sealed_at": "2026-09-14T15:10:53.982077Z",
+  "sealed_by": "local-admin",
+  "checksum": "e4dffb68ca694895a29ce996dde92c7ac48133ba4c6b9a92e10a859163b183a9"
+}

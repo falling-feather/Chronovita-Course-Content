@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李亨（唐肃宗）",
+  "version": 72,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "e4dffb68ca694895a29ce996dde92c7ac48133ba4c6b9a92e10a859163b183a9",
+  "sealed_at": "2026-09-14T15:10:53.982077Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李亨(唐肃宗)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2085,
+      "blob_sha256": "2b0b17319f564b16fb953185502cb0b734762127c368d630cde41a1dadf0d3c4",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "e4dffb68ca694895a29ce996dde92c7ac48133ba4c6b9a92e10a859163b183a9"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2085,
+  "archive_id": "arc-83ae498cc8379799e21a9f69c6259a66",
+  "archive_checksum": "83ae498cc8379799e21a9f69c6259a6656586d3187796cb7bd08eee1dca2c634",
+  "archive_path": "people/person-sample/versions/v072/arc-83ae498cc8379799e21a9f69c6259a66",
+  "manifest_checksum": "1702961ddcee4adb41bef166e48868b571068bb5e2492f8618d5a17db391e2e7"
+}
