@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李信",
+  "version": 30,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "1d2ca97c9fe72541e3ae9b8584b14177fa3a9fb38610a0dc3237228391c634da",
+  "sealed_at": "2026-09-14T10:38:09.998472Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李信-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2352,
+      "blob_sha256": "d95625007eca2f91f8437c9ebefd29ccd2a46698481a0ad66b2ee18b4a79c9c3",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "1d2ca97c9fe72541e3ae9b8584b14177fa3a9fb38610a0dc3237228391c634da"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2352,
+  "archive_id": "arc-baa4997e50f82cca36dc8516f50f49a5",
+  "archive_checksum": "baa4997e50f82cca36dc8516f50f49a5c23d985214af506a33870dccc7f9c59f",
+  "archive_path": "people/person-sample/versions/v030/arc-baa4997e50f82cca36dc8516f50f49a5",
+  "manifest_checksum": "1717ddc02884865a5857984708778ded4290abd3c88229f82a4a6907b9fd8958"
+}

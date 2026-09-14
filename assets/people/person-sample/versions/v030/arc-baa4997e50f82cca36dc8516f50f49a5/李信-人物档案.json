@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "李信",
+  "role": "战国末期秦国将领",
+  "era": "战国末期",
+  "summary": "李信是战国末期秦国将领，以年轻、勇敢和善于进攻著称，受到秦始皇重视。在秦国灭亡六国的战争中，李信曾参与对燕国的军事行动。秦始皇准备进攻楚国时，李信认为只需要二十万军队便可以取得胜利，因此被任命为主将，与蒙恬共同率军攻楚。战争初期，秦军取得了一定进展，但楚军随后展开反击，李信所部遭到击败，秦军损失较大。李信攻楚失败，说明楚国仍具有较强的军事力量，也反映出统一战争中准确判断敌情、合理估计战争规模的重要性。此后，秦始皇重新起用王翦，秦军最终完成了对楚国的征服。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "统一战争、秦国军队"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《白起王翦列传》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷七十三，李信攻楚失败及王翦重新出征相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《秦始皇本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷六，秦统一六国相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "秦灭六国战争相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解李信攻楚失败的经过及其历史意义，体现秦统一战争中的军事判断、战争风险与将领之间的不同战略主张。",
+  "status": "sealed",
+  "version": 30,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:38:09.998472Z",
+  "sealed_at": "2026-09-14T10:38:09.998472Z",
+  "sealed_by": "local-admin",
+  "checksum": "1d2ca97c9fe72541e3ae9b8584b14177fa3a9fb38610a0dc3237228391c634da"
+}
