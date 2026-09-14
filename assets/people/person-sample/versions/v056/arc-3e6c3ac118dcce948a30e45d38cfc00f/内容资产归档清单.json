@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "阮籍",
+  "version": 56,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "6915f816929052c5099e895e800ddcd3521ae487627ded26457ee7d866586458",
+  "sealed_at": "2026-09-14T13:57:54.789607Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "阮籍-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2208,
+      "blob_sha256": "bee0fdf73998bf81916bf6997c683d30e5882529b1c54b9297325e6319b5b95b",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "6915f816929052c5099e895e800ddcd3521ae487627ded26457ee7d866586458"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2208,
+  "archive_id": "arc-3e6c3ac118dcce948a30e45d38cfc00f",
+  "archive_checksum": "3e6c3ac118dcce948a30e45d38cfc00f8ebb63366abc5697aaa345bd38e00dbc",
+  "archive_path": "people/person-sample/versions/v056/arc-3e6c3ac118dcce948a30e45d38cfc00f",
+  "manifest_checksum": "70a49967dd4bb0e615c49ab139a62c498738f8f19b42b13109471ea360178e0b"
+}
