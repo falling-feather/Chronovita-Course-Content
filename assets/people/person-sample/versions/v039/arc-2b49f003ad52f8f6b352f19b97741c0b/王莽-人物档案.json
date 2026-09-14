@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "王莽",
+  "role": "西汉末年外戚，后建立新朝并成为新朝皇帝",
+  "era": "西汉末年至新朝",
+  "summary": "王莽出身于西汉外戚家族，早年以节俭、谦恭和礼贤下士的形象获得社会声望。西汉末年，王莽逐渐掌握朝廷权力，并在公元9年取代西汉，建立新朝。即位后，他试图通过制度改革解决土地兼并、贫富差距和社会秩序混乱等问题，曾推行王田制、改革货币制度，并对奴婢问题和商业活动作出调整。但这些改革涉及范围广、变化频繁，部分措施脱离当时社会实际，执行过程中又受到地方势力和官僚体系的影响，因而没有达到预期效果。新朝统治期间，社会矛盾不断加剧，最终在绿林、赤眉等起义冲击下走向灭亡。王莽的统治是西汉与东汉之间的重要历史转折。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "新朝、绿林赤眉起义"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《王莽传》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "卷九十九上、下，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《王莽传》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "王莽代汉及新朝灭亡相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解王莽代汉建新及其改革措施，分析改革目标与实际效果之间的差异，应结合土地、货币、社会矛盾和政策执行情况进行分析。",
+  "status": "sealed",
+  "version": 39,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T12:32:56.290911Z",
+  "sealed_at": "2026-09-14T12:32:56.290911Z",
+  "sealed_by": "local-admin",
+  "checksum": "7b056ec832803206caff928fef1f8044246c4a9b0f100de40f1252b280b199f7"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "王莽",
+  "version": 39,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "7b056ec832803206caff928fef1f8044246c4a9b0f100de40f1252b280b199f7",
+  "sealed_at": "2026-09-14T12:32:56.290911Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "王莽-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2425,
+      "blob_sha256": "2cde1860c9544ef54365e44e1a3c744cf30320760b1cb148f0ac028ddc24b7ab",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "7b056ec832803206caff928fef1f8044246c4a9b0f100de40f1252b280b199f7"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2425,
+  "archive_id": "arc-2b49f003ad52f8f6b352f19b97741c0b",
+  "archive_checksum": "2b49f003ad52f8f6b352f19b97741c0b3ff89fceaccebb9060dc84269f3af27a",
+  "archive_path": "people/person-sample/versions/v039/arc-2b49f003ad52f8f6b352f19b97741c0b",
+  "manifest_checksum": "ad32731c797f7b85c1ea4b0394be35bfff6d68b1fbaa5b46f76d7a205535296f"
+}
