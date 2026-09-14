@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘秀（汉光武帝）",
+  "version": 40,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "cfb8c51d1085c94723da823260aae96b8a18c7027e241e1819f45030a5753c45",
+  "sealed_at": "2026-09-14T12:43:18.741925Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘秀(汉光武帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2507,
+      "blob_sha256": "a0d4f98391d87dc151e0e01f7b767fa9e1def6a6bf8c2cfcdcc6ddcbc55f3914",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "cfb8c51d1085c94723da823260aae96b8a18c7027e241e1819f45030a5753c45"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2507,
+  "archive_id": "arc-66140a8a641a8309c4a6abeec1153517",
+  "archive_checksum": "66140a8a641a8309c4a6abeec1153517da756efdc37b8ddfc69f5b5040137b45",
+  "archive_path": "people/person-sample/versions/v040/arc-66140a8a641a8309c4a6abeec1153517",
+  "manifest_checksum": "55bb8c1afa4d4482bd7c5bf009accb94a405de1f7f62793616d5c11d6b4c4062"
+}
