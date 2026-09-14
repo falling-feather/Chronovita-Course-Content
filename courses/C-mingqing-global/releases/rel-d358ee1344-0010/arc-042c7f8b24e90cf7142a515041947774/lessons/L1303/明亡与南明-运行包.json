@@ -1,0 +1,299 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1303",
+  "course_id": "C-mingqing-global",
+  "lesson_id": "L1303",
+  "content_version": 5,
+  "status": "sealed",
+  "title": "明亡与南明",
+  "unit": "内外危机与明清易代",
+  "era": "明清",
+  "body": [
+    "十七世纪前期，明朝同时面对辽东战争、财政紧张、官僚冲突和自然灾害。北方部分地区连续发生旱灾和饥荒，军费增加又使赋税压力上升。白银供应和银价变化影响百姓缴税，但这些问题相互交织，不能用气候、财政或某一位君主单独解释明朝危机。",
+    "朱由检（崇祯帝）即位后清除魏忠贤势力，希望整顿朝政，却频繁更换重要官员，前线指挥和财政政策缺少稳定。与此同时，后金在皇太极统治下改国号为清，不断进攻明朝北部。明廷需要把大量资源投入辽东防线，内地赈灾和地方控制更加困难。",
+    "陕西等地饥民和士兵相继起事，反抗力量逐渐形成较大队伍。李自成提出减轻赋税等口号，吸收大量流民，于公元1644年在西安建立【大顺政权】。随后大顺军东进，三月攻入北京。崇祯帝在煤山自缢，明朝中央政权由此灭亡。",
+    "驻守【山海关】的明将吴三桂面临大顺军和清军两方压力，最终引清军入关。清摄政王多尔衮与吴三桂军队在山海关附近击败李自成，随后进入北京，这一过程称为【清军入关】。清朝利用明朝降官和原有地方制度扩大统治，但各地抵抗并未立即结束。",
+    "北京失守后，明朝宗室和官员在南京拥立福王，建立弘光政权。此后又有隆武、永历等政权，合称【南明】。这些政权控制区域不断变化，既要抵抗清军，也存在将领、地方势力和朝廷之间的矛盾，难以形成稳定统一的指挥。",
+    "永历帝在西南坚持多年，依靠李定国等将领抗清。郑成功则以东南沿海为基地，继续使用明朝名义。公元1662年，【永历政权】结束；同年郑成功驱逐荷兰殖民者并控制台湾，不久去世。此后郑氏政权仍延续到公元1683年，明清易代因此是持续数十年的战争和整合过程。",
+    "明清双方史书、地方志、奏疏和个人日记保存了不同立场的记忆。学习明亡与南明，重点是理解财政、灾害、农民起义、边疆战争和政治失序怎样共同推动王朝崩溃，也要看到公元1644年只是中央政权转换的关键节点，地方战争和制度重建仍持续很久。"
+  ],
+  "abstract": "十七世纪前期，明朝同时面对辽东战争、财政紧张、官僚冲突和自然灾害。北方部分地区连续发生旱灾和饥荒，军费增加又使赋税压力上升。白银供应和银价变化影响百姓缴税，但这些问题相互交织，不能用气候、财政或某一位君主单独解释明朝危机。",
+  "course_title": "中国与早期全球化",
+  "era_id": "mingqing",
+  "section": "通史",
+  "lesson_no": "2.3",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "从多因素解释明朝中央政权灭亡",
+    "梳理李自成入京与清军入关过程",
+    "概括南明主要政权和抵抗范围",
+    "理解王朝更替是长期战争与制度重建过程"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-5f82a0e7",
+      "word": "大顺政权",
+      "pinyin": "dà shùn zhèng quán",
+      "gloss": "李自成于公元1644年建立的政权；曾控制西安和北京",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-17bfee67",
+      "word": "山海关",
+      "pinyin": "shān hǎi guān",
+      "gloss": "连接辽西与华北的重要关隘；明清易代时发生关键战事",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-6e41329c",
+      "word": "清军入关",
+      "pinyin": "qīng jūn rù guān",
+      "gloss": "公元1644年清军越过山海关并进入北京的历史进程",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-5786803e",
+      "word": "南明",
+      "pinyin": "nán míng",
+      "gloss": "北京失守后明朝宗室和官员在南方建立的多个政权合称",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e4c5ae3b",
+      "word": "永历政权",
+      "pinyin": "yǒng lì zhèng quán",
+      "gloss": "南明延续时间较长的政权；主要活动于西南地区",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-32df26fa",
+      "name": "朱由检（崇祯帝）",
+      "role": "明朝末代皇帝",
+      "summary": "试图整顿朝政却未能解决多重危机",
+      "persona": "避免把王朝灭亡完全归于个人品格",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-362a3cd4",
+      "name": "李自成",
+      "role": "大顺政权建立者",
+      "summary": "领导起义军攻入北京并推翻明朝中央政权",
+      "persona": "联系灾荒 赋税和军队流动理解崛起",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-9e1e1a48",
+      "name": "郑成功",
+      "role": "东南沿海抗清将领",
+      "summary": "以海上力量继续抗清并控制台湾",
+      "persona": "说明明清易代延续到沿海与台湾",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-ccd01d89",
+      "label": "北京",
+      "region": "今北京",
+      "lat": null,
+      "lng": null,
+      "note": "公元1644年大顺军攻入并随后被清军控制",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-f2379185",
+      "label": "山海关",
+      "region": "今河北秦皇岛",
+      "lat": null,
+      "lng": null,
+      "note": "清军入关和击败大顺军的关键区域",
+      "kind": "battle"
+    },
+    {
+      "point_id": "map-4c943569",
+      "label": "南京",
+      "region": "今江苏南京",
+      "lat": null,
+      "lng": null,
+      "note": "南明弘光政权建立地",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-d83e1128",
+      "label": "昆明",
+      "region": "今云南昆明",
+      "lat": null,
+      "lng": null,
+      "note": "永历政权在西南活动的重要城市",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-0d8e1063",
+      "label": "台湾",
+      "region": "今台湾地区",
+      "lat": null,
+      "lng": null,
+      "note": "郑成功驱逐荷兰殖民者后建立基地的地区",
+      "kind": "region"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-449fc914",
+      "statement": "明末危机由财政 灾害 内部起义 边疆战争和政治问题共同推动",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8bb0be6d",
+      "statement": "公元1644年李自成建立大顺政权并攻入北京",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-adf653b3",
+      "statement": "崇祯帝在北京失守后自缢",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-9a73426f",
+      "statement": "吴三桂引清军入关并在山海关附近击败大顺军",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-8d3089ca",
+      "statement": "南明包括弘光 隆武 永历等多个政权",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-4f977804",
+      "statement": "公元1662年永历政权结束并发生郑成功控制台湾事件",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c912a64d",
+      "statement": "明清易代是延续数十年的战争与整合过程",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-1151ec9c",
+      "title": "《明史·庄烈帝本纪》",
+      "kind": "other",
+      "publisher": "传世史书",
+      "url_or_path": "《明史·庄烈帝本纪》",
+      "citation_note": "记载崇祯时期政治和北京失守",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-9272763d",
+      "title": "《明季北略》与《明季南略》",
+      "kind": "other",
+      "publisher": "明清易代史料汇编",
+      "url_or_path": "《明季北略》《明季南略》",
+      "citation_note": "保存起义 清军入关和南明事件记载",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-5d676fc6",
+      "title": "明末地方志与个人日记",
+      "kind": "other",
+      "publisher": "地方与私人记录",
+      "url_or_path": "明末清初地方志 日记及奏疏",
+      "citation_note": "反映灾荒 战争和地方社会经历",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "明末危机包含哪些相互影响的因素？",
+    "公元1644年北京政权发生了怎样的变化？",
+    "南明政权为什么难以形成稳定统一的指挥？",
+    "为什么明清易代不能只理解为公元1644年一个事件？"
+  ],
+  "level_goals": [
+    "从多因素解释明朝中央政权灭亡",
+    "梳理李自成入京与清军入关过程",
+    "概括南明主要政权和抵抗范围",
+    "理解王朝更替是长期战争与制度重建过程"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "大顺政权",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "山海关",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "清军入关",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "南明",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "永历政权",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课以多重危机和长期易代过程为主线；不采用气候 白银或个人失德的单一因果解释。",
+  "created_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-09-14T06:02:49.951765Z",
+  "sealed_at": "2026-09-14T06:02:49.951765Z",
+  "sealed_by": "local-admin",
+  "checksum": "85ae402d9b52ffcf9c9084cd6f989a4234e6ffdedcdd8dc25ba0f929d4674265",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1303",
+    "source_version": "5",
+    "source_checksum": "cb0332ab20079a6e6377cb64dc2a1904ad095c2981bbe04f3885bf9f98920de0",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}

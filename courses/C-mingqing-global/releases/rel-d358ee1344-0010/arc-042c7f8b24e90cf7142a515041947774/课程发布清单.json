@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-d358ee1344-0010",
+  "release_no": 10,
+  "course_id": "C-mingqing-global",
+  "operation": "publish",
+  "parent_release_id": "rel-d358ee1344-0009",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-14T06:02:50.477799Z",
+  "created_by": "local-admin",
+  "note": "Publish L1303 v5.",
+  "items": [
+    {
+      "lesson_id": "L1301",
+      "course_id": "C-mingqing-global",
+      "content_version": 2,
+      "source_path": "sealed/L1301-v002.json",
+      "source_checksum": "764a7846778ba832f0f02c47b5b332b8eaf147260979934e95f3efd13583be34",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1301",
+        "course_id": "C-mingqing-global",
+        "lesson_id": "L1301",
+        "version": 2,
+        "checksum": "183d40e84baa2a13c0d432f567c79f5fc0bd16ca17f116fcf8c9048c8de31b92",
+        "path": "runtime/v1/course-packages/C-mingqing-global/L1301/v002-183d40e84baa2a13c0d432f567c79f5fc0bd16ca17f116fcf8c9048c8de31b92.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1302",
+      "course_id": "C-mingqing-global",
+      "content_version": 2,
+      "source_path": "sealed/L1302-v002.json",
+      "source_checksum": "d2b14272ed022749579fd9a49780e470bcba6a3778044c164e235abb41f5fb4c",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1302",
+        "course_id": "C-mingqing-global",
+        "lesson_id": "L1302",
+        "version": 2,
+        "checksum": "719c60de6235a209428a478ddd25854baacdf5655169b585ec25acb484fc471f",
+        "path": "runtime/v1/course-packages/C-mingqing-global/L1302/v002-719c60de6235a209428a478ddd25854baacdf5655169b585ec25acb484fc471f.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1303",
+      "course_id": "C-mingqing-global",
+      "content_version": 5,
+      "source_path": "sealed/L1303-v005.json",
+      "source_checksum": "cb0332ab20079a6e6377cb64dc2a1904ad095c2981bbe04f3885bf9f98920de0",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1303",
+        "course_id": "C-mingqing-global",
+        "lesson_id": "L1303",
+        "version": 5,
+        "checksum": "85ae402d9b52ffcf9c9084cd6f989a4234e6ffdedcdd8dc25ba0f929d4674265",
+        "path": "runtime/v1/course-packages/C-mingqing-global/L1303/v005-85ae402d9b52ffcf9c9084cd6f989a4234e6ffdedcdd8dc25ba0f929d4674265.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "7d1e75ae529a64624c5b6557101bfcc49fe5673f9823849269068a0efaf645fb"
+}
