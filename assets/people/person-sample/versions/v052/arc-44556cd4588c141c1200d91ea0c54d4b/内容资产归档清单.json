@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘备",
+  "version": 52,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "2c502e7a5b701a1a63ff19217f102f9a9a44e545207efd1a5a2b3f2eec6a534a",
+  "sealed_at": "2026-09-14T13:49:59.002495Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘备-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2322,
+      "blob_sha256": "e385e1c713d6e4a1c68031bf1ba3c66acddf6ab90a3bb6ad4c653568450a8aad",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "2c502e7a5b701a1a63ff19217f102f9a9a44e545207efd1a5a2b3f2eec6a534a"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2322,
+  "archive_id": "arc-44556cd4588c141c1200d91ea0c54d4b",
+  "archive_checksum": "44556cd4588c141c1200d91ea0c54d4bbcb0e0015baa43cf4c0137bcfcd81a39",
+  "archive_path": "people/person-sample/versions/v052/arc-44556cd4588c141c1200d91ea0c54d4b",
+  "manifest_checksum": "6a5e4904d5e2f0701c5c4f53079c6cbd06ab3a786b2eaab1f26fbd79073b83ed"
+}
