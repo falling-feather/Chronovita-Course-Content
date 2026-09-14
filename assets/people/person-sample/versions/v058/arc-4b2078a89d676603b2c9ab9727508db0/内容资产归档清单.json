@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "拓跋宏（北魏孝文帝）",
+  "version": 58,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "5b8db909aa76331a39838401aef56a6db520fb661ddbd9da4f7dbe70b4b719a4",
+  "sealed_at": "2026-09-14T14:02:05.207670Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "拓跋宏(北魏孝文帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2355,
+      "blob_sha256": "90dfa266d5a17827962044f5d9b335b684cc6558cc4eef46fd4c3966c1aa091c",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "5b8db909aa76331a39838401aef56a6db520fb661ddbd9da4f7dbe70b4b719a4"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2355,
+  "archive_id": "arc-4b2078a89d676603b2c9ab9727508db0",
+  "archive_checksum": "4b2078a89d676603b2c9ab9727508db0cbc3ffb97315a4b5c379782b308ef6f9",
+  "archive_path": "people/person-sample/versions/v058/arc-4b2078a89d676603b2c9ab9727508db0",
+  "manifest_checksum": "7f8e344204f87e1fe9a24383dec4d29944914ca28bc4bff9898027344ee280a6"
+}
