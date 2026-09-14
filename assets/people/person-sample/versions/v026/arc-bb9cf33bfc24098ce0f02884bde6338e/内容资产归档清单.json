@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "张仪",
+  "version": 26,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d316328395b0c5dad65edbc454f79f73994e953b9c1685cad482cdfd5af88a9b",
+  "sealed_at": "2026-09-14T10:28:25.713905Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "张仪-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2070,
+      "blob_sha256": "6e1689897271613bb581d4db2b2064546b20167a506750cf8a51855f8af2efd0",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d316328395b0c5dad65edbc454f79f73994e953b9c1685cad482cdfd5af88a9b"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2070,
+  "archive_id": "arc-bb9cf33bfc24098ce0f02884bde6338e",
+  "archive_checksum": "bb9cf33bfc24098ce0f02884bde6338eecea3fc76a6447aac03bc81e66cee169",
+  "archive_path": "people/person-sample/versions/v026/arc-bb9cf33bfc24098ce0f02884bde6338e",
+  "manifest_checksum": "a0db2827427e641f47c5fa8aee854eb8e5274d19d24583c5f0d8209e5d353cad"
+}
