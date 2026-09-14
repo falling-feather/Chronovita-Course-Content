@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "孔子",
+  "version": 22,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "efebcdef2f26be9c4dc95096fde26a91c13e39e38eab347deb40b8e68f18bfc0",
+  "sealed_at": "2026-09-14T10:01:29.121097Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "孔子-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2832,
+      "blob_sha256": "888a8f12a0517ebb75c80c437d66a06c31ae5187a9b080fe71b41ee7ee4176f2",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "efebcdef2f26be9c4dc95096fde26a91c13e39e38eab347deb40b8e68f18bfc0"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2832,
+  "archive_id": "arc-43f9b7041d9676f6643c2f1239cec69c",
+  "archive_checksum": "43f9b7041d9676f6643c2f1239cec69cde8d04f6d16b8c76a6455b2c5e9dcd47",
+  "archive_path": "people/person-sample/versions/v022/arc-43f9b7041d9676f6643c2f1239cec69c",
+  "manifest_checksum": "2105c275a082953aaa71b30524b5e760ed631c3e33ce3f515ed88dcccd3c1034"
+}
