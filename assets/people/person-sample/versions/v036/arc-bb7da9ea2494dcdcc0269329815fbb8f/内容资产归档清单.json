@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘启（汉景帝）",
+  "version": 36,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "adf8467b443b8cf2e322cdd6edc5c488ced692d420e62947e9db2294c20874b1",
+  "sealed_at": "2026-09-14T12:27:25.819637Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘启(汉景帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2442,
+      "blob_sha256": "233ad618d9f9652c5cf92d9374f92144734e7a40e1faa04289477af093eb2f65",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "adf8467b443b8cf2e322cdd6edc5c488ced692d420e62947e9db2294c20874b1"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2442,
+  "archive_id": "arc-bb7da9ea2494dcdcc0269329815fbb8f",
+  "archive_checksum": "bb7da9ea2494dcdcc0269329815fbb8fe21a460e849099b78994761f071eff56",
+  "archive_path": "people/person-sample/versions/v036/arc-bb7da9ea2494dcdcc0269329815fbb8f",
+  "manifest_checksum": "6b34dc177359ab48727d3b93e8eaeaa5a476ac7fec4b42f8ea6becba14660dbc"
+}

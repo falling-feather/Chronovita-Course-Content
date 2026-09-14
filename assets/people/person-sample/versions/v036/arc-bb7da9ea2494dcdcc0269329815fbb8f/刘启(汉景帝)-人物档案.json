@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "刘启（汉景帝）",
+  "role": "西汉第六位皇帝，文景之治的重要推动者。",
+  "era": "西汉前期",
+  "summary": "刘启是汉文帝刘恒的儿子，继承皇位后成为汉景帝。汉景帝延续汉文帝时期较为宽缓的统治政策，继续减轻赋税和徭役，重视农业生产，使西汉初期逐渐恢复的社会经济得到进一步发展。在政治方面，汉景帝面临诸侯王势力过大的问题。为加强中央对地方的控制，他采纳晁错等人的建议，逐步削弱诸侯王的权力，由此引发吴楚等七国叛乱。七国之乱被平定后，诸侯王的政治和行政权力受到进一步限制，中央集权得到加强。汉景帝在位时期，社会经济继续发展，与汉文帝共同开创了“文景之治”，为汉武帝时期国家实力的增强奠定了基础。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "休养生息、文景之治、七国之乱"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《景帝纪》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "卷五，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《孝景本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷十一，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "七国之乱相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解汉景帝延续休养生息政策，以及七国之乱对中央与地方关系的影响。注意七国之乱并非单纯的地方叛乱，还涉及诸侯王势力过大与中央集权加强之间的矛盾。",
+  "status": "sealed",
+  "version": 36,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T12:27:25.819637Z",
+  "sealed_at": "2026-09-14T12:27:25.819637Z",
+  "sealed_by": "local-admin",
+  "checksum": "adf8467b443b8cf2e322cdd6edc5c488ced692d420e62947e9db2294c20874b1"
+}
