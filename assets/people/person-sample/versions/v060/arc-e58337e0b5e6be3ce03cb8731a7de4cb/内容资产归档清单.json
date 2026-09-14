@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "慧远",
+  "version": 60,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "33c2f9d52bfdeee0d5813d12740b8e653bf6081a730d02d211b6b31c65936342",
+  "sealed_at": "2026-09-14T14:06:18.878827Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "慧远-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2253,
+      "blob_sha256": "16c86ca99816202f1c8b23ed60c8f04d45fd769f7c367cf968b26febb7de411b",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "33c2f9d52bfdeee0d5813d12740b8e653bf6081a730d02d211b6b31c65936342"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2253,
+  "archive_id": "arc-e58337e0b5e6be3ce03cb8731a7de4cb",
+  "archive_checksum": "e58337e0b5e6be3ce03cb8731a7de4cb4476c5d9b767011a03cc85de09aebb11",
+  "archive_path": "people/person-sample/versions/v060/arc-e58337e0b5e6be3ce03cb8731a7de4cb",
+  "manifest_checksum": "207a93f05a44505f78826fec4ba1060d2c8237cc05879eab30abf5fd18401558"
+}
