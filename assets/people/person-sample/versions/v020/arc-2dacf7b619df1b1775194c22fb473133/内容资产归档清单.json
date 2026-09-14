@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "商鞅",
+  "version": 20,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "ad41e955ba703cb35027ecc2cc1aab5a2015f456ba0df23f3d2e906c0d882954",
+  "sealed_at": "2026-09-14T09:44:55.043127Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "商鞅-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2796,
+      "blob_sha256": "00e1c1fd17717ecbc5eddfef10042c431a3e9c9ae8bda6862cce4232b1429b31",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "ad41e955ba703cb35027ecc2cc1aab5a2015f456ba0df23f3d2e906c0d882954"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2796,
+  "archive_id": "arc-2dacf7b619df1b1775194c22fb473133",
+  "archive_checksum": "2dacf7b619df1b1775194c22fb473133d0a6b0138e75f276526fabac14b0e1d7",
+  "archive_path": "people/person-sample/versions/v020/arc-2dacf7b619df1b1775194c22fb473133",
+  "manifest_checksum": "8e5fa89b9ffbef920446d96dfe32d82c0bb502dc2fac13235a82de2321373f4f"
+}
