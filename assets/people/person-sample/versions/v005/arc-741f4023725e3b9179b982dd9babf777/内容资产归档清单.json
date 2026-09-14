@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "盘庚",
+  "version": 5,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "bd1cb8eb8b695c52b83edbd651fbf27940600fdaaf6f4c78108abde7fec845a6",
+  "sealed_at": "2026-09-14T06:58:48.806248Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "盘庚-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2386,
+      "blob_sha256": "cedd63e8a6ccd00f05a043a236ceb2c9a4577db440045b6a54eaab3676a4e6df",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "bd1cb8eb8b695c52b83edbd651fbf27940600fdaaf6f4c78108abde7fec845a6"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2386,
+  "archive_id": "arc-741f4023725e3b9179b982dd9babf777",
+  "archive_checksum": "741f4023725e3b9179b982dd9babf777dae854df8acdf144e91006ed812503ab",
+  "archive_path": "people/person-sample/versions/v005/arc-741f4023725e3b9179b982dd9babf777",
+  "manifest_checksum": "165591ca1901b21a112f511c58a64880162cc43c6e10f71d075f2f776accb230"
+}
