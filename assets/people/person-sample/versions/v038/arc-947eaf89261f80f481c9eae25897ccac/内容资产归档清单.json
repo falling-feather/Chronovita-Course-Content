@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "张骞",
+  "version": 38,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "89ae9f1a1bf8eb2dad3482db04810d4a5275ce6f5612c764493a3af6ff150366",
+  "sealed_at": "2026-09-14T12:31:07.201509Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "张骞-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2189,
+      "blob_sha256": "71d72446f117e7ae7c83e26b553e0318fb30ab02dd6f93949400bed5c9a294a6",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "89ae9f1a1bf8eb2dad3482db04810d4a5275ce6f5612c764493a3af6ff150366"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2189,
+  "archive_id": "arc-947eaf89261f80f481c9eae25897ccac",
+  "archive_checksum": "947eaf89261f80f481c9eae25897ccac514b1e36beb01a2d9383287a2289cdcd",
+  "archive_path": "people/person-sample/versions/v038/arc-947eaf89261f80f481c9eae25897ccac",
+  "manifest_checksum": "7f0ff7ca17c5dcaf39c912d696919f962645977b26fa84cb96dc7d059704c730"
+}
