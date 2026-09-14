@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "玄奘",
+  "version": 76,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "e34bc621cbfb6b850566a3f4553e4e91aefde2846671947af53740d0ec2490a3",
+  "sealed_at": "2026-09-14T15:18:25.836747Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "玄奘-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2511,
+      "blob_sha256": "d07fd461c032be764a6773ea18a6315140a78b5168735cdaabd832da6ddf103f",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "e34bc621cbfb6b850566a3f4553e4e91aefde2846671947af53740d0ec2490a3"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2511,
+  "archive_id": "arc-5ad7e04537058592435c549c50eb17a0",
+  "archive_checksum": "5ad7e04537058592435c549c50eb17a0239fb412523c4892892632a5bed30024",
+  "archive_path": "people/person-sample/versions/v076/arc-5ad7e04537058592435c549c50eb17a0",
+  "manifest_checksum": "86931eb8613c1ddb3d011cc3a7eb5e0876819d3aece9543a40eb6bbaa615084f"
+}
