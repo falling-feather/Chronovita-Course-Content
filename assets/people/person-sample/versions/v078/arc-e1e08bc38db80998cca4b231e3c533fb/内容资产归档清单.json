@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "辩机",
+  "version": 78,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "17e4143ffe5542bafb143492d9d95d0d5ed0a40d7524984e57736076d65a6514",
+  "sealed_at": "2026-09-14T15:23:51.010059Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "辩机-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2448,
+      "blob_sha256": "0e5b73af0863d436e18c5391092ff442aeb8668c8c84508d06e1b192243d7913",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "17e4143ffe5542bafb143492d9d95d0d5ed0a40d7524984e57736076d65a6514"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2448,
+  "archive_id": "arc-e1e08bc38db80998cca4b231e3c533fb",
+  "archive_checksum": "e1e08bc38db80998cca4b231e3c533fb710e62f8b44ec817897fdb494131d3fb",
+  "archive_path": "people/person-sample/versions/v078/arc-e1e08bc38db80998cca4b231e3c533fb",
+  "manifest_checksum": "f5ec3eb5777b66576d4ec3bc5de08c91d425d46f1a42c62df3eb8ce0e3afa210"
+}
