@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l105-05",
+  "title": "什伍连坐",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "563366f79041a58dd078412e42c1626fa30f8eaeb781e05ca561d5d1edda58c7",
+  "sealed_at": "2026-09-14T14:28:49.558504Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "什伍连坐-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 2024,
+      "blob_sha256": "00ad6ba7a6d264031014fb6b8c8d52fa378d1ef4a3c6a053ea97af5ed33cc933",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "563366f79041a58dd078412e42c1626fa30f8eaeb781e05ca561d5d1edda58c7"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2024,
+  "archive_id": "arc-35c29107cc286deae13baf59d2ffec21",
+  "archive_checksum": "35c29107cc286deae13baf59d2ffec21326bb6e960a1cd35c8623974d308c218",
+  "archive_path": "keywords/keyword-l105-05/versions/v001/arc-35c29107cc286deae13baf59d2ffec21",
+  "manifest_checksum": "7646d5fa59e6763a2da415b7a7f700cc49a8228121155d4189ba7fd73db7a550"
+}
