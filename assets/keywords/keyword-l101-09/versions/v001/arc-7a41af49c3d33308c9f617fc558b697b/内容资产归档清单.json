@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l101-09",
+  "title": "二里头遗址",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "011eb78b0b0d3992d9da2418467caaec3db9ca4bb472bce1971ce4be3f0f7750",
+  "sealed_at": "2026-09-14T14:28:27.309019Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "二里头遗址-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 2183,
+      "blob_sha256": "25578babc3ca8e2b8a9b2732f48c7ced3914bfeb712b58e60803aac62497470a",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "011eb78b0b0d3992d9da2418467caaec3db9ca4bb472bce1971ce4be3f0f7750"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2183,
+  "archive_id": "arc-7a41af49c3d33308c9f617fc558b697b",
+  "archive_checksum": "7a41af49c3d33308c9f617fc558b697bb2cbdac8f6c61a9e16f3fea012ee9ee8",
+  "archive_path": "keywords/keyword-l101-09/versions/v001/arc-7a41af49c3d33308c9f617fc558b697b",
+  "manifest_checksum": "016ad330e78948c5baa9f6ecc91a2c8458c3617436189db7764db17a6355e4d1"
+}
