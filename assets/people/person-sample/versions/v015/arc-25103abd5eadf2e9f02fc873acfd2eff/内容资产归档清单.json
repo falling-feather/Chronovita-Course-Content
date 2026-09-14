@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "吴王阖闾",
+  "version": 15,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "367e89e306d33396ec306d261f08d71de7937f7cefc4ac81140dbb5a7c36d268",
+  "sealed_at": "2026-09-14T09:25:53.264959Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "吴王阖闾-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2524,
+      "blob_sha256": "43737911960c7320d13937541583b5574a147e531f67487927d0cfc00caf9ed6",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "367e89e306d33396ec306d261f08d71de7937f7cefc4ac81140dbb5a7c36d268"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2524,
+  "archive_id": "arc-25103abd5eadf2e9f02fc873acfd2eff",
+  "archive_checksum": "25103abd5eadf2e9f02fc873acfd2eff53c403c928065a3f23b1cfc93e391288",
+  "archive_path": "people/person-sample/versions/v015/arc-25103abd5eadf2e9f02fc873acfd2eff",
+  "manifest_checksum": "13730a2415b24fa03671f872c98ba780d4e08b77065b9516e53ddcea430cce03"
+}
