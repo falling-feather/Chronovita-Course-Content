@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李陵",
+  "version": 44,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "7a873185388c4e3705eb280ce7a6e9b47c47d01872df0911750c8eae63138af1",
+  "sealed_at": "2026-09-14T13:21:41.749821Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李陵-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2440,
+      "blob_sha256": "a3feffafdb70d1afa6342592cda1787a57243559526e5df929866bd2af67c64a",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "7a873185388c4e3705eb280ce7a6e9b47c47d01872df0911750c8eae63138af1"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2440,
+  "archive_id": "arc-87a67676fb706aad005c9c9f236163bd",
+  "archive_checksum": "87a67676fb706aad005c9c9f236163bdd80e21feb7ea84f08f002122dbed12ff",
+  "archive_path": "people/person-sample/versions/v044/arc-87a67676fb706aad005c9c9f236163bd",
+  "manifest_checksum": "57b17b8d9b655c5385e2cc6ce05625d8f545b36b624e27da592025f4584ed56f"
+}
