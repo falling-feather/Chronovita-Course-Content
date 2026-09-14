@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李世民（唐太宗）",
+  "version": 66,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "63acaaf04bf45a789da63aeaaf44809caedb1a18c289e60cf617b3eef088e8fa",
+  "sealed_at": "2026-09-14T14:53:50.831642Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李世民(唐太宗)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2187,
+      "blob_sha256": "8ec64d41a4a9c86bf3ccd8f588caa828e15149921a5aa305813b9c1199bd3da4",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "63acaaf04bf45a789da63aeaaf44809caedb1a18c289e60cf617b3eef088e8fa"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2187,
+  "archive_id": "arc-c2cfca7f5e39453a103c48f74a8190b0",
+  "archive_checksum": "c2cfca7f5e39453a103c48f74a8190b0a14e774a147f1821f00e8388fa07ae45",
+  "archive_path": "people/person-sample/versions/v066/arc-c2cfca7f5e39453a103c48f74a8190b0",
+  "manifest_checksum": "0725c5f10c1361465c167e1b1c8e0e518f013972b1ebb2fd1e40297d9c16b92a"
+}
