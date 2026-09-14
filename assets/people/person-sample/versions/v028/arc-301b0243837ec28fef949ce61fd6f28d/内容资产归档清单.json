@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "嬴政（秦始皇）",
+  "version": 28,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "2c63df2d6643e20cedda0e5fae5526888dd539cb2cdca6f86537f7ab4d4a16af",
+  "sealed_at": "2026-09-14T10:33:38.778288Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "嬴政(秦始皇)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2640,
+      "blob_sha256": "6d87a0291bb21d2552948aab01720176ae72b078c29aa54cc2121ec8aea0db3b",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "2c63df2d6643e20cedda0e5fae5526888dd539cb2cdca6f86537f7ab4d4a16af"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2640,
+  "archive_id": "arc-301b0243837ec28fef949ce61fd6f28d",
+  "archive_checksum": "301b0243837ec28fef949ce61fd6f28d35372fd391900c947729df55a1f87fb9",
+  "archive_path": "people/person-sample/versions/v028/arc-301b0243837ec28fef949ce61fd6f28d",
+  "manifest_checksum": "a62389f80bf9592eeaba78fcd72f718f6b141e4364f006fc26a20ef13202ebff"
+}
