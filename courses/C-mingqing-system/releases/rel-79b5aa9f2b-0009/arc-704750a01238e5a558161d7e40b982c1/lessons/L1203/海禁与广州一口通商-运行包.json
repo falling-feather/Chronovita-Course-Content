@@ -1,0 +1,296 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1203",
+  "course_id": "C-mingqing-system",
+  "lesson_id": "L1203",
+  "content_version": 4,
+  "status": "sealed",
+  "title": "海禁与广州一口通商",
+  "unit": "海上秩序与对外贸易管理",
+  "era": "明清",
+  "body": [
+    "明朝初年，东南沿海仍有元末割据势力和海上武装活动。朝廷担心私人贸易为敌对力量提供粮食、武器和情报，于是限制民间出海和海外贸易，形成【海禁】政策。官方使团和获准的【朝贡贸易】仍可进行，因此海禁主要是对私人海上活动的管制，并非完全切断对外联系。",
+    "沿海居民长期依靠捕鱼、航运和贸易生活，严格禁令与现实生计发生冲突。部分商人转入走私，并与日本及其他地区人员共同组成海上集团，明代文献常称其为【倭寇】。十六世纪中期的倭寇成员来源复杂，不能简单理解为全部来自日本。海禁、走私和地方官员腐败相互作用，使沿海秩序更加紧张。",
+    "隆庆年间，明朝允许福建月港民间商船前往部分海外地区贸易，后世称为【隆庆开关】。开放仍受执照、航线和税收管理，但合法贸易空间扩大。中国丝绸、瓷器等商品经马尼拉和东南亚流向海外，大量白银也进入中国市场。明代海上政策因此经历限制与调整，并非始终不变。",
+    "清朝初年，为切断沿海居民与郑氏海上政权的联系，朝廷一度实行【迁界令】，强迫部分沿海人口内迁。政策严重影响渔业、农业和贸易。康熙年间清朝统一台湾后，逐步开放海禁，并在广州、漳州、宁波和云台山等地设置海关，其中【粤海关】管理广东对外贸易。",
+    "十八世纪欧洲商船来华增加。公元1757年，弘历（乾隆帝）把西方商人的主要贸易口岸限定在广州，形成【广州一口通商】。外国商人需要通过获得许可的【公行】商人交易，并在规定区域和季节活动。这套制度便于清政府征税和约束外商，也限制了双方直接接触和贸易选择。",
+    "一口通商并不表示清朝所有对外贸易只剩广州。与亚洲邻国的边境贸易、海上贸易和朝贡往来仍在进行，广州限制主要针对西方海商。清政府希望在既有规则中控制贸易，而英国等国要求扩大口岸和外交接触，双方对交往方式的理解差异后来不断加深。",
+    "海关档案、外销瓷、沉船和外国商馆遗址保存了海上贸易的具体证据。学习海禁与广州一口通商，重点是理解国家为何在安全、税收和秩序之间调整海上政策，也要区分海禁、一口通商与完全封闭。限制政策确实压缩民间空间，却没有使中国退出不断扩大的海洋网络。"
+  ],
+  "abstract": "明朝初年，东南沿海仍有元末割据势力和海上武装活动。朝廷担心私人贸易为敌对力量提供粮食、武器和情报，于是限制民间出海和海外贸易，形成【海禁】政策。官方使团和获准的【朝贡贸易】仍可进行，因此海禁主要是对私人海上活动的管制，并非完全切断对外联...",
+  "course_title": "明清制度与封闭",
+  "era_id": "mingqing",
+  "section": "制度",
+  "lesson_no": "1.3",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "梳理明清海上政策限制与开放的变化",
+    "解释海禁的安全目标和社会影响",
+    "准确说明广州一口通商的适用范围",
+    "区分贸易管制与完全封闭"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-2c4334c0",
+      "word": "海禁",
+      "pinyin": "hǎi jìn",
+      "gloss": "明清政府限制民间出海和私人海外贸易的政策",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-db36a5dc",
+      "word": "朝贡贸易",
+      "pinyin": "cháo gòng mào yì",
+      "gloss": "外国或周边政权使团进贡并获准进行贸易的官方交往方式",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-ed21a1de",
+      "word": "倭寇",
+      "pinyin": "wō kòu",
+      "gloss": "明代文献对东南沿海部分海上武装集团的称呼；成员来源复杂",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-df462d8a",
+      "word": "隆庆开关",
+      "pinyin": "lóng qìng kāi guān",
+      "gloss": "明代隆庆年间允许福建月港商船赴部分海外地区贸易的政策调整",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-3d334501",
+      "word": "迁界令",
+      "pinyin": "qiān jiè lìng",
+      "gloss": "清初强迫部分沿海居民内迁的政策；目的在于隔绝郑氏海上政权",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-21ba3390",
+      "word": "粤海关",
+      "pinyin": "yuè hǎi guān",
+      "gloss": "清代设在广东并管理对外海上贸易和税收的海关机构",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-91d137c2",
+      "word": "广州一口通商",
+      "pinyin": "guǎng zhōu yī kǒu tōng shāng",
+      "gloss": "公元1757年后把西方海商主要贸易口岸限定在广州的管理制度",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-1d8d95b9",
+      "word": "公行",
+      "pinyin": "gōng háng",
+      "gloss": "清代广州获准与西方商人交易并承担管理责任的商人组织",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-89ee7fce",
+      "name": "弘历（乾隆帝）",
+      "role": "清朝皇帝",
+      "summary": "在位时期形成针对西方海商的广州一口通商",
+      "persona": "区分贸易管理和完全断绝联系",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-9ab93530",
+      "label": "月港",
+      "region": "今福建漳州海澄一带",
+      "lat": null,
+      "lng": null,
+      "note": "隆庆开关后民间海外贸易港口",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-4d25b887",
+      "label": "广州",
+      "region": "今广东广州",
+      "lat": null,
+      "lng": null,
+      "note": "十八世纪西方海商主要贸易口岸",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-0a856e11",
+      "label": "宁波",
+      "region": "今浙江宁波",
+      "lat": null,
+      "lng": null,
+      "note": "清初开放的海关口岸之一",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-049e0663",
+      "label": "台湾",
+      "region": "今台湾地区",
+      "lat": null,
+      "lng": null,
+      "note": "郑氏政权活动和清初海疆政策相关区域",
+      "kind": "region"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-50016eb8",
+      "statement": "明初海禁主要限制私人出海和海外贸易",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-e21a80cb",
+      "statement": "十六世纪倭寇成员来源复杂；并非全部来自日本",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-148b716b",
+      "statement": "隆庆年间明朝开放福建月港部分民间海外贸易",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-7e5209cc",
+      "statement": "清初迁界令严重影响沿海居民生产和生活",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-ac27b329",
+      "statement": "康熙统一台湾后逐步开放海上贸易并设置海关",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c8d074bc",
+      "statement": "公元1757年清朝把西方海商主要贸易口岸限定在广州",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-909beb65",
+      "statement": "广州一口通商不等于清朝完全断绝所有对外贸易",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-ea091ba3",
+      "title": "《明实录》海禁与倭寇记载",
+      "kind": "other",
+      "publisher": "官方编年史料",
+      "url_or_path": "《明实录》",
+      "citation_note": "记录明代海禁 沿海冲突和政策调整",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-ef349ea0",
+      "title": "粤海关档案",
+      "kind": "other",
+      "publisher": "清代贸易档案",
+      "url_or_path": "清代粤海关档案",
+      "citation_note": "反映广州贸易 税收和外商管理",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-ac353875",
+      "title": "广州十三行与外销品遗存",
+      "kind": "other",
+      "publisher": "城市与贸易材料",
+      "url_or_path": "广州十三行遗址及外销瓷等实物",
+      "citation_note": "展示一口通商下的市场和商品流动",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "明初为什么实行海禁？",
+    "海禁怎样影响沿海社会和倭寇活动？",
+    "隆庆开关与清初开放海禁说明了什么？",
+    "广州一口通商主要限制哪些贸易活动？"
+  ],
+  "level_goals": [
+    "梳理明清海上政策限制与开放的变化",
+    "解释海禁的安全目标和社会影响",
+    "准确说明广州一口通商的适用范围",
+    "区分贸易管制与完全封闭"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "海禁",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "朝贡贸易",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "倭寇",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "隆庆开关",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "迁界令",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "粤海关",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课突出海上政策的阶段变化；明确海禁和一口通商的具体对象；避免使用完全闭关的宽泛判断。",
+  "created_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-09-14T05:44:38.938406Z",
+  "sealed_at": "2026-09-14T05:44:38.938406Z",
+  "sealed_by": "local-admin",
+  "checksum": "e2239b77fbad6895aa4ab11b8244050ab12fcc2e79a1e3ed112ba02e6759c2c6",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1203",
+    "source_version": "4",
+    "source_checksum": "c6c8e2f2fe65988d9b8eb66b0f6b1fe3e60a0417f6df0d7e45ad0bb71fb7c960",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
