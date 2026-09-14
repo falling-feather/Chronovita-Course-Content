@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "阿倍仲麻吕",
+  "version": 79,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "e7b13622916e03a71e031426f7e7b49ab594cbe7a506206bf825a9353572ae0b",
+  "sealed_at": "2026-09-14T15:29:03.925589Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "阿倍仲麻吕-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2301,
+      "blob_sha256": "c6f8731e5b5837d38b4185727d01702a0c95597b6ca06cd37c00f0e9abe22b15",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "e7b13622916e03a71e031426f7e7b49ab594cbe7a506206bf825a9353572ae0b"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2301,
+  "archive_id": "arc-6692a63ffc82c128a68d24a6abff3c85",
+  "archive_checksum": "6692a63ffc82c128a68d24a6abff3c85475dfaeba040486d8f450c9e5deea1f9",
+  "archive_path": "people/person-sample/versions/v079/arc-6692a63ffc82c128a68d24a6abff3c85",
+  "manifest_checksum": "1033b0b0da5efa58cb5445ab0b225b642c22cde7d0706c4c7530891fb38f2245"
+}
