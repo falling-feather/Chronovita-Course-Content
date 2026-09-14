@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "刘邦",
+  "role": "汉朝开国皇帝，楚汉战争中汉军的主要领导者",
+  "era": "秦朝末期至西汉初期",
+  "summary": "刘邦出身于沛县普通家庭，早年曾任地方小吏。秦末社会动荡时，他在沛县起兵，逐渐成为反秦力量的重要领导者。秦朝灭亡后，刘邦与项羽之间展开长期的楚汉相争。刘邦善于吸纳和任用不同类型的人才，能够听取萧何、张良、韩信等人的建议，并通过政治争取和军事斗争不断扩大自己的力量。经过数年战争，刘邦在垓下击败项羽，于公元前202年建立汉朝，史称汉高祖。建立政权后，刘邦采取相对宽缓的统治措施，逐步恢复社会秩序和经济生产。他建立的西汉政权延续了秦以来的统一格局，同时在政治制度和治理方式上进行了调整，为汉朝长期发展奠定基础。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "楚汉相争；垓下之战；汉朝"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《高祖本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷八，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《汉高祖本纪》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "高帝纪相关内容",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "刘邦建立汉朝及早期统治相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解刘邦从地方起兵者到汉朝开国皇帝的身份变化，以及他在楚汉相争中的用人和政治整合能力，突出其善于吸纳人才、整合力量和争取民心的特点。",
+  "status": "sealed",
+  "version": 33,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:46:39.599265Z",
+  "sealed_at": "2026-09-14T10:46:39.599265Z",
+  "sealed_by": "local-admin",
+  "checksum": "4e0ab26f6d0fabc3a5cdc70318e6d7b210cd6b1ecb7b3726a8406858d60019ea"
+}

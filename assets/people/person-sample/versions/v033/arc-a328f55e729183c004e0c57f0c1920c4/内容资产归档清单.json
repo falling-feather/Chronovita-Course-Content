@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘邦",
+  "version": 33,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "4e0ab26f6d0fabc3a5cdc70318e6d7b210cd6b1ecb7b3726a8406858d60019ea",
+  "sealed_at": "2026-09-14T10:46:39.599265Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘邦-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2481,
+      "blob_sha256": "002384a624a7ae2746a2d9fc47a96aa77f790442a8ebc3dc1b347be70c1386a6",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "4e0ab26f6d0fabc3a5cdc70318e6d7b210cd6b1ecb7b3726a8406858d60019ea"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2481,
+  "archive_id": "arc-a328f55e729183c004e0c57f0c1920c4",
+  "archive_checksum": "a328f55e729183c004e0c57f0c1920c44b2733a0562271c61e43a431f74422a3",
+  "archive_path": "people/person-sample/versions/v033/arc-a328f55e729183c004e0c57f0c1920c4",
+  "manifest_checksum": "37df056ceee88fb67e300c886f92f3ac4372ae54a97f63605af65d1d6146c12c"
+}
