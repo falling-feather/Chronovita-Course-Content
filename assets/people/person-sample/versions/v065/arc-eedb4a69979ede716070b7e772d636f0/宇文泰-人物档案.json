@@ -1,0 +1,40 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "宇文泰",
+  "role": "西魏和北周时期的军事家、政治家",
+  "era": "南北朝后期",
+  "summary": "宇文泰是南北朝后期的重要政治家和军事家，早年参与关中地区的军事斗争，后来成为西魏政权的实际掌权者。他通过整合关陇地区的军事和政治力量，逐步巩固西魏统治，并与东魏长期对抗。宇文泰重视军事组织和政治制度建设，推动府兵制等军事制度的发展，使军队组织与地方社会联系更加紧密。他还重视吸收汉族士人和关陇贵族的力量，形成具有鲜明特点的政治军事集团。宇文泰在位期间虽然没有建立统一王朝，但其军事和制度建设为后来北周灭北齐以及隋朝统一全国创造了条件。他是隋唐政治格局形成之前的重要历史人物。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《文帝纪》",
+      "source": "《周书》，中华书局点校本",
+      "url_or_path": "卷一，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《宇文泰传》",
+      "source": "《北史》，中华书局点校本",
+      "url_or_path": "相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解宇文泰对西魏政治和军事组织的整合作用。注意府兵制并非由宇文泰一人一次性完整创立，而是在西魏、北周及隋唐时期逐步发展变化的制度，应避免简单归因。",
+  "status": "sealed",
+  "version": 65,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T14:50:57.245564Z",
+  "sealed_at": "2026-09-14T14:50:57.245564Z",
+  "sealed_by": "local-admin",
+  "checksum": "9a6993ea3de4e11a88e677bdc92e6deb421115fa46e029fe95c912de4721b3dd"
+}

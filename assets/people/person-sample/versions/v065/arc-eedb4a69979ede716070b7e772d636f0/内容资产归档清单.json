@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "宇文泰",
+  "version": 65,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "9a6993ea3de4e11a88e677bdc92e6deb421115fa46e029fe95c912de4721b3dd",
+  "sealed_at": "2026-09-14T14:50:57.245564Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "宇文泰-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2120,
+      "blob_sha256": "a525719ecb3d075075b1ee798b2a683865221f2f48bd943b3b51ee71ed84a026",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "9a6993ea3de4e11a88e677bdc92e6deb421115fa46e029fe95c912de4721b3dd"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2120,
+  "archive_id": "arc-eedb4a69979ede716070b7e772d636f0",
+  "archive_checksum": "eedb4a69979ede716070b7e772d636f049f7bb61e26aad23e8935837640f14ba",
+  "archive_path": "people/person-sample/versions/v065/arc-eedb4a69979ede716070b7e772d636f0",
+  "manifest_checksum": "4ef5e9661567c9458bac1ddff214e33fbbea53e55347fcfc5b6d50189c52fa6d"
+}
