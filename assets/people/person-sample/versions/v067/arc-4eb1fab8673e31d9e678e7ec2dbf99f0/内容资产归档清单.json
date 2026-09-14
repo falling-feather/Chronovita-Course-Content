@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "魏征",
+  "version": 67,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "ba4a020ba62fd01ee7de28a710339fb1995c9b3a98dfde97b2b5f91601aa0df0",
+  "sealed_at": "2026-09-14T14:55:59.669376Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "魏征-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2160,
+      "blob_sha256": "b771436dd85a903ed705eee1cd1c1152057530c485b9523a0fba95128cf93fdf",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "ba4a020ba62fd01ee7de28a710339fb1995c9b3a98dfde97b2b5f91601aa0df0"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2160,
+  "archive_id": "arc-4eb1fab8673e31d9e678e7ec2dbf99f0",
+  "archive_checksum": "4eb1fab8673e31d9e678e7ec2dbf99f016c4e569cb3fb140a3c65a2b58746269",
+  "archive_path": "people/person-sample/versions/v067/arc-4eb1fab8673e31d9e678e7ec2dbf99f0",
+  "manifest_checksum": "3466154e789740efff5a951751f4c6f3d8f6b913e569b9e6fb77870b7fe8d0f2"
+}
