@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "越王勾践",
+  "version": 19,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d7b2d16c8482558beb9475eb8a787f082d4cc125ce510250b5e39eed6e671ab1",
+  "sealed_at": "2026-09-14T09:43:35.162295Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "越王勾践-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2641,
+      "blob_sha256": "d883ed254b07a354b98003fb270c25ff1cf1ba11d0954eb172f534d312ecd087",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d7b2d16c8482558beb9475eb8a787f082d4cc125ce510250b5e39eed6e671ab1"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2641,
+  "archive_id": "arc-61eba4e43518babe34c2c40567c3fb1f",
+  "archive_checksum": "61eba4e43518babe34c2c40567c3fb1f8edce90975b7a0136bc11d2361e3f736",
+  "archive_path": "people/person-sample/versions/v019/arc-61eba4e43518babe34c2c40567c3fb1f",
+  "manifest_checksum": "f4010129b111c27166f142bf3ac00d70ae4e9d72958af0c9a4bbef952089108e"
+}
