@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "班固",
+  "role": "东汉史学家、文学家",
+  "era": "东汉时期",
+  "summary": "班固字孟坚，出身于学术和史学家庭，其父班彪曾整理西汉历史资料。班固继承父亲的著述事业，开始编写记载西汉历史的《汉书》。由于曾被人指控私自修史，班固一度受到拘捕，后来得到汉明帝认可，奉诏在兰台整理和撰写国家历史。班固编写的《汉书》记载西汉一代历史，采用纪、表、志、传的体例，是中国古代重要的断代史著作。与《史记》相比，《汉书》集中记述西汉历史，体例更加规范，对后世正史编纂产生了重要影响。班固还参与白虎观会议相关文献的整理，并擅长辞赋创作。晚年因受到窦宪事件牵连而被捕，最终死于狱中。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "本纪、列传"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《班固传》",
+      "source": "《后汉书》，中华书局点校本",
+      "url_or_path": "卷四十上，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《汉书》",
+      "source": "中华书局点校本",
+      "url_or_path": "本纪、表、志、列传相关内容",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《白虎通义》",
+      "source": "中华书局整理本",
+      "url_or_path": "班固整理白虎观会议成果的相关说明",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解班固与《汉书》的关系，以及《汉书》作为断代史的特点。注意《汉书》并非班固一人从头到尾独立完成，班彪、班昭、马续等人也参与了相关工作；同时要区分“本纪、列传”等史书体例与“纪传体通史”之间的差别。",
+  "status": "sealed",
+  "version": 46,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T13:27:09.045497Z",
+  "sealed_at": "2026-09-14T13:27:09.045497Z",
+  "sealed_by": "local-admin",
+  "checksum": "4c1b682a0d321d990df68203c707adf1707e35347c6dad561ef50fe059e78e02"
+}

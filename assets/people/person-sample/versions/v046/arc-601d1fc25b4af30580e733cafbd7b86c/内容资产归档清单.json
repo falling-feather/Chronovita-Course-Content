@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "班固",
+  "version": 46,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "4c1b682a0d321d990df68203c707adf1707e35347c6dad561ef50fe059e78e02",
+  "sealed_at": "2026-09-14T13:27:09.045497Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "班固-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2448,
+      "blob_sha256": "57597df392af7dc8843d4ffa16de5f56e6baea95c31d29d163cbce3dd001da1e",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "4c1b682a0d321d990df68203c707adf1707e35347c6dad561ef50fe059e78e02"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2448,
+  "archive_id": "arc-601d1fc25b4af30580e733cafbd7b86c",
+  "archive_checksum": "601d1fc25b4af30580e733cafbd7b86cd6c9d22c7daebd3324d025c72995909e",
+  "archive_path": "people/person-sample/versions/v046/arc-601d1fc25b4af30580e733cafbd7b86c",
+  "manifest_checksum": "a2972263a273a7d2ecbc49cac7cdbce02a2474169d0b10fff2e214dcd2546f09"
+}
