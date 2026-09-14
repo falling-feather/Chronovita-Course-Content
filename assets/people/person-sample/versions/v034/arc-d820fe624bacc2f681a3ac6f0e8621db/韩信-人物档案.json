@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "韩信",
+  "role": "秦末汉初著名军事家",
+  "era": "秦朝末期至西汉初期",
+  "summary": "韩信早年生活贫困，曾受到他人轻视，后来投奔刘邦。起初，他没有得到充分重视，在萧何推荐下才被刘邦任命为重要将领。韩信善于分析战争形势，能够根据敌我力量和地形条件制定作战计划。在楚汉相争期间，他先后平定关中以东的部分地区，参与赵地、齐地等地的军事行动，并在垓下之战中发挥重要作用。他的军事指挥体现出灵活用兵、避实击虚和善于调动敌人的特点。韩信为刘邦击败项羽、建立汉朝作出了重要贡献，但在汉朝建立后受到猜忌，先后被改封、削弱权力，最终在长安被吕后与萧何等人设计杀害。韩信的一生反映了功臣与君主之间复杂的政治关系。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "楚汉相争、垓下之战、汉朝"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《淮阴侯列传》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷九十二，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《高祖本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷八，韩信参与楚汉战争相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "韩信军事活动及政治结局相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解韩信的军事才能及其在楚汉战争中的重要作用。注意区分史料记载与后世文学化表达，说明韩信在汉朝建立后的政治处境及其最终结局。",
+  "status": "sealed",
+  "version": 34,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T11:58:17.071947Z",
+  "sealed_at": "2026-09-14T11:58:17.071947Z",
+  "sealed_by": "local-admin",
+  "checksum": "0d833fc832522b67d6cdabcc23cbc10a3170b0b2c5f3bb4dab0f352479b57fdf"
+}

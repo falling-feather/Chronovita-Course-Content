@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "韩信",
+  "version": 34,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "0d833fc832522b67d6cdabcc23cbc10a3170b0b2c5f3bb4dab0f352479b57fdf",
+  "sealed_at": "2026-09-14T11:58:17.071947Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "韩信-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2475,
+      "blob_sha256": "b9289f0d4e6b6fe6bb4f12305076c8fc7ee84d32826f50da01edd4cb04b1430d",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "0d833fc832522b67d6cdabcc23cbc10a3170b0b2c5f3bb4dab0f352479b57fdf"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2475,
+  "archive_id": "arc-d820fe624bacc2f681a3ac6f0e8621db",
+  "archive_checksum": "d820fe624bacc2f681a3ac6f0e8621dbb60920ea5cfee938a0aa76915024d071",
+  "archive_path": "people/person-sample/versions/v034/arc-d820fe624bacc2f681a3ac6f0e8621db",
+  "manifest_checksum": "3a7898a3960e78680e6a46eef6864610d724ee11bbcc632d07b56157c84af486"
+}
