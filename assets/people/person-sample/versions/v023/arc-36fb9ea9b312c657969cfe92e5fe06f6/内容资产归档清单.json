@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "老子",
+  "version": 23,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "6e96404479ce65fb174bb051704a2437074329efa3aa8a57bc588e8ec2566222",
+  "sealed_at": "2026-09-14T10:04:13.943187Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "老子-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2539,
+      "blob_sha256": "ef422ad3c1001819c2e5a8d5ebbe15183b3bf7688d1353f2dceb152d15dbb0e6",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "6e96404479ce65fb174bb051704a2437074329efa3aa8a57bc588e8ec2566222"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2539,
+  "archive_id": "arc-36fb9ea9b312c657969cfe92e5fe06f6",
+  "archive_checksum": "36fb9ea9b312c657969cfe92e5fe06f66b109de4a6711c97448dd557500aa865",
+  "archive_path": "people/person-sample/versions/v023/arc-36fb9ea9b312c657969cfe92e5fe06f6",
+  "manifest_checksum": "ac09eded0f38657d5dae18c40555024e900d0219d6d6d072b97aaa9ff168cbb0"
+}
