@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "曹操",
+  "version": 51,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d7c019392e47548d1b0a5e0c1f3f7c9f618f64692b2bf203c505e62e68ebad0d",
+  "sealed_at": "2026-09-14T13:48:42.143084Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "曹操-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2229,
+      "blob_sha256": "6d28840fc6c5cab93f6833f623e992e1e89225d1c5b4a56723573094c3d91a1f",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d7c019392e47548d1b0a5e0c1f3f7c9f618f64692b2bf203c505e62e68ebad0d"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2229,
+  "archive_id": "arc-27280e5f922c579448567ab5e0570f23",
+  "archive_checksum": "27280e5f922c579448567ab5e0570f2384e9dfa790cfb04b04576f8766127e05",
+  "archive_path": "people/person-sample/versions/v051/arc-27280e5f922c579448567ab5e0570f23",
+  "manifest_checksum": "440664b80c347681b08a3c7557ec41507e6138c7e56199486886f718291aaf88"
+}
