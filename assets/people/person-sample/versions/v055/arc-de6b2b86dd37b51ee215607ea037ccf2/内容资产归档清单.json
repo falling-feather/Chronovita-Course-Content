@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "嵇康",
+  "version": 55,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d130ea1274242f8f1f6126ca5a505e7811e6b04de5a4d2db2446c5c7d27cf071",
+  "sealed_at": "2026-09-14T13:55:52.029734Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "嵇康-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2247,
+      "blob_sha256": "40c7424b093e8d56b8ca3005a8c08d730de01679fa678c3b9e687c921829ad33",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d130ea1274242f8f1f6126ca5a505e7811e6b04de5a4d2db2446c5c7d27cf071"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2247,
+  "archive_id": "arc-de6b2b86dd37b51ee215607ea037ccf2",
+  "archive_checksum": "de6b2b86dd37b51ee215607ea037ccf2341769095de1d8efb521422464a524bd",
+  "archive_path": "people/person-sample/versions/v055/arc-de6b2b86dd37b51ee215607ea037ccf2",
+  "manifest_checksum": "9c7c1c76337ac8147703918c992e419e5e01a09e456973d2401ddc2ecb2baaa6"
+}
