@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘徽",
+  "version": 50,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "43fc8655d9dab579c03a1ef22908e511c2ff2c65b3d6066d2b3351a6dab9ef38",
+  "sealed_at": "2026-09-14T13:36:06.827844Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘徽-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2663,
+      "blob_sha256": "ee93532cafd847a93f6b0321f934c90c6d1535abe53183dba03c88bd07041193",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "43fc8655d9dab579c03a1ef22908e511c2ff2c65b3d6066d2b3351a6dab9ef38"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2663,
+  "archive_id": "arc-a65a095692efccef1a46e4860f17881d",
+  "archive_checksum": "a65a095692efccef1a46e4860f17881d870c7d381df6e5b920cfbdd284d56e07",
+  "archive_path": "people/person-sample/versions/v050/arc-a65a095692efccef1a46e4860f17881d",
+  "manifest_checksum": "51a900fd7061aeb73db8d10d3155b83a2431c25b6f38c512ef1c5b584edfda4a"
+}
