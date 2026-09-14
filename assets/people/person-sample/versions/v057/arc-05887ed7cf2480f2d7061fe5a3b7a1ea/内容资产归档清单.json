@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "冯太后",
+  "version": 57,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "04da2af573d8b9219fc6b3a0cd1bab0859bcde51fb4f81fecdba2d986a3c204c",
+  "sealed_at": "2026-09-14T14:00:59.382918Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "冯太后-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2259,
+      "blob_sha256": "c303082b671629cb99c2586ff1befb2a71b5ae7b0783996fd32d097aaa7724b9",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "04da2af573d8b9219fc6b3a0cd1bab0859bcde51fb4f81fecdba2d986a3c204c"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2259,
+  "archive_id": "arc-05887ed7cf2480f2d7061fe5a3b7a1ea",
+  "archive_checksum": "05887ed7cf2480f2d7061fe5a3b7a1ea3219d1662daf2d27256ebd0a5f6bd5f4",
+  "archive_path": "people/person-sample/versions/v057/arc-05887ed7cf2480f2d7061fe5a3b7a1ea",
+  "manifest_checksum": "2eb7cad5832881f8a630edfadccf310483c0faf27d3d2c3bf2fb01356ab1ea1e"
+}
