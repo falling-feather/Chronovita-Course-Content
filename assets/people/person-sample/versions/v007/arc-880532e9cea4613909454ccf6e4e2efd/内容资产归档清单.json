@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姬发（周武王）",
+  "version": 7,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "cd8d2361a1fd41e2df6f7a3c6740c7ab8bec3a787f2fc95ca49d0f3ef1a741d8",
+  "sealed_at": "2026-09-14T07:24:48.883093Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姬发(周武王)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2402,
+      "blob_sha256": "6ab308a74e3c38ddff6eafb4d7adcc0fc91a62ec9b7478679cbc0281180f67d0",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "cd8d2361a1fd41e2df6f7a3c6740c7ab8bec3a787f2fc95ca49d0f3ef1a741d8"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2402,
+  "archive_id": "arc-880532e9cea4613909454ccf6e4e2efd",
+  "archive_checksum": "880532e9cea4613909454ccf6e4e2efde8f893012fd8a6048a10ba6bd31bd5fc",
+  "archive_path": "people/person-sample/versions/v007/arc-880532e9cea4613909454ccf6e4e2efd",
+  "manifest_checksum": "65a57589dcc816693bce96d14f62c1bec79814ae169b7fe31221a4e3ce1060a8"
+}
