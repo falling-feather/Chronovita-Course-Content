@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "武则天",
+  "version": 68,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "5e4d73aab0249dd05ef1d8526417292d5774afc797391b4446b1f6a95a2612d7",
+  "sealed_at": "2026-09-14T15:00:49.894986Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "武则天-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2271,
+      "blob_sha256": "82c479dfc462ab887cc4058b6d85a37433d2d4758cb38f556855153553611c44",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "5e4d73aab0249dd05ef1d8526417292d5774afc797391b4446b1f6a95a2612d7"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2271,
+  "archive_id": "arc-4647e54772d9567f6257093693bd91b1",
+  "archive_checksum": "4647e54772d9567f6257093693bd91b14e6c1865353b24cef8d1e41edb42eed2",
+  "archive_path": "people/person-sample/versions/v068/arc-4647e54772d9567f6257093693bd91b1",
+  "manifest_checksum": "a7a2021810fe2b28778e67845e974d3d5354165e33ab5ac85ef758c238ce3086"
+}
