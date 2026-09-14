@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李渊（唐高祖）",
+  "version": 63,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "e1770c1d7d1650c2f930bb42910c31e4d676cf372c701908fc3cc859c17da983",
+  "sealed_at": "2026-09-14T14:45:20.122236Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李渊(唐高祖)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2084,
+      "blob_sha256": "2a16ce2c4f29a5bd494a6fbf6417cdb0f5f96aa8000c00d31fce43c497156513",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "e1770c1d7d1650c2f930bb42910c31e4d676cf372c701908fc3cc859c17da983"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2084,
+  "archive_id": "arc-e233943d6b1c58ad3507b01c1262f5c8",
+  "archive_checksum": "e233943d6b1c58ad3507b01c1262f5c85b57fd71b4382b033ee9b15536b0f91d",
+  "archive_path": "people/person-sample/versions/v063/arc-e233943d6b1c58ad3507b01c1262f5c8",
+  "manifest_checksum": "e76457fd1bc3534f0c23260286f3ff1f71d489c715ef128ad65a90670da1e961"
+}

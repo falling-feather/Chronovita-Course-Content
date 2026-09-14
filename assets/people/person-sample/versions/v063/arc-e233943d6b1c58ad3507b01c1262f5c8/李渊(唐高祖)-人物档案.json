@@ -1,0 +1,40 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "李渊（唐高祖）",
+  "role": "唐朝开国皇帝",
+  "era": "隋朝末年至唐朝初期",
+  "summary": "李渊出身于关陇贵族家庭，隋朝末年曾担任地方和军事职务。隋末社会动荡时，李渊在晋阳起兵，率军攻入长安，并拥立隋朝皇室成员作为名义上的皇帝。618年，李渊在隋朝统治瓦解后称帝，建立唐朝，定都长安。唐朝建立后，李渊继续组织军事力量，逐步消灭各地割据势力，巩固新政权。在政治制度方面，他吸收隋朝制度经验，重新建立中央和地方行政体系，修订法律，推行均田制、租庸调制和府兵制，为唐朝后续发展奠定制度基础。李渊晚年因继承人矛盾和玄武门之变被迫退位，其历史作用主要体现在建立唐朝和奠定初期制度框架方面。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《高祖本纪》",
+      "source": "《旧唐书》，中华书局点校本",
+      "url_or_path": "卷一，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《高祖纪》",
+      "source": "《新唐书》，中华书局点校本",
+      "url_or_path": "卷一，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解李渊在晋阳起兵、建立唐朝和完善初期制度方面的作用。应区分李渊建立唐朝与唐朝最终完成统一之间的不同过程。",
+  "status": "sealed",
+  "version": 63,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T14:45:20.122236Z",
+  "sealed_at": "2026-09-14T14:45:20.122236Z",
+  "sealed_by": "local-admin",
+  "checksum": "e1770c1d7d1650c2f930bb42910c31e4d676cf372c701908fc3cc859c17da983"
+}
