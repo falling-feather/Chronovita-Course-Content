@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "王翦",
+  "role": "战国末期秦国著名军事家",
+  "era": "战国末期",
+  "summary": "王翦是战国末期秦国的重要将领，也是秦统一六国过程中最有影响力的军事统帅之一。他长期为秦国作战，曾参与秦国攻打赵国、燕国和楚国等重要战争。秦始皇准备进攻楚国时，年轻将领李信认为二十万军队足以取胜，而王翦判断楚国地域广阔、兵力较强，提出需要六十万军队。李信出兵失败后，秦始皇重新起用王翦。王翦率领大军攻楚，采取坚守不战、休整军队、等待时机的策略，最终击败楚军，攻占楚国大片土地。王翦的军事行动为秦国完成统一发挥了关键作用，也体现了谨慎判断敌情、重视军队实力和后勤保障的军事思想。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "统一战争、灭国战争、秦国军队"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《白起王翦列传》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷七十三，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《秦始皇本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷六，秦灭六国相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "秦灭六国战争相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解王翦在秦统一战争中的军事地位，以及他在攻楚问题上表现出的谨慎判断，可突出其重视敌情、兵力、后勤和作战时机的军事特点。",
+  "status": "sealed",
+  "version": 29,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:36:07.778745Z",
+  "sealed_at": "2026-09-14T10:36:07.778745Z",
+  "sealed_by": "local-admin",
+  "checksum": "67895f9a15a02669209ca1fb4437fc5da1589abcd514bdc187c002971cb5cb6a"
+}

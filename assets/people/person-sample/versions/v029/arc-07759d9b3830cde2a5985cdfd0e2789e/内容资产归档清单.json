@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "王翦",
+  "version": 29,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "67895f9a15a02669209ca1fb4437fc5da1589abcd514bdc187c002971cb5cb6a",
+  "sealed_at": "2026-09-14T10:36:07.778745Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "王翦-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2391,
+      "blob_sha256": "3957aac13896cb7a08eea85ea1379efd220a8fa9d1e9dc72d3a677fcfeedf5f9",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "67895f9a15a02669209ca1fb4437fc5da1589abcd514bdc187c002971cb5cb6a"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2391,
+  "archive_id": "arc-07759d9b3830cde2a5985cdfd0e2789e",
+  "archive_checksum": "07759d9b3830cde2a5985cdfd0e2789e30fb9191aad62cc4fbf91595634a11fd",
+  "archive_path": "people/person-sample/versions/v029/arc-07759d9b3830cde2a5985cdfd0e2789e",
+  "manifest_checksum": "a8a91ba14ebd7eaf26c28ab8bd839b46921b640cfc9fcf9734a881ba865ef017"
+}
