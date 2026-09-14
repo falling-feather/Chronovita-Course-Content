@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "刘彻（汉武帝）",
+  "version": 37,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "2ea631ee2d52fa8730dbe69e56affc125fd3fccb029a6625419539ee0347bc70",
+  "sealed_at": "2026-09-14T12:29:32.780311Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "刘彻(汉武帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2409,
+      "blob_sha256": "7d648f29bdbc93db8b1b677016772ea5a6ada0d4941fadc0db1d661add85168a",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "2ea631ee2d52fa8730dbe69e56affc125fd3fccb029a6625419539ee0347bc70"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2409,
+  "archive_id": "arc-9f6c986fbfbe457ded8aae045ff5bd19",
+  "archive_checksum": "9f6c986fbfbe457ded8aae045ff5bd19b77c10c0b27cfba5614899981dbcf2ef",
+  "archive_path": "people/person-sample/versions/v037/arc-9f6c986fbfbe457ded8aae045ff5bd19",
+  "manifest_checksum": "54d06186b1bb8aa32eaffdc9685749d3fd75d179487bda45a604c0da20e8febe"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "刘彻（汉武帝）",
+  "role": "西汉第七位皇帝",
+  "era": "西汉中期",
+  "summary": "刘彻是汉景帝的儿子，继承皇位后成为汉武帝。他在位时间较长，西汉国力在其统治时期达到较高水平。政治上，汉武帝加强皇帝权力，削弱诸侯王对地方的影响，重视选拔和任用人才。在经济方面，他推行盐铁官营、统一铸造五铢钱等措施，加强国家对重要经济领域的控制。思想文化方面，他重视儒学，使儒学在国家政治和教育体系中的地位明显提高。对外关系方面，汉武帝多次派兵抵御匈奴，并派张骞出使西域，扩大了汉朝与西域各地的联系。汉武帝的统治加强了西汉的中央集权，扩大了国家影响力，但长期战争和大规模财政支出也给社会带来一定负担。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "推恩令、五铢钱、盐铁官营"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《武帝纪》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "卷六，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《孝武本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷十二，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《盐铁论》",
+      "source": "中华书局整理本",
+      "url_or_path": "盐铁官营及汉代经济政策相关讨论",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解汉武帝加强中央集权的主要措施，包括推恩令、五铢钱和盐铁官营。注意“推恩令”由主父偃提出、经汉武帝采纳推行，应区分政策的提出者与最终决策者。",
+  "status": "sealed",
+  "version": 37,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T12:29:32.780311Z",
+  "sealed_at": "2026-09-14T12:29:32.780311Z",
+  "sealed_by": "local-admin",
+  "checksum": "2ea631ee2d52fa8730dbe69e56affc125fd3fccb029a6625419539ee0347bc70"
+}
