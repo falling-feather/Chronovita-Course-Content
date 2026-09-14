@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l105-04",
+  "title": "军功爵制",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "205b09802c3281d2d47eeb27f0f6bc90ebdac62ea67a63e979dd9980e32ae093",
+  "sealed_at": "2026-09-14T14:29:13.971278Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "军功爵制-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1983,
+      "blob_sha256": "89ad0ae355f0a7e68f201d7fdd506e4cf5e0c1b193b6c8b88e041b21dd56009f",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "205b09802c3281d2d47eeb27f0f6bc90ebdac62ea67a63e979dd9980e32ae093"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1983,
+  "archive_id": "arc-eeb303e563fcdac93689f2516db93b2a",
+  "archive_checksum": "eeb303e563fcdac93689f2516db93b2a4be2038cac6e8b927bd06ec3ab97a338",
+  "archive_path": "keywords/keyword-l105-04/versions/v001/arc-eeb303e563fcdac93689f2516db93b2a",
+  "manifest_checksum": "68f71924951000a062057c07de340d45fee6f9b4984987af0bbc869e35f6dac9"
+}
