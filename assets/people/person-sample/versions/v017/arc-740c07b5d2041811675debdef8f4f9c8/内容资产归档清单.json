@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "熊侣（楚庄王）",
+  "version": 17,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "f1db8629e35c1ace40f4cd77ba23d1fec8243ede27036b0359abcf40389bbbcd",
+  "sealed_at": "2026-09-14T09:39:59.256139Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "熊侣(楚庄王)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2551,
+      "blob_sha256": "79b7a5e53f64014b1b026e79137e1d1467508afadb81480e9c927627cd936570",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "f1db8629e35c1ace40f4cd77ba23d1fec8243ede27036b0359abcf40389bbbcd"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2551,
+  "archive_id": "arc-740c07b5d2041811675debdef8f4f9c8",
+  "archive_checksum": "740c07b5d2041811675debdef8f4f9c80b72a736f4cc9904bf6a4c95bf35ad75",
+  "archive_path": "people/person-sample/versions/v017/arc-740c07b5d2041811675debdef8f4f9c8",
+  "manifest_checksum": "7094cd6beee8695b6f76bcc2fe23de84e11c45f4b696d81cc48607bd40758e56"
+}
