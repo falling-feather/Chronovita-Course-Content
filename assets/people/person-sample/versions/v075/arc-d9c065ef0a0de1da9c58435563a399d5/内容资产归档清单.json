@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "杜甫",
+  "version": 75,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "f4e110117bb60afc255d01f4d56a0c301f92abef8d3414650eec066e37226458",
+  "sealed_at": "2026-09-14T15:16:05.715754Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "杜甫-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2202,
+      "blob_sha256": "8d52241162fda4ee53bac5cad4188ede3e00301d3f9858c239fb05c4fceb0247",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "f4e110117bb60afc255d01f4d56a0c301f92abef8d3414650eec066e37226458"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2202,
+  "archive_id": "arc-d9c065ef0a0de1da9c58435563a399d5",
+  "archive_checksum": "d9c065ef0a0de1da9c58435563a399d53556e63fd6e4bfcdb26e8d6820e0f8d9",
+  "archive_path": "people/person-sample/versions/v075/arc-d9c065ef0a0de1da9c58435563a399d5",
+  "manifest_checksum": "aebb04556d4699985dcdcc306aa7dea31795c5c68bb26fc210a8b8580fadc02c"
+}
