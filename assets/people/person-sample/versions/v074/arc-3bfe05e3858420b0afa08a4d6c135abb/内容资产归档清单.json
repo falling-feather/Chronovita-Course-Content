@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李白",
+  "version": 74,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "a406fec426c10b15ece0f4429b7c3d3771f74ff3bba0d06cdb48260ddf4467d2",
+  "sealed_at": "2026-09-14T15:13:23.623245Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李白-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2220,
+      "blob_sha256": "61e0da4c83bbcee904e4257173e44aed86a147450de8dba511bad84f74b9c262",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "a406fec426c10b15ece0f4429b7c3d3771f74ff3bba0d06cdb48260ddf4467d2"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2220,
+  "archive_id": "arc-3bfe05e3858420b0afa08a4d6c135abb",
+  "archive_checksum": "3bfe05e3858420b0afa08a4d6c135abbf2affbb17b4eb70204782da784b40d31",
+  "archive_path": "people/person-sample/versions/v074/arc-3bfe05e3858420b0afa08a4d6c135abb",
+  "manifest_checksum": "5f2322eb4c75411141df2ccdc3c7b09265908dc8fecccc3ce8534f09a66b4720"
+}
