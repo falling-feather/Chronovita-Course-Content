@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "李隆基（唐玄宗）",
+  "version": 69,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "9e59ebfd62441853cd970d2c3fd3e9dcb3c6a65c288dc4081cf8f6cbe8546dcc",
+  "sealed_at": "2026-09-14T15:03:42.709983Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "李隆基(唐玄宗)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2340,
+      "blob_sha256": "a65f892723e5cda4e859c024e0d9a5a89e13481bfcc725d4546dee88eed76881",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "9e59ebfd62441853cd970d2c3fd3e9dcb3c6a65c288dc4081cf8f6cbe8546dcc"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2340,
+  "archive_id": "arc-dd5c41d9e9000e2d36cf6ca887ce422c",
+  "archive_checksum": "dd5c41d9e9000e2d36cf6ca887ce422ccaba63b0dd3c1241a028e8d9514444e4",
+  "archive_path": "people/person-sample/versions/v069/arc-dd5c41d9e9000e2d36cf6ca887ce422c",
+  "manifest_checksum": "bcb736b843288ff8bf8cc25f796869b30f303aada619aadff2685423fa416493"
+}
