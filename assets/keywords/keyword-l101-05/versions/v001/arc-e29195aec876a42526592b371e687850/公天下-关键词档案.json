@@ -1,0 +1,57 @@
+{
+  "schema_version": "keyword-profile/v1",
+  "asset_id": "keyword-l101-05",
+  "word": "公天下",
+  "pinyin": "gōng tiān xià",
+  "gloss": "后世对天下权力不专属于某一家族这一政治理想的概括",
+  "era": "先秦",
+  "category": "思想",
+  "examples": [
+    "本课结合“公天下”说明后世对天下权力不专属于某一家族这一政治理想的概括。",
+    "讲解“公天下”时，应联系本课叙事理解它在先秦历史中的作用。"
+  ],
+  "related_people": [
+    "启"
+  ],
+  "related_lessons": [
+    "L101"
+  ],
+  "source_refs": [
+    {
+      "title": "夏商周断代工程与夏代年代框架",
+      "source": "人民政协网",
+      "url_or_path": "https://www.cppcc.gov.cn/zxww/2022/11/10/ARTI1668053116436252.shtml",
+      "citation_note": "夏代约公元前2070年至公元前1600年的基本年代框架",
+      "reliability": "pending"
+    },
+    {
+      "title": "有关夏的三个误解",
+      "source": "全国哲学社会科学工作办公室",
+      "url_or_path": "https://www.nopss.gov.cn/n1/2023/0726/c448861-40043828.html",
+      "citation_note": "说明考古学文化不能简单等同于族属、朝代和国家",
+      "reliability": "pending"
+    },
+    {
+      "title": "甄器尚象：夏代文明之光",
+      "source": "全国哲学社会科学工作办公室",
+      "url_or_path": "https://www.nopss.gov.cn/n1/2023/0726/c448861-40043837.html",
+      "citation_note": "介绍二里头文化的遗址、遗物和社会组织特征",
+      "reliability": "pending"
+    },
+    {
+      "title": "寻夏记：一个广域王权国家的诞生",
+      "source": "河南省文物局",
+      "url_or_path": "https://wwj.henan.gov.cn/2022/12-12/2655215.html",
+      "citation_note": "介绍夏代传说、年代和早期国家相关研究",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-09-14T13:36:28.923395Z",
+  "updated_at": "2026-09-14T14:29:06.210089Z",
+  "sealed_at": "2026-09-14T14:29:06.210089Z",
+  "sealed_by": "local-admin",
+  "checksum": "e326eb780bb7491eff95a69a8a513c3512aa55b2d7a83b8691e3f9ee3083459c"
+}

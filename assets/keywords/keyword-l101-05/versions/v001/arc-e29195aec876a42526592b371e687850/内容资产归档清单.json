@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l101-05",
+  "title": "公天下",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "e326eb780bb7491eff95a69a8a513c3512aa55b2d7a83b8691e3f9ee3083459c",
+  "sealed_at": "2026-09-14T14:29:06.210089Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "公天下-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 2179,
+      "blob_sha256": "961e8748b81e72d2832bc2366e5872bfd6a331b7138078d599d77a1ca5a92d71",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "e326eb780bb7491eff95a69a8a513c3512aa55b2d7a83b8691e3f9ee3083459c"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2179,
+  "archive_id": "arc-e29195aec876a42526592b371e687850",
+  "archive_checksum": "e29195aec876a42526592b371e687850182e319b5fd9f1f30e2d10ff06535377",
+  "archive_path": "keywords/keyword-l101-05/versions/v001/arc-e29195aec876a42526592b371e687850",
+  "manifest_checksum": "68b08a54e20f122bfddecd03af8e4af79a859cf99c90874981c3c60d32de804f"
+}
