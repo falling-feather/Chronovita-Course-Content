@@ -1,0 +1,42 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "范雎",
+  "role": "战国时期政治家",
+  "era": "战国时期",
+  "summary": "范雎原为魏国人，早年在魏国受到排挤和迫害，后来辗转进入秦国，并得到秦昭襄王重用。他针对秦国长期受到外戚和贵族势力影响的问题，主张加强秦王权力、削弱贵族和外戚势力，帮助秦昭襄王巩固统治。在对外政策方面，范雎提出“远交近攻”的策略，主张秦国先与距离较远的国家保持联系，再集中力量进攻邻近的韩、魏等国，以便逐步扩大领土。范雎的政治主张加强了秦国君主的权力，他提出的外交和军事战略也为秦国后来逐步兼并六国提供了重要思路。范雎因此成为秦国由强大走向统一过程中的重要政治人物。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "远交近攻"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《范雎蔡泽列传》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷七十九，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《战国策》相关篇章",
+      "source": "《战国策》，中华书局整理本",
+      "url_or_path": "范雎入秦及其政治活动的相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解“远交近攻”的基本内容及其对秦国扩张的影响。注意区分范雎提出的外交战略与秦国后来具体发动的战争。",
+  "status": "sealed",
+  "version": 27,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:31:19.921038Z",
+  "sealed_at": "2026-09-14T10:31:19.921038Z",
+  "sealed_by": "local-admin",
+  "checksum": "7ecd0f96a6a0334bcfc2dd70901490c7fa49f7552ce447766febd402052c3468"
+}

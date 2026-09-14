@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "范雎",
+  "version": 27,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "7ecd0f96a6a0334bcfc2dd70901490c7fa49f7552ce447766febd402052c3468",
+  "sealed_at": "2026-09-14T10:31:19.921038Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "范雎-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2088,
+      "blob_sha256": "2371af9c622bd5b38bc59141007f9bfb5d96455337fc5016e52b14813d5471c8",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "7ecd0f96a6a0334bcfc2dd70901490c7fa49f7552ce447766febd402052c3468"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2088,
+  "archive_id": "arc-968eedf3ac4c7dc39d2ae96221178e03",
+  "archive_checksum": "968eedf3ac4c7dc39d2ae96221178e03e47f03036a66acc9be76f80fceb9412d",
+  "archive_path": "people/person-sample/versions/v027/arc-968eedf3ac4c7dc39d2ae96221178e03",
+  "manifest_checksum": "0733cc21d66f3f9b14ef31a9e1e7139c6f971e949e077b2eb5c4fdcd4809c424"
+}
