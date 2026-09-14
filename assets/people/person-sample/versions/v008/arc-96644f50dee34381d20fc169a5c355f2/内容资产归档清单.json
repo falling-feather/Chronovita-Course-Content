@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姬旦（周公）",
+  "version": 8,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "2ec6cb7cfef283652fa0ea5502bb076a753f979ea3ba5166312595054ec8c870",
+  "sealed_at": "2026-09-14T07:28:32.029794Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姬旦(周公)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2645,
+      "blob_sha256": "862a9423c0e984b947a4298df849c60f49a97f3a0c00ee90fdcf01b4643e0e9d",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "2ec6cb7cfef283652fa0ea5502bb076a753f979ea3ba5166312595054ec8c870"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2645,
+  "archive_id": "arc-96644f50dee34381d20fc169a5c355f2",
+  "archive_checksum": "96644f50dee34381d20fc169a5c355f21ac2facad2207b6ffff4b67213731f61",
+  "archive_path": "people/person-sample/versions/v008/arc-96644f50dee34381d20fc169a5c355f2",
+  "manifest_checksum": "a9d09e8f7d65c9f4502e61b233447c00f140f27d49f32c6b021c09641a785610"
+}
