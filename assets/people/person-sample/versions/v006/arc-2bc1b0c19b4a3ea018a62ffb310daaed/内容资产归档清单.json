@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "帝辛",
+  "version": 6,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "b9b121a9d3904e48edd5678fc4b5b76c3cafe649fd58082c581d9c8414245f84",
+  "sealed_at": "2026-09-14T07:15:37.154473Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "帝辛-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2258,
+      "blob_sha256": "0a34d3d94c1311bf948ea5006e2f6f1838572e935e5be11bad43122c21605ea9",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "b9b121a9d3904e48edd5678fc4b5b76c3cafe649fd58082c581d9c8414245f84"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2258,
+  "archive_id": "arc-2bc1b0c19b4a3ea018a62ffb310daaed",
+  "archive_checksum": "2bc1b0c19b4a3ea018a62ffb310daaed82e29015041addfc722cca7cb436b084",
+  "archive_path": "people/person-sample/versions/v006/arc-2bc1b0c19b4a3ea018a62ffb310daaed",
+  "manifest_checksum": "419c4aa310964d4ae55d16b7d82c09054918398039823c874cfb532785f72726"
+}
