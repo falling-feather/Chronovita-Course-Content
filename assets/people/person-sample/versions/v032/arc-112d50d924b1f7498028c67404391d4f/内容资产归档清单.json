@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "项羽",
+  "version": 32,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "46d1b59723b56e7f536e47a21ca9a545807ab5fa7d3cab72e45b335d2c3c9c10",
+  "sealed_at": "2026-09-14T10:44:19.412973Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "项羽-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2421,
+      "blob_sha256": "d35959b15652c742dd142bca533d4e94ec0dcc82037b7306c27a4e9e1af57892",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "46d1b59723b56e7f536e47a21ca9a545807ab5fa7d3cab72e45b335d2c3c9c10"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2421,
+  "archive_id": "arc-112d50d924b1f7498028c67404391d4f",
+  "archive_checksum": "112d50d924b1f7498028c67404391d4f7c13cfd58c13b0c74ade44cd89ac7cea",
+  "archive_path": "people/person-sample/versions/v032/arc-112d50d924b1f7498028c67404391d4f",
+  "manifest_checksum": "a95250bc9884ec24cac612c807fc7a1b627b1d99838f4182463abf5e8e52ff0a"
+}

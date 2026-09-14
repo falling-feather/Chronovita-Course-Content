@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "项羽",
+  "role": "西楚霸王，楚汉战争时期的重要政治和军事人物",
+  "era": "秦朝末期至楚汉时期",
+  "summary": "陈胜出身于普通农民家庭，曾受秦朝征发，承担戍守任务。秦二世元年，陈胜与吴广等人被征发前往渔阳戍边，途中因大雨误期，按照秦朝法律可能面临严厉惩罚。陈胜认为与其被处死，不如起兵反抗，于是与吴广在大泽乡发动起义。起义军迅速发展，陈胜建立张楚政权，自称“王”，号召各地反抗秦朝统治。陈胜的起义虽然后来失败，但它首先大规模冲击了秦朝统治，鼓舞了各地反秦力量，成为秦末农民战争的重要开端。陈胜的行动反映了秦朝严苛统治下社会矛盾的激化，也说明普通民众在特定历史条件下能够成为推动政治变革的重要力量。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "巨鹿之战；楚汉相争；垓下之战"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《项羽本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷七，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《高祖本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷八，楚汉相争相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》汉纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "楚汉战争相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解项羽在巨鹿之战中的军事作用，以及他在楚汉相争和垓下之战中的经历。注意应将项羽的军事才能与政治能力分别分析。",
+  "status": "sealed",
+  "version": 32,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:44:19.412973Z",
+  "sealed_at": "2026-09-14T10:44:19.412973Z",
+  "sealed_by": "local-admin",
+  "checksum": "46d1b59723b56e7f536e47a21ca9a545807ab5fa7d3cab72e45b335d2c3c9c10"
+}
