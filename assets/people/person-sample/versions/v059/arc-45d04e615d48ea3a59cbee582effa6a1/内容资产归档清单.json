@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "鸠摩罗什",
+  "version": 59,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "d4aa1ddb94230ec9b2159d034c320046d6b3950b6dd292bda914654c349793e2",
+  "sealed_at": "2026-09-14T14:04:14.373952Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "鸠摩罗什-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2238,
+      "blob_sha256": "b88a80416294fc9177cd6a817934ab43cf254b5fda7c061007c3e32be061b27a",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "d4aa1ddb94230ec9b2159d034c320046d6b3950b6dd292bda914654c349793e2"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2238,
+  "archive_id": "arc-45d04e615d48ea3a59cbee582effa6a1",
+  "archive_checksum": "45d04e615d48ea3a59cbee582effa6a1ea92615a0042d2c2a67e89fd093dde2a",
+  "archive_path": "people/person-sample/versions/v059/arc-45d04e615d48ea3a59cbee582effa6a1",
+  "manifest_checksum": "199e2c615941269cd8d3ee6c4e4300b4c5e016a83ee7fecfdf0ebe99a30eb70c"
+}
