@@ -1,0 +1,95 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-96713f1d21-0014",
+  "release_no": 14,
+  "course_id": "C-weijin-fusion",
+  "operation": "publish",
+  "parent_release_id": "rel-96713f1d21-0013",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-14T18:45:45.893949Z",
+  "created_by": "local-admin",
+  "note": "Publish L601 v6.",
+  "items": [
+    {
+      "lesson_id": "L601",
+      "course_id": "C-weijin-fusion",
+      "content_version": 6,
+      "source_path": "sealed/L601-v006.json",
+      "source_checksum": "e45d661110b8f7be7751600fb3e41318023361b77c3ce016c032ec15afeeb381",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L601",
+        "course_id": "C-weijin-fusion",
+        "lesson_id": "L601",
+        "version": 6,
+        "checksum": "63a7679069e7836d2b06d6cd9b3cd38337875bb6a87aab591c1144b03eca0c4e",
+        "path": "runtime/v1/course-packages/C-weijin-fusion/L601/v006-63a7679069e7836d2b06d6cd9b3cd38337875bb6a87aab591c1144b03eca0c4e.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L602",
+      "course_id": "C-weijin-fusion",
+      "content_version": 2,
+      "source_path": "sealed/L602-v002.json",
+      "source_checksum": "f4eef18a4918c67b3a09e0069571968e2bd2215636dc22b4061bca3a5b229a6a",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L602",
+        "course_id": "C-weijin-fusion",
+        "lesson_id": "L602",
+        "version": 2,
+        "checksum": "736c48887aabe0eb12967ca0d5acb508dc1cb50844512644ed6f7206df6634b9",
+        "path": "runtime/v1/course-packages/C-weijin-fusion/L602/v002-736c48887aabe0eb12967ca0d5acb508dc1cb50844512644ed6f7206df6634b9.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L603",
+      "course_id": "C-weijin-fusion",
+      "content_version": 2,
+      "source_path": "sealed/L603-v002.json",
+      "source_checksum": "7419b6d40b48f9fd2d27c9ba34fe1f289e46c4a9b1163ee9a154069305bb91d9",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L603",
+        "course_id": "C-weijin-fusion",
+        "lesson_id": "L603",
+        "version": 2,
+        "checksum": "9740dfe0d0e9340c33eed6380e87483f76539a747699ca088a3b394d56c112c2",
+        "path": "runtime/v1/course-packages/C-weijin-fusion/L603/v002-9740dfe0d0e9340c33eed6380e87483f76539a747699ca088a3b394d56c112c2.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L604",
+      "course_id": "C-weijin-fusion",
+      "content_version": 3,
+      "source_path": "sealed/L604-v003.json",
+      "source_checksum": "efa22af71de5c61ebce882253ca2f79b6dd80977f0ccaa22a2aeccb2afd29eca",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L604",
+        "course_id": "C-weijin-fusion",
+        "lesson_id": "L604",
+        "version": 3,
+        "checksum": "46311257b11d57b2d90ac5bdece58fd7de931b51d9f8413bee22b0bfe78e7fef",
+        "path": "runtime/v1/course-packages/C-weijin-fusion/L604/v003-46311257b11d57b2d90ac5bdece58fd7de931b51d9f8413bee22b0bfe78e7fef.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "72092d44c23d0896ec170ba2bdfa4c1cda105b0e221e055047d8bcf9136cb8f5"
+}
