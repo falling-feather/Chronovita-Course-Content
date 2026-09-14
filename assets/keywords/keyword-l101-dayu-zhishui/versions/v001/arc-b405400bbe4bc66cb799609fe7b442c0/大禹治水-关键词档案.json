@@ -1,0 +1,43 @@
+{
+  "schema_version": "keyword-profile/v1",
+  "asset_id": "keyword-l101-dayu-zhishui",
+  "word": "大禹治水",
+  "pinyin": "dà yǔ zhì shuǐ",
+  "gloss": "传世文献中禹治理洪水的故事；反映早期社会的大规模协作",
+  "era": "先秦",
+  "category": "事件",
+  "examples": [
+    "在传世文献中，大禹治水被讲述为通过疏导水势解决洪水问题的故事。",
+    "学习大禹治水，不仅要了解故事情节，还要理解治水所需要的劳动力组织和社会协作。"
+  ],
+  "related_people": [
+    "禹"
+  ],
+  "related_lessons": [
+    "L101"
+  ],
+  "source_refs": [
+    {
+      "title": "《史记·夏本纪》",
+      "source": "传世文献",
+      "url_or_path": "记载禹治水及夏代早期传说；成书年代晚于所述时代",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "夏商周断代工程与夏代年代框架",
+      "source": "人民政协网",
+      "url_or_path": "https://www.cppcc.gov.cn/zxww/2022/11/10/ARTI1668053116436252.shtml",
+      "citation_note": "用于对应L101的先秦时代背景和夏代年代研究",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-09-14T08:37:41.703618Z",
+  "updated_at": "2026-09-14T09:12:29.969845Z",
+  "sealed_at": "2026-09-14T09:12:29.969845Z",
+  "sealed_by": "local-admin",
+  "checksum": "9995091662f69bb8b4d8b84e2996ab69b39c4bab460d1dadfd6a8206315141ef"
+}

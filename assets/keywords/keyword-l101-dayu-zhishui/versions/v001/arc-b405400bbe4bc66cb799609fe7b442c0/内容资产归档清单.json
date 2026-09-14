@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l101-dayu-zhishui",
+  "title": "大禹治水",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "9995091662f69bb8b4d8b84e2996ab69b39c4bab460d1dadfd6a8206315141ef",
+  "sealed_at": "2026-09-14T09:12:29.969845Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "大禹治水-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1495,
+      "blob_sha256": "b0a3cd0e7fe28c596a24d529d2d9e95f57dd12b7a8a9cd14449456b6c008e7f6",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "9995091662f69bb8b4d8b84e2996ab69b39c4bab460d1dadfd6a8206315141ef"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1495,
+  "archive_id": "arc-b405400bbe4bc66cb799609fe7b442c0",
+  "archive_checksum": "b405400bbe4bc66cb799609fe7b442c05cb80aafeccd85473e3821e7a4e4f6e2",
+  "archive_path": "keywords/keyword-l101-dayu-zhishui/versions/v001/arc-b405400bbe4bc66cb799609fe7b442c0",
+  "manifest_checksum": "fa8f91b0b5b762ff7a9140c974854a0b96231d7e3e87d0d335d7f8b6392142d2"
+}
