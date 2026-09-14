@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姬重耳（晋文公）",
+  "version": 13,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "4f510052ce4f4eca0b8768a75a9b4bbbac587e34754390df40124d95933c59bb",
+  "sealed_at": "2026-09-14T09:21:06.575922Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姬重耳(晋文公)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2342,
+      "blob_sha256": "36cfa85a678016e1f6edcdc5491cf71481833b7f92bb5bdf6653307efdf6fc98",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "4f510052ce4f4eca0b8768a75a9b4bbbac587e34754390df40124d95933c59bb"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2342,
+  "archive_id": "arc-5325f372b40c13dccd98288547e26183",
+  "archive_checksum": "5325f372b40c13dccd98288547e261831829525bdaff7895e2d460d1624f2fd5",
+  "archive_path": "people/person-sample/versions/v013/arc-5325f372b40c13dccd98288547e26183",
+  "manifest_checksum": "db6ea1c16761e234c072bb68d0afeee2c724c401926f040d2c16218320951ac6"
+}
