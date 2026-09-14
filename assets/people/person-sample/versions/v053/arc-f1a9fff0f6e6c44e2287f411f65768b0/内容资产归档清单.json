@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "孙权",
+  "version": 53,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "49506fdbe0c2357134994af6811f9ebd2444537daba31cf1ffba0010db759ea1",
+  "sealed_at": "2026-09-14T13:52:49.440445Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "孙权-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2310,
+      "blob_sha256": "6e6ceadd853f195fb008d14d031cab9c91fcd685cecfdf4b208d084e1b53ec54",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "49506fdbe0c2357134994af6811f9ebd2444537daba31cf1ffba0010db759ea1"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2310,
+  "archive_id": "arc-f1a9fff0f6e6c44e2287f411f65768b0",
+  "archive_checksum": "f1a9fff0f6e6c44e2287f411f65768b0aa75a840bf37a1954a1fab2b31931d0e",
+  "archive_path": "people/person-sample/versions/v053/arc-f1a9fff0f6e6c44e2287f411f65768b0",
+  "manifest_checksum": "4cbc8666d25e9836274fd01a4069d866a306e5ff60b0a7224960443b97de98f2"
+}
