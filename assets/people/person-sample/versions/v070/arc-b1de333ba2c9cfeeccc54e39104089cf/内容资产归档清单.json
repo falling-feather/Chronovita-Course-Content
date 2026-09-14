@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姚崇",
+  "version": 70,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "0118577bcc10eb56ed568fb35d073dd00951b66b48968e2fde094325e6a7d6f9",
+  "sealed_at": "2026-09-14T15:05:09.253191Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姚崇-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2190,
+      "blob_sha256": "1d9b9e68b389260d1d5ac175db4a4810d498e2c090e5f8dabc32fde37dec9178",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "0118577bcc10eb56ed568fb35d073dd00951b66b48968e2fde094325e6a7d6f9"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2190,
+  "archive_id": "arc-b1de333ba2c9cfeeccc54e39104089cf",
+  "archive_checksum": "b1de333ba2c9cfeeccc54e39104089cff9ad600b595df423ccc546085a75b927",
+  "archive_path": "people/person-sample/versions/v070/arc-b1de333ba2c9cfeeccc54e39104089cf",
+  "manifest_checksum": "594a18482fd5827526ff0d54ef142486f6fc5d5cdeb472de18dea9e701040c26"
+}
