@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l104-05",
+  "title": "侯马晋国遗址",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "76cd877ba986dd793e4b6e83f931cbbd5e45758136d9637c6d3a9e13c1902ff7",
+  "sealed_at": "2026-09-14T14:28:58.027295Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "侯马晋国遗址-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1813,
+      "blob_sha256": "43bb0e1fd49bd1e9216e49589330b1dd97b670a6e64c7c862400670367f4150e",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "76cd877ba986dd793e4b6e83f931cbbd5e45758136d9637c6d3a9e13c1902ff7"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1813,
+  "archive_id": "arc-8a13bff96c6c4b7782cbddedcc0b6af6",
+  "archive_checksum": "8a13bff96c6c4b7782cbddedcc0b6af63475f92321e869ebfc87f1d8eb335dc8",
+  "archive_path": "keywords/keyword-l104-05/versions/v001/arc-8a13bff96c6c4b7782cbddedcc0b6af6",
+  "manifest_checksum": "40235c805770227b2968f707a1308836644e45f493f849591c931168417dcda7"
+}
