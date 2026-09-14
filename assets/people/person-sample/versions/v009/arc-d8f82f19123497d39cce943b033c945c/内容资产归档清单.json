@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姬诵（周成王）",
+  "version": 9,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "8ff35ac7b3932d33ed7f70bfc8a8001bbd9a239021ec5044d30788c28027d26b",
+  "sealed_at": "2026-09-14T07:49:37.006822Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姬诵(周成王)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2639,
+      "blob_sha256": "bdf8e0a0f8d9f1b1e57ba465c12a97bc614180a88498d5eeebb85802b9731ed9",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "8ff35ac7b3932d33ed7f70bfc8a8001bbd9a239021ec5044d30788c28027d26b"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2639,
+  "archive_id": "arc-d8f82f19123497d39cce943b033c945c",
+  "archive_checksum": "d8f82f19123497d39cce943b033c945ca9566af324fc2f389fa7caf13e4ff738",
+  "archive_path": "people/person-sample/versions/v009/arc-d8f82f19123497d39cce943b033c945c",
+  "manifest_checksum": "d2e72d9e477faad40053fde7c08bb0bd9228a115a0d81bf6ba7d94fd88af96ff"
+}
