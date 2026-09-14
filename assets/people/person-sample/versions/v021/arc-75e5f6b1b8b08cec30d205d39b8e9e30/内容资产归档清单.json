@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "嬴渠梁（秦孝公）",
+  "version": 21,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "52a67f2f641c95315c23e82ba405455c0ed6b16c690ae66e5cb76a834130a17e",
+  "sealed_at": "2026-09-14T09:49:15.396514Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "嬴渠梁(秦孝公)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2343,
+      "blob_sha256": "8b80c3c960c3d3dd480784e24e5349136ac67f929f8b2b6a10eeb2073c23ade8",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "52a67f2f641c95315c23e82ba405455c0ed6b16c690ae66e5cb76a834130a17e"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2343,
+  "archive_id": "arc-75e5f6b1b8b08cec30d205d39b8e9e30",
+  "archive_checksum": "75e5f6b1b8b08cec30d205d39b8e9e306e2517b710743407c008dc7ea283a8db",
+  "archive_path": "people/person-sample/versions/v021/arc-75e5f6b1b8b08cec30d205d39b8e9e30",
+  "manifest_checksum": "02f4ab28ed28442417ca5159cde935d46147732fa0444a7c2c6a52b8b84aef1e"
+}
