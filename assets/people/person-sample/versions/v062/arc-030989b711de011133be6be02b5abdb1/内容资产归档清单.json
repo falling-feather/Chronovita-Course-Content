@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "杨广（隋炀帝）",
+  "version": 62,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "626b9b67b640b27d7c9409f37f7ffbd13ac8ce28eb967af2f8137e155b9f4469",
+  "sealed_at": "2026-09-14T14:35:41.066722Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "杨广(隋炀帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2229,
+      "blob_sha256": "05a26390cea4759c31f2d82839d5c2d35eb72b259bfc734b61a0a6b73427192f",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "626b9b67b640b27d7c9409f37f7ffbd13ac8ce28eb967af2f8137e155b9f4469"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2229,
+  "archive_id": "arc-030989b711de011133be6be02b5abdb1",
+  "archive_checksum": "030989b711de011133be6be02b5abdb1954ff947970c839e12c77cfe1df4a3a5",
+  "archive_path": "people/person-sample/versions/v062/arc-030989b711de011133be6be02b5abdb1",
+  "manifest_checksum": "c851b2e43e2d21f26507cf2205792a48681ac9b29352779bdad23242b4e1f2ac"
+}
