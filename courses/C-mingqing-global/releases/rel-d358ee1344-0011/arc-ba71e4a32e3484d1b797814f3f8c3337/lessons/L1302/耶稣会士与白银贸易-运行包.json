@@ -1,0 +1,292 @@
+{
+  "schema_version": "course-package/v1",
+  "package_id": "pkg-L1302",
+  "course_id": "C-mingqing-global",
+  "lesson_id": "L1302",
+  "content_version": 2,
+  "status": "sealed",
+  "title": "耶稣会士与白银贸易",
+  "unit": "晚明知识交流与全球商品流动",
+  "era": "明清",
+  "body": [
+    "十六世纪以后，欧洲船只不断进入亚洲海域，葡萄牙人在澳门取得长期居留和贸易条件。来自欧洲的【耶稣会士】希望在中国传播天主教，他们很快发现，只有学习汉语和中国礼仪，并与士大夫建立交流，才能进入明朝社会。宗教传播由此同地图、数学、天文和器物知识联系起来。",
+    "意大利人利玛窦于公元1583年进入广东肇庆，开始学习汉语和儒家经典。他起初穿僧服，后来改用儒者服饰，以读书人的身份与地方官员交往。公元1601年，利玛窦获准进入北京，向万历帝进献自鸣钟、地图等物品，并在城中居住。",
+    "利玛窦制作和传播【《坤舆万国全图》】，把中国置于一幅更广阔的世界地图中。明代学者徐光启与他合作翻译《几何原本》前六卷，用汉语解释定义、公理和证明。这部【《几何原本》】不只是传入若干计算方法，也展示从前提逐步推导结论的知识结构。",
+    "知识交流发生时，全球商品也在流动。中国丝绸、瓷器和其他商品受到海外市场欢迎，欧洲商人需要用白银支付。来自日本和美洲的白银经海路进入中国，其中一部分由西班牙控制的【马尼拉大帆船】跨越太平洋，把美洲白银运到菲律宾，再换取中国商品。",
+    "明朝国内的赋税改革进一步增加白银需求。十六世纪后期推行的【一条鞭法】，把部分田赋和徭役合并折算为银两征收。百姓和地方官府需要获得白银缴税，使国内市场与海外银源联系更加紧密。这种跨洲流动被称为【白银贸易】，中国成为当时世界白银的重要流入地之一。",
+    "白银流入促进商品交换和税收折算，却也带来风险。不同地区获得白银的能力不一样，银价变化会影响纳税负担；十七世纪国际贸易和国内秩序变化使白银供应出现波动。白银问题加重晚明财政困难，但明朝灭亡还与战争、灾害、政治和社会矛盾等多种因素有关。",
+    "地图、译著、书信、税收档案和沉船货物，让我们看到知识与商品通过不同网络流动。学习耶稣会士与白银贸易，重点是理解中外交流并非单向输入或输出。欧洲传教士带来新的知识，中国商品和士人回应也改变了交流内容，跨太平洋白银则把普通人的赋税生活连接到遥远市场。"
+  ],
+  "abstract": "十六世纪以后，欧洲船只不断进入亚洲海域，葡萄牙人在澳门取得长期居留和贸易条件。来自欧洲的【耶稣会士】希望在中国传播天主教，他们很快发现，只有学习汉语和中国礼仪，并与士大夫建立交流，才能进入明朝社会。宗教传播由此同地图 数学 天文和器物知...",
+  "course_title": "中国与早期全球化",
+  "era_id": "mingqing",
+  "section": "通史",
+  "lesson_no": "2.2",
+  "duration": "10:00",
+  "teaching_objectives": [
+    "说明利玛窦来华和进入北京的过程",
+    "举例说明晚明中西知识合作",
+    "梳理美洲白银经马尼拉流入中国的路线",
+    "分析赋役折银与海外贸易之间的联系"
+  ],
+  "keywords": [
+    {
+      "keyword_id": "keyword-3f240df2",
+      "word": "耶稣会士",
+      "pinyin": "yē sū huì shì",
+      "gloss": "近代早期来华传播天主教并参与知识交流的欧洲传教士",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-e1a519b5",
+      "word": "《坤舆万国全图》",
+      "pinyin": "kūn yú wàn guó quán tú",
+      "gloss": "利玛窦参与制作的中文世界地图；展示更广阔的全球地理认识",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-3ed0883b",
+      "word": "《几何原本》",
+      "pinyin": "jǐ hé yuán běn",
+      "gloss": "古希腊数学著作；晚明由利玛窦和徐光启合作翻译部分内容",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-4aa487ca",
+      "word": "马尼拉大帆船",
+      "pinyin": "mǎ ní lā dà fān chuán",
+      "gloss": "往返美洲与菲律宾的西班牙贸易船队；运送白银和亚洲商品",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-22838177",
+      "word": "一条鞭法",
+      "pinyin": "yī tiáo biān fǎ",
+      "gloss": "晚明赋役改革；把部分田赋和徭役合并并折银征收",
+      "source_ref_ids": []
+    },
+    {
+      "keyword_id": "keyword-a8dc19db",
+      "word": "白银贸易",
+      "pinyin": "bái yín mào yì",
+      "gloss": "日本和美洲白银经跨区域贸易流入中国的经济网络",
+      "source_ref_ids": []
+    }
+  ],
+  "people": [
+    {
+      "person_id": "person-316c1cd0",
+      "name": "利玛窦",
+      "role": "来华耶稣会士",
+      "summary": "通过语言 礼仪和知识交流进入晚明士人社会",
+      "persona": "同时呈现传教目的与文化适应",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    },
+    {
+      "person_id": "person-663a9349",
+      "name": "徐光启",
+      "role": "明代学者和官员",
+      "summary": "与利玛窦合作翻译《几何原本》",
+      "persona": "突出中国学者对知识选择和转化的主动作用",
+      "boundaries": [],
+      "fact_refs": [],
+      "source_ref_ids": []
+    }
+  ],
+  "map_points": [
+    {
+      "point_id": "map-5f652ce9",
+      "label": "澳门",
+      "region": "今澳门",
+      "lat": null,
+      "lng": null,
+      "note": "葡萄牙贸易和耶稣会士进入中国的重要节点",
+      "kind": "port"
+    },
+    {
+      "point_id": "map-2ee9eab2",
+      "label": "肇庆",
+      "region": "今广东肇庆",
+      "lat": null,
+      "lng": null,
+      "note": "利玛窦在中国内地早期居住地区",
+      "kind": "city"
+    },
+    {
+      "point_id": "map-6c56789c",
+      "label": "北京",
+      "region": "今北京",
+      "lat": null,
+      "lng": null,
+      "note": "利玛窦公元1601年进入的明朝都城",
+      "kind": "capital"
+    },
+    {
+      "point_id": "map-27fc6658",
+      "label": "马尼拉",
+      "region": "今菲律宾马尼拉",
+      "lat": null,
+      "lng": null,
+      "note": "美洲白银与中国商品交换的重要港口",
+      "kind": "port"
+    }
+  ],
+  "facts": [
+    {
+      "fact_id": "fact-3b39a33b",
+      "statement": "公元1583年利玛窦进入广东肇庆",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-17e47b27",
+      "statement": "公元1601年利玛窦获准进入北京",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-c908b23e",
+      "statement": "徐光启与利玛窦合作翻译《几何原本》前六卷",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-32cb5452",
+      "statement": "美洲白银经马尼拉航线进入亚洲并交换中国商品",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-49a20001",
+      "statement": "一条鞭法使部分赋税和徭役折银征收",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-829bb6ed",
+      "statement": "白银流入促进贸易；银价和供应变化也影响纳税负担",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    },
+    {
+      "fact_id": "fact-fd804c1c",
+      "statement": "白银波动不是明朝灭亡的唯一原因",
+      "source_ref_ids": [],
+      "certainty": "interpretation",
+      "teacher_note": "Legacy content did not bind individual facts to sources; review before release."
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "source-b127194d",
+      "title": "《利玛窦中国札记》",
+      "kind": "other",
+      "publisher": "来华传教士记录",
+      "url_or_path": "《利玛窦中国札记》",
+      "citation_note": "记录利玛窦来华经历和对明代社会的观察",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-58bdfa8c",
+      "title": "《几何原本》明代译本",
+      "kind": "other",
+      "publisher": "翻译科技文献",
+      "url_or_path": "利玛窦 徐光启译《几何原本》",
+      "citation_note": "展示晚明数学术语和证明方法交流",
+      "reliability": "pending"
+    },
+    {
+      "source_id": "source-a2a3a787",
+      "title": "明代赋役与海外贸易档案",
+      "kind": "other",
+      "publisher": "财政贸易材料",
+      "url_or_path": "明代一条鞭法文书及马尼拉贸易记录",
+      "citation_note": "反映折银征税和跨太平洋白银流动",
+      "reliability": "pending"
+    }
+  ],
+  "qa_points": [
+    "耶稣会士为什么学习汉语和儒家礼仪？",
+    "利玛窦与徐光启怎样合作传播知识？",
+    "美洲白银通过什么路线进入中国市场？",
+    "一条鞭法为什么加强中国与全球白银网络的联系？"
+  ],
+  "level_goals": [
+    "说明利玛窦来华和进入北京的过程",
+    "举例说明晚明中西知识合作",
+    "梳理美洲白银经马尼拉流入中国的路线",
+    "分析赋役折银与海外贸易之间的联系"
+  ],
+  "scenario_refs": [],
+  "seed_canvas": [
+    {
+      "node_id": "k1",
+      "label": "耶稣会士",
+      "note": ""
+    },
+    {
+      "node_id": "k2",
+      "label": "利玛窦",
+      "note": ""
+    },
+    {
+      "node_id": "k3",
+      "label": "《坤舆万国全图》",
+      "note": ""
+    },
+    {
+      "node_id": "k4",
+      "label": "徐光启",
+      "note": ""
+    },
+    {
+      "node_id": "k5",
+      "label": "《几何原本》",
+      "note": ""
+    },
+    {
+      "node_id": "k6",
+      "label": "马尼拉大帆船",
+      "note": ""
+    }
+  ],
+  "teacher_notes": "本课用人物合作和白银流向呈现早期全球联系；避免把明亡归结为白银单一因素。",
+  "created_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-09-11T09:40:14.843617Z",
+  "sealed_at": "2026-09-11T09:40:14.843617Z",
+  "sealed_by": "local-admin",
+  "checksum": "719c60de6235a209428a478ddd25854baacdf5655169b585ec25acb484fc471f",
+  "compatibility": {
+    "kind": "lesson-content-package",
+    "source_id": "L1302",
+    "source_version": "2",
+    "source_checksum": "d2b14272ed022749579fd9a49780e470bcba6a3778044c164e235abb41f5fb4c",
+    "notes": "Normalized from the A1 LessonContentPackage without changing the source draft.",
+    "unresolved_refs": [],
+    "legacy_materials": [
+      {
+        "kind": "saga",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      },
+      {
+        "kind": "sandbox",
+        "title": "",
+        "objective": "",
+        "notes": "",
+        "assets": []
+      }
+    ],
+    "legacy_id_map": {}
+  }
+}
