@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "韩非",
+  "version": 24,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "558d1376d23b2a19f6bfc26d309f4615a36b509f80a298a8b5818a5cf14e3774",
+  "sealed_at": "2026-09-14T10:07:16.748909Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "韩非-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2601,
+      "blob_sha256": "e86974ad21999bb9b7f35f2b3834e4932401058cb61ba5674af3d791d3a4c63d",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "558d1376d23b2a19f6bfc26d309f4615a36b509f80a298a8b5818a5cf14e3774"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2601,
+  "archive_id": "arc-bd7e5c3d48cebe1342ce98ee6bf76617",
+  "archive_checksum": "bd7e5c3d48cebe1342ce98ee6bf766177f287de548f38253b629140035b233ea",
+  "archive_path": "people/person-sample/versions/v024/arc-bd7e5c3d48cebe1342ce98ee6bf76617",
+  "manifest_checksum": "b1f5b43b36a1ef48b1f8eb9b9d0aa1ad7f90e4b8857b846864190329035dc05a"
+}
