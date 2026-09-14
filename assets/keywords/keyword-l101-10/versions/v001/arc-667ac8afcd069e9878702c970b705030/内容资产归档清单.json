@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l101-10",
+  "title": "二里头文化",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "ce6970200651dd4ba88bbe758859b691c1f36a95a86ad20c542cab5680e8beb6",
+  "sealed_at": "2026-09-14T14:27:37.197159Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "二里头文化-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 2174,
+      "blob_sha256": "eae292fc6a7216d833b39464bdf6f051093fe83cc05e9a2829597b3ecfcb653c",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "ce6970200651dd4ba88bbe758859b691c1f36a95a86ad20c542cab5680e8beb6"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2174,
+  "archive_id": "arc-667ac8afcd069e9878702c970b705030",
+  "archive_checksum": "667ac8afcd069e9878702c970b705030faf3a211a3995862071d33c67050f705",
+  "archive_path": "keywords/keyword-l101-10/versions/v001/arc-667ac8afcd069e9878702c970b705030",
+  "manifest_checksum": "70581c0ae2f13d4133d644f9bec1ee4c1c6031d4c791d24010ec0d883985f539"
+}
