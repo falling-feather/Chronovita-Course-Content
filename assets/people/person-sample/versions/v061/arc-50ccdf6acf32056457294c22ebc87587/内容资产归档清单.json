@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "杨坚（隋文帝）",
+  "version": 61,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "5476a65fe7b9f51c1c71511136ea898a825435b703be365238f1c64331caaa4e",
+  "sealed_at": "2026-09-14T14:33:37.536463Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "杨坚(隋文帝)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2199,
+      "blob_sha256": "e53b96147d80264628f6a2d024493db7454a77c0e9e52f110ebd4faae2796233",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "5476a65fe7b9f51c1c71511136ea898a825435b703be365238f1c64331caaa4e"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2199,
+  "archive_id": "arc-50ccdf6acf32056457294c22ebc87587",
+  "archive_checksum": "50ccdf6acf32056457294c22ebc875878b56f526f386c9ec3220dd4a084de11f",
+  "archive_path": "people/person-sample/versions/v061/arc-50ccdf6acf32056457294c22ebc87587",
+  "manifest_checksum": "75152376d5016b021a20f9e3e5105fed10d2b2f7f595fce53c7cf9288e6f6327"
+}
