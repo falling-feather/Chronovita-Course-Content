@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-7e05b16a61-0009",
+  "release_no": 9,
+  "course_id": "C-mingqing-thought",
+  "operation": "publish",
+  "parent_release_id": "rel-7e05b16a61-0008",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-14T06:10:46.575530Z",
+  "created_by": "local-admin",
+  "note": "Publish L1401 v3.",
+  "items": [
+    {
+      "lesson_id": "L1401",
+      "course_id": "C-mingqing-thought",
+      "content_version": 3,
+      "source_path": "sealed/L1401-v003.json",
+      "source_checksum": "bac2a2f2d86b582773687198705cf3a38bd04a451756968b34fc1323244d1423",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1401",
+        "course_id": "C-mingqing-thought",
+        "lesson_id": "L1401",
+        "version": 3,
+        "checksum": "dc9449a2edf74b76bc533f5d4be3acc679cd670838b6abf19f2efff256159477",
+        "path": "runtime/v1/course-packages/C-mingqing-thought/L1401/v003-dc9449a2edf74b76bc533f5d4be3acc679cd670838b6abf19f2efff256159477.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1402",
+      "course_id": "C-mingqing-thought",
+      "content_version": 2,
+      "source_path": "sealed/L1402-v002.json",
+      "source_checksum": "1fb05612a70cf0cf2fb4132ba33bcacc59c16024aad828651be371f7a06c8d96",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1402",
+        "course_id": "C-mingqing-thought",
+        "lesson_id": "L1402",
+        "version": 2,
+        "checksum": "7527bf3a72914c0ca8032c6dbaff7b120142069a5b18d4e212a1c2e1e63ef9c5",
+        "path": "runtime/v1/course-packages/C-mingqing-thought/L1402/v002-7527bf3a72914c0ca8032c6dbaff7b120142069a5b18d4e212a1c2e1e63ef9c5.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L1403",
+      "course_id": "C-mingqing-thought",
+      "content_version": 3,
+      "source_path": "sealed/L1403-v003.json",
+      "source_checksum": "48aabd1907e5782ed7f8b41f5de67fb13c634d95e35972705f81602674c61a48",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L1403",
+        "course_id": "C-mingqing-thought",
+        "lesson_id": "L1403",
+        "version": 3,
+        "checksum": "ef08a235ea39a82581ccdc043a88360062f64b1e129961108cd0c1585acac875",
+        "path": "runtime/v1/course-packages/C-mingqing-thought/L1403/v003-ef08a235ea39a82581ccdc043a88360062f64b1e129961108cd0c1585acac875.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "0c7dc082a654d8f511e00400f9b44aef08e6bbdec8778903276133837443548a"
+}

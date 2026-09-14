@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "701a11e00287d9f076b381f6c54859482b774430384cddbad1e6daa6fd242a0e",
+  "archive_id": "arc-701a11e00287d9f076b381f6c5485948",
+  "archive_path": "C-mingqing-thought/releases/rel-7e05b16a61-0009/arc-701a11e00287d9f076b381f6c5485948",
+  "course_id": "C-mingqing-thought",
+  "course_title": "明清思想",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "b226cb5778c4c8c915e4660589cdbcd7749c8586fbdf6ae69761557fb9a4e040",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1401",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1401/王阳明心学-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3299
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "a0e2c1146fd80f4763e44efcb61fa3b4bf1010a3c5ca9776a2bf184d7336a0c3",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1401",
+      "media_type": "application/json",
+      "path": "lessons/L1401/王阳明心学-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6402
+    },
+    {
+      "artifact_id": "pkg-L1401",
+      "artifact_version": 3,
+      "blob_sha256": "5a12603de5f002cc261e725f6d69e7a934cee65b5beb4082bf44044171ceb668",
+      "contract_checksum": "dc9449a2edf74b76bc533f5d4be3acc679cd670838b6abf19f2efff256159477",
+      "kind": "course-package",
+      "lesson_id": "L1401",
+      "media_type": "application/json",
+      "path": "lessons/L1401/王阳明心学-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 10839
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e1f694c1b6c0024fe979af859047b33d2aaada64b078188054250ed42e96f13b",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1401",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1401/王阳明心学-预览.html",
+      "schema_version": null,
+      "size_bytes": 4890
+    },
+    {
+      "artifact_id": "L1401",
+      "artifact_version": 3,
+      "blob_sha256": "c313c2d8aaa0d9cb0f067beb903f95d2b7ef6c50b070c090020b9435fb50aad0",
+      "contract_checksum": "bac2a2f2d86b582773687198705cf3a38bd04a451756968b34fc1323244d1423",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1401",
+      "media_type": "application/json",
+      "path": "lessons/L1401/王阳明心学.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7596
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "c2141979edd4a40554a38859bc0ed285cf271181c3cca16104f31ff621ea5823",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1402",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1402/黄宗羲《明夷待访录》-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3342
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "e54de48acaf7fab77b0c45f68d5e00bb0c9c9259d503da3cf5053136f61e28d9",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1402",
+      "media_type": "application/json",
+      "path": "lessons/L1402/黄宗羲《明夷待访录》-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6366
+    },
+    {
+      "artifact_id": "pkg-L1402",
+      "artifact_version": 2,
+      "blob_sha256": "03d09a47d93d89a34f6205d0ab1674a9979975188aa9438dff0d01b2878a1697",
+      "contract_checksum": "7527bf3a72914c0ca8032c6dbaff7b120142069a5b18d4e212a1c2e1e63ef9c5",
+      "kind": "course-package",
+      "lesson_id": "L1402",
+      "media_type": "application/json",
+      "path": "lessons/L1402/黄宗羲《明夷待访录》-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11609
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "d96691965962bfafbbfb1ed677570be83800f2fbc23068210a053f716ed6f93e",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1402",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1402/黄宗羲《明夷待访录》-预览.html",
+      "schema_version": null,
+      "size_bytes": 5152
+    },
+    {
+      "artifact_id": "L1402",
+      "artifact_version": 2,
+      "blob_sha256": "8939e7611eb95746ecd3a368f53facd71f9a8ca2cf11bdd3c59a4802556cf4a3",
+      "contract_checksum": "1fb05612a70cf0cf2fb4132ba33bcacc59c16024aad828651be371f7a06c8d96",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1402",
+      "media_type": "application/json",
+      "path": "lessons/L1402/黄宗羲《明夷待访录》.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 8201
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "09114b28c23fa782e094fa3b34974cf64b14539b8005ba2a886412827442a644",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L1403",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L1403/顾炎武与王夫之-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 3441
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "7dfd89beff983b4814ba55481b990bcab4bd9a7041ab81b7d02e61f7341330fb",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L1403",
+      "media_type": "application/json",
+      "path": "lessons/L1403/顾炎武与王夫之-格式层.json",
+      "schema_version": null,
+      "size_bytes": 6529
+    },
+    {
+      "artifact_id": "pkg-L1403",
+      "artifact_version": 3,
+      "blob_sha256": "8d809e662d7b444b8ffad8be63076d3ba98da92c7faf5d2cc4bb2171891491e9",
+      "contract_checksum": "ef08a235ea39a82581ccdc043a88360062f64b1e129961108cd0c1585acac875",
+      "kind": "course-package",
+      "lesson_id": "L1403",
+      "media_type": "application/json",
+      "path": "lessons/L1403/顾炎武与王夫之-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 11288
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "bf167e54721ee99e9add577c58556487a0b15130c7151ce62f98943ef7ded65c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L1403",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L1403/顾炎武与王夫之-预览.html",
+      "schema_version": null,
+      "size_bytes": 5083
+    },
+    {
+      "artifact_id": "L1403",
+      "artifact_version": 3,
+      "blob_sha256": "c16d0b65853fe451bd8128b4c2ce1a62f6013b099f884d92c78a0e66198ebda8",
+      "contract_checksum": "48aabd1907e5782ed7f8b41f5de67fb13c634d95e35972705f81602674c61a48",
+      "kind": "sealed-lesson",
+      "lesson_id": "L1403",
+      "media_type": "application/json",
+      "path": "lessons/L1403/顾炎武与王夫之.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 7974
+    },
+    {
+      "artifact_id": "rel-7e05b16a61-0009",
+      "artifact_version": 9,
+      "blob_sha256": "2f5c02e0468a282ab1e0ba7798d4b49e34accd23603beed96d6fc25c341a1625",
+      "contract_checksum": "0c7dc082a654d8f511e00400f9b44aef08e6bbdec8778903276133837443548a",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2909
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 3,
+      "course_package_checksum": "dc9449a2edf74b76bc533f5d4be3acc679cd670838b6abf19f2efff256159477",
+      "course_package_id": "pkg-L1401",
+      "files": [
+        "lessons/L1401/王阳明心学-教师稿.md",
+        "lessons/L1401/王阳明心学-格式层.json",
+        "lessons/L1401/王阳明心学-运行包.json",
+        "lessons/L1401/王阳明心学-预览.html",
+        "lessons/L1401/王阳明心学.json"
+      ],
+      "lesson_id": "L1401",
+      "scenarios": [],
+      "source_checksum": "bac2a2f2d86b582773687198705cf3a38bd04a451756968b34fc1323244d1423",
+      "title": "王阳明心学"
+    },
+    {
+      "content_version": 2,
+      "course_package_checksum": "7527bf3a72914c0ca8032c6dbaff7b120142069a5b18d4e212a1c2e1e63ef9c5",
+      "course_package_id": "pkg-L1402",
+      "files": [
+        "lessons/L1402/黄宗羲《明夷待访录》-教师稿.md",
+        "lessons/L1402/黄宗羲《明夷待访录》-格式层.json",
+        "lessons/L1402/黄宗羲《明夷待访录》-运行包.json",
+        "lessons/L1402/黄宗羲《明夷待访录》-预览.html",
+        "lessons/L1402/黄宗羲《明夷待访录》.json"
+      ],
+      "lesson_id": "L1402",
+      "scenarios": [],
+      "source_checksum": "1fb05612a70cf0cf2fb4132ba33bcacc59c16024aad828651be371f7a06c8d96",
+      "title": "黄宗羲《明夷待访录》"
+    },
+    {
+      "content_version": 3,
+      "course_package_checksum": "ef08a235ea39a82581ccdc043a88360062f64b1e129961108cd0c1585acac875",
+      "course_package_id": "pkg-L1403",
+      "files": [
+        "lessons/L1403/顾炎武与王夫之-教师稿.md",
+        "lessons/L1403/顾炎武与王夫之-格式层.json",
+        "lessons/L1403/顾炎武与王夫之-运行包.json",
+        "lessons/L1403/顾炎武与王夫之-预览.html",
+        "lessons/L1403/顾炎武与王夫之.json"
+      ],
+      "lesson_id": "L1403",
+      "scenarios": [],
+      "source_checksum": "48aabd1907e5782ed7f8b41f5de67fb13c634d95e35972705f81602674c61a48",
+      "title": "顾炎武与王夫之"
+    }
+  ],
+  "manifest_checksum": "e563f33618acb7bb424272534181ecd98cbeec02f1cdefb0a5000c6ff38d368d",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "0c7dc082a654d8f511e00400f9b44aef08e6bbdec8778903276133837443548a",
+  "release_created_at": "2026-09-14T06:10:46.575530Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-7e05b16a61-0009",
+  "release_no": 9,
+  "release_note": "Publish L1401 v3.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 104920
+}
