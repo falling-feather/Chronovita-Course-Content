@@ -1,0 +1,270 @@
+{
+  "archive_checksum": "26c44a8bb0f4e2ba5cbecc943e6ff1645ac50e70281f01f3629d74379ab56efb",
+  "archive_id": "arc-26c44a8bb0f4e2ba5cbecc943e6ff164",
+  "archive_path": "C-qin-han/releases/rel-87ccd66e83-0016/arc-26c44a8bb0f4e2ba5cbecc943e6ff164",
+  "course_id": "C-qin-han",
+  "course_title": "秦的统一",
+  "file_count": 16,
+  "files": [
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "c424e9b1bbb590bbf040f72652d82becdff4812d962fa06a62ba743fa7d65179",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L301",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L301/战国七雄与远交近攻-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4437
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "bf534fb8bb9fed5b53450be96dcbf65e9ef33e8b76335c88cf1d0832d547cdca",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L301",
+      "media_type": "application/json",
+      "path": "lessons/L301/战国七雄与远交近攻-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8073
+    },
+    {
+      "artifact_id": "pkg-L301",
+      "artifact_version": 6,
+      "blob_sha256": "fdba76b4d812cd4696aa13555c7445f8aaa1ccce5acf937c7536183c1bce0872",
+      "contract_checksum": "62411e38e9a1149aaf839ff5ba4b88f53254ab94d5ea4cb589fe0c986a0f0c73",
+      "kind": "course-package",
+      "lesson_id": "L301",
+      "media_type": "application/json",
+      "path": "lessons/L301/战国七雄与远交近攻-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13549
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "9247eada07b97a04a22ce9cdfa57399ca47c2a91e94010a94b1babc10c5cff06",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L301",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L301/战国七雄与远交近攻-预览.html",
+      "schema_version": null,
+      "size_bytes": 5986
+    },
+    {
+      "artifact_id": "L301",
+      "artifact_version": 6,
+      "blob_sha256": "b079ee404c142d66336cdd831e6f61627e78ede1155ae38ec0fb49266d24b72d",
+      "contract_checksum": "144229980b181200f19cd3dbfd2c26118e0fa06d3a84a11c7873a701d0df6efc",
+      "kind": "sealed-lesson",
+      "lesson_id": "L301",
+      "media_type": "application/json",
+      "path": "lessons/L301/战国七雄与远交近攻.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9814
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "02f2699eef4deda0aa0244e253d00ae94b600117e6af029b69dfbd3d428e5b24",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L302",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L302/秦王嬴政统一战争-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4440
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "8ee77ff022316ee765aa633579a13c25f166046a189f6238fcf3b007d43d8419",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L302",
+      "media_type": "application/json",
+      "path": "lessons/L302/秦王嬴政统一战争-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8533
+    },
+    {
+      "artifact_id": "pkg-L302",
+      "artifact_version": 4,
+      "blob_sha256": "76790f48da25ac371627adef78d27ecb673fc68b3160f29c9b0e1d974a4f489f",
+      "contract_checksum": "58a66c8f2841973f61292c3adb5664402e42f017d0ff5ee74cdd4a7a07ac8f71",
+      "kind": "course-package",
+      "lesson_id": "L302",
+      "media_type": "application/json",
+      "path": "lessons/L302/秦王嬴政统一战争-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13369
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "f5c11d01b94824fa8f3005311621b462a5ef1a84437de4db476df70aaba3cb3c",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L302",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L302/秦王嬴政统一战争-预览.html",
+      "schema_version": null,
+      "size_bytes": 6118
+    },
+    {
+      "artifact_id": "L302",
+      "artifact_version": 4,
+      "blob_sha256": "1c8cfdca6026b151952e7c7dfdacefcf00e7e07a22e8acce3fbff463dd89bcee",
+      "contract_checksum": "d32f4dc4a994ecdd86e8b7abab4d040bc6925fe52d3e5d8717f06e862fa7d4b4",
+      "kind": "sealed-lesson",
+      "lesson_id": "L302",
+      "media_type": "application/json",
+      "path": "lessons/L302/秦王嬴政统一战争.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9814
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "abf9647bbbe8987851a0a0fd46923c5cb9226189f5306025a874b892f64cb7dd",
+      "contract_checksum": null,
+      "kind": "teacher-markdown",
+      "lesson_id": "L303",
+      "media_type": "text/markdown; charset=utf-8",
+      "path": "lessons/L303/郡县制与书同文车同轨-教师稿.md",
+      "schema_version": null,
+      "size_bytes": 4572
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "b8da0060dd1426922a7e772c25b55a686cf4ccee618dd6c02bf1753fc376ba61",
+      "contract_checksum": null,
+      "kind": "format-layer",
+      "lesson_id": "L303",
+      "media_type": "application/json",
+      "path": "lessons/L303/郡县制与书同文车同轨-格式层.json",
+      "schema_version": null,
+      "size_bytes": 8264
+    },
+    {
+      "artifact_id": "pkg-L303",
+      "artifact_version": 8,
+      "blob_sha256": "83aba8e6ea25dbc5958d53e59615612ffb16b6a75db6481f4d78e34051eed61e",
+      "contract_checksum": "9176f793d2bdf224e7a807e10bbb9200b25cda9e85006ceda13813ce7c71316a",
+      "kind": "course-package",
+      "lesson_id": "L303",
+      "media_type": "application/json",
+      "path": "lessons/L303/郡县制与书同文车同轨-运行包.json",
+      "schema_version": "course-package/v1",
+      "size_bytes": 13535
+    },
+    {
+      "artifact_id": null,
+      "artifact_version": null,
+      "blob_sha256": "458c85b1e7adc7166e90e993068658398ccef2f3d258ac5dcb386ad8171f7e23",
+      "contract_checksum": null,
+      "kind": "preview-html",
+      "lesson_id": "L303",
+      "media_type": "text/html; charset=utf-8",
+      "path": "lessons/L303/郡县制与书同文车同轨-预览.html",
+      "schema_version": null,
+      "size_bytes": 5967
+    },
+    {
+      "artifact_id": "L303",
+      "artifact_version": 8,
+      "blob_sha256": "d1b0b468da364550111429050d5afc3b007993ea98085d699c230964e1613fee",
+      "contract_checksum": "da135f8fd85df2e8a539b9e9fbf236e2c817cbcaca3a50d675e14e18a8c341b1",
+      "kind": "sealed-lesson",
+      "lesson_id": "L303",
+      "media_type": "application/json",
+      "path": "lessons/L303/郡县制与书同文车同轨.json",
+      "schema_version": "lesson-content-package/v1",
+      "size_bytes": 9764
+    },
+    {
+      "artifact_id": "rel-87ccd66e83-0016",
+      "artifact_version": 16,
+      "blob_sha256": "f17c2ccd44c48253ecb7bcb643c90328224234b9119bd9a1c795f299f216e69a",
+      "contract_checksum": "7f00b094c204d9a1d97c9a684aae6771bcfc4d9ae73e16be7d047316da4a4f5b",
+      "kind": "release-manifest",
+      "lesson_id": null,
+      "media_type": "application/json",
+      "path": "课程发布清单.json",
+      "schema_version": "course-release/v2",
+      "size_bytes": 2804
+    }
+  ],
+  "lessons": [
+    {
+      "content_version": 6,
+      "course_package_checksum": "62411e38e9a1149aaf839ff5ba4b88f53254ab94d5ea4cb589fe0c986a0f0c73",
+      "course_package_id": "pkg-L301",
+      "files": [
+        "lessons/L301/战国七雄与远交近攻-教师稿.md",
+        "lessons/L301/战国七雄与远交近攻-格式层.json",
+        "lessons/L301/战国七雄与远交近攻-运行包.json",
+        "lessons/L301/战国七雄与远交近攻-预览.html",
+        "lessons/L301/战国七雄与远交近攻.json"
+      ],
+      "lesson_id": "L301",
+      "scenarios": [],
+      "source_checksum": "144229980b181200f19cd3dbfd2c26118e0fa06d3a84a11c7873a701d0df6efc",
+      "title": "战国七雄与远交近攻"
+    },
+    {
+      "content_version": 4,
+      "course_package_checksum": "58a66c8f2841973f61292c3adb5664402e42f017d0ff5ee74cdd4a7a07ac8f71",
+      "course_package_id": "pkg-L302",
+      "files": [
+        "lessons/L302/秦王嬴政统一战争-教师稿.md",
+        "lessons/L302/秦王嬴政统一战争-格式层.json",
+        "lessons/L302/秦王嬴政统一战争-运行包.json",
+        "lessons/L302/秦王嬴政统一战争-预览.html",
+        "lessons/L302/秦王嬴政统一战争.json"
+      ],
+      "lesson_id": "L302",
+      "scenarios": [],
+      "source_checksum": "d32f4dc4a994ecdd86e8b7abab4d040bc6925fe52d3e5d8717f06e862fa7d4b4",
+      "title": "秦王嬴政统一战争"
+    },
+    {
+      "content_version": 8,
+      "course_package_checksum": "9176f793d2bdf224e7a807e10bbb9200b25cda9e85006ceda13813ce7c71316a",
+      "course_package_id": "pkg-L303",
+      "files": [
+        "lessons/L303/郡县制与书同文车同轨-教师稿.md",
+        "lessons/L303/郡县制与书同文车同轨-格式层.json",
+        "lessons/L303/郡县制与书同文车同轨-运行包.json",
+        "lessons/L303/郡县制与书同文车同轨-预览.html",
+        "lessons/L303/郡县制与书同文车同轨.json"
+      ],
+      "lesson_id": "L303",
+      "scenarios": [],
+      "source_checksum": "da135f8fd85df2e8a539b9e9fbf236e2c817cbcaca3a50d675e14e18a8c341b1",
+      "title": "郡县制与书同文车同轨"
+    }
+  ],
+  "manifest_checksum": "61401f662e3d5b8f7e83ee94a5970bcc9ae59680706bd0848a65e406d234b444",
+  "manifest_path": "课程归档清单.json",
+  "release_checksum": "7f00b094c204d9a1d97c9a684aae6771bcfc4d9ae73e16be7d047316da4a4f5b",
+  "release_created_at": "2026-09-14T10:16:12.335852Z",
+  "release_created_by": "local-admin",
+  "release_id": "rel-87ccd66e83-0016",
+  "release_no": 16,
+  "release_note": "Publish L303 v8.",
+  "release_operation": "publish",
+  "release_schema_version": "course-release/v2",
+  "renderer": {
+    "renderer_id": "chronovita-teacher-export",
+    "renderer_version": 2,
+    "schema_version": "archive-renderer/v1",
+    "style_profile": "course-preview-default"
+  },
+  "schema_version": "course-archive/v1",
+  "total_size_bytes": 129039
+}

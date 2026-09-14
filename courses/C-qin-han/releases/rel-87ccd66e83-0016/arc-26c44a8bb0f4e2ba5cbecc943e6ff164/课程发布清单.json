@@ -1,0 +1,75 @@
+{
+  "schema_version": "course-release/v2",
+  "release_id": "rel-87ccd66e83-0016",
+  "release_no": 16,
+  "course_id": "C-qin-han",
+  "operation": "publish",
+  "parent_release_id": "rel-87ccd66e83-0015",
+  "restored_from_release_id": null,
+  "created_at": "2026-09-14T10:16:12.335852Z",
+  "created_by": "local-admin",
+  "note": "Publish L303 v8.",
+  "items": [
+    {
+      "lesson_id": "L301",
+      "course_id": "C-qin-han",
+      "content_version": 6,
+      "source_path": "sealed/L301-v006.json",
+      "source_checksum": "144229980b181200f19cd3dbfd2c26118e0fa06d3a84a11c7873a701d0df6efc",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L301",
+        "course_id": "C-qin-han",
+        "lesson_id": "L301",
+        "version": 6,
+        "checksum": "62411e38e9a1149aaf839ff5ba4b88f53254ab94d5ea4cb589fe0c986a0f0c73",
+        "path": "runtime/v1/course-packages/C-qin-han/L301/v006-62411e38e9a1149aaf839ff5ba4b88f53254ab94d5ea4cb589fe0c986a0f0c73.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L302",
+      "course_id": "C-qin-han",
+      "content_version": 4,
+      "source_path": "sealed/L302-v004.json",
+      "source_checksum": "d32f4dc4a994ecdd86e8b7abab4d040bc6925fe52d3e5d8717f06e862fa7d4b4",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L302",
+        "course_id": "C-qin-han",
+        "lesson_id": "L302",
+        "version": 4,
+        "checksum": "58a66c8f2841973f61292c3adb5664402e42f017d0ff5ee74cdd4a7a07ac8f71",
+        "path": "runtime/v1/course-packages/C-qin-han/L302/v004-58a66c8f2841973f61292c3adb5664402e42f017d0ff5ee74cdd4a7a07ac8f71.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    },
+    {
+      "lesson_id": "L303",
+      "course_id": "C-qin-han",
+      "content_version": 8,
+      "source_path": "sealed/L303-v008.json",
+      "source_checksum": "da135f8fd85df2e8a539b9e9fbf236e2c817cbcaca3a50d675e14e18a8c341b1",
+      "course_package": {
+        "kind": "course-package",
+        "schema_version": "course-package/v1",
+        "artifact_id": "pkg-L303",
+        "course_id": "C-qin-han",
+        "lesson_id": "L303",
+        "version": 8,
+        "checksum": "9176f793d2bdf224e7a807e10bbb9200b25cda9e85006ceda13813ce7c71316a",
+        "path": "runtime/v1/course-packages/C-qin-han/L303/v008-9176f793d2bdf224e7a807e10bbb9200b25cda9e85006ceda13813ce7c71316a.json"
+      },
+      "scenarios": [],
+      "primary_scenario_id": null,
+      "audience": "published"
+    }
+  ],
+  "checksum": "7f00b094c204d9a1d97c9a684aae6771bcfc4d9ae73e16be7d047316da4a4f5b"
+}
