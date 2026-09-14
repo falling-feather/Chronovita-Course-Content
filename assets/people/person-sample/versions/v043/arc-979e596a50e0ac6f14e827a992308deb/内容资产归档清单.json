@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "司马谈",
+  "version": 43,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "f1b16ac4e7eb655edac97775dab7aaba7bbc493123efb7050f4a58b033866e49",
+  "sealed_at": "2026-09-14T13:19:25.250993Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "司马谈-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2432,
+      "blob_sha256": "f97683b38a9deca7b308661e4007b027548c734791b6f9f016874dc6bc84be59",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "f1b16ac4e7eb655edac97775dab7aaba7bbc493123efb7050f4a58b033866e49"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2432,
+  "archive_id": "arc-979e596a50e0ac6f14e827a992308deb",
+  "archive_checksum": "979e596a50e0ac6f14e827a992308debcbf2b69adce076d788018c762a955744",
+  "archive_path": "people/person-sample/versions/v043/arc-979e596a50e0ac6f14e827a992308deb",
+  "manifest_checksum": "0625d7999394c5a573778824f920c1459200f144b5101c4caa5502a1304b076c"
+}

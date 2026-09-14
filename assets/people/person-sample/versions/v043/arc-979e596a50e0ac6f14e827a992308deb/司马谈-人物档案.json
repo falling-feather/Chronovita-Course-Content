@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "司马谈",
+  "role": "西汉史官、思想家",
+  "era": "西汉中期",
+  "summary": "司马谈是西汉时期的重要史官和思想家，长期担任太史令，负责接触和整理国家典籍、天文历法及历史资料。他重视对先秦诸子思想的总结，在《论六家要旨》中对阴阳家、儒家、墨家、名家、法家和道德家等学派进行了概括与评价，体现了西汉学术思想的综合特点。司马谈还希望撰写一部贯通古今的历史著作，但这一计划尚未完成便去世。临终前，他将整理历史、撰写通史的愿望托付给儿子司马迁。司马谈的史学活动为《史记》的形成奠定了重要基础，也体现了西汉史官整理文献、总结历史和传承文化的职责。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "太史令"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《太史公自序》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷一百三十，司马谈遗志及司马迁继承父业相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《论六家要旨》",
+      "source": "《史记·太史公自序》，中华书局点校本",
+      "url_or_path": "司马谈对先秦诸子思想的总结",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《司马迁传》",
+      "source": "《汉书》，中华书局点校本",
+      "url_or_path": "卷六十二，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解司马谈作为太史令的史官身份，以及他对司马迁撰写《史记》的影响。注意不要把《史记》的全部成就归于司马谈；司马谈提出和积累了相关基础，现存《史记》主要由司马迁完成。",
+  "status": "sealed",
+  "version": 43,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T13:19:25.250993Z",
+  "sealed_at": "2026-09-14T13:19:25.250993Z",
+  "sealed_by": "local-admin",
+  "checksum": "f1b16ac4e7eb655edac97775dab7aaba7bbc493123efb7050f4a58b033866e49"
+}
