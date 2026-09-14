@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "张角",
+  "version": 41,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "7c60d09a22cbd407ef02ca52588c8209f7188ce3fe43741223faac48336deca2",
+  "sealed_at": "2026-09-14T12:45:43.954113Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "张角-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2535,
+      "blob_sha256": "e328e0a4029de082d35446ae6c6ecd694ef58f9302d28b3fb9f2eca98be89176",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "7c60d09a22cbd407ef02ca52588c8209f7188ce3fe43741223faac48336deca2"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2535,
+  "archive_id": "arc-b85a7f500d349ffab99d08b4727aa3e1",
+  "archive_checksum": "b85a7f500d349ffab99d08b4727aa3e136a6e22b64a46c6d5213953bcc3e8f84",
+  "archive_path": "people/person-sample/versions/v041/arc-b85a7f500d349ffab99d08b4727aa3e1",
+  "manifest_checksum": "db3c4c1d02df49052f7d128030deac3f4e0c69d8cc039289b07a65acdb982dcc"
+}
