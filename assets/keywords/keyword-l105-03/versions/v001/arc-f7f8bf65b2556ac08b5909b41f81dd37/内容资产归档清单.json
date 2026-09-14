@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "keyword",
+  "asset_id": "keyword-l105-03",
+  "title": "农战",
+  "version": 1,
+  "source_schema_version": "keyword-profile/v1",
+  "source_checksum": "9ad57c8502d225635afd4639dfe448abec9c4626fb2c68f56bd9913f62a5f967",
+  "sealed_at": "2026-09-14T14:30:15.192944Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "农战-关键词档案.json",
+      "kind": "sealed-keyword",
+      "media_type": "application/json",
+      "size_bytes": 1944,
+      "blob_sha256": "dc0e81865c07daac4ab5b1dc11ae3c31cd7453a40dff73cb891c5283af5aa7e6",
+      "schema_version": "keyword-profile/v1",
+      "contract_checksum": "9ad57c8502d225635afd4639dfe448abec9c4626fb2c68f56bd9913f62a5f967"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 1944,
+  "archive_id": "arc-f7f8bf65b2556ac08b5909b41f81dd37",
+  "archive_checksum": "f7f8bf65b2556ac08b5909b41f81dd375f2267c28a57c3e968857070a327f11d",
+  "archive_path": "keywords/keyword-l105-03/versions/v001/arc-f7f8bf65b2556ac08b5909b41f81dd37",
+  "manifest_checksum": "68dc6b477f989650771c05b79d21c286cd13e041b02f61a5776c495df0cb4fae"
+}

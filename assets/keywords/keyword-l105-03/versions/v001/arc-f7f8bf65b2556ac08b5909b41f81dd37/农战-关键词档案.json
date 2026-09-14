@@ -1,0 +1,50 @@
+{
+  "schema_version": "keyword-profile/v1",
+  "asset_id": "keyword-l105-03",
+  "word": "农战",
+  "pinyin": "nóng zhàn",
+  "gloss": "以发展农业和加强战争力量为目标的治国方针",
+  "era": "先秦",
+  "category": "思想",
+  "examples": [
+    "本课结合“农战”说明以发展农业和加强战争力量为目标的治国方针。",
+    "讲解“农战”时，应联系本课叙事理解它在先秦历史中的作用。"
+  ],
+  "related_people": [
+    "商鞅"
+  ],
+  "related_lessons": [
+    "L105"
+  ],
+  "source_refs": [
+    {
+      "title": "普通高中历史课程相关教学材料",
+      "source": "成都市教育局",
+      "url_or_path": "https://jyj.changdu.gov.cn/cdsjyj/c101476/202205/764ee1914e3c45aaba8e372f1b628a34/files/98a04fa1c8ef411ca0ee34ebcb4bcd73.pdf",
+      "citation_note": "整理商鞅变法中农战、军功、连坐、土地和县制等主要措施及其影响",
+      "reliability": "pending"
+    },
+    {
+      "title": "徙木立信：商鞅变法中的法令信用",
+      "source": "中央网信办",
+      "url_or_path": "https://www.cac.gov.cn/2022-12/12/c_1672477198256264.htm",
+      "citation_note": "介绍徙木立信的传统故事及商鞅重视法令执行的历史记忆",
+      "reliability": "pending"
+    },
+    {
+      "title": "商鞅变法与秦国制度变化",
+      "source": "全国哲学社会科学工作办公室",
+      "url_or_path": "https://www.nopss.gov.cn/n1/2023/0612/c219544-40011381.html",
+      "citation_note": "说明军功爵制及商鞅变法对秦国政治和社会结构的影响",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "",
+  "status": "sealed",
+  "version": 1,
+  "created_at": "2026-09-14T13:36:29.377350Z",
+  "updated_at": "2026-09-14T14:30:15.192944Z",
+  "sealed_at": "2026-09-14T14:30:15.192944Z",
+  "sealed_by": "local-admin",
+  "checksum": "9ad57c8502d225635afd4639dfe448abec9c4626fb2c68f56bd9913f62a5f967"
+}
