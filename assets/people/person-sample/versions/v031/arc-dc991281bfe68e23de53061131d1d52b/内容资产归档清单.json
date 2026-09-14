@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "陈胜",
+  "version": 31,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "6b56253aa8fd04c6f186b7f2f79e5bee8f5a3eda8797915d900e3eccfce31075",
+  "sealed_at": "2026-09-14T10:40:31.514745Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "陈胜-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2460,
+      "blob_sha256": "0995e85903283d6d58165d221413483511b4cb798f1f2b288b68211f3b5c007b",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "6b56253aa8fd04c6f186b7f2f79e5bee8f5a3eda8797915d900e3eccfce31075"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2460,
+  "archive_id": "arc-dc991281bfe68e23de53061131d1d52b",
+  "archive_checksum": "dc991281bfe68e23de53061131d1d52bcde3c96515d65fd6210481260ec5d660",
+  "archive_path": "people/person-sample/versions/v031/arc-dc991281bfe68e23de53061131d1d52b",
+  "manifest_checksum": "72a8f5756471e44ec1a52697b9fd7959d9b0e16b3ee5081aa42ef8c6aaf91d52"
+}

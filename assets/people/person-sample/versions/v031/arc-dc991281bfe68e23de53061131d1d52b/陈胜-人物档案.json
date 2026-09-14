@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "陈胜",
+  "role": "秦末农民起义的重要领导者",
+  "era": "秦朝末期",
+  "summary": "陈胜出身于普通农民家庭，曾受秦朝征发，承担戍守任务。秦二世元年，陈胜与吴广等人被征发前往渔阳戍边，途中因大雨误期，按照秦朝法律可能面临严厉惩罚。陈胜认为与其被处死，不如起兵反抗，于是与吴广在大泽乡发动起义。起义军迅速发展，陈胜建立张楚政权，自称“王”，号召各地反抗秦朝统治。陈胜的起义虽然后来失败，但它首先大规模冲击了秦朝统治，鼓舞了各地反秦力量，成为秦末农民战争的重要开端。陈胜的行动反映了秦朝严苛统治下社会矛盾的激化，也说明普通民众在特定历史条件下能够成为推动政治变革的重要力量。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "大泽乡起义"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《陈涉世家》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷四十八，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《秦二世本纪》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷六，秦末起义相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《资治通鉴》秦纪相关篇章",
+      "source": "《资治通鉴》，中华书局点校本",
+      "url_or_path": "陈胜、吴广起义相关记载",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解大泽乡起义的直接原因，以及陈胜在秦末农民战争中的开创性作用。注意陈胜是秦末起义的重要发动者，但并不是最终推翻秦朝的人物，应区分“发动起义”和“灭亡秦朝”两个历史过程。",
+  "status": "sealed",
+  "version": 31,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:40:31.514745Z",
+  "sealed_at": "2026-09-14T10:40:31.514745Z",
+  "sealed_by": "local-admin",
+  "checksum": "6b56253aa8fd04c6f186b7f2f79e5bee8f5a3eda8797915d900e3eccfce31075"
+}
