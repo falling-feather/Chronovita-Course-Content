@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "管仲",
+  "version": 12,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "4887648174104c6be9859917aafa5a78f942716431b2302e27c3c95be22b13dc",
+  "sealed_at": "2026-09-14T09:18:13.193943Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "管仲-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2439,
+      "blob_sha256": "7610ba6c78588c343660a27805860bd9bbf6f6442ccd1a4ce6664c1f74b6b29f",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "4887648174104c6be9859917aafa5a78f942716431b2302e27c3c95be22b13dc"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2439,
+  "archive_id": "arc-dbaa5061c5cb894c3dc56fcca19ed811",
+  "archive_checksum": "dbaa5061c5cb894c3dc56fcca19ed8111ccd18633ee9629eb4991ae9369bd417",
+  "archive_path": "people/person-sample/versions/v012/arc-dbaa5061c5cb894c3dc56fcca19ed811",
+  "manifest_checksum": "d3725415a37337920331e6d1fff79a90a28edcce54ea5a5107b92fd229664668"
+}
