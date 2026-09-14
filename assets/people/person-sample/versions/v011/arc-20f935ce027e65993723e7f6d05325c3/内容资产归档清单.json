@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "姜小白（齐桓公）",
+  "version": 11,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "1aacb8343a8e31f787f5c04d842274c7e7b12f106c11028d64d63d98c4fae4f0",
+  "sealed_at": "2026-09-14T09:09:32.098996Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "姜小白(齐桓公)-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2361,
+      "blob_sha256": "65f10ed246cf4c95b9d463dfd69ee7cd3e93792e556dee3a3226bf47bb518d59",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "1aacb8343a8e31f787f5c04d842274c7e7b12f106c11028d64d63d98c4fae4f0"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2361,
+  "archive_id": "arc-20f935ce027e65993723e7f6d05325c3",
+  "archive_checksum": "20f935ce027e65993723e7f6d05325c338c5c7d6be9935c984b259118bbb2563",
+  "archive_path": "people/person-sample/versions/v011/arc-20f935ce027e65993723e7f6d05325c3",
+  "manifest_checksum": "719169ef0887af9ce1ea60067dc5ed8c99bfb247f7c7e856855aa3f971db0920"
+}
