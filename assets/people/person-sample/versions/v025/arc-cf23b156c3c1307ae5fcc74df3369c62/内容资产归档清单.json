@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "苏秦",
+  "version": 25,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "16b11b2664707f9d35ffd8ae00ff6d622f81e1d2cf5b9d9dc6c7df896a1529e0",
+  "sealed_at": "2026-09-14T10:27:11.687435Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "苏秦-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2346,
+      "blob_sha256": "764ead3a16e38dffeebc00c79cc48f3dc82a55d583d0d83f3f4a96863f1ef037",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "16b11b2664707f9d35ffd8ae00ff6d622f81e1d2cf5b9d9dc6c7df896a1529e0"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2346,
+  "archive_id": "arc-cf23b156c3c1307ae5fcc74df3369c62",
+  "archive_checksum": "cf23b156c3c1307ae5fcc74df3369c623a854d0fcea46aeaf13d2e9b654893d7",
+  "archive_path": "people/person-sample/versions/v025/arc-cf23b156c3c1307ae5fcc74df3369c62",
+  "manifest_checksum": "037ea75a2d2bf8909604d234a063e427942418aeac372059a53e627b2427aeb3"
+}

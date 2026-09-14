@@ -1,0 +1,49 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "苏秦",
+  "role": "战国时期纵横家",
+  "era": "战国时期",
+  "summary": "苏秦是战国时期著名的纵横家，早年游说诸侯，但没有立即获得重用。后来，他分析秦国不断向东方扩张的形势，认为齐、楚、燕、韩、赵、魏六国如果各自对抗秦国，很容易被逐一击破，因此提出六国联合抗秦的“合纵”策略。苏秦先后游说六国，促成六国在一定时期内结成抗秦联盟，并担任合纵联盟的重要组织者。合纵虽然没有从根本上阻止秦国的发展，但一度对秦国形成外交和军事压力。苏秦的活动体现了战国时期纵横家通过外交游说影响诸侯决策的特点，也反映了各国在秦国崛起过程中所采取的不同应对策略。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "合纵"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《苏秦列传》",
+      "source": "《史记》，中华书局点校本",
+      "url_or_path": "卷六十九，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《战国策》相关篇章",
+      "source": "《战国策》，中华书局整理本",
+      "url_or_path": "苏秦游说六国及合纵活动的相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《战国时期的政治格局》",
+      "source": "统编版高中历史《中外历史纲要（上）》",
+      "url_or_path": "战国时期相关内容，页码随教材版本而异",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点说明“合纵”是苏秦最具代表性的政治活动，同时提醒学生注意《史记》《战国策》记载之间可能存在差异。",
+  "status": "sealed",
+  "version": 25,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T10:27:11.687435Z",
+  "sealed_at": "2026-09-14T10:27:11.687435Z",
+  "sealed_by": "local-admin",
+  "checksum": "16b11b2664707f9d35ffd8ae00ff6d622f81e1d2cf5b9d9dc6c7df896a1529e0"
+}
