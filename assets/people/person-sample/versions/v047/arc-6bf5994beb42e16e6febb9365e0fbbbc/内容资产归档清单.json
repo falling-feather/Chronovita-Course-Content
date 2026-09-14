@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "郑玄",
+  "version": 47,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "1802949ee4f19d48d1ec97b27cafda519a5e01eaeee9e8b28498fb692c39e287",
+  "sealed_at": "2026-09-14T13:28:58.152699Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "郑玄-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2514,
+      "blob_sha256": "c5b54aa37ce8da73ffc26f66d84b15a6d7fd52333c22604217f424444ec9fbaf",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "1802949ee4f19d48d1ec97b27cafda519a5e01eaeee9e8b28498fb692c39e287"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2514,
+  "archive_id": "arc-6bf5994beb42e16e6febb9365e0fbbbc",
+  "archive_checksum": "6bf5994beb42e16e6febb9365e0fbbbcaedbbdc38c6d24e50aacc634abac3471",
+  "archive_path": "people/person-sample/versions/v047/arc-6bf5994beb42e16e6febb9365e0fbbbc",
+  "manifest_checksum": "136f41cc5c031d275c9786e1e8bad6b8e3ac04ce134720deedc17100b9f98c1f"
+}
