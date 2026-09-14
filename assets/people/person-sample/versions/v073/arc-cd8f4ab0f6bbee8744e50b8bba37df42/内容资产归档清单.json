@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "郭子仪",
+  "version": 73,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "0c2e8bdc28f93aebb067d9b58f14e6eddea340a6c65db8f9cf8ab0992fedee04",
+  "sealed_at": "2026-09-14T15:12:16.070059Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "郭子仪-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2190,
+      "blob_sha256": "69ac3b597192d0a96074ce06e5fdc7d9e097ddb2c74d71fbdfc1178774689105",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "0c2e8bdc28f93aebb067d9b58f14e6eddea340a6c65db8f9cf8ab0992fedee04"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2190,
+  "archive_id": "arc-cd8f4ab0f6bbee8744e50b8bba37df42",
+  "archive_checksum": "cd8f4ab0f6bbee8744e50b8bba37df426a3cb1d043dd629a57cb8de570a265e5",
+  "archive_path": "people/person-sample/versions/v073/arc-cd8f4ab0f6bbee8744e50b8bba37df42",
+  "manifest_checksum": "ba0b470a3172422e597e8c7a4bc922df885ac7affec60fffb343bc742942dc8b"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "person-profile/v1",
+  "asset_id": "person-sample",
+  "name": "郭子仪",
+  "role": "唐朝中期著名军事家",
+  "era": "唐朝中期",
+  "summary": "郭子仪是唐朝中期著名将领，早年长期在边疆任职，积累了丰富的军事经验。安史之乱爆发后，郭子仪奉命组织军队抵抗叛军，曾率军收复河北部分地区，并在唐朝平叛过程中发挥重要作用。唐军形势困难时，他能够协调不同军事力量，联合其他将领和回纥军队，参与收复长安、洛阳等重要城市。安史之乱结束后，郭子仪仍承担平定地方叛乱、维护国家统一的任务。他在复杂的政治环境中保持相对谨慎，既有军事才能，也具有较强的政治处置能力。郭子仪的军事活动帮助唐朝延续了统一局面，是唐朝中期最具影响力的将领之一。",
+  "persona": "后续 AI 人物智能体使用的语气、知识边界与立场提示。",
+  "boundaries": [
+    "不要让人物知道其身后才发生的事件。"
+  ],
+  "keywords": [
+    "安史之乱"
+  ],
+  "related_lessons": [
+    "lesson-sample"
+  ],
+  "source_refs": [
+    {
+      "title": "《郭子仪传》",
+      "source": "《旧唐书》，中华书局点校本",
+      "url_or_path": "卷一百二十，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    },
+    {
+      "title": "《郭子仪传》",
+      "source": "《新唐书》，中华书局点校本",
+      "url_or_path": "卷一百三十七，相关篇章",
+      "citation_note": "",
+      "reliability": "pending"
+    }
+  ],
+  "teacher_notes": "重点讲解郭子仪在收复长安、洛阳和平定叛乱中的军事作用。注意不能把安史之乱的结束完全归功于郭子仪一人，还应介绍李光弼、仆固怀恩等其他将领的作用，并分析平叛后藩镇势力增强的问题。",
+  "status": "sealed",
+  "version": 73,
+  "created_at": "2026-09-11T04:42:44.821865Z",
+  "updated_at": "2026-09-14T15:12:16.070059Z",
+  "sealed_at": "2026-09-14T15:12:16.070059Z",
+  "sealed_by": "local-admin",
+  "checksum": "0c2e8bdc28f93aebb067d9b58f14e6eddea340a6c65db8f9cf8ab0992fedee04"
+}
