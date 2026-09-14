@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "戒贤",
+  "version": 77,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "696b26b1b7b6b013aac974761e15ba6a9211259a32936ab64e03bd6575ac3235",
+  "sealed_at": "2026-09-14T15:21:05.776926Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "戒贤-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2184,
+      "blob_sha256": "f40a8264f529b2baa8f0fc48b3e155ccf59dd09c05cbd52396d7c4c2d49b79fb",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "696b26b1b7b6b013aac974761e15ba6a9211259a32936ab64e03bd6575ac3235"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2184,
+  "archive_id": "arc-dcc4d495de0bd2260ac0c5fff78250fe",
+  "archive_checksum": "dcc4d495de0bd2260ac0c5fff78250fe9c2feac01a2975aca334690a0219df3b",
+  "archive_path": "people/person-sample/versions/v077/arc-dcc4d495de0bd2260ac0c5fff78250fe",
+  "manifest_checksum": "58d6ccdfac5358649daaaa1c019558d79f6dea60a7019aba49b57c6e39defc00"
+}
