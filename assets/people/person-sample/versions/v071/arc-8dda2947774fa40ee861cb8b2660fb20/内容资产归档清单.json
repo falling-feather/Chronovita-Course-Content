@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "安禄山",
+  "version": 71,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "1aaeb57364c9db5e93ab8166c2a16a09102daf64dd6489b64558665be5c14f66",
+  "sealed_at": "2026-09-14T15:08:26.773683Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "安禄山-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2247,
+      "blob_sha256": "4b992d86b523be61f302a872b52602610509e5d66ab87966428a3af92bd91f45",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "1aaeb57364c9db5e93ab8166c2a16a09102daf64dd6489b64558665be5c14f66"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2247,
+  "archive_id": "arc-8dda2947774fa40ee861cb8b2660fb20",
+  "archive_checksum": "8dda2947774fa40ee861cb8b2660fb209362e1e687d31b523958e88c14675164",
+  "archive_path": "people/person-sample/versions/v071/arc-8dda2947774fa40ee861cb8b2660fb20",
+  "manifest_checksum": "261dfe0ffdb3aa0144a7d55808e7cb8592f6453e9c65c54d92ce53a11dd747c5"
+}
