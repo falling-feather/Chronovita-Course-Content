@@ -1,0 +1,28 @@
+{
+  "schema_version": "content-asset-archive/v1",
+  "asset_kind": "person",
+  "asset_id": "person-sample",
+  "title": "王弼",
+  "version": 54,
+  "source_schema_version": "person-profile/v1",
+  "source_checksum": "0c5af0862afbff20361aecc72eea4df0ff611f03f57f54bb972a3200e40646f1",
+  "sealed_at": "2026-09-14T13:54:30.174736Z",
+  "sealed_by": "local-admin",
+  "files": [
+    {
+      "path": "王弼-人物档案.json",
+      "kind": "sealed-person",
+      "media_type": "application/json",
+      "size_bytes": 2271,
+      "blob_sha256": "90dd3b6717c6bbd54dd095c4dd05faedce046aad23bf581a89577cb7325e0906",
+      "schema_version": "person-profile/v1",
+      "contract_checksum": "0c5af0862afbff20361aecc72eea4df0ff611f03f57f54bb972a3200e40646f1"
+    }
+  ],
+  "file_count": 1,
+  "total_size_bytes": 2271,
+  "archive_id": "arc-0205aeeaf4e1db84cd37fc47a14a0b9e",
+  "archive_checksum": "0205aeeaf4e1db84cd37fc47a14a0b9ee2bcfc856ed2899fba2e8af962b72bb8",
+  "archive_path": "people/person-sample/versions/v054/arc-0205aeeaf4e1db84cd37fc47a14a0b9e",
+  "manifest_checksum": "26fc5f1660a54e028c77514612af0f0608d364836967c32777ce5f69b40a90ed"
+}
